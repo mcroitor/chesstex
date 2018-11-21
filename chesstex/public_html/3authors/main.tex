@@ -1,0 +1,42 @@
+\documentclass[12pt,a5paper]{book}
+\usepackage{lmodern}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,russian]{babel}
+ \usepackage{diagram}
+\usepackage{geometry}
+
+\geometry{top=10mm}
+\geometry{bottom=20mm}
+\geometry{left=15mm}
+\geometry{right=15mm}
+
+% \raggedbottom
+\DefaultDiagramSize
+
+\pagestyle{plain}
+
+\title{Современная шахматная композиция Молдовы}
+\author{М. В. Кройтор, А. А. Гиндэ}
+\date{2017}
+
+\begin{document}
+
+% \frontmatter
+\maketitle
+\tableofcontents
+
+% \mainmatter
+\chapter{Композиторы Молдовы}
+\input{./1_ivanov/desc_ivanov.tex}
+\input{./1_ivanov/problems_ivanov.tex}
+\input{./2_ghinda/desc_ghinda.tex}
+\input{./2_ghinda/problems_ghinda.tex}
+\input{./3_croitor/desc_croitor.tex}
+\input{./3_croitor/problems_croitor.tex}
+\chapter{Решения задач}
+%\input{./1_ivanov/solutions_ivanov.tex}
+%\input{./2_ghinda/solutions_ghinda.tex}
+%\input{./3_croitor/solutions_croitor.tex}
+
+\end{document}
