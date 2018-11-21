@@ -1,0 +1,82 @@
+\documentclass[a5paper]{book}
+\usepackage[utf8x]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{xskak,fancyhdr}
+\usepackage{geometry}
+
+\geometry{top=15mm}
+\geometry{bottom=20mm}
+\geometry{left=10mm}
+\geometry{right=10mm}
+
+\raggedbottom
+
+\title{Chess Practice: 1st level}
+\author{Mihail Croitor}
+\date{September 2014}
+
+\newcommand{\diagramsize}{smallboard}
+\newcounter{diagramcounter}
+\newcommand{\diagramcount}{\stepcounter{diagramcounter}D.\arabic{diagramcounter}}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyhead[LE,RO]{Mate in 1 move}
+% \fancyhead[RE,LO]{Try yourself}
+\fancyfoot[CE,CO]{Page \thepage}
+
+\begin{document}
+
+\maketitle
+% \section{Mate in 1 move}
+
+\input{intro1.tex}
+\pagebreak
+
+\input{2x3_1.01.tex}
+\smallbreak
+\input{2x3_1.02.tex}
+\smallbreak
+\input{2x3_1.03.tex}
+\smallbreak
+\input{2x3_1.04.tex}
+\smallbreak
+\input{2x3_1.05.tex}
+\smallbreak
+\input{2x3_1.06.tex}
+\smallbreak
+\input{2x3_1.07.tex}
+\smallbreak
+\input{2x3_1.08.tex}
+\smallbreak
+
+\input{intro2.tex}
+\pagebreak
+
+\input{2x3_1.09.tex}
+\smallbreak
+\input{2x3_1.10.tex}
+\smallbreak
+\input{2x3_1.11.tex}
+\smallbreak
+\input{2x3_1.12.tex}
+\smallbreak
+\input{2x3_1.13.tex}
+\smallbreak
+
+\input{intro3.tex}
+\pagebreak
+
+\input{2x3_1.14.tex}
+\smallbreak
+\input{2x3_1.15.tex}
+\smallbreak
+\input{2x3_1.16.tex}
+\smallbreak
+\input{2x3_1.17.tex}
+\smallbreak
+\input{2x3_1.18.tex}
+\smallbreak
+
+\end{document}
