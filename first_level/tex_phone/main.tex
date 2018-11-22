@@ -1,5 +1,6 @@
 \documentclass[a6paper]{book}
-\usepackage[utf8]{inputenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[english,russian]{babel}
 \usepackage{xskak,fancyhdr}
 \usepackage{geometry}
 
@@ -9,14 +10,14 @@
 \geometry{left=15mm}
 \geometry{right=15mm}
 
+\raggedbottom
+
 \title{Chess Practice: 1st level}
 \author{Mihail Croitor}
 \date{September 2014}
 
 
 \newcommand{\diagramsize}{smallboard}
-\newcommand{\labelvalue}{true}
-\newcommand{\showmovervalue}{true}
 \newcounter{diagramcounter}
 \newcommand{\diagramcount}{\stepcounter{diagramcounter}D.\arabic{diagramcounter}}
 
@@ -30,6 +31,9 @@
 
 \maketitle
 % \section{Mate in 1 move}
+
+\input{intro1.tex}
+\pagebreak
 
 \input{1x2_1.01.tex}
 \smallbreak
@@ -47,6 +51,10 @@
 \smallbreak
 \input{1x2_1.08.tex}
 \smallbreak
+
+\input{intro2.tex}
+\pagebreak
+
 \input{1x2_1.09.tex}
 \smallbreak
 \input{1x2_1.10.tex}
@@ -57,6 +65,10 @@
 \smallbreak
 \input{1x2_1.13.tex}
 \smallbreak
+
+\input{intro3.tex}
+\pagebreak
+
 \input{1x2_1.14.tex}
 \smallbreak
 \input{1x2_1.15.tex}
@@ -67,5 +79,16 @@
 \smallbreak
 \input{1x2_1.18.tex}
 \smallbreak
+\input{1x2_1.19.tex}
+\smallbreak
+
+\input{intro4.tex}
+\pagebreak
+
+\input{1x2_2.01.tex}
+\smallbreak
+\input{1x2_2.02.tex}
+\smallbreak
+\input{1x2_2.03.tex}
 
 \end{document}

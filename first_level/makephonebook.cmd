@@ -16,3 +16,11 @@ fen2tex --i=1.15.txt --o=tex_phone/1x2_1.15.tex --cols=1 --rows=2
 fen2tex --i=1.16.txt --o=tex_phone/1x2_1.16.tex --cols=1 --rows=2
 fen2tex --i=1.17.txt --o=tex_phone/1x2_1.17.tex --cols=1 --rows=2
 fen2tex --i=1.18.txt --o=tex_phone/1x2_1.18.tex --cols=1 --rows=2
+fen2tex --i=1.19.txt --o=tex_phone/1x2_1.19.tex --cols=1 --rows=2
+
+fen2tex --i=2.01.txt --o=tex_phone/1x2_2.01.tex --cols=1 --rows=2
+fen2tex --i=2.02.txt --o=tex_phone/1x2_2.02.tex --cols=1 --rows=2
+fen2tex --i=2.03.txt --o=tex_phone/1x2_2.03.tex --cols=1 --rows=2
+
+cd tex_phone
+pdflatex main.tex

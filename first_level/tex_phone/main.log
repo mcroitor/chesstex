@@ -1,0 +1,871 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.11.22)  22 NOV 2018 10:49
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-04-01> patch level 5
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\base\book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\base\bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\base\inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\ucs\utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\ucs\ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\ucs\uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count89
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\babel\babel.sty
+Package: babel 2018/10/16 3.26 The Babel package
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\babel\switch.def
+File: switch.def 2018/10/16 3.26 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\babel\babel.def
+File: babel.def 2018/10/16 3.26 Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen103
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\babel\txtbabel.def)
+\bbl@dirlevel=\count91
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\babel-russian\russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\xskak\xskak.sty
+Package: xskak 2015/01/02 version v1.4 extended chess typesetting and parsing
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\skak\skak.sty
+Package: skak 2013/07/18 v1.5.1 Chess typesetting
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessfss\chessfss.sty
+Package: chessfss 2006/06/14 v1.2a chess font selection scheme
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\xkeyval\xkeyval.tex
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\xkeyval\xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\xkeyval\keyval.tex))
+\XKV@depth=\count92
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessfss\lsbenc.def
+File: lsbenc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessfss\lsfenc.def
+File: lsfenc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessfss\lsienc.def
+File: lsienc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+\len@cfss@squarewidth=\skip43
+\len@cfss@squaretotalheight=\skip44
+\len@cfss@squaredepth=\skip45
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\lambda-lists\lambda.sty)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count93
+\calc@Bcount=\count94
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count95
+\calc@Cskip=\skip48
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\base\textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+\c@fileFrom=\count96
+\c@rankFrom=\count97
+\c@fileTo=\count98
+\c@rankTo=\count99
+\c@ps@inverse=\count100
+\c@ps@knightangle=\count101
+\c@halfmove=\count102
+\c@move=\count103
+\c@helpgobble=\count104
+\c@helpnumber=\count105
+\c@helpnumberMove=\count106
+\squarelength=\skip49
+\square@multiplier=\count107
+\ranklift=\skip50
+LaTeX Font Info:    Try loading font information for LSB+skaknew on input line 
+1774.
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessfss\lsbskaknew.fd
+File: lsbskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+\store@toks=\toks21
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\ifmtarg\ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count108
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessboard\chessboard.sty
+Package: chessboard 2014/05/01 version v1.7 print chessboards
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\frontendlayer\tikz.sty
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\basiclayer\pgf.sty
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\utilities\pgfrcs.sty
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\utilities\pgfutil-common
+.tex
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen106
+\pgfutil@tempdimb=\dimen107
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\utilities\pgfutil-common
+-lists.tex))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\utilities\pgfutil-latex.
+def
+\pgfutil@abb=\box26
+ (d:\WORK\__tools\miktex\texmfs\install\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\utilities\pgfrcs.code.te
+x
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+ (d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\basiclayer\pgfcore.sty (d
+:\WORK\__tools\miktex\texmfs\install\tex\latex\graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\systemlayer\pgfsys.sty
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\systemlayer\pgfsys.code.
+tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\utilities\pgfkeys.code.t
+ex
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\utilities\pgfkeysfiltere
+d.code.tex
+\pgfkeys@tmptoks=\toks25
+))
+\pgf@x=\dimen110
+\pgf@y=\dimen111
+\pgf@xa=\dimen112
+\pgf@ya=\dimen113
+\pgf@xb=\dimen114
+\pgf@yb=\dimen115
+\pgf@xc=\dimen116
+\pgf@yc=\dimen117
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count109
+\c@pgf@countb=\count110
+\c@pgf@countc=\count111
+\c@pgf@countd=\count112
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\systemlayer\pgfsys-pdfte
+x.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\systemlayer\pgfsys-commo
+n-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\systemlayer\pgfsyssoftpa
+th.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\systemlayer\pgfsysprotoc
+ol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcore.code.
+tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmath.code.tex
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathcalc.code.te
+x
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathutil.code.te
+x)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathparser.code.
+tex
+\pgfmath@dimen=\dimen118
+\pgfmath@count=\count115
+\pgfmath@box=\box27
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.co
+de.tex
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.ba
+sic.code.tex)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.tr
+igonometric.code.tex)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.ra
+ndom.code.tex)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.co
+mparison.code.tex)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.ba
+se.code.tex)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.ro
+und.code.tex)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.mi
+sc.code.tex)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfunctions.in
+tegerarithmetics.code.tex)))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmathfloat.code.t
+ex
+\c@pgfmathroundto@lastzeros=\count116
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorepoints
+.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen119
+\pgf@picmaxx=\dimen120
+\pgf@picminy=\dimen121
+\pgf@picmaxy=\dimen122
+\pgf@pathminx=\dimen123
+\pgf@pathmaxx=\dimen124
+\pgf@pathminy=\dimen125
+\pgf@pathmaxy=\dimen126
+\pgf@xx=\dimen127
+\pgf@xy=\dimen128
+\pgf@yx=\dimen129
+\pgf@yy=\dimen130
+\pgf@zx=\dimen131
+\pgf@zy=\dimen132
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorepathco
+nstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen133
+\pgf@path@lasty=\dimen134
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorepathus
+age.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen135
+\pgf@shorten@start@additional=\dimen136
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorescopes
+.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count117
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcoregraphi
+cstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen137
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcoretransf
+ormations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen138
+\pgf@pt@y=\dimen139
+\pgf@pt@temp=\dimen140
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorequick.
+code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcoreobject
+s.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorepathpr
+ocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorearrows
+.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen141
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcoreshade.
+code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen142
+\pgf@sys@shading@range@num=\count118
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcoreimage.
+code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcoreextern
+al.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box31
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorelayers
+.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcoretransp
+arency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\basiclayer\pgfcorepatter
+ns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\modules\pgfmoduleshapes.
+code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box32
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\modules\pgfmoduleplot.co
+de.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\compatibility\pgfcomp-vers
+ion-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen143
+\pgf@nodesepend=\dimen144
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\compatibility\pgfcomp-vers
+ion-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\utilities\pgffor.sty
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\utilities\pgfkeys.sty
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\utilities\pgfkeys.code.t
+ex)) (d:\WORK\__tools\miktex\texmfs\install\tex\latex\pgf\math\pgfmath.sty
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmath.code.tex))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\utilities\pgffor.code.te
+x
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+ (d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\math\pgfmath.code.tex)
+\pgffor@iter=\dimen145
+\pgffor@skip=\dimen146
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
+))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\frontendlayer\tikz\tikz.
+code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\libraries\pgflibraryplot
+handlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count119
+\pgfplotmarksize=\dimen147
+)
+\tikz@lastx=\dimen148
+\tikz@lasty=\dimen149
+\tikz@lastxsaved=\dimen150
+\tikz@lastysaved=\dimen151
+\tikzleveldistance=\dimen152
+\tikzsiblingdistance=\dimen153
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count120
+\tikznumberofchildren=\count121
+\tikznumberofcurrentchild=\count122
+\tikz@fig@count=\count123
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\modules\pgfmodulematrix.
+code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count124
+\pgfmatrixcurrentcolumn=\count125
+\pgf@matrix@numberofcolumns=\count126
+)
+\tikz@expandcount=\count127
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\pgf\frontendlayer\tikz\libra
+ries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\len@board@tempx=\skip51
+\len@board@tempy=\skip52
+\c@cnt@board@file=\count128
+\c@cnt@board@rank=\count129
+\c@cnt@board=\count130
+\c@filelabel=\count131
+\c@ranklabel=\count132
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessboard\chessboard-keys-mai
+n.sty
+File: chessboard-keys-main.sty 2014/05/01 version v1.7 key definitions for ches
+sboard.sty
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessboard\chessboard-keys-pgf
+.sty
+File: chessboard-keys-pgf.sty 2014/05/01 version v1.7 key definitions for chess
+board.sty
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessboard\chessboard-pgf.sty
+File: chessboard-pgf.sty 2014/05/01 version v1.7 pgf code for chessboard.sty
+)) (d:\WORK\__tools\miktex\texmfs\install\tex\latex\xskak\xskak-keys.sty
+File: xskak-keys.sty 2015/01/02 version v1.4 key definitions for xskak.sty
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\xskak\xskak-nagdef.sty
+File: xskak-nagdef.sty 2015/01/02 version v1.4 nag definitions for xskak.sty
+)
+LaTeX Info: Redefining \variation on input line 1472.
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\geometry\geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count133
+\Gm@cntv=\count134
+\c@Gm@tempcnt=\count135
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks34
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\geometry\geometry.cfg))
+\c@diagramcounter=\count136
+
+
+LaTeX Warning: Unused global option(s):
+    [a6paper].
+
+(main.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+ (d:\WORK\__tools\miktex\texmfs\install\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for LSB/skaknew/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for LSF/skaknew/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for LSF+skaknew on input line 
+30.
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessfss\lsfskaknew.fd
+File: lsfskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for LSI/skaknew/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for LSI+skaknew on input line 
+30.
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\chessfss\lsiskaknew.fd
+File: lsiskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\base\ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 30.
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+ABD: EveryShipout initializing macros
+(d:\WORK\__tools\miktex\texmfs\install\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count137
+\scratchdimen=\dimen162
+\scratchbox=\box37
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen163
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks36
+) (d:\WORK\__tools\miktex\texmfs\install\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(d:\WORK\__tools\miktex\texmfs\install\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a6paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 213.39569pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 335.74254pt, 42.67912pt)
+* \paperwidth=298.75394pt
+* \paperheight=421.10078pt
+* \textwidth=213.39569pt
+* \textheight=335.74254pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-59.65836pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 32.
+[1
+
+
+{d:/WORK/__tools/miktex/texmfs/data/pdftex/config/pdftex.map}] (intro1.tex
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\ucs\uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+Overfull \hbox (11.96594pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/10 Часто мне при-хо-ди-лось ви-деть, как ре-бя-та, недав-
+ []
+
+
+Overfull \hbox (4.19006pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/10 но на-учив-ши-е-ся иг-рать в шах-ма-ты, иг-ра-ют друг
+ []
+
+
+Overfull \hbox (0.9964pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/10 с дру-гом. На дос-ке у од-но-го из со-пер-ни-ков оста-
+ []
+
+
+Overfull \hbox (1.55182pt too wide) in paragraph at lines 15--16
+\T2A/cmr/m/n/10 при-мер, в слу-чае ша-ха ко-нјм или в слу-чае непо-
+ []
+
+[2]) [3] (1x2_1.01.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 5.
+
+(d:\WORK\__tools\miktex\texmfs\install\tex\latex\cyrillic\t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [4]
+[5] [6]) (1x2_1.02.tex [7] [8] [9] [10] [11] [12]) (1x2_1.03.tex [13] [14]
+[15]) (1x2_1.04.tex [16] [17] [18]) (1x2_1.05.tex [19] [20] [21]) (1x2_1.06.tex
+[22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]) (1x2_1.07.tex
+[34] [35] [36] [37] [38] [39]) (1x2_1.08.tex [40] [41] [42] [43] [44] [45]
+[46] [47] [48] [49] [50] [51]) (intro2.tex)
+Overfull \hbox (7.93915pt too wide) in paragraph at lines 5--57
+\T2A/cmr/m/n/10 дан-ных за-да-чах мат мо-гут ста-вить как бе-лые,так
+ []
+
+[52] (1x2_1.09.tex [53] [54] [55] [56] [57] [58]) (1x2_1.10.tex [59] [60]
+[61] [62] [63] [64]) (1x2_1.11.tex [65] [66] [67]) (1x2_1.12.tex [68] [69]
+[70]) (1x2_1.13.tex [71] [72] [73]) (intro3.tex) [74] (1x2_1.14.tex [75]
+[76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]) (1x2_1.15.tex [87]
+[88] [89] [90] [91] [92]) (1x2_1.16.tex [93] [94] [95] [96] [97] [98])
+(1x2_1.17.tex [99] [100] [101] [102] [103] [104]) (1x2_1.18.tex [105] [106]
+[107]) (1x2_1.19.tex [108] [109] [110] [111] [112] [113]) (intro4.tex) [114]
+(1x2_2.01.tex [115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
+[125] [126]) (1x2_2.02.tex [127] [128] [129] [130] [131] [132]) (1x2_2.03.tex
+[133] [134]) [135] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 19730 strings out of 492969
+ 365759 string characters out of 3131481
+ 446020 words of memory out of 3000000
+ 23162 multiletter control sequences out of 15000+200000
+ 12989 words of font info for 34 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,14n,86p,1012b,1042s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <d:\WORK\__tools\miktex\texmfs/data\fonts\pk\lj
+four\lh\lh-t2a\dpi600\labx1000.pk> <d:\WORK\__tools\miktex\texmfs/data\fonts\pk
+\ljfour\lh\lh-t2a\dpi600\lass0800.pk> <d:\WORK\__tools\miktex\texmfs/data\fonts
+\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk> <d:\WORK\__tools\miktex\texmfs/data\
+fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <d:\WORK\__tools\miktex\texmfs/da
+ta\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <d:\WORK\__tools\miktex\texmfs
+/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <d:\WORK\__tools\miktex\tex
+mfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk><d:/WORK/__tools/miktex/t
+exmfs/install/fonts/type1/public/skaknew/SkakNew-DiagramT.pfb>
+Output written on main.pdf (135 pages, 228369 bytes).
+PDF statistics:
+ 617 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
