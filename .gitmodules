@@ -1,0 +1,3 @@
+[submodule "levman"]
+	path = levman
+	url = https://github.com/mcroitor/levman_tex
