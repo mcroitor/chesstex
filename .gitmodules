@@ -1,3 +1,6 @@
 [submodule "levman"]
 	path = levman
 	url = https://github.com/mcroitor/levman_tex
+[submodule "first_level"]
+	path = first_level
+	url = https://github.com/mcroitor/first_level_tex
