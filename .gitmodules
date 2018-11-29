@@ -4,3 +4,6 @@
 [submodule "first_level"]
 	path = first_level
 	url = https://github.com/mcroitor/first_level_tex
+[submodule "champs_md"]
+	path = champs_md
+	url = https://github.com/mcroitor/champs_md_tex
