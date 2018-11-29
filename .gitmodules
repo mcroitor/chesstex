@@ -7,3 +7,6 @@
 [submodule "champs_md"]
 	path = champs_md
 	url = https://github.com/mcroitor/champs_md_tex
+[submodule "3authors"]
+	path = 3authors
+	url = https://github.com/mcroitor/3authors_tex
