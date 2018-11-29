@@ -1,5 +1,6 @@
 # chesstex
 It is a repository for chess books in TeX format
-```fen
-1Q4n1/1K5B/1B2Pp2/1N3r2/2P1kN1p/1P1pPn2/3bpPP1/3Rq3 w - - 0 1
-```
+ * _3 authors_ -- Ivanov Albert, Ghinda Anatolie, Croitor Mihail chess problems
+ * _first level_ -- simple, one move positions for training
+ * _champs md_ -- the results from Moldavian chess composing championships, years 1998 -- 2010
+ * _levman_ -- book of  Levman S, Modern Chess Problem, 1927 (russian)
