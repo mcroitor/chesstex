@@ -10,16 +10,10 @@
 В шахматы играют на доске, размером 8х8 клеток (всего 64 клетки, см. Д. 2). Шахматная доска имеет свою геометрию, а именно 3 вида линий: вертикали, горизонтали и диагонали (см. Д. 3). Попросите детей посчитать количество вертикалей и горизонталей, найти самую большую и маленькую белую и чёрную диагональ. 
 
 \begin{center}
- \begin{tabular}{ c c }
-\chessboard[
-\diagramsize,
-setfen=8/8/8/8/8/8/8/8,
-label=true,
-showmover=false]
+\begin{tabular}{ c c }
+\chessboard[setfen=8/8/8/8/8/8/8/8,showmover=false]
 &
-\chessboard[
-\diagramsize,
-setfen=8/8/8/8/8/8/8/8,
+\chessboard[setfen=8/8/8/8/8/8/8/8,
 color=red,
 pgfstyle=text,
 text=$\leftarrow$ горизонталь $\rightarrow$,
@@ -30,7 +24,6 @@ markregion=a1-a8,
 pgfstyle={[rotate=45]text},
 text=$\leftarrow$ диагональ $\rightarrow$,
 markregion=a1-h8,
-label=true,
 showmover=false] \\
 \textbf{Д. 2 шахматная доска} & \textbf{Д. 3 геометрия шахматной доски}\\
 \end{tabular}
@@ -38,23 +31,15 @@ showmover=false] \\
  
 У каждой вертикали и горизонтали есть имя – это латинские буквы и цифры соответственно. Каждая клетка, или шахматное поле, имеет своё "имя", которое состоит из буквы и цифры, на пересечении которых оно находится (см. Д. 4). Попросите детей назвать "имена" нескольких полей.
 
-Левая часть доски со стороны белых называется ферзевым флангом, правая часть – королевским флангом. Малым центром доски называются поля d4, d5, e4, e5. Большим центром называется квадрат, ограниченный полями с3, с6, f3 и f6.
+Левая часть доски со стороны белых называется ферзевым флангом, правая часть -- королевским флангом. Малым центром доски называются поля d4, d5, e4, e5. Большим центром называется квадрат, ограниченный полями с3, с6, f3 и f6.
 
-На шахматной доске располагаются 16 белых фигур: пешки, ладьи, кони, слоны, ферзь и король; и столько же черных фигур (см. Д. 5). Играющий белыми фигурами начинает партию, ходы делаются по очереди. При расстановке фигур, обратите внимание детей на то, как правильно расположить короля и ферзя. Расскажите им о правиле "ферзь любит свой цвет", то есть белый ферзь на белом поле, а чёрный –- на чёрном и, соответственно, короли рядом.
+На шахматной доске располагаются 16 белых фигур: пешки, ладьи, кони, слоны, ферзь и король; и столько же черных фигур (см. Д. 5). Играющий белыми фигурами начинает партию, ходы делаются по очереди. При расстановке фигур, обратите внимание детей на то, как правильно расположить короля и ферзя. Расскажите им о правиле "ферзь любит свой цвет", то есть белый ферзь на белом поле, а чёрный -- на чёрном и, соответственно, короли рядом.
 
 \begin{center}
- \begin{tabular}{ c c }
-\chessboard[
-\diagramsize,
-setfen=8/8/8/8/8/8/8/8,
-label=true,
-showmover=false]
+\begin{tabular}{ c c }
+\chessboard[setfen=8/8/8/8/8/8/8/8,showmover=false]
 &
-\chessboard[
-\diagramsize,
-setfen=rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR,
-label=true,
-showmover=false] \\
+\chessboard[setfen=rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w] \\
 \textbf{Д. 4 шахматные поля} & \textbf{Д. 5 Начальная позиция} \\
 \end{tabular}
 \end{center}
@@ -62,46 +47,44 @@ showmover=false] \\
 Ладья может стать на любое поле вертикали или горизонтали, на которых она стоит. На Д. 6 ладья может пойти на любое из полей a5, b5, d5, e5, f5, c4, c3, c6, c7, c8; а также взять черную ладью на поле g5.
 
 \begin{center}
- \begin{tabular}{ c c }
+\begin{tabular}{ c c }
 \chessboard[
-\diagramsize,
 setfen=8/8/8/2R3r1/8/8/2P5/8,
 pgfstyle=straightmove,
+color=red,
 markmoves={c5-a5, c5-c8, c5-g5, c5-c3},
-label=true,
 showmover=false]
 &
 \chessboard[
-\diagramsize,
 setfen=8/8/8/4B3/8/6p1/1P6/8,
 pgfstyle=straightmove,
+color=red,
 markmoves={e5-b8, e5-c3, e5-h8, e5-g3},
-label=true,
 showmover=false] \\
 \textbf{Д. 6 ходы ладьёй} & \textbf{Д. 7 ходы слона} \\
 \end{tabular}
 \end{center}
  
 Слон может ходить на любое поле по диагоналям, на которых он стоит. На диаграмме 7 видно, что слон может пойти на поля b8, c7, d6, c3, d4, f6, g7, h8, f4, а также взять пешку g3.
+
 Ферзь может ходить на любое поле по вертикали, горизонтали или диагонали, на которых он стоит. Его ходы совпадают с ходами слона и ладьи одновременно (Д. 8).
+
 При выполнении ходов слон, ладья или ферзь не могут передвигаться через какие-либо стоящие на их пути фигуры.
 
 \begin{center}
- \begin{tabular}{ c c }
+\begin{tabular}{ c c }
 \chessboard[
-\diagramsize,
 setfen=8/8/8/5n2/8/3Q2R1/8/8,
 pgfstyle=straightmove,
+color=red,
 markmoves={d3-a3, d3-a6, d3-d8, d3-f5, d3-f3, d3-f1, d3-d1, d3-b1},
-label=true,
 showmover=false]
 &
 \chessboard[
-\diagramsize,
 setfen=8/8/8/8/3N4/8/8/8,
 pgfstyle=knightmove,
+color=red,
 markmoves={d4-b5, d4-c6, d4-e6, d4-f5, d4-f3, d4-e2, d4-c2, d4-b3},
-label=true,
 showmover=false] \\
 \textbf{Д. 8 ходы ферзя} & \textbf{Д. 9 ходы коня} \\
 \end{tabular}
@@ -110,29 +93,29 @@ showmover=false] \\
 Конь может пойти на одно из полей, ближайших к тому, на котором он стоит, но не на той же самой горизонтали, вертикали или диагонали. Ход коня похож на букву "Г" (Д. 9). 
 
 \begin{center}
+\begin{tabular}{ c }
 \chessboard[
-\diagramsize,
 setfen=8/8/8/2p5/3P4/8/4P3/8,
 pgfstyle=straightmove,
+color=red,
 markmoves={d4-c5, d4-d5, e2-e3, e2-e4},
-label=true,
-showmover=false]
-
-\textbf{Д. 10 ходы пешкой}
+showmover=false] \\
+\textbf{Д. 10 ходы пешкой} \\
+\end{tabular}
 \end{center}
 
 Пешка может ходить вперед на свободное поле, расположенное непосредственно перед ней на той же самой вертикали. С начальной позиции она может ходить как на одно поле, так на два поля по той же самой вертикали, если оба эти поля не заняты. Взятие пешкой совершается следующим образом: на поле, занимаемое фигурой соперника, расположенное перед ней по диагонали на соседней вертикали ставится пешка, одновременно снимая фигуру соперника с шахматной доски. На Д. 10 видно, что белая пешка с поля d4 может ходить на поле d5, а также забрать пешку с5. Пешка с поля е2 может пойти на поле е3 или на поле е4.
 
 \begin{center}
+\begin{tabular}{ c }
 \chessboard[
-\diagramsize,
 setfen=8/8/8/8/4K3/8/8/8,
 pgfstyle=straightmove,
+color=red,
 markmoves={e4-e5, e4-f5, e4-f4, e4-f3, e4-e3, e4-d3, e4-d4, e4-d5},
-label=true,
-showmover=false]
-
-\textbf{Д. 11 ходы короля}
+showmover=false] \\
+\textbf{Д. 11 ходы короля} \\
+\end{tabular}
 \end{center}
 
 Король – самая важная фигура. Король ходить может на любое поле вокруг себя, если оно не занято своей фигурой или не атаковано фигурой соперника (Д. 11). Ещё одно важное правило: короли не встречаются, то есть король не может пойти на клетку рядом с королём соперника.
@@ -150,19 +133,15 @@ showmover=false]
 \begin{center}
 \begin{tabular}{ c c }
 \chessboard[
-\diagramsize,
 setfen=Q3k3/3p4/2b2K2/8/r3b2N/2k5/5k1P/K6K,
 pgfstyle=border,
 markregions={a1-d4, a5-h8, e1-h4},
-label=true,
 showmover=false]
 &
 \chessboard[
-\diagramsize,
 setfen=k3K2k/R7/2NK2Q1/7R/4B3/1K2B2K/1Q6/1k5k,
 pgfstyle=border,
 markregions={a1-d4, a5-d8, e1-h4, e5-h8},
-label=true,
 showmover=false] \\
 \textbf{Д. 12 Защита от шаха} & \textbf{Д. 13 мат} \\
 \end{tabular}
@@ -197,15 +176,14 @@ showmover=false] \\
 \end{itemize}
 
 \begin{center}
+\begin{tabular}{ c }
 \chessboard[
-\diagramsize,
 setfen=k3Q1nk/1R6/2K3K1/8/1R3Q2/3K3k/p7/k4K2,
 pgfstyle=border,
 markregions={a1-d4, a5-d8, e1-h4, e5-h8},
-label=true,
-showmover=false]
-
-\textbf{Д. 14 пример пата}
+showmover=false] \\
+\textbf{Д. 14 пример пата} \\
+\end{tabular}
 \end{center}
 
 \section{Домашнее задание}
@@ -215,41 +193,29 @@ showmover=false]
 \item На диаграммах ниже (подготовьте заранее домашнее задание для каждого ребёнка на отдельном листе) стрелочками укажите, какие чёрные фигуры может взять белая фигура.
 
 \begin{center}
- \begin{tabular}{ c c }
+\begin{tabular}{ c c }
 \chessboard[
-\diagramsize,
 setfen=8/1b6/8/3R3q/8/1n6/8/3r4,
-label=true,
 showmover=false]
 &
 \chessboard[
-\diagramsize,
 setfen=8/7n/r5n1/8/8/2pB3q/8/8,
-label=true,
 showmover=false] \\
 \textbf{2.1} & \textbf{2.2} \\
 \chessboard[
-\diagramsize,
 setfen=8/8/1q6/1r3p2/3N4/8/2b4n/8,
-label=true,
 showmover=false]
 &
 \chessboard[
-\diagramsize,
 setfen=6n1/6n1/8/3Q3r/1r6/8/8/2bb4,
-label=true,
 showmover=false] \\
 \textbf{2.3} & \textbf{2.4} \\
 \chessboard[
-\diagramsize,
 setfen=8/8/4p3/2n1Kb2/5r2/3q4/8/8,
-label=true,
 showmover=false] 
 &
 \chessboard[
-\diagramsize,
 setfen=8/8/8/8/2rp4/3P4/8/8,
-label=true,
 showmover=false] \\
 \textbf{2.5} & \textbf{2.6} \\
 \end{tabular}
@@ -260,27 +226,19 @@ showmover=false] \\
 \begin{center}
  \begin{tabular}{ c c }
 \chessboard[
-\diagramsize,
 setfen=6k1/5pp1/4p3/8/8/2N3P1/4PP2/1r3K2,
-label=true,
 showmover=false]
 &
 \chessboard[
-\diagramsize,
 setfen=8/8/7b/8/8/k1n5/2PR4/2K5,
-label=true,
 showmover=false] \\
 \textbf{2.7} & \textbf{2.8} \\
 \chessboard[
-\diagramsize,
 setfen=R3k3/1R6/8/8/8/8/8/4K3,
-label=true,
 showmover=false] 
 & 
 \chessboard[
-\diagramsize,
 setfen=R2bk1K1/1R6/8/8/8/8/8/8,
-label=true,
 showmover=false] \\
 \textbf{2.9} & \textbf{2.10}\\
 \end{tabular}
