@@ -1,0 +1,68 @@
+% ==== Document Class & Packages =====
+
+\geometry{
+ letterpaper %,
+% left=15mm,
+% right=15mm,
+% top=15mm
+}
+
+% ============= Macros ================
+
+% ============= Colors ================
+% ---- Yellow ----
+\definecolor{cornsilk}{rgb}{1, 0.97, 0.86}
+\definecolor{blanchedalmond}{rgb}{1, 0.92, 0.8}
+\definecolor{bisque}{rgb}{1, 0.89, 0.77}
+\definecolor{navajowhite}{rgb}{1, 0.87, 0.68}
+\definecolor{wheat}{rgb}{0.96, 0.87, 0.7}
+\definecolor{burlywood}{rgb}{0.87, 0.72, 0.53}
+\definecolor{tan}{rgb}{0.82, 0.71, 0.55}
+\definecolor{rosybrown}{rgb}{0.74, 0.56, 0.56}
+\definecolor{sandybrown}{rgb}{0.96, 0.64, 0.38}
+\definecolor{goldenrod}{rgb}{0.85, 0.65, 0.13}
+\definecolor{peru}{rgb}{0.8, 0.52, 0.25}
+\definecolor{chocolate}{rgb}{0.82, 0.41, 0.12}
+\definecolor{saddlebrown}{rgb}{0.55, 0.27, 0.07}
+\definecolor{sienna}{rgb}{0.63, 0.32, 0.18}
+\definecolor{brown}{rgb}{0.65, 0.16, 0.16}
+\definecolor{maroon}{rgb}{0.5, 0, 0}
+% ----- Brown ------
+\definecolor{lightyellow}{rgb}{1, 1, 0.88}
+\definecolor{lemonchiffon}{rgb}{1, 0.98, 0.8}
+\definecolor{lightgoldenrodyellow}{rgb}{0.98, 0.98, 0.82}
+\definecolor{papayawhip}{rgb}{1, 0.94, 0.84}
+\definecolor{moccasin}{rgb}{1, 0.89, 0.71}
+\definecolor{peachpuff}{rgb}{1, 0.85, 0.73}
+\definecolor{palegoldenrod}{rgb}{0.93, 0.91, 0.67}
+\definecolor{khaki}{rgb}{0.94, 0.9, 0.55}
+\definecolor{darkkhaki}{rgb}{0.74, 0.72, 0.42}
+\definecolor{yellow}{rgb}{1, 1, 0}
+\definecolor{olive}{rgb}{0.5, 0.5, 0}
+\definecolor{greenyellow}{rgb}{0.68, 1, 0.18}
+\definecolor{yellowgreen}{rgb}{0.6, 0.8, 0.2}
+% ======== Footers & Headers ==========
+% ========= Chapter Format ==========
+\titleformat{\chapter}[display]
+{\bfseries\Large\itshape}
+{ \chaptername \thechapter}
+{0.5ex}
+{ % before-code
+    \rule{\textwidth}{1pt}
+    \vspace{1ex}
+    \centering
+}
+[ % after-code
+\vspace{-0.5ex}%
+\rule{\textwidth}{0.3pt}
+]
+% ========= TOC =====================
+\renewcommand{\contentsname}{\centering Contents}
+% ========= Section Format ==========
+\titleformat{\section}[wrap]
+{\normalfont\bfseries}
+{\thesection.}{0.5em}{}
+
+\titlespacing{\section}{12pc}{1.5ex plus .1ex minus .2ex}{1pc}
+% ======== chess decorations ==========
+\setchessboard{normalboard,showmover=false}

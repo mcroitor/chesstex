@@ -13,12 +13,10 @@
 
 \begin{center}
 \chessboard[
-	\diagramsize,
 	pgfstyle=straightmove,
 	color=blue,
 	markmoves={e4-e8},
-	setfen=8/8/8/ppk5/4P3/P2K4/8/8,
-	showmover=false]
+	setfen=8/8/8/ppk5/4P3/P2K4/8/8]
 
 \textbf{Д. 3.1. проходная пешка}
 \end{center}
@@ -32,19 +30,13 @@
 Поэтому необходимо уметь создавать проходные пешки. Обычно проходная пешка может появиться при реализации пешечного большинства. О пешечном большинстве (или меньшинстве) говорят, когда у одной из сторон расположено больше (меньше) пешек напротив пешек противника. Например, в позиции на диаграмме 3.1 у черных на ферзевом фланге пешечное большинство -- пешки а5, b5 против пешки а3.
 
 \begin{center}
-\chessboard[
-	\diagramsize,
-	setfen=8/6pp/k7/8/K7/8/5PPP/8,
-	showmover=false]
+\chessboard[setfen=8/6pp/k7/8/K7/8/5PPP/8]
 
 \textbf{Д. 3.2. ход белых}
 \end{center}
 
 \begin{center}
-\chessboard[
-	\diagramsize,
-	setfen=8/6pp/8/4kPPP/8/8/6K1/8,
-	showmover=false]
+\chessboard[setfen=8/6pp/8/4kPPP/8/8/6K1/8]
 
 \textbf{Д. 3.3. ход белых}
 \end{center}
@@ -52,22 +44,17 @@
 Не смотря на то, что проходная пешка является серьёзной силой, следует помнить об уже описанном \emph{правиле квадрата}. На диаграмме 3.4 черный король находится в квадрате пешек. Однако, после последовательной жертвы белых пешек оставшиеся черные пешки мешают своему королю. \textbf{1. f5-f6! g7:f6 2.g5-g6! h7:g6 3.h5-h6! +-} и нет хода \emph{3... \king{}e5-f6}.
 
 \begin{center}
-\chessboard[
-	\diagramsize,
-	setfen=8/ppp5/8/PPP5/8/5k2/8/5K2,
-	showmover=false]
+\chessboard[setfen=8/ppp5/8/PPP5/8/5k2/8/5K2]
 
 \textbf{Д. 3.4. ход белых}
 \end{center}
 
-Классическая позиция на тему пешечного прорыва показана на диаграмме 3.5. 
+Классическая позиция на тему пешечного прорыва показана на диаграмме 3.5.
+ 
 \textbf{ 1.b5-b6! a7:b6 2.c5-c6! b7:c6 3.a5-a6 +-} или \textbf{ 1... c7:b6 2.a5-a6! b7:a6 3.c5-c6 +-}
 
 \begin{center}
-\chessboard[
-	\diagramsize,
-	setfen=8/4pp2/8/3k1PP1/1p4P1/pK6/8/8,
-	showmover=false]
+\chessboard[setfen=8/4pp2/8/3k1PP1/1p4P1/pK6/8/8]
 
 \textbf{Д. 3.5. ход белых}
 \end{center}

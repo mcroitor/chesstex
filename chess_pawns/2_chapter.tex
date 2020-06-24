@@ -11,12 +11,10 @@
 
 \begin{center}
 \chessboard[
-	\diagramsize,
 	pgfstyle=cross,
 	color=blue,
 	markfields={c6,c7,c8,d5,e5,f5,f6,f7,f8},
-	setfen=8/8/8/2P3k1/8/8/8/6K1,
-	showmover=false]
+	setfen=8/8/8/2P3k1/8/8/8/6K1]
 
 \textbf{Д. 2.1. Квадрат пешки}
 \end{center}
@@ -32,7 +30,7 @@
 Однако, с пешкой в начальной позиции правило квадрата пешки не действует, потому что свой первый ход пешка может сделать через клетку.
 
 \begin{center}
-\chessboard[\diagramsize,setfen=8/8/8/8/8/7K/1P6/3k4,showmover=false]
+\chessboard[setfen=8/8/8/8/8/7K/1P6/3k4]
 
 \textbf{Д. 2.2. ход черных}
 \end{center}
@@ -40,7 +38,7 @@
 Поэтому, не смотря на очередь хода, черные, в позиции, изображенной на диаграмме 2, отыграть пешку не могут: \textbf{1 \king{}d1-c2 2.b2-b4} и т.д.
 
 \begin{center}
-\chessboard[\diagramsize,setfen=8/8/8/p3kPp1/Pp4P1/1K6/8/8,showmover=false]
+\chessboard[setfen=8/8/8/p3kPp1/Pp4P1/1K6/8/8]
 
 \textbf{Д. 2.3. ничья независимо от очереди хода}
 \end{center}
@@ -50,7 +48,7 @@
 В заключение хочется привести известный этюд Рети, в котором, на первый взгляд, опровергается правило квадрата пешки:
 
 \begin{center}
-\chessboard[\diagramsize,setfen=7K/8/k1P5/7p/8/8/8/8,showmover=false]
+\chessboard[setfen=7K/8/k1P5/7p/8/8/8/8]
 
 \textbf{Д. 2.4. Рихард Рети, 1921, ничья}
 \end{center}
@@ -68,26 +66,14 @@
 
 \section{Позиции для анализа}
 \begin{tabular}{ c c }
-\chessboard[
-\diagramsize,
-setfen=8/8/6k1/8/1P4K1/8/8/8,
-showmover=false]
+\chessboard[setfen=8/8/6k1/8/1P4K1/8/8/8]
  &
-\chessboard[
-\diagramsize,
-setfen=8/8/8/p7/3kPK2/8/8/8,
-showmover=false]
+\chessboard[setfen=8/8/8/p7/3kPK2/8/8/8]
  \\
 \textbf{Задание 2.1: ход черных} & \textbf{Задание 2.2: ход белых}  \\
-\chessboard[
-\diagramsize,
-setfen=8/8/8/8/8/P4p2/k6K/8,
-showmover=false]
+\chessboard[setfen=8/8/8/8/8/P4p2/k6K/8]
  &
-\chessboard[
-\diagramsize,
-setfen=8/6p1/k1P2p1p/7K/8/8/8/8,
-showmover=false]
+\chessboard[setfen=8/6p1/k1P2p1p/7K/8/8/8/8]
  \\
 \textbf{Задание 2.3: ход белых} & \textbf{Задание 2.4: ход белых}  \\
 \end{tabular}
