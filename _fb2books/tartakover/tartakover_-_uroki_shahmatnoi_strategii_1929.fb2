@@ -2,7 +2,7 @@
 <FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
     <description>
         <title-info>
-            <genre>science</genre>
+            <genre>home_sport</genre>
             <author>
                 <nickname>Тартаковер Савелий</nickname>
             </author>
@@ -14,7 +14,6 @@
                 <p>АВТОРИЗОВАННЫЙ ПЕРЕВОД С НЕМЕЦКОГО А. А. СМИРНОВА</p>
                 <p>ИЗДАТЕЛЬСТВО "ШАХМАТНЫЙ ЛИСТОК" Высшего Совета Физической Культуры</p>
             </annotation>
-            <date value="1929-01-01">1929</date>
             <coverpage>
                 <image l:href="#cover.png"/>
             </coverpage>
