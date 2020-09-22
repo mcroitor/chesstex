@@ -12,7 +12,7 @@
 \chessboard[setfen=4k3/8/8/1pP5/8/8/8/4K3,
 pgfstyle=straightmove,
 color=gray,markmoves={b7-b5},
-color=black,markmoves={c5-b6},
+color=red,markmoves={c5-b6},
 showmover=false] 
 &
 \chessboard[setfen=4k3/P7/4K3/8/8/8/8/8,showmover=false] \\
@@ -36,4 +36,29 @@ showmover=false]
  
 \section{Домашнее задание}
 
-прописать
+\begin{enumerate}
+\item Укажите возможные ходы пешками после указанного под диаграммой хода.
+
+
+\begin{center}
+ \begin{tabular}{ c c }
+\chessboard[
+setfen=4k3/2p5/1P6/3PK3/8/8/8/8,
+showmover=false]
+&
+\chessboard[
+setfen=4k3/8/1P6/2pPK3/8/8/8/8,
+showmover=false] \\
+\textbf{3.1} 0... \king{}f8-e8 & \textbf{3.2} 0... c7-c5 \\
+\chessboard[
+setfen=2r1k3/1P6/8/2pPK3/8/8/8/8,
+showmover=false] 
+& 
+\chessboard[
+setfen=1r2kb2/1P6/8/2pP4/8/K7/8/8,
+showmover=false] \\
+\textbf{3.3} 0... \rook{}c7-c8 & \textbf{3.4} 0... \king{}f7-e8 \\
+\end{tabular}
+\end{center}
+
+\end{enumerate}
