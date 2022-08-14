@@ -1,0 +1,50 @@
+% -------------- main ----------------------
+\DeclareUnicodeCharacter{2212}{-}
+\geometry{top=10mm}
+\geometry{bottom=18mm}
+\geometry{left=15mm}
+\geometry{right=10mm}
+
+\newcommand{\italic}[1]{\textit{#1}}
+\newcommand{\bold}[1]{\textbf{#1}}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+% -------------- chess style ---------------
+\nocomputer
+\dianamestyle{fullname}
+\develop
+
+% -------------- section style -------------
+\titleformat
+{\section} % command
+[display] % shape
+{\bfseries\Large\itshape} % format
+{ \ \thechapter} % label
+{0.5ex} % sep
+{
+%    \rule{\textwidth}{1pt}
+    \vspace{1ex}
+%    \centering
+} % before-code
+[
+\vspace{-0.5ex}%
+%\rule{\textwidth}{0.3pt}
+] % after-code
+
+% ------------ subsection style -----------
+\titleformat
+{\subsection} % command
+[display] % shape
+{\bfseries\Large\itshape} % format
+% {Story No. \ \thechapter} % label
+{ \ \thechapter} % label
+{0.5ex} % sep
+{
+    \rule{\textwidth}{1pt}
+    \vspace{1ex}
+    \centering
+} % before-code
+[
+\vspace{-2ex}%
+\rule{\textwidth}{0.3pt}
+] % after-code

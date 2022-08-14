@@ -1,0 +1,104 @@
+\documentclass[11pt,a5paper]{article}
+
+\usepackage[T2A,T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{geometry, xcolor}
+\usepackage{indentfirst}%
+\usepackage{diagram,chessfss}%
+\usepackage{chessboard}
+\usepackage{titlesec}%
+\usepackage{multicol}%
+\usepackage{makeidx}
+
+%\makeindex
+%\makeaindex
+
+\setchessboard{boardfontsize=10pt, showmover=false}
+
+\input{style}
+
+\begin{document}%
+\newpage
+\ % empty page
+\newpage
+\tableofcontents
+\pagebreak
+
+\section*{Введение}
+\addcontentsline{toc}{section}{Введение}
+\input{intro}
+
+\pagebreak
+\vfill
+\section*{Статьи}
+\addcontentsline{toc}{section}{Статьи}
+\vfill
+\hrule
+\vfill
+\begin{center}
+{\fontsize{256px}{256px} \queen }
+\end{center}
+\vfill
+\hrule
+\vfill
+\pagebreak
+
+\newpage
+\ % empty page
+\newpage
+
+\input{article01}
+\pagebreak
+\input{article02}
+\pagebreak
+\input{article03}
+\pagebreak
+\input{article04}
+\pagebreak
+\input{article05}
+\pagebreak
+\input{article06}
+\pagebreak
+\input{article07}
+\pagebreak
+
+\vfill
+\section*{Произведения}
+\addcontentsline{toc}{section}{Произведения}
+\dianamestyle{noname}
+\solnamestyle{noname}
+\vfill
+\hrule
+\vfill
+\begin{center}
+{\fontsize{256px}{256px} \king }
+\end{center}
+\vfill
+\hrule
+\vfill
+\pagebreak
+\newpage
+\ % empty page
+\newpage
+
+\input{2move}
+\pagebreak
+\input{3move}
+\pagebreak
+\input{nmove}
+\pagebreak
+\input{endgame}
+\pagebreak
+\input{hmove}
+\pagebreak
+
+\vfill
+\section*{Индекс композиторов}
+\addcontentsline{toc}{section}{Индекс композиторов}
+\index
+\pagebreak
+
+\input{bibliografy}
+
+\end{document}%

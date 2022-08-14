@@ -1,0 +1,3463 @@
+---
+algebraic:
+  black:
+  - Kh6
+  - Rh1
+  - Ph7
+  - Ph3
+  - Pf5
+  - Pd2
+  white:
+  - Kf6
+  - Rc8
+  - Bd1
+authors:
+- Léon-Martin, Gabriel
+solution: "1.Rc8-c3 ! zugzwang.\n      1...Rh1*d1 \n          2.Rc3*h3 # \n      1...Rh1-e1\
+  \ \n          2.Rc3*h3 # \n      1...Rh1-f1 \n          2.Rc3*h3 # \n      1...Rh1-g1\
+  \ \n          2.Rc3*h3 # \n      1...Rh1-h2 \n          2.Rc3-c4 threat:\n     \
+  \             3.Rc4-h4 # \n              2...f5-f4 \n                  3.Rc4*f4\
+  \ threat:\n                          4.Rf4-h4 # \n                      3...Rh2-f2\
+  \ \n                          4.Rf4*f2 zugzwang.\n                             \
+  \ 4...h3-h2 \n                                  5.Rf2*h2 # \n          2.Rc3-f3\
+  \ threat:\n                  3.Rf3-f4 threat:\n                          4.Rf4-h4\
+  \ # \n              2...f5-f4 \n                  3.Rf3*f4 threat:\n           \
+  \               4.Rf4-h4 # \n                      3...Rh2-f2 \n               \
+  \           4.Rf4*f2 zugzwang.\n                              4...h3-h2 \n     \
+  \                             5.Rf2*h2 # \n      1...h3-h2 \n          2.Rc3-h3\
+  \ # \n      1...f5-f4 \n          2.Rc3-f3 zugzwang.\n              2...Rh1*d1 \n\
+  \                  3.Rf3*h3 # \n              2...Rh1-e1 \n                  3.Rf3*h3\
+  \ # \n              2...Rh1-f1 \n                  3.Rf3*h3 # \n              2...Rh1-g1\
+  \ \n                  3.Rf3*h3 # \n              2...Rh1-h2 \n                 \
+  \ 3.Rf3*f4 threat:\n                          4.Rf4-h4 # \n                    \
+  \  3...Rh2-f2 \n                          4.Rf4*f2 zugzwang.\n                 \
+  \             4...h3-h2 \n                                  5.Rf2*h2 # \n      \
+  \        2...h3-h2 \n                  3.Rf3-h3 # \n              2...Kh6-h5 \n\
+  \                  3.Rf3*h3 #"
+source:
+  date:
+    year: 1930
+  name: Hamburgischer Correspondent
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh4
+  - Rf7
+  - Ph5
+  - Pd7
+  white:
+  - Kh2
+  - Rg2
+  - Bd4
+authors:
+- Kakabadze, Giorgi
+solution: "1.Bd4-b6 ! threat:\n          2.Bb6-d8 + \n              2...Rf7-f6 \n\
+  \                  3.Bd8*f6 # \n              2...Rf7-e7 \n                  3.Bd8*e7\
+  \ # \n      1...Rf7-f8 \n          2.Bb6-a5 threat:\n                  3.Ba5-e1\
+  \ + \n                      3...Rf8-f2 \n                          4.Be1*f2 # \n\
+  \              2...Rf8-f1 \n                  3.Ba5-d8 + \n                    \
+  \  3...Rf1-f6 \n                          4.Bd8*f6 # \n              2...Rf8-f3\
+  \ \n                  3.Ba5-d8 + \n                      3...Rf3-f6 \n         \
+  \                 4.Bd8*f6 # \n              2...Rf8-e8 \n                  3.Ba5-c3\
+  \ threat:\n                          4.Bc3-f6 # \n                      3...Re8-e5\
+  \ \n                          4.Bc3*e5 threat:\n                               \
+  \   5.Be5-f6 # \n                      3...Re8-e6 \n                          4.Bc3-d4\
+  \ threat:\n                                  5.Bd4-f2 # \n                     \
+  \         4...Re6-e2 \n                                  5.Bd4-f6 # \n         \
+  \                     4...Re6-e3 \n                                  5.Bd4-f6 #\
+  \ \n                              4...Re6-g6 \n                                \
+  \  5.Rg2*g6 threat:\n                                          6.Bd4-f2 # \n   \
+  \                                       6.Bd4-f6 # \n                          \
+  \    4...Re6-f6 \n                                  5.Bd4*f6 # \n              \
+  \        3...Re8-g8 \n                          4.Bc3-f6 + \n                  \
+  \            4...Rg8-g5 \n                                  5.Bf6*g5 # \n      \
+  \                    4.Rg2*g8 threat:\n                                  5.Bc3-e1\
+  \ # \n                                  5.Bc3-f6 # \n                      3...Re8-f8\
+  \ \n                          4.Bc3-e1 + \n                              4...Rf8-f2\
+  \ \n                                  5.Be1*f2 # \n              2...Rf8-g8 \n \
+  \                 3.Rg2*g8 threat:\n                          4.Ba5-e1 # \n    \
+  \                      4.Ba5-d8 #"
+source:
+  date:
+    year: 2004
+  name: 64 — Шахматное обозрение
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kb6
+  - Rb5
+  white:
+  - Kb8
+  - Ra4
+  - Bc4
+  - Pb4
+authors:
+- Марков, Евгений Викторович
+source:
+  date:
+    year: 2002
+  issue: '85'
+  name: Ideal-Mate Review
+stipulation: '#7'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rh7
+  - Ph4
+  - Pg7
+  white:
+  - Kg4
+  - Rg2
+  - Bb7
+authors:
+- Kozdon, Baldur J. L.
+solution: "1.Kg4-h3 ! threat:\n          2.Rg2*g7 # \n          2.Rg2-g6 # \n    \
+  \      2.Rg2-g5 # \n          2.Rg2-g4 # \n          2.Rg2-g3 # \n      1...g7-g5\
+  \ \n          2.Bb7-d5 threat:\n                  3.Rg2*g5 # \n                \
+  \  3.Rg2-g4 # \n                  3.Rg2-g3 # \n              2...g5-g4 + \n    \
+  \              3.Rg2*g4 # \n              2...Rh7-d7 \n                  3.Rg2*g5\
+  \ + \n                      3...Rd7*d5 \n                          4.Rg5*d5 threat:\n\
+  \                                  5.Rd5-d1 # \n                              4...Kh1-g1\
+  \ \n                                  5.Rd5-f5 zugzwang.\n                     \
+  \                 5...Kg1-h1 \n                                          6.Rf5-f1\
+  \ # \n              2...Rh7-e7 \n                  3.Rg2*g5 + \n               \
+  \       3...Re7-e4 \n                          4.Bd5*e4 # \n                  3.Rg2-g4\
+  \ + \n                      3...Re7-e4 \n                          4.Bd5*e4 # \n\
+  \                  3.Rg2-g3 + \n                      3...Re7-e4 \n            \
+  \              4.Bd5*e4 # \n              2...Rh7-f7 \n                  3.Rg2-g3\
+  \ + \n                      3...Rf7-f3 \n                          4.Bd5*f3 # \n\
+  \                  3.Rg2*g5 + \n                      3...Rf7-f3 + \n          \
+  \                4.Bd5*f3 # \n                  3.Rg2-g4 + \n                  \
+  \    3...Rf7-f3 + \n                          4.Bd5*f3 # \n      1...g7-g6 \n  \
+  \        2.Bb7-c6 threat:\n                  3.Rg2*g6 # \n                  3.Rg2-g5\
+  \ # \n                  3.Rg2-g4 # \n                  3.Rg2-g3 # \n           \
+  \   2...g6-g5 \n                  3.Rg2-g4 # \n                  3.Rg2*g5 # \n \
+  \                 3.Rg2-g3 # \n              2...Rh7-h5 \n                  3.Rg2-g5\
+  \ # \n              2...Rh7-c7 \n                  3.Rg2*g6 + \n               \
+  \       3...Rc7*c6 \n                          4.Rg6*c6 threat:\n              \
+  \                    5.Rc6-c1 # \n                              4...Kh1-g1 \n  \
+  \                                5.Rc6-f6 zugzwang.\n                          \
+  \            5...Kg1-h1 \n                                          6.Rf6-f1 # \n\
+  \              2...Rh7-d7 \n                  3.Rg2*g6 + \n                    \
+  \  3...Rd7-d5 \n                          4.Bc6*d5 # \n                  3.Rg2-g5\
+  \ + \n                      3...Rd7-d5 \n                          4.Bc6*d5 # \n\
+  \                  3.Rg2-g4 + \n                      3...Rd7-d5 \n            \
+  \              4.Bc6*d5 # \n                  3.Rg2-g3 + \n                    \
+  \  3...Rd7-d5 \n                          4.Bc6*d5 # \n              2...Rh7-e7\
+  \ \n                  3.Rg2-g3 + \n                      3...Re7-e4 \n         \
+  \                 4.Bc6*e4 # \n                  3.Rg2*g6 + \n                 \
+  \     3...Re7-e4 \n                          4.Bc6*e4 # \n                  3.Rg2-g5\
+  \ + \n                      3...Re7-e4 \n                          4.Bc6*e4 # \n\
+  \                  3.Rg2-g4 + \n                      3...Re7-e4 \n            \
+  \              4.Bc6*e4 # \n              2...Rh7-f7 \n                  3.Rg2-g4\
+  \ + \n                      3...Rf7-f3 + \n                          4.Bc6*f3 #\
+  \ \n                  3.Rg2*g6 + \n                      3...Rf7-f3 + \n       \
+  \                   4.Bc6*f3 # \n                  3.Rg2-g5 + \n               \
+  \       3...Rf7-f3 + \n                          4.Bc6*f3 # \n                 \
+  \ 3.Rg2-g3 + \n                      3...Rf7-f3 \n                          4.Bc6*f3\
+  \ # \n      1...Rh7-h5 \n          2.Rg2-g5 # \n      1...Rh7-h6 \n          2.Rg2-g6\
+  \ #"
+source:
+  date:
+    month: 9
+    year: 2002
+  issue: '5'
+  name: Probleemblad
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kd1
+  - Rg8
+  - Pd2
+  white:
+  - Kb2
+  - Re7
+  - Ba6
+  - Pb4
+authors:
+- Ueda, Yoshikazu
+solution: "1.Ba6-d3 ! threat:\n          2.Bd3-c2 # \n      1...Rg8-c8 \n        \
+  \  2.Bd3-g6 threat:\n                  3.Bg6-h5 # \n              2...Rc8-c5 \n\
+  \                  3.Re7-e3 \n                      3...Rc5-f5 \n              \
+  \            4.Bg6-h7 zugzwang.\n                              \n              \
+  \                4...Rf5-c5 \n                                  5.Bh7-e4 threat:\n\
+  \                                          6.Be4-f3 # \n                       \
+  \               5...Rc5-c2 + \n                                          6.Be4*c2\
+  \ # \n                                      5...Rc5-f5 \n                      \
+  \                    6.Be4-c2 #"
+source:
+  date:
+    year: 2002
+  issue: '24'
+  name: Problem Paradise
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kh8
+  - Rf6
+  white:
+  - Kh6
+  - Rg6
+  - Bb3
+  - Pf5
+authors:
+- Kozdon, Baldur J. L.
+award:
+  distinction: HM, for a miniature
+  tourney:
+    name: Umenie 64
+source:
+  date:
+    day: 31
+    month: 12
+    year: 2003
+  issue: '31'
+  name: Umenie 64
+  problemid: '1267'
+stipulation: '#8'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rb8
+  - Ph3
+  white:
+  - Kh1
+  - Rh7
+  - Bc4
+authors:
+- Зиновьев, Николай С.
+foreignids:
+- domain: PDB
+  problemid: P1170153
+keywords:
+- Ideal mate
+solution: 1. Bc4-d5+ Rb8-b7 2. Rh7*b7 h3-h2 3. Rb7-h7+ Ka8-b8 4. Kh1*h2 Kb8-c8 5.
+  Kh2-g3 Kc8-d8 6. Kg3-f4 Kd8-e8 7. Kf4-e5 Ke8-f8 8. Ke5-d6 Kf8-e8 9. Rh7-h8#
+source:
+  date:
+    month: 10
+    year: 1999
+  issue: '76'
+  name: Ideal-Mate Review
+  problemid: '10450'
+stipulation: '#9'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rf2
+  white:
+  - Ka6
+  - Re4
+  - Be5
+  - Pa3
+authors:
+- Максимовских, Александр Петрович
+solution: "1.Re4-g4 ! threat:\n          2.Rg4-g8 + \n              2...Rf2-f8 \n\
+  \                  3.Rg8*f8 # \n      1...Rf2-f8 \n          2.Ka6-b6 threat:\n\
+  \                  3.Rg4-a4 # \n              2...Rf8-f4 \n                  3.Rg4-g8\
+  \ + \n                      3...Rf4-f8 \n                          4.Rg8*f8 # \n\
+  \              2...Rf8-f6 + \n                  3.Be5*f6 threat:\n             \
+  \             4.Rg4-g8 # \n              2...Rf8-f7 \n                  3.Rg4-a4\
+  \ + \n                      3...Rf7-a7 \n                          4.Ra4*a7 # \n\
+  \                  3.Rg4-g8 + \n                      3...Rf7-f8 \n            \
+  \              4.Rg8*f8 # \n              2...Rf8-b8 + \n                  3.Be5*b8\
+  \ zugzwang.\n                      3...Ka8*b8 \n                          4.Rg4-g8\
+  \ # \n      1...Rf2-f6 + \n          2.Be5*f6 threat:\n                  3.Rg4-g8\
+  \ # \n              2...Ka8-b8 \n                  3.Rg4-c4 zugzwang.\n        \
+  \              3...Kb8-a8 \n                          4.Rc4-c8 # \n      1...Rf2-g2\
+  \ \n          2.Be5-g3 threat:\n                  3.Rg4-g8 # \n              2...Rg2-b2\
+  \ \n                  3.Rg4-g8 + \n                      3...Rb2-b8 \n         \
+  \                 4.Rg8*b8 # \n              2...Rg2-c2 \n                  3.Rg4-g8\
+  \ + \n                      3...Rc2-c8 \n                          4.Rg8*c8 # \n\
+  \              2...Rg2-d2 \n                  3.Rg4-g8 + \n                    \
+  \  3...Rd2-d8 \n                          4.Rg8*d8 # \n              2...Rg2-e2\
+  \ \n                  3.Rg4-g8 + \n                      3...Re2-e8 \n         \
+  \                 4.Rg8*e8 # \n              2...Rg2-f2 \n                  3.Rg4-g8\
+  \ + \n                      3...Rf2-f8 \n                          4.Rg8*f8 # \n\
+  \              2...Rg2*g3 \n                  3.Rg4*g3 threat:\n               \
+  \           4.Rg3-g8 # \n                      3...Ka8-b8 \n                   \
+  \       4.Rg3-c3 zugzwang.\n                              4...Kb8-a8 \n        \
+  \                          5.Rc3-c8 #"
+source:
+  date:
+    year: 1996
+  name: Субботняя газета
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rc8
+  - Pf2
+  white:
+  - Kf1
+  - Rb7
+  - Bc7
+  - Pc2
+authors:
+- Шитов, Алексей Петрович
+solution: "1.Rb7-b5 Rc8-h8 2.Bc7-f4 Rh8-h4 3.c2-c4 Rh4-h3\n 4.Kf1*f2 Rh3-f3+ 5.Kf2*f3\
+  \ Kh1-g1 6.Rb5-b1# 1.Rb7-b3 {cook} 1.Rb7-b6\n {cook} 1.Bc7-b8 {cook}"
+source:
+  date:
+    month: 4
+    year: 1993
+  name: Шахматный вестник
+  problemid: '29'
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kb1
+  - Rg1
+  white:
+  - Kb3
+  - Rc2
+  - Bh7
+  - Ph2
+  - Pc4
+authors:
+- Kozdon, Baldur J. L.
+solution: "1.c4-c5 ! threat:\n       2.Rc2-c4 +\n           2...Kb1-a1\n         \
+  \      3.Rc4-a4 #\n           2...Rg1-g6\n               3.h2-h4 zugzwang.\n   \
+  \                3...Kb1-a1\n                       4.Rc4-c1 #\n               3.h2-h3\
+  \ zugzwang.\n                   3...Kb1-a1\n                       4.Rc4-c1 #\n\
+  \               3.Kb3-a3 zugzwang.\n                   3...Kb1-a1\n            \
+  \           4.Rc4-c1 #\n               3.Rc4-c3 zugzwang.\n                   3...Kb1-a1\n\
+  \                       4.Rc3-c1 #\n               3.c5-c6 zugzwang.\n         \
+  \          3...Kb1-a1\n                       4.Rc4-c1 #\n               3.Bh7*g6\
+  \ +\n                   3...Kb1-a1\n                       4.Rc4-c1 #\n        \
+  \               4.Rc4-a4 #\n   1...Rg1-g7\n       2.Bh7-e4 threat:\n           \
+  \    3.Rc2-c4 +\n                   3...Kb1-a1\n                       4.Rc4-c1\
+  \ #\n                       4.Rc4-a4 #\n               3.Rc2-c3 +\n            \
+  \       3...Kb1-a1\n                       4.Rc3-c1 #\n           2...Rg7-g4\n \
+  \              3.Rc2-c4 +\n                   3...Kb1-a1\n                     \
+  \  4.Rc4-c1 #\n                       4.Rc4-a4 #\n                   3...Rg4*e4\n\
+  \                       4.Rc4*e4 threat:\n                               5.Re4-e1\
+  \ #\n                           4...Kb1-c1\n                               5.Re4-d4\
+  \ zugzwang.\n                                   5...Kc1-b1\n                   \
+  \                    6.Rd4-d1 #\n           2...Rg7-e7\n               3.Rc2-c4\
+  \ +\n                   3...Kb1-a1\n                       4.Rc4-c1 #\n        \
+  \               4.Rc4-a4 #\n                   3...Re7*e4\n                    \
+  \   4.Rc4*e4 threat:\n                               5.Re4-e1 #\n              \
+  \             4...Kb1-c1\n                               5.Re4-d4 zugzwang.\n  \
+  \                                 5...Kc1-b1\n                                 \
+  \      6.Rd4-d1 #"
+source:
+  date:
+    month: 5
+    year: 1989
+  name: Mat (Beograd)
+  problemid: '5870'
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Ka1
+  - Rh8
+  - Pa4
+  white:
+  - Ka3
+  - Ra6
+  - Bd3
+  - Pg2
+authors:
+- Никитин, Владимир В.
+solution: "1.Ra6-f6 ! threat:\n          2.Rf6-f1 # \n      1...Rh8-h1 \n        \
+  \  2.Rf6-f2 threat:\n                  3.Rf2-a2 # \n      1...Rh8-b8 \n        \
+  \  2.Rf6-f1 + \n              2...Rb8-b1 \n                  3.Rf1*b1 # \n     \
+  \ 1...Rh8-c8 \n          2.Rf6-f1 + \n              2...Rc8-c1 \n              \
+  \    3.Rf1*c1 # \n      1...Rh8-e8 \n          2.Rf6-f1 + \n              2...Re8-e1\
+  \ \n                  3.Rf1*e1 # \n      1...Rh8-f8 \n          2.Rf6-h6 threat:\n\
+  \                  3.Rh6-h1 + \n                      3...Rf8-f1 \n            \
+  \              4.Rh1*f1 # \n              2...Rf8-f1 \n                  3.Bd3*f1\
+  \ threat:\n                          4.Rh6-h1 threat:\n                        \
+  \          5.Bf1-a6 # \n                                  5.Bf1-b5 # \n        \
+  \                          5.Bf1-c4 # \n                                  5.Bf1-d3\
+  \ # \n                                  5.Bf1-e2 # \n                          \
+  \    4...Ka1-b1 \n                                  5.Bf1-d3 # \n              \
+  \        3...Ka1-b1 \n                          4.Rh6-c6 zugzwang.\n           \
+  \                   4...Kb1-a1 \n                                  5.Rc6-c1 # \n\
+  \              2...Rf8-h8 \n                  3.Bd3-h7 threat:\n               \
+  \           4.Rh6-h1 # \n                      3...Rh8*h7 \n                   \
+  \       4.Rh6*h7 threat:\n                                  5.Rh7-h1 # \n      \
+  \                        4...Ka1-b1 \n                                  5.Rh7-c7\
+  \ zugzwang.\n                                      5...Kb1-a1 \n               \
+  \                           6.Rc7-c1 # \n                      3...Rh8-b8 \n   \
+  \                       4.Rh6-h1 + \n                              4...Rb8-b1 \n\
+  \                                  5.Rh1*b1 # \n                      3...Rh8-c8\
+  \ \n                          4.Rh6-h1 + \n                              4...Rc8-c1\
+  \ \n                                  5.Rh1*c1 # \n                      3...Rh8-d8\
+  \ \n                          4.Rh6-h1 + \n                              4...Rd8-d1\
+  \ \n                                  5.Rh1*d1 # \n                      3...Rh8-e8\
+  \ \n                          4.Rh6-h1 + \n                              4...Re8-e1\
+  \ \n                                  5.Rh1*e1 # \n                      3...Rh8-f8\
+  \ \n                          4.Rh6-h1 + \n                              4...Rf8-f1\
+  \ \n                                  5.Rh1*f1 #"
+source:
+  date:
+    year: 1988
+  name: Die Schwalbe
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kh5
+  - Rf8
+  - Ph6
+  - Pc5
+  white:
+  - Kh3
+  - Rg3
+  - Bd5
+authors:
+- Kalbermatter, Hugo
+award:
+  distinction: HM, 3rd TT, Miniatures
+  judges:
+  - Schiller, Günter
+  tourney:
+    name: idee & form
+keywords:
+- Rundlauf
+- Pure round trip
+- Duel
+solution: '1.Bd5-b3? Rf8-f1! 1.Bd5-e4? Rf8-f2 2.Be4-d3 Rf2-h2+! 1.Bd5-c6? c5-c4 2.Rg3-g2
+  c4-c3 3.Rg2-g3 c3-c2 4.Bc6-b5 c2-c1=S!
+
+  1.Bd5-e4 ! threat:
+
+  2.Be4-g6 #
+
+  1...Rf8-f6
+
+  2.Be4-d3 threat:
+
+  3.Bd3-e2 +
+
+  3...Rf6-f3
+
+  4.Be2*f3 #
+
+  2...Rf6-e6
+
+  3.Bd3-c4 threat:
+
+  4.Bc4*e6 threat:
+
+  5.Be6-f7 #
+
+  3...Re6-e7
+
+  4.Bc4-d5 threat:
+
+  5.Bd5-f3 #
+
+  4...Re7-g7
+
+  5.Rg3*g7 c5-c4
+
+  6.Bd5-f3 #
+
+  6.Bd5-f7 #
+
+  4...Re7-e3 {(Re~)}
+
+  5.Bd5-f7 #
+
+  3...Re6-g6
+
+  4.Bc4-f7 c5-c4
+
+  5.Bf7*g6 #
+
+  3...Re6-f6
+
+  4.Bc4-e2 +
+
+  4...Rf6-f3
+
+  5.Be2*f3 #
+
+  1...Rf8-f5
+
+  2.Be4*f5 c5-c4
+
+  3.Bf5-g6 #
+
+  1...Rf8-g8
+
+  2.Rg3*g8 c5-c4
+
+  3.Be4-f3 #'
+source:
+  date:
+    month: 1
+    year: 1987
+  issue: '13'
+  name: idee & form
+  pagenumber: 335
+  problemid: '4'
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Ka1
+  - Ra8
+  white:
+  - Kc2
+  - Rc4
+  - Be2
+  - Pg2
+  - Pb2
+authors:
+- Fabel, Karl
+solution: "1.Rc4-h4 ! threat:\n          2.Rh4-h1 + \n              2...Ka1-a2 \n\
+  \                  3.Be2-c4 # \n      1...Ka1-a2 \n          2.Be2-c4 + \n     \
+  \         2...Ka2-a1 \n                  3.Rh4-h1 # \n      1...Ra8-a3 \n      \
+  \    2.Rh4-h1 + \n              2...Ka1-a2 \n                  3.Be2-c4 + \n   \
+  \                   3...Ra3-b3 \n                          4.Bc4*b3 # \n      1...Ra8-c8\
+  \ + \n          2.Be2-c4 threat:\n                  3.Rh4-h1 # \n              2...Rc8*c4\
+  \ + \n                  3.Rh4*c4 threat:\n                          4.Rc4-a4 # \n\
+  \              2...Rc8-h8 \n                  3.Rh4-e4 threat:\n               \
+  \           4.Re4-e1 # \n                      3...Rh8-h1 \n                   \
+  \       4.Bc4-f1 threat:\n                                  5.Re4-a4 # \n      \
+  \                        4...Rh1-h4 \n                                  5.Re4*h4\
+  \ threat:\n                                          6.Rh4-a4 # \n             \
+  \                 4...Rh1-h3 \n                                  5.Re4-a4 + \n \
+  \                                     5...Rh3-a3 \n                            \
+  \              6.Ra4*a3 # \n                                  5.g2*h3 threat:\n\
+  \                                          6.Re4-a4 # \n                      3...Rh8-d8\
+  \ \n                          4.Re4-e1 + \n                              4...Rd8-d1\
+  \ \n                                  5.Re1*d1 # \n                      3...Rh8-e8\
+  \ \n                          4.Bc4-e6 threat:\n                               \
+  \   5.Re4-e1 # \n                                  5.Re4-a4 # \n               \
+  \               4...Re8*e6 \n                                  5.Re4-a4 # \n   \
+  \                           4...Re8-a8 \n                                  5.Re4-e1\
+  \ # \n                              4...Re8-c8 + \n                            \
+  \      5.Be6*c8 threat:\n                                          6.Re4-a4 # \n\
+  \                              4...Re8-d8 \n                                  5.Re4-a4\
+  \ # \n              2...Rc8-f8 \n                  3.Rh4-h1 + \n               \
+  \       3...Rf8-f1 \n                          4.Rh1*f1 # \n              2...Rc8-e8\
+  \ \n                  3.Rh4-h1 + \n                      3...Re8-e1 \n         \
+  \                 4.Rh1*e1 # \n              2...Rc8-d8 \n                  3.Rh4-h1\
+  \ + \n                      3...Rd8-d1 \n                          4.Rh1*d1 #"
+source:
+  date:
+    year: 1967
+  name: Die Schwalbe
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Ka1
+  - Ra8
+  white:
+  - Kc2
+  - Rc4
+  - Bb3
+  - Pa2
+authors:
+- Fabel, Karl
+solution: "1.Rc4-e4 ! threat:\n          2.Re4-e1 # \n      1...Ra8*a2 + \n      \
+  \    2.Bb3*a2 zugzwang.\n              2...Ka1*a2 \n                  3.Re4-a4 #\
+  \ \n      1...Ra8-e8 \n          2.Bb3-e6 threat:\n                  3.Re4-e1 #\
+  \ \n              2...Re8*e6 \n                  3.Re4*e6 zugzwang.\n          \
+  \            3...Ka1*a2 \n                          4.Re6-a6 # \n              2...Re8-b8\
+  \ \n                  3.Re4-e1 + \n                      3...Rb8-b1 \n         \
+  \                 4.Re1*b1 # \n              2...Re8-c8 + \n                  3.Be6*c8\
+  \ zugzwang.\n                      3...Ka1*a2 \n                          4.Re4-a4\
+  \ # \n              2...Re8-d8 \n                  3.Re4-e1 + \n               \
+  \       3...Rd8-d1 \n                          4.Re1*d1 # \n      1...Ra8-d8 \n\
+  \          2.Re4-e1 + \n              2...Rd8-d1 \n                  3.Re1*d1 #\
+  \ \n      1...Ra8-c8 + \n          2.Bb3-c4 threat:\n                  3.Re4-e1\
+  \ # \n              2...Rc8*c4 + \n                  3.Re4*c4 zugzwang.\n      \
+  \                3...Ka1*a2 \n                          4.Rc4-a4 # \n          \
+  \    2...Rc8-b8 \n                  3.Re4-e1 + \n                      3...Rb8-b1\
+  \ \n                          4.Re1*b1 # \n              2...Rc8-e8 \n         \
+  \         3.Bc4-e6 threat:\n                          4.Re4-e1 # \n            \
+  \          3...Re8*e6 \n                          4.Re4*e6 zugzwang.\n         \
+  \                     4...Ka1*a2 \n                                  5.Re6-a6 #\
+  \ \n                      3...Re8-b8 \n                          4.Re4-e1 + \n \
+  \                             4...Rb8-b1 \n                                  5.Re1*b1\
+  \ # \n                      3...Re8-c8 + \n                          4.Be6*c8 zugzwang.\n\
+  \                              4...Ka1*a2 \n                                  5.Re4-a4\
+  \ # \n                      3...Re8-d8 \n                          4.Re4-e1 + \n\
+  \                              4...Rd8-d1 \n                                  5.Re1*d1\
+  \ # \n              2...Rc8-d8 \n                  3.Re4-e1 + \n               \
+  \       3...Rd8-d1 \n                          4.Re1*d1 #"
+source:
+  date:
+    year: 1935
+  name: Die Schwalbe
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ka2
+  - Ra7
+  white:
+  - Kc2
+  - Rg1
+  - Bg6
+  - Pf6
+  - Pb2
+authors:
+- Антипов, Вячеслав Павлович
+solution: "1.Bg6-f7 + ! \n      1...Ra7*f7 \n          2.Rg1-g7 threat:\n        \
+  \          3.Rg7*f7 threat:\n                          4.Rf7-a7 # \n           \
+  \   2...Rf7*f6 \n                  3.Rg7-a7 + \n                      3...Rf6-a6\
+  \ \n                          4.Ra7*a6 # \n              2...Rf7-b7 \n         \
+  \         3.Rg7*b7 threat:\n                          4.Rb7-a7 # \n            \
+  \  2...Rf7-c7 + \n                  3.Rg7*c7 threat:\n                         \
+  \ 4.Rc7-a7 # \n              2...Rf7-d7 \n                  3.Rg7*d7 threat:\n \
+  \                         4.Rd7-a7 # \n              2...Rf7-e7 \n             \
+  \     3.Rg7*e7 threat:\n                          4.Re7-a7 # \n              2...Rf7*g7\
+  \ \n                  3.f6*g7 threat:\n                          4.g7-g8=Q + \n\
+  \                              4...Ka2-a1 \n                                  5.Qg8-a8\
+  \ # \n                          4.g7-g8=R threat:\n                            \
+  \      5.Rg8-a8 # \n                      3...Ka2-a1 \n                        \
+  \  4.g7-g8=R threat:\n                                  5.Rg8-a8 #"
+source:
+  date:
+    year: 1992
+  name: Apprenti Sorcier
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kb8
+  - Rf1
+  - Pg7
+  - Pd7
+  - Pd2
+  - Pb5
+  white:
+  - Kb6
+  - Rf2
+  - Bd1
+  - Pg6
+  - Pd6
+  - Pb7
+  - Pb4
+authors:
+- Brunner, Erich Anselm
+solution: "1.Rf2-h2 ! threat:\n          2.Rh2-h8 + \n              2...Rf1-f8 \n\
+  \                  3.Rh8*f8 # \n      1...Rf1-f8 \n          2.Rh2-h3 threat:\n\
+  \                  3.Rh3-a3 threat:\n                          4.Ra3-a8 # \n   \
+  \           2...Rf8-f3 \n                  3.Rh3-h8 + \n                      3...Rf3-f8\
+  \ \n                          4.Rh8*f8 # \n                  3.Bd1*f3 threat:\n\
+  \                          4.Rh3-h8 # \n              2...Rf8-f6 \n            \
+  \      3.Rh3-h8 + \n                      3...Rf6-f8 \n                        \
+  \  4.Rh8*f8 # \n              2...Rf8-c8 \n                  3.b7*c8=Q + \n    \
+  \                  3...Kb8*c8 \n                          4.Rh3-h8 # \n        \
+  \          3.b7*c8=R + \n                      3...Kb8*c8 \n                   \
+  \       4.Rh3-h8 # \n      1...Rf1-h1 \n          2.Rh2-h7 threat:\n           \
+  \       3.Bd1-h5 threat:\n                          4.Rh7-h8 # \n              \
+  \        3...Rh1-c1 \n                          4.Rh7-h8 + \n                  \
+  \            4...Rc1-c8 \n                                  5.Rh8*c8 # \n      \
+  \                            5.b7*c8=Q # \n                                  5.b7*c8=R\
+  \ # \n                      3...Rh1-e1 \n                          4.Rh7-h8 + \n\
+  \                              4...Re1-e8 \n                                  5.Rh8*e8\
+  \ # \n                      3...Rh1-f1 \n                          4.Rh7-h8 + \n\
+  \                              4...Rf1-f8 \n                                  5.Rh8*f8\
+  \ # \n                      3...Rh1*h5 \n                          4.Rh7*h5 threat:\n\
+  \                                  5.Rh5-h8 # \n              2...Rh1-h6 \n    \
+  \              3.Rh7*h6 threat:\n                          4.Rh6-h8 # \n       \
+  \               3...g7*h6 \n                          4.g6-g7 threat:\n        \
+  \                          5.g7-g8=Q # \n                                  5.g7-g8=R\
+  \ #"
+source:
+  date:
+    day: 27
+    month: 8
+    year: 1933
+  name: Hamburgischer Correspondent
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ka1
+  - Ra8
+  white:
+  - Kc2
+  - Rc4
+  - Be2
+  - Pd2
+  - Pb2
+  - Pa2
+authors:
+- Fabel, Karl
+award:
+  distinction: 1st HM
+  judges:
+  - Breuer, Josef Johann
+  tourney:
+    name: Deutsche Schachzeitung
+keywords:
+- Check provoking key
+- Sackmann
+- Grab theme
+- System relocation
+- Meredith
+reprints:
+- date:
+    year: 1965
+  name: Das logische Schachproblem
+  pagenumber: 108
+  problemid: 148
+solution: "1.Rc4-g4 ? Ra8-c8+! 2.Be2-c4 Rc8-g8 3.Rg4-e4 Rg8-g1 {4.??}\n1.Rc4-h4 ?\
+  \ Ra8-c8+! 2.Be2-c4 Rc8-h8 3.Rh4-e4 Rh8-h1 {4.??}\n1.Rc4-f4 ! threat:\n        \
+  \  2.Rf4-f1 + \n              2...Ka1*a2 \n                  3.Be2-c4 # \n     \
+  \ 1...Ra8-a4 \n          2.Be2-c4 threat:\n                  3.Rf4-f1 # \n     \
+  \         2...Ra4*c4 + \n                  3.Rf4*c4 zugzwang.\n                \
+  \      3...Ka1*a2 \n                          4.Rc4-a4 # \n      1...Ra8-c8 + \n\
+  \          2.Be2-c4 threat:\n                  3.Rf4-f1 # \n              2...Rc8*c4\
+  \ + \n                  3.Rf4*c4 zugzwang.\n                      3...Ka1*a2 \n\
+  \                          4.Rc4-a4 # \n              2...Rc8-f8 \n            \
+  \      3.Rf4-e4 ! threat:\n                          4.Re4-e1 # \n             \
+  \         3...Rf8-f1 \n                          4.Bc4*f1 zugzwang.\n          \
+  \                    4...Ka1*a2 \n                                  5.Re4-a4 # \n\
+  \                      3...Rf8-e8 \n                          4.Bc4-e6 ! threat:\n\
+  \                                  5.Re4-e1 # \n                              4...Re8-c8\
+  \ + \n                                  5.Be6*c8 zugzwang.\n                   \
+  \                   5...Ka1*a2 \n                                          6.Re4-a4\
+  \ # \n                              4...Re8*e6 \n                              \
+  \    5.Re4*e6 zugzwang.\n                                      5...Ka1*a2 \n   \
+  \                                       6.Re6-a6 # \n      1...Ra8-b8 \n       \
+  \   2.Rf4-f1 + \n              2...Ka1*a2 \n                  3.Be2-c4 + \n    \
+  \                  3...Rb8-b3 \n                          4.Bc4*b3 #"
+source:
+  date:
+    year: 1963
+  name: Deutsche Schachzeitung
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kh8
+  - Rb8
+  white:
+  - Kh6
+  - Rg7
+  - Bc7
+authors:
+- Hall, James S.
+comments:
+- C+
+foreignids:
+- domain: WinChloe
+  problemid: 813407
+solution: "1.Bc7-e5 ! threat:\n          2.Rg7-g1 # \n          2.Rg7-g2 # \n    \
+  \      2.Rg7-g3 # \n          2.Rg7-g4 # \n          2.Rg7-g5 # \n          2.Rg7-g6\
+  \ # \n      1...Rb8-b5 \n          2.Rg7-g5 + \n              2...Rb5*e5 \n    \
+  \              3.Rg5*e5 threat:\n                          4.Re5-e8 # \n       \
+  \               3...Kh8-g8 \n                          4.Re5-f5 zugzwang.\n    \
+  \                          4...Kg8-h8 \n                                  5.Rf5-f8\
+  \ # \n      1...Rb8-e8 \n          2.Rg7-g5 + \n              2...Re8*e5 \n    \
+  \              3.Rg5*e5 threat:\n                          4.Re5-e8 # \n       \
+  \               3...Kh8-g8 \n                          4.Re5-f5 zugzwang.\n    \
+  \                          4...Kg8-h8 \n                                  5.Rf5-f8\
+  \ #"
+source:
+  date:
+    year: 1955
+  name: Canadian Chess Chat
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ka1
+  - Rg7
+  white:
+  - Kc2
+  - Re3
+  - Bg8
+  - Ph3
+  - Pg4
+  - Pf2
+  - Pe2
+  - Pd3
+  - Pd2
+authors:
+- Halumbirek, Josef
+keywords:
+- Siegfried
+solution: "1.Re3-e8 Rg7-c7+ 2.Bg8-c4 Rc7-c8 3.Re8-e5 Rc8-c5 4.Re5-e3 Rc5-a5\n 5.Re3-g3\
+  \ Ra5-a2+ 6.Bc4*a2 Ka1*a2 7.d3-d4 Ka2-a1 8.Rg3-a3#"
+source:
+  date:
+    month: 11
+    year: 1961
+  name: Шахматы в СССР
+  problemid: '90'
+stipulation: '#8'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rf3
+  - Pg7
+  - Pg3
+  - Pb7
+  white:
+  - Kb6
+  - Ra1
+  - Be6
+  - Pg6
+  - Pc3
+  - Pa7
+authors:
+- Калинин, Александр Константинович
+solution: "1.Ra1-h1 ! threat:\n          2.Rh1-h8 + \n              2...Rf3-f8 \n\
+  \                  3.Rh8*f8 # \n      1...Rf3-f8 \n          2.Rh1-h8 threat:\n\
+  \                  3.Rh8*f8 # \n              2...Rf8-b8 \n                  3.Rh8*b8\
+  \ # \n                  3.a7*b8=Q # \n                  3.a7*b8=R # \n         \
+  \     2...Rf8-c8 \n                  3.Rh8*c8 # \n              2...Rf8-d8 \n  \
+  \                3.Rh8*d8 # \n              2...Rf8-e8 \n                  3.Rh8*e8\
+  \ # \n              2...Rf8*h8 \n                  3.Be6-d5 threat:\n          \
+  \                4.Bd5*b7 # \n                      3...Rh8-b8 \n              \
+  \            4.Bd5-g2 zugzwang.\n                              4...Rb8-h8 \n   \
+  \                               5.Bg2*b7 # \n                              4...Rb8-g8\
+  \ \n                                  5.Bg2*b7 # \n                            \
+  \  4...Rb8-f8 \n                                  5.Bg2*b7 # \n                \
+  \              4...Rb8-e8 \n                                  5.Bg2*b7 # \n    \
+  \                          4...Rb8-d8 \n                                  5.Bg2*b7\
+  \ # \n                              4...Rb8-c8 \n                              \
+  \    5.Bg2*b7 # \n              2...Rf8-g8 \n                  3.Rh8*g8 #"
+source:
+  date:
+    year: 1992
+  issue: '2'
+  name: Шахматная композиция
+  problemid: '44'
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kb8
+  - Rc8
+  white:
+  - Kc4
+  - Ra6
+  - Bd8
+  - Pc6
+  - Pb6
+  - Pa5
+authors:
+- Марков, Евгений Викторович
+solution: "1.Bd8-c7 + ! \n      1...Rc8*c7 \n          2.Ra6-a8 + \n             \
+  \ 2...Kb8*a8 \n                  3.b6*c7 threat:\n                          4.c7-c8=Q\
+  \ + \n                              4...Ka8-a7 \n                              \
+  \    5.Qc8-b7 # \n                      3...Ka8-a7 \n                          4.c7-c8=R\
+  \ zugzwang.\n                              4...Ka7-a6 \n                       \
+  \           5.Rc8-a8 #"
+source:
+  date:
+    year: 2001
+  name: Ideal-Mate Review
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kf4
+  - Ra6
+  - Pg7
+  - Pg4
+  - Pg3
+  - Pe6
+  - Pc7
+  - Pb6
+  white:
+  - Kd3
+  - Rh5
+  - Be7
+  - Pg6
+  - Pg2
+  - Pe4
+  - Pc3
+authors:
+- Schauer, Bernhard
+solution: '1.Be7-d8 ! threat: 2.Bd8*c7 + 1...Ra6-a7 2.Bd8-g5 + 2...Kf4-e5 3.Bg5-e7
+  + 3...Ke5-f4 4.Be7-d8 zugzwang. 4...b6-b5 5.Bd8-g5 + 5...Kf4-e5 6.Bg5-e7 + 6...Ke5-f4
+  7.Be7-c5 threat: 8.Bc5-e3 # 4...Ra7-b7 5.Bd8-g5 + 5...Kf4-e5 6.Bg5-e7 + 6...Ke5-f4
+  7.Be7-a3 threat: 8.Ba3-c1 # 4...c7-c5 5.Bd8-g5 + 5...Kf4-e5 6.Bg5-e7 + 6...Ke5-f4
+  7.Be7-d6 + 7...e6-e5 8.Bd6*e5 # 8.Rh5-f5 # 4...c7-c6 5.Bd8-g5 + 5...Kf4-e5 6.Bg5-e7
+  + 6...Ke5-f4 7.Be7-d6 + 7...e6-e5 8.Bd6*e5 # 8.Rh5-f5 #'
+source:
+  date:
+    year: 1984
+  name: Deutsche Schachblätter
+  problemid: '2970'
+stipulation: '#8'
+---
+algebraic:
+  black:
+  - Kf4
+  - Rg2
+  - Ph6
+  - Pg4
+  - Pf3
+  - Pe4
+  white:
+  - Kf6
+  - Rg7
+  - Bf5
+  - Ph5
+  - Pf2
+  - Pd2
+authors:
+- Попандопуло, Авенир Николаевич
+solution: "1.Rg7-g8 ! zugzwang.\n      1...Rg2-h2 \n          2.Rg8*g4 # \n      1...Rg2-g1\
+  \ \n          2.Rg8-e8 threat:\n                  3.Re8*e4 # \n              2...Rg1-e1\
+  \ \n                  3.Re8-e7 zugzwang.\n                      3...Re1-e2 \n  \
+  \                        4.Re7-g7 threat:\n                                  5.Rg7*g4\
+  \ # \n                      3...Re1-a1 \n                          4.Re7*e4 # \n\
+  \                      3...Re1-b1 \n                          4.Re7*e4 # \n    \
+  \                  3...Re1-c1 \n                          4.Re7*e4 # \n        \
+  \              3...Re1-d1 \n                          4.Re7*e4 # \n            \
+  \          3...Re1-e3 \n                          4.d2*e3 # \n                 \
+  \     3...Re1-h1 \n                          4.Re7*e4 # \n                     \
+  \ 3...Re1-g1 \n                          4.Re7*e4 # \n                      3...Re1-f1\
+  \ \n                          4.Re7*e4 # \n                      3...e4-e3 \n  \
+  \                        4.Re7-e4 # \n                      3...g4-g3 \n       \
+  \                   4.Re7-g7 threat:\n                                  5.Rg7-g4\
+  \ # \n                                  5.f2*g3 # \n                           \
+  \   4...Re1-g1 \n                                  5.Rg7-g4 # \n               \
+  \               4...g3-g2 \n                                  5.Rg7-g4 # \n    \
+  \                          4...g3*f2 \n                                  5.Rg7-g4\
+  \ # \n      1...Rg2*f2 \n          2.Rg8*g4 # \n      1...Rg2-g3 \n          2.Rg8-e8\
+  \ threat:\n                  3.Re8*e4 # \n      1...e4-e3 \n          2.d2*e3 #\
+  \ \n      1...g4-g3 \n          2.Rg8-g4 #"
+source:
+  date:
+    year: 1962
+  name: Шахматы в СССР
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ka1
+  - Rf2
+  - Ph3
+  - Pc3
+  white:
+  - Ka3
+  - Rf1
+  - Bb1
+  - Ph2
+  - Pd2
+  - Pc2
+authors:
+- Hoffmann, Martin Wolfgang
+award:
+  distinction: 3rd Prize
+  judges:
+  - Chlubna, Friedrich
+  tourney:
+    date:
+      year: 1970-1972
+    name: Schweizerische Schachzeitung
+foreignids:
+- domain: PDB
+  problemid: P1300314
+- domain: WinChloe
+  problemid: 138082
+keywords:
+- Siegfried
+- Opposition
+- Roman
+- Stalemate avoidance
+- Annihilation
+options:
+- defence 1
+reprints:
+- comments:
+  - Schachprobleme und Studien schweizerischer Komponisten von 1966-1976
+  - H. Henneberger
+  date:
+    year: 1980
+  name: Kunstschach in der Schweiz / Les Echecs artistiques en Suisse
+  pagenumber: 113
+  problemid: 203
+- comments:
+  - Arne Mangs, 250 der interessantesten Schachaufgaben aus zwei Jahrhunderten
+  date:
+    year: 1983
+  name: Die Kunst des Mattsetzens (Goldmann Ratgeber)
+  pagenumber: 102
+  problemid: 202
+- date:
+    year: 1997
+  name: 2345 Chess Problems
+  pagenumber: 392
+  problemid: 2337
+- date:
+    month: 2
+    year: 2015
+  issue: 271
+  name: Die Schwalbe
+  pagenumber: 23
+  problemid: A
+solution: "1.Rf1-c1 ?\n   1...c3*d2 !\n       2.Rc1-d1\n           2...Rf2-f1 !\n\
+  \               3.Rd1*f1 \n                   3...d2-d1=Q\n                    \
+  \   4.Rf1*d1 {stalemate}\n 1.Rf1-d1 ?\n      1...Rf2*d2 !\n          2.Rd1-c1 ?\n\
+  \              2...Rd2-d1 !\n                  3.Rc1*d1 ? {stalemate}\n 1.Rf1-h1\
+  \ ! threat:\n          2.Bb1-a2 + \n              2...Rf2-f1 \n                \
+  \  3.Rh1*f1 # \n      1...Rf2*h2 \n          2.Rh1-d1 ! threat:\n              \
+  \    3.Bb1-a2 # \n              2...Rh2*d2 \n                  3.Rd1-c1 ! threat:\n\
+  \                          4.Bb1-a2 # \n                      3...Rd2-d1 \n    \
+  \                      4.Rc1*d1 threat:\n                                  5.Bb1-a2\
+  \ # \n                      3...Rd2*c2 \n                          4.Bb1*c2 #"
+source:
+  date:
+    month: 4
+    year: 1971
+  name: Schweizerische Schachzeitung
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rg2
+  white:
+  - Kb6
+  - Rd3
+  - Bd6
+  - Pb3
+authors:
+- Bincer, Hans
+solution: "1.Rd3-d5 ! threat:\n          2.Rd5-a5 # \n      1...Rg2-a2 \n        \
+  \  2.Bd6-a3 threat:\n                  3.Rd5-d8 # \n              2...Ra2-d2 \n\
+  \                  3.Rd5*d2 threat:\n                          4.Rd2-d8 # \n   \
+  \           2...Ra2-c2 \n                  3.Rd5-d8 + \n                      3...Rc2-c8\
+  \ \n                          4.Rd8*c8 # \n      1...Rg2-g7 \n          2.Rd5-a5\
+  \ + \n              2...Rg7-a7 \n                  3.Ra5*a7 # \n      1...Rg2-g5\
+  \ \n          2.Bd6-e5 threat:\n                  3.Rd5-a5 # \n                \
+  \  3.Rd5-d8 # \n              2...Rg5*e5 \n                  3.Rd5-d8 # \n     \
+  \         2...Rg5-g8 \n                  3.Rd5-a5 # \n              2...Rg5-g7 \n\
+  \                  3.Rd5-d8 # \n              2...Rg5-g6 + \n                  3.Kb6-c7\
+  \ threat:\n                          4.Rd5-a5 + \n                             \
+  \ 4...Rg6-a6 \n                                  5.Ra5*a6 # \n                 \
+  \     3...Rg6-a6 \n                          4.Be5-d4 threat:\n                \
+  \                  5.Rd5-d8 # \n                              4...Ra6-a7 + \n  \
+  \                                5.Bd4*a7 zugzwang.\n                          \
+  \            5...Ka8*a7 \n                                          6.Rd5-a5 # \n\
+  \                              4...Ra6-d6 \n                                  5.Rd5-a5\
+  \ + \n                                      5...Rd6-a6 \n                      \
+  \                    6.Ra5*a6 # \n                              4...Ra6-c6 + \n\
+  \                                  5.Kc7*c6 threat:\n                          \
+  \                6.Rd5-d8 # \n                              4...Ra6-b6 \n      \
+  \                            5.Kc7*b6 threat:\n                                \
+  \          6.Rd5-d8 # \n                                  5.Rd5-a5 + \n        \
+  \                              5...Rb6-a6 \n                                   \
+  \       6.Ra5*a6 # \n                      3...Rg6-c6 + \n                     \
+  \     4.Kc7*c6 threat:\n                                  5.Rd5-a5 # \n        \
+  \              3...Rg6-g7 + \n                          4.Be5*g7 threat:\n     \
+  \                             5.Rd5-a5 # \n                      3...Ka8-a7 \n \
+  \                         4.Rd5-a5 + \n                              4...Rg6-a6\
+  \ \n                                  5.Be5-d4 + \n                            \
+  \          5...Ka7-a8 \n                                          6.Ra5*a6 #"
+source:
+  date:
+    year: 1934
+  name: Deutsche Schachzeitung
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Ka1
+  - Ra6
+  white:
+  - Kc2
+  - Rc4
+  - Bg8
+  - Pa2
+authors:
+- Fabel, Karl
+solution: "1.Rc4-d4 ! threat:\n          2.Rd4-d1 # \n      1...Ra6*a2 + \n      \
+  \    2.Bg8*a2 zugzwang.\n              2...Ka1*a2 \n                  3.Rd4-a4 #\
+  \ \n      1...Ra6-e6 \n          2.Rd4-d1 + \n              2...Ka1*a2 \n      \
+  \            3.Kc2-c3 zugzwang.\n                      3...Ka2-a3 \n           \
+  \               4.Rd1-a1 # \n                  3.Rd1-d3 zugzwang.\n            \
+  \          3...Ka2-a1 \n                          4.Rd3-a3 # \n      1...Ra6-d6\
+  \ \n          2.Bg8-d5 threat:\n                  3.Rd4-d1 # \n              2...Rd6*d5\
+  \ \n                  3.Rd4*d5 zugzwang.\n                      3...Ka1*a2 \n  \
+  \                        4.Rd5-a5 # \n              2...Rd6-b6 \n              \
+  \    3.Rd4-d1 + \n                      3...Rb6-b1 \n                          4.Rd1*b1\
+  \ # \n              2...Rd6-c6 + \n                  3.Bd5*c6 zugzwang.\n      \
+  \                3...Ka1*a2 \n                          4.Rd4-a4 # \n      1...Ra6-c6\
+  \ + \n          2.Bg8-c4 threat:\n                  3.Rd4-d1 # \n              2...Rc6*c4\
+  \ + \n                  3.Rd4*c4 zugzwang.\n                      3...Ka1*a2 \n\
+  \                          4.Rc4-a4 # \n              2...Rc6-b6 \n            \
+  \      3.Rd4-d1 + \n                      3...Rb6-b1 \n                        \
+  \  4.Rd1*b1 # \n              2...Rc6-d6 \n                  3.Bc4-d5 threat:\n\
+  \                          4.Rd4-d1 # \n                      3...Rd6*d5 \n    \
+  \                      4.Rd4*d5 zugzwang.\n                              4...Ka1*a2\
+  \ \n                                  5.Rd5-a5 # \n                      3...Rd6-b6\
+  \ \n                          4.Rd4-d1 + \n                              4...Rb6-b1\
+  \ \n                                  5.Rd1*b1 # \n                      3...Rd6-c6\
+  \ + \n                          4.Bd5*c6 zugzwang.\n                           \
+  \   4...Ka1*a2 \n                                  5.Rd4-a4 # \n      1...Ra6-b6\
+  \ \n          2.Rd4-d1 + \n              2...Rb6-b1 \n                  3.Rd1*b1\
+  \ #"
+source:
+  date:
+    year: 1935
+  name: Miniatures Strategiques
+  problemid: '89'
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rh7
+  - Ph4
+  white:
+  - Kh3
+  - Rf5
+  - Bf2
+authors:
+- Jambon, Heinrich
+solution: "1.Rf5-b5 ! threat:\n          2.Rb5-b1 # \n      1...Rh7-b7 \n        \
+  \  2.Bf2-b6 threat:\n                  3.Rb5-b1 # \n              2...Rb7*b6 \n\
+  \                  3.Rb5*b6 threat:\n                          4.Rb6-b1 # \n   \
+  \                   3...Kh1-g1 \n                          4.Rb6-f6 zugzwang.\n\
+  \                              4...Kg1-h1 \n                                  5.Rf6-f1\
+  \ # \n              2...Rb7-g7 \n                  3.Rb5-b1 + \n               \
+  \       3...Rg7-g1 \n                          4.Rb1*g1 # \n              2...Rb7-f7\
+  \ \n                  3.Rb5-b1 + \n                      3...Rf7-f1 \n         \
+  \                 4.Rb1*f1 # \n              2...Rb7-e7 \n                  3.Rb5-b1\
+  \ + \n                      3...Re7-e1 \n                          4.Rb1*e1 # \n\
+  \              2...Rb7-d7 \n                  3.Rb5-b1 + \n                    \
+  \  3...Rd7-d1 \n                          4.Rb1*d1 # \n              2...Rb7-c7\
+  \ \n                  3.Rb5-b1 + \n                      3...Rc7-c1 \n         \
+  \                 4.Rb1*c1 # \n      1...Rh7-c7 \n          2.Rb5-b1 + \n      \
+  \        2...Rc7-c1 \n                  3.Rb1*c1 # \n      1...Rh7-d7 \n       \
+  \   2.Rb5-b1 + \n              2...Rd7-d1 \n                  3.Rb1*d1 # \n    \
+  \  1...Rh7-e7 \n          2.Rb5-b1 + \n              2...Re7-e1 \n             \
+  \     3.Rb1*e1 # \n      1...Rh7-g7 \n          2.Rb5-b1 + \n              2...Rg7-g1\
+  \ \n                  3.Rb1*g1 #"
+source:
+  date:
+    day: 4
+    month: 6
+    year: 1938
+  name: Westfälische Landeszeitung
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rh8
+  - Ph4
+  white:
+  - Kh3
+  - Rh6
+  - Bf2
+authors:
+- Lange, Hans Franz
+solution: "1.Rh6-a6 ! threat:\n          2.Ra6-a1 # \n      1...Rh8-a8 \n        \
+  \  2.Bf2-a7 threat:\n                  3.Ra6-a1 # \n              2...Ra8*a7 \n\
+  \                  3.Ra6*a7 threat:\n                          4.Ra7-a1 # \n   \
+  \                   3...Kh1-g1 \n                          4.Ra7-f7 zugzwang.\n\
+  \                              4...Kg1-h1 \n                                  5.Rf7-f1\
+  \ # \n              2...Ra8-g8 \n                  3.Ra6-a1 + \n               \
+  \       3...Rg8-g1 \n                          4.Ra1*g1 # \n              2...Ra8-f8\
+  \ \n                  3.Ra6-a1 + \n                      3...Rf8-f1 \n         \
+  \                 4.Ra1*f1 # \n              2...Ra8-e8 \n                  3.Ra6-a1\
+  \ + \n                      3...Re8-e1 \n                          4.Ra1*e1 # \n\
+  \              2...Ra8-d8 \n                  3.Ra6-a1 + \n                    \
+  \  3...Rd8-d1 \n                          4.Ra1*d1 # \n              2...Ra8-c8\
+  \ \n                  3.Ra6-a1 + \n                      3...Rc8-c1 \n         \
+  \                 4.Ra1*c1 # \n              2...Ra8-b8 \n                  3.Ra6-a1\
+  \ + \n                      3...Rb8-b1 \n                          4.Ra1*b1 # \n\
+  \      1...Rh8-b8 \n          2.Ra6-a1 + \n              2...Rb8-b1 \n         \
+  \         3.Ra1*b1 # \n      1...Rh8-c8 \n          2.Ra6-a1 + \n              2...Rc8-c1\
+  \ \n                  3.Ra1*c1 # \n      1...Rh8-d8 \n          2.Ra6-a1 + \n  \
+  \            2...Rd8-d1 \n                  3.Ra1*d1 # \n      1...Rh8-e8 \n   \
+  \       2.Ra6-a1 + \n              2...Re8-e1 \n                  3.Ra1*e1 # \n\
+  \      1...Rh8-g8 \n          2.Ra6-a1 + \n              2...Rg8-g1 \n         \
+  \         3.Ra1*g1 #"
+source:
+  date:
+    day: 3
+    month: 7
+    year: 1938
+  name: Neue Leipziger Zeitung
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh3
+  - Ra4
+  white:
+  - Kf3
+  - Rf4
+  - Bg3
+  - Pe2
+  - Pb3
+authors:
+- Palatz, Franz Ferdinand Ludwig
+solution: "a)  1. Rf6! ~ 2. Rh6+ Rh4 3. R:h4#\n1... Ra6 2. Bd6 ~ 3. Rh6#\n    2...\
+  \ R:d6 3. R:d6 Kh4 4. Rd5 Kh3 5. Rh5#\n        3... Kh2 4. Rd1 Kh3 5. Rh1#\n   \
+  \ 2... Ra4 3. b:a4 ~ 4. Rh6#\n        3... Kh4 4. Bf4 Kh5, Kh3 5. Rh6#\n       \
+  \        4. Rf5 Kh3 5. Rh5#\n    2... Kh4 3. Rh6+ Kg5 4. Bf4+ Kf5 5. e4#\n\nb) \
+  \ 1. b4! ~ 2. Rh4#\n1... R:b4 2. Rf8 ~ 3. Rh8+ Rh4 4. R:h4#\n    2... Rb8 3. B:b8\
+  \ Kh4 4. Rf5 Kh3 5. Rh5#\n    2... Rh4 3. B:h4 ~ 4. Rh8 Kh2 5. Bf2#\n          \
+  \     4. Bf2 Kh2 5. Rh8#\n         3... K:h4 4. Rf5 Kh3 5. Rh5#\n         3... Kh2\
+  \ 4. Bf2 Kh3, Kh1 5. Rh8#"
+source:
+  date:
+    year: 1942
+  issue: 13-14
+  name: Deutsche Schachblätter
+  problemid: '108'
+stipulation: '#5'
+twins:
+  b: Move e2 d3
+---
+algebraic:
+  black:
+  - Kh6
+  - Rf7
+  - Ph7
+  white:
+  - Kh4
+  - Rg4
+  - Bh8
+  - Pe2
+authors:
+- Pietzcker, Eduard
+solution: "1.Bh8-c3 ! threat:\n          2.Bc3-d2 + \n              2...Rf7-f4 \n\
+  \                  3.Bd2*f4 # \n      1...Rf7-d7 \n          2.e2-e4 zugzwang.\n\
+  \              2...Rd7-g7 \n                  3.Bc3*g7 # \n              2...Rd7-d1\
+  \ \n                  3.Bc3-g7 # \n              2...Rd7-d2 \n                 \
+  \ 3.Bc3-g7 # \n                  3.Bc3*d2 # \n              2...Rd7-d3 \n      \
+  \            3.Bc3-g7 # \n              2...Rd7-d4 \n                  3.Bc3-b2\
+  \ threat:\n                          4.Bb2-c1 + \n                             \
+  \ 4...Rd4-d2 \n                                  5.Bc1*d2 # \n              2...Rd7-d5\
+  \ \n                  3.Bc3-g7 # \n              2...Rd7-d6 \n                 \
+  \ 3.Bc3-g7 # \n              2...Rd7-a7 \n                  3.Bc3-d2 # \n      \
+  \        2...Rd7-b7 \n                  3.Bc3-d2 # \n              2...Rd7-c7 \n\
+  \                  3.Bc3-d2 # \n              2...Rd7-d8 \n                  3.Bc3-g7\
+  \ # \n              2...Rd7-f7 \n                  3.Bc3-d2 + \n               \
+  \       3...Rf7-f4 \n                          4.Bd2*f4 # \n              2...Rd7-e7\
+  \ \n                  3.Bc3-d2 #"
+source:
+  date:
+    day: 4
+    month: 1
+    year: 1958
+  name: Die Welt
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rg8
+  white:
+  - Ka6
+  - Rb7
+  - Be6
+authors:
+- Шакиров, Равиль А.
+solution: "1.Be6-d5 ! threat:\n          2.Rb7-b1 # \n          2.Rb7-b2 # \n    \
+  \      2.Rb7-b3 # \n          2.Rb7-b4 # \n          2.Rb7-b5 # \n          2.Rb7-b6\
+  \ # \n      1...Rg8-g5 \n          2.Rb7-b5 + \n              2...Rg5*d5 \n    \
+  \              3.Rb5*d5 threat:\n                          4.Rd5-d8 # \n       \
+  \               3...Ka8-b8 \n                          4.Rd5-c5 zugzwang.\n    \
+  \                          4...Kb8-a8 \n                                  5.Rc5-c8\
+  \ # \n      1...Rg8-g6 + \n          2.Rb7-b6 + \n              2...Rg6-c6 \n  \
+  \                3.Bd5*c6 # \n      1...Rg8-g7 \n          2.Rb7*g7 + \n       \
+  \       2...Ka8-b8 \n                  3.Bd5-e6 zugzwang.\n                    \
+  \  3...Kb8-a8 \n                          4.Rg7-g8 # \n      1...Rg8-b8 \n     \
+  \     2.Rb7-a7 # \n      1...Rg8-c8 \n          2.Rb7-b1 + \n              2...Rc8-c6\
+  \ + \n                  3.Bd5*c6 # \n          2.Rb7-b2 + \n              2...Rc8-c6\
+  \ + \n                  3.Bd5*c6 # \n          2.Rb7-b3 + \n              2...Rc8-c6\
+  \ + \n                  3.Bd5*c6 # \n          2.Rb7-b4 + \n              2...Rc8-c6\
+  \ + \n                  3.Bd5*c6 # \n          2.Rb7-b5 + \n              2...Rc8-c6\
+  \ + \n                  3.Bd5*c6 # \n          2.Rb7-b6 + \n              2...Rc8-c6\
+  \ \n                  3.Bd5*c6 # \n      1...Rg8-d8 \n          2.Rb7-b5 + \n  \
+  \            2...Rd8*d5 \n                  3.Rb5*d5 threat:\n                 \
+  \         4.Rd5-d8 # \n                      3...Ka8-b8 \n                     \
+  \     4.Rd5-c5 zugzwang.\n                              4...Kb8-a8 \n          \
+  \                        5.Rc5-c8 #"
+source:
+  date:
+    day: 15
+    month: 6
+    year: 1992
+  issue: '25'
+  name: Проблемист Прибужья
+  problemid: '2633'
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rb4
+  - Pf2
+  white:
+  - Kf1
+  - Ra8
+  - Bb8
+  - Pb2
+authors:
+- Щербіна, Віктор Леонтійович
+solution: "1.Bb8-d6 ! threat:\n          2.Ra8-h8 + \n              2...Rb4-h4 \n\
+  \                  3.Rh8*h4 # \n      1...Rb4-b8 \n          2.Ra8-a4 threat:\n\
+  \                  3.Ra4-h4 # \n              2...Rb8-b3 \n                  3.Ra4-h4\
+  \ + \n                      3...Rb3-h3 \n                          4.Rh4*h3 # \n\
+  \              2...Rb8-b4 \n                  3.Bd6*b4 zugzwang.\n             \
+  \         3...Kh1-h2 \n                          4.Ra4-a3 zugzwang.\n          \
+  \                    4...Kh2-h1 \n                                  5.Ra3-h3 # \n\
+  \              2...Rb8-h8 \n                  3.Kf1*f2 threat:\n               \
+  \           4.Ra4-a1 # \n                      3...Rh8-h2 + \n                 \
+  \         4.Bd6*h2 zugzwang.\n                              4...Kh1*h2 \n      \
+  \                            5.Ra4-h4 # \n                      3...Rh8-a8 \n  \
+  \                        4.Ra4-h4 # \n                      3...Rh8-c8 \n      \
+  \                    4.Ra4-h4 # \n                      3...Rh8-e8 \n          \
+  \                4.Ra4-h4 # \n                      3...Rh8-f8 + \n            \
+  \              4.Bd6*f8 threat:\n                                  5.Ra4-h4 # \n\
+  \                      3...Rh8-g8 \n                          4.Ra4-h4 # \n    \
+  \  1...Rb4-h4 \n          2.Bd6-f4 zugzwang.\n              2...Rh4-h5 \n      \
+  \            3.Kf1*f2 threat:\n                          4.Ra8-a1 # \n         \
+  \             3...Rh5-h2 + \n                          4.Bf4*h2 zugzwang.\n    \
+  \                          4...Kh1*h2 \n                                  5.Ra8-h8\
+  \ # \n                      3...Rh5-a5 \n                          4.Ra8-h8 + \n\
+  \                              4...Ra5-h5 \n                                  5.Rh8*h5\
+  \ # \n                      3...Rh5-c5 \n                          4.Ra8-a1 + \n\
+  \                              4...Rc5-c1 \n                                  5.Ra1*c1\
+  \ # \n                          4.Ra8-h8 + \n                              4...Rc5-h5\
+  \ \n                                  5.Rh8*h5 # \n                      3...Rh5-d5\
+  \ \n                          4.Ra8-a1 + \n                              4...Rd5-d1\
+  \ \n                                  5.Ra1*d1 # \n                          4.Ra8-h8\
+  \ + \n                              4...Rd5-h5 \n                              \
+  \    5.Rh8*h5 # \n                      3...Rh5-e5 \n                          4.Ra8-a1\
+  \ + \n                              4...Re5-e1 \n                              \
+  \    5.Ra1*e1 # \n                          4.Ra8-h8 + \n                      \
+  \        4...Re5-h5 \n                                  5.Rh8*h5 # \n          \
+  \            3...Rh5-g5 \n                          4.Ra8-a1 + \n              \
+  \                4...Rg5-g1 \n                                  5.Ra1*g1 # \n  \
+  \                        4.Ra8-h8 + \n                              4...Rg5-h5 \n\
+  \                                  5.Rh8*h5 # \n                          4.Bf4*g5\
+  \ threat:\n                                  5.Ra8-h8 # \n              2...Rh4-h2\
+  \ \n                  3.Bf4*h2 threat:\n                          4.Kf1*f2 zugzwang.\n\
+  \                              4...Kh1*h2 \n                                  5.Ra8-h8\
+  \ # \n                      3...Kh1*h2 \n                          4.Ra8-a3 zugzwang.\n\
+  \                              4...Kh2-h1 \n                                  5.Ra3-h3\
+  \ # \n              2...Rh4-h3 \n                  3.Kf1*f2 threat:\n          \
+  \                4.Ra8-a1 # \n                      3...Rh3-h2 + \n            \
+  \              4.Bf4*h2 zugzwang.\n                              4...Kh1*h2 \n \
+  \                                 5.Ra8-h8 # \n                      3...Rh3-a3\
+  \ \n                          4.Ra8-h8 + \n                              4...Ra3-h3\
+  \ \n                                  5.Rh8*h3 # \n                      3...Rh3-c3\
+  \ \n                          4.Ra8-a1 + \n                              4...Rc3-c1\
+  \ \n                                  5.Ra1*c1 # \n                          4.Ra8-h8\
+  \ + \n                              4...Rc3-h3 \n                              \
+  \    5.Rh8*h3 # \n                      3...Rh3-d3 \n                          4.Ra8-a1\
+  \ + \n                              4...Rd3-d1 \n                              \
+  \    5.Ra1*d1 # \n                          4.Ra8-h8 + \n                      \
+  \        4...Rd3-h3 \n                                  5.Rh8*h3 # \n          \
+  \            3...Rh3-e3 \n                          4.Ra8-a1 + \n              \
+  \                4...Re3-e1 \n                                  5.Ra1*e1 # \n  \
+  \                        4.Ra8-h8 + \n                              4...Re3-h3 \n\
+  \                                  5.Rh8*h3 # \n                          4.Bf4*e3\
+  \ threat:\n                                  5.Ra8-h8 # \n                     \
+  \ 3...Rh3-f3 + \n                          4.Kf2*f3 threat:\n                  \
+  \                5.Ra8-a1 # \n                      3...Rh3-g3 \n              \
+  \            4.Ra8-h8 + \n                              4...Rg3-h3 \n          \
+  \                        5.Rh8*h3 # \n                          4.Kf2*g3 threat:\n\
+  \                                  5.Ra8-a1 # \n              2...Rh4*f4 \n    \
+  \              3.Ra8-h8 + \n                      3...Rf4-h4 \n                \
+  \          4.Rh8*h4 # \n              2...Rh4-g4 \n                  3.Ra8-h8 +\
+  \ \n                      3...Rg4-h4 \n                          4.Rh8*h4 # \n \
+  \             2...Rh4-h8 \n                  3.Ra8*h8 # \n              2...Rh4-h7\
+  \ \n                  3.Kf1*f2 threat:\n                          4.Ra8-a1 # \n\
+  \                      3...Rh7-h2 + \n                          4.Bf4*h2 zugzwang.\n\
+  \                              4...Kh1*h2 \n                                  5.Ra8-h8\
+  \ # \n                      3...Rh7-a7 \n                          4.Ra8-h8 + \n\
+  \                              4...Ra7-h7 \n                                  5.Rh8*h7\
+  \ # \n                      3...Rh7-c7 \n                          4.Ra8-a1 + \n\
+  \                              4...Rc7-c1 \n                                  5.Ra1*c1\
+  \ # \n                          4.Ra8-h8 + \n                              4...Rc7-h7\
+  \ \n                                  5.Rh8*h7 # \n                      3...Rh7-d7\
+  \ \n                          4.Ra8-a1 + \n                              4...Rd7-d1\
+  \ \n                                  5.Ra1*d1 # \n                          4.Ra8-h8\
+  \ + \n                              4...Rd7-h7 \n                              \
+  \    5.Rh8*h7 # \n                      3...Rh7-e7 \n                          4.Ra8-a1\
+  \ + \n                              4...Re7-e1 \n                              \
+  \    5.Ra1*e1 # \n                          4.Ra8-h8 + \n                      \
+  \        4...Re7-h7 \n                                  5.Rh8*h7 # \n          \
+  \            3...Rh7-g7 \n                          4.Ra8-a1 + \n              \
+  \                4...Rg7-g1 \n                                  5.Ra1*g1 # \n  \
+  \                        4.Ra8-h8 + \n                              4...Rg7-h7 \n\
+  \                                  5.Rh8*h7 # \n              2...Rh4-h6 \n    \
+  \              3.Kf1*f2 threat:\n                          4.Ra8-a1 # \n       \
+  \               3...Rh6-h2 + \n                          4.Bf4*h2 zugzwang.\n  \
+  \                            4...Kh1*h2 \n                                  5.Ra8-h8\
+  \ # \n                      3...Rh6-a6 \n                          4.Ra8-h8 + \n\
+  \                              4...Ra6-h6 \n                                  5.Rh8*h6\
+  \ # \n                      3...Rh6-c6 \n                          4.Ra8-a1 + \n\
+  \                              4...Rc6-c1 \n                                  5.Ra1*c1\
+  \ # \n                          4.Ra8-h8 + \n                              4...Rc6-h6\
+  \ \n                                  5.Rh8*h6 # \n                      3...Rh6-d6\
+  \ \n                          4.Ra8-a1 + \n                              4...Rd6-d1\
+  \ \n                                  5.Ra1*d1 # \n                          4.Ra8-h8\
+  \ + \n                              4...Rd6-h6 \n                              \
+  \    5.Rh8*h6 # \n                      3...Rh6-e6 \n                          4.Ra8-a1\
+  \ + \n                              4...Re6-e1 \n                              \
+  \    5.Ra1*e1 # \n                          4.Ra8-h8 + \n                      \
+  \        4...Re6-h6 \n                                  5.Rh8*h6 # \n          \
+  \            3...Rh6-g6 \n                          4.Ra8-a1 + \n              \
+  \                4...Rg6-g1 \n                                  5.Ra1*g1 # \n  \
+  \                        4.Ra8-h8 + \n                              4...Rg6-h6 \n\
+  \                                  5.Rh8*h6 # \n                  3.Bf4*h6 threat:\n\
+  \                          4.Ra8-h8 threat:\n                                  5.Bh6-c1\
+  \ # \n                                  5.Bh6-d2 # \n                          \
+  \        5.Bh6-e3 # \n                                  5.Bh6-f4 # \n          \
+  \                        5.Bh6-g5 # \n                                  5.Bh6-f8\
+  \ # \n                                  5.Bh6-g7 # \n                          \
+  \    4...Kh1-h2 \n                                  5.Bh6-f4 # \n              \
+  \        3...Kh1-h2 \n                          4.Ra8-a3 zugzwang.\n           \
+  \                   4...Kh2-h1 \n                                  5.Ra3-h3 #"
+source:
+  date:
+    year: 1994
+  name: Springaren
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh8
+  - Rb3
+  white:
+  - Kg6
+  - Re3
+  - Be6
+authors:
+- Серёжкин, Юрий Никитович
+source:
+  date:
+    year: 1994
+  name: Rochade Europa
+stipulation: '#7'
+---
+algebraic:
+  black:
+  - Ka1
+  - Rc4
+  - Pc2
+  white:
+  - Kc1
+  - Rd2
+  - Be6
+authors:
+- Серёжкин, Юрий Никитович
+solution: "1.Rd2-d8 ! threat:\n          2.Rd8-a8 + \n              2...Rc4-a4 \n\
+  \                  3.Ra8*a4 # \n      1...Ka1-a2 \n          2.Rd8-d3 zugzwang.\n\
+  \              2...Ka2-a1 \n                  3.Rd3-a3 # \n      1...Rc4-a4 \n \
+  \         2.Be6-c4 zugzwang.\n              2...Ra4-a5 \n                  3.Kc1*c2\
+  \ threat:\n                          4.Rd8-d1 # \n                      3...Ra5-a2\
+  \ + \n                          4.Bc4*a2 zugzwang.\n                           \
+  \   4...Ka1*a2 \n                                  5.Rd8-a8 # \n               \
+  \       3...Ra5-d5 \n                          4.Rd8-a8 + \n                   \
+  \           4...Rd5-a5 \n                                  5.Ra8*a5 # \n       \
+  \               3...Ra5-b5 \n                          4.Rd8-d1 + \n           \
+  \                   4...Rb5-b1 \n                                  5.Rd1*b1 # \n\
+  \                          4.Rd8-a8 + \n                              4...Rb5-a5\
+  \ \n                                  5.Ra8*a5 # \n                          4.Bc4*b5\
+  \ threat:\n                                  5.Rd8-a8 # \n              2...Ra4-a2\
+  \ \n                  3.Bc4*a2 threat:\n                          4.Kc1*c2 zugzwang.\n\
+  \                              4...Ka1*a2 \n                                  5.Rd8-a8\
+  \ # \n                      3...Ka1*a2 \n                          4.Rd8-d3 zugzwang.\n\
+  \                              4...Ka2-a1 \n                                  5.Rd3-a3\
+  \ # \n              2...Ra4-a3 \n                  3.Kc1*c2 threat:\n          \
+  \                4.Rd8-d1 # \n                      3...Ra3-a2 + \n            \
+  \              4.Bc4*a2 zugzwang.\n                              4...Ka1*a2 \n \
+  \                                 5.Rd8-a8 # \n                      3...Ra3-d3\
+  \ \n                          4.Rd8-a8 + \n                              4...Rd3-a3\
+  \ \n                                  5.Ra8*a3 # \n                          4.Bc4*d3\
+  \ threat:\n                                  5.Rd8-a8 # \n                     \
+  \ 3...Ra3-c3 + \n                          4.Kc2*c3 threat:\n                  \
+  \                5.Rd8-d1 # \n                      3...Ra3-b3 \n              \
+  \            4.Rd8-a8 + \n                              4...Rb3-a3 \n          \
+  \                        5.Ra8*a3 # \n                          4.Kc2*b3 threat:\n\
+  \                                  5.Rd8-d1 # \n              2...Ra4-a8 \n    \
+  \              3.Rd8*a8 # \n              2...Ra4-a7 \n                  3.Kc1*c2\
+  \ threat:\n                          4.Rd8-d1 # \n                      3...Ra7-a2\
+  \ + \n                          4.Bc4*a2 zugzwang.\n                           \
+  \   4...Ka1*a2 \n                                  5.Rd8-a8 # \n               \
+  \       3...Ra7-d7 \n                          4.Rd8-a8 + \n                   \
+  \           4...Rd7-a7 \n                                  5.Ra8*a7 # \n       \
+  \               3...Ra7-b7 \n                          4.Rd8-d1 + \n           \
+  \                   4...Rb7-b1 \n                                  5.Rd1*b1 # \n\
+  \                          4.Rd8-a8 + \n                              4...Rb7-a7\
+  \ \n                                  5.Ra8*a7 # \n              2...Ra4-a6 \n \
+  \                 3.Kc1*c2 threat:\n                          4.Rd8-d1 # \n    \
+  \                  3...Ra6-a2 + \n                          4.Bc4*a2 zugzwang.\n\
+  \                              4...Ka1*a2 \n                                  5.Rd8-a8\
+  \ # \n                      3...Ra6-d6 \n                          4.Rd8-a8 + \n\
+  \                              4...Rd6-a6 \n                                  5.Ra8*a6\
+  \ # \n                      3...Ra6-b6 \n                          4.Rd8-d1 + \n\
+  \                              4...Rb6-b1 \n                                  5.Rd1*b1\
+  \ # \n                          4.Rd8-a8 + \n                              4...Rb6-a6\
+  \ \n                                  5.Ra8*a6 # \n                  3.Bc4*a6 threat:\n\
+  \                          4.Rd8-a8 threat:\n                                  5.Ba6-f1\
+  \ # \n                                  5.Ba6-e2 # \n                          \
+  \        5.Ba6-d3 # \n                                  5.Ba6-c4 # \n          \
+  \                        5.Ba6-b5 # \n                                  5.Ba6-c8\
+  \ # \n                                  5.Ba6-b7 # \n                          \
+  \    4...Ka1-a2 \n                                  5.Ba6-c4 # \n              \
+  \        3...Ka1-a2 \n                          4.Rd8-d3 zugzwang.\n           \
+  \                   4...Ka2-a1 \n                                  5.Rd3-a3 # \n\
+  \              2...Ra4*c4 \n                  3.Rd8-a8 + \n                    \
+  \  3...Rc4-a4 \n                          4.Ra8*a4 # \n              2...Ra4-b4\
+  \ \n                  3.Rd8-a8 + \n                      3...Rb4-a4 \n         \
+  \                 4.Ra8*a4 # \n      1...Rc4-c8 \n          2.Be6*c8 zugzwang.\n\
+  \              2...Ka1-a2 \n                  3.Rd8-d3 zugzwang.\n             \
+  \         3...Ka2-a1 \n                          4.Rd3-a3 #"
+source:
+  date:
+    year: 1995
+  name: Смена (Москва)
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh5
+  - Re1
+  - Pa2
+  white:
+  - Kh7
+  - Rg7
+  - Ba4
+  - Pg3
+authors:
+- Kalisz, Henryk
+solution: "1.Ba4-b3 ! threat:\n          2.Bb3-f7 # \n      1...Re1-e7 \n        \
+  \  2.Bb3-d1 + \n              2...Re7-e2 \n                  3.Bd1*e2 # \n     \
+  \ 1...Re1-e6 \n          2.Bb3-d1 + \n              2...Re6-e2 \n              \
+  \    3.Bd1*e2 # \n          2.Bb3*e6 threat:\n                  3.Be6-g4 # \n  \
+  \                3.Be6-f7 # \n      1...Re1-f1 \n          2.Bb3-c4 threat:\n  \
+  \                3.Bc4*f1 threat:\n                          4.Bf1-e2 # \n     \
+  \             3.Bc4-e2 + \n                      3...Rf1-f3 \n                 \
+  \         4.Be2*f3 # \n              2...Rf1-f8 \n                  3.Bc4-e2 + \n\
+  \                      3...Rf8-f3 \n                          4.Be2*f3 # \n    \
+  \          2...Rf1-f6 \n                  3.Bc4-e2 + \n                      3...Rf6-f3\
+  \ \n                          4.Be2*f3 # \n              2...Rf1-f5 \n         \
+  \         3.Bc4-e2 + \n                      3...Rf5-f3 \n                     \
+  \     4.Be2*f3 # \n              2...Rf1-f4 \n                  3.Bc4-e2 + \n  \
+  \                    3...Rf4-f3 \n                          4.Be2*f3 # \n      \
+  \                3...Rf4-g4 \n                          4.Be2*g4 # \n          \
+  \    2...Rf1-f3 \n                  3.Bc4-e2 threat:\n                         \
+  \ 4.Be2*f3 # \n              2...Rf1-f2 \n                  3.Bc4-b5 threat:\n \
+  \                         4.Bb5-e8 + \n                              4...Rf2-f7\
+  \ \n                                  5.Be8*f7 # \n                      3...Rf2-f8\
+  \ \n                          4.Bb5-e2 + \n                              4...Rf8-f3\
+  \ \n                                  5.Be2*f3 # \n                      3...Rf2-f6\
+  \ \n                          4.Bb5-e2 + \n                              4...Rf6-f3\
+  \ \n                                  5.Be2*f3 # \n              2...a2-a1=Q \n\
+  \                  3.Bc4-e2 + \n                      3...Rf1-f3 \n            \
+  \              4.Be2*f3 # \n              2...a2-a1=R \n                  3.Bc4-e2\
+  \ + \n                      3...Rf1-f3 \n                          4.Be2*f3 # \n\
+  \              2...a2-a1=B \n                  3.Bc4-e2 + \n                   \
+  \   3...Rf1-f3 \n                          4.Be2*f3 #"
+source:
+  date:
+    year: 2000
+  name: Augsburger Allgemeine
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ke7
+  - Ra3
+  white:
+  - Kh6
+  - Rb6
+  - Bf5
+  - Pg7
+authors:
+- Kozdon, Baldur J. L.
+solution: "1.g7-g8=R ! threat:\n          2.Rg8-g7 + \n              2...Ke7-e8 \n\
+  \                  3.Rb6-b8 # \n              2...Ke7-d8 \n                  3.Rb6-b8\
+  \ # \n              2...Ke7-f8 \n                  3.Rb6-b8 # \n      1...Ra3-a8\
+  \ \n          2.Rg8*a8 threat:\n                  3.Ra8-a7 + \n                \
+  \      3...Ke7-e8 \n                          4.Rb6-b8 # \n                    \
+  \  3...Ke7-d8 \n                          4.Rb6-b8 # \n                      3...Ke7-f8\
+  \ \n                          4.Rb6-b8 # \n                  3.Kh6-g5 zugzwang.\n\
+  \                      3...Ke7-f7 \n                          4.Rb6-b7 # \n    \
+  \          2...Ke7-f7 \n                  3.Ra8-a7 + \n                      3...Kf7-f8\
+  \ \n                          4.Rb6-b8 # \n                      3...Kf7-e8 \n \
+  \                         4.Rb6-b8 # \n                      3...Kf7-g8 \n     \
+  \                     4.Rb6-b8 # \n      1...Ra3-a6 \n          2.Rg8-g7 + \n  \
+  \            2...Ke7-e8 \n                  3.Rb6*a6 threat:\n                 \
+  \         4.Ra6-a8 # \n                  3.Bf5-g6 + \n                      3...Ke8-f8\
+  \ \n                          4.Rb6-b8 # \n                      3...Ke8-d8 \n \
+  \                         4.Rb6-b8 # \n              2...Ke7-d8 \n             \
+  \     3.Rb6*a6 threat:\n                          4.Ra6-a8 # \n              2...Ke7-f8\
+  \ \n                  3.Rb6*a6 threat:\n                          4.Ra6-a8 # \n\
+  \          2.Rb6*a6 threat:\n                  3.Rg8-g7 + \n                   \
+  \   3...Ke7-e8 \n                          4.Ra6-a8 # \n                      3...Ke7-d8\
+  \ \n                          4.Ra6-a8 # \n                      3...Ke7-f8 \n \
+  \                         4.Ra6-a8 # \n      1...Ra3-h3 + \n          2.Bf5*h3 threat:\n\
+  \                  3.Rg8-g7 + \n                      3...Ke7-e8 \n            \
+  \              4.Rb6-b8 # \n                      3...Ke7-d8 \n                \
+  \          4.Rb6-b8 # \n                      3...Ke7-f8 \n                    \
+  \      4.Rb6-b8 # \n      1...Ra3-g3 \n          2.Rg8*g3 threat:\n            \
+  \      3.Rg3-g7 + \n                      3...Ke7-e8 \n                        \
+  \  4.Rb6-b8 # \n                      3...Ke7-d8 \n                          4.Rb6-b8\
+  \ # \n                      3...Ke7-f8 \n                          4.Rb6-b8 # \n\
+  \      1...Ra3-e3 \n          2.Rg8-g7 + \n              2...Ke7-e8 \n         \
+  \         3.Rb6-b8 # \n              2...Ke7-d8 \n                  3.Rb6-b8 # \n\
+  \              2...Ke7-f8 \n                  3.Bf5-d7 threat:\n               \
+  \           4.Rb6-f6 # \n                      3...Re3-e7 \n                   \
+  \       4.Rb6-f6 + \n                              4...Re7-f7 \n               \
+  \                   5.Rf6*f7 # \n                          4.Rb6-b8 + \n       \
+  \                       4...Re7-e8 \n                                  5.Rb8*e8\
+  \ # \n                      3...Re3-e6 + \n                          4.Bd7*e6 threat:\n\
+  \                                  5.Rb6-b8 # \n                      3...Re3-h3\
+  \ + \n                          4.Bd7*h3 threat:\n                             \
+  \     5.Rb6-b8 # \n                      3...Re3-f3 \n                         \
+  \ 4.Rb6-b8 # \n      1...Ra3-d3 \n          2.Rg8-g7 + \n              2...Ke7-e8\
+  \ \n                  3.Bf5*d3 threat:\n                          4.Rb6-b8 # \n\
+  \                  3.Bf5-g6 + \n                      3...Ke8-f8 \n            \
+  \              4.Rb6-f6 # \n                      3...Ke8-d8 \n                \
+  \          4.Rb6-b8 # \n              2...Ke7-d8 \n                  3.Rb6-b8 #\
+  \ \n              2...Ke7-f8 \n                  3.Rb6-b8 + \n                 \
+  \     3...Rd3-d8 \n                          4.Rb8*d8 # \n                  3.Bf5*d3\
+  \ threat:\n                          4.Rb6-b8 # \n      1...Ra3-c3 \n          2.Rg8-g7\
+  \ + \n              2...Ke7-e8 \n                  3.Rb6-b8 + \n               \
+  \       3...Rc3-c8 \n                          4.Rb8*c8 # \n              2...Ke7-d8\
+  \ \n                  3.Rb6-b8 + \n                      3...Rc3-c8 \n         \
+  \                 4.Rb8*c8 # \n              2...Ke7-f8 \n                  3.Rb6-b8\
+  \ + \n                      3...Rc3-c8 \n                          4.Rb8*c8 # \n\
+  \      1...Ra3-b3 \n          2.Rg8-g7 + \n              2...Ke7-e8 \n         \
+  \         3.Rb6*b3 threat:\n                          4.Rb3-b8 # \n            \
+  \  2...Ke7-d8 \n                  3.Rb6*b3 threat:\n                          4.Rb3-b8\
+  \ # \n              2...Ke7-f8 \n                  3.Rb6*b3 threat:\n          \
+  \                4.Rb3-b8 #"
+source:
+  date:
+    year: 2001
+  name: Hannoversche Allgemeine Zeitung
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ka5
+  - Rb6
+  white:
+  - Kc5
+  - Re4
+  - Bd5
+  - Pe2
+  - Pb2
+authors:
+- Зиновьев, Николай С.
+source:
+  date:
+    year: 2006
+  name: Ideal-Mate Review
+stipulation: '#8'
+---
+algebraic:
+  black:
+  - Kh7
+  - Ra6
+  white:
+  - Kf7
+  - Rg5
+  - Bc7
+  - Ph3
+  - Pf3
+authors:
+- Kozdon, Baldur J. L.
+source:
+  date:
+    year: 2006
+  name: Problem-Forum
+stipulation: '#8'
+---
+algebraic:
+  black:
+  - Ka5
+  - Ra6
+  - Ph7
+  - Ph3
+  - Pd4
+  - Pb6
+  - Pb5
+  - Pa7
+  white:
+  - Kb3
+  - Rg5
+  - Bf5
+  - Ph6
+  - Ph5
+  - Ph2
+  - Pd3
+authors:
+- Балашов, Евгений Фёдорович
+award:
+  distinction: 3rd Prize
+  tourney:
+    name: Шахматы в СССР
+solution: "1.Bf5-g6 ! \n      1...h7*g6 \n          2.h6-h7 \n              2...g6*h5\
+  \ \n                  3.h7-h8=B! \n                      3...h5-h4 \n          \
+  \                4.Bh8-e5 zugzwang.\n                              4...b5-b4 \n\
+  \                                  5.Be5-c7 #"
+source:
+  date:
+    year: 1973
+  name: Шахматы в СССР
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh5
+  - Re1
+  - Ph6
+  - Pg5
+  - Pg4
+  - Pe5
+  - Pd6
+  - Pd4
+  - Pc5
+  - Pa3
+  white:
+  - Kd5
+  - Rf7
+  - Bd3
+  - Pg3
+  - Pf5
+authors:
+- Albertz, Heinrich
+solution: "1.Bd3-b5 ! threat:\n          2.Rf7-f6 threat:\n                  3.Bb5-e8\
+  \ # \n          2.Rf7-a7 threat:\n                  3.Bb5-e8 # \n          2.Rf7-b7\
+  \ threat:\n                  3.Bb5-e8 # \n          2.Rf7-c7 threat:\n         \
+  \         3.Bb5-e8 # \n          2.Rf7-e7 threat:\n                  3.Bb5-e8 #\
+  \ \n          2.Rf7-f8 threat:\n                  3.Bb5-e8 # \n          2.Rf7-h7\
+  \ threat:\n                  3.Bb5-e8 # \n          2.Rf7-g7 threat:\n         \
+  \         3.Bb5-e8 # \n          2.Bb5-e8 threat:\n                  3.Rf7-f6 #\
+  \ \n                  3.Rf7-a7 # \n                  3.Rf7-b7 # \n             \
+  \     3.Rf7-c7 # \n                  3.Rf7-d7 # \n                  3.Rf7-e7 # \n\
+  \                  3.Rf7-f8 # \n                  3.Rf7-h7 # \n                \
+  \  3.Rf7-g7 # \n      1...Re1-b1 \n          2.Rf7-b7 threat:\n                \
+  \  3.Bb5-e8 # \n              2...Rb1*b5 \n                  3.Rb7*b5 threat:\n\
+  \                          4.Rb5-b1 threat:\n                                  5.Rb1-h1\
+  \ # \n                      3...a3-a2 \n                          4.Rb5-b2 threat:\n\
+  \                                  5.Rb2-h2 # \n          2.Bb5-e8 threat:\n   \
+  \               3.Rf7-f6 # \n                  3.Rf7-a7 # \n                  3.Rf7-b7\
+  \ # \n                  3.Rf7-c7 # \n                  3.Rf7-d7 # \n           \
+  \       3.Rf7-e7 # \n                  3.Rf7-f8 # \n                  3.Rf7-h7 #\
+  \ \n                  3.Rf7-g7 # \n              2...Rb1-b8 \n                 \
+  \ 3.Rf7-b7 + \n                      3...Rb8*e8 \n                          4.Rb7-b1\
+  \ threat:\n                                  5.Rb1-h1 # \n              2...Rb1-b7\
+  \ \n                  3.Rf7*b7 # \n                  3.Rf7-c7 # \n             \
+  \     3.Rf7-d7 # \n                  3.Rf7-e7 # \n      1...Re1-e3 \n          2.Bb5-e8\
+  \ threat:\n                  3.Rf7-f6 # \n                  3.Rf7-a7 # \n      \
+  \            3.Rf7-b7 # \n                  3.Rf7-c7 # \n                  3.Rf7-d7\
+  \ # \n                  3.Rf7-e7 # \n                  3.Rf7-f8 # \n           \
+  \       3.Rf7-h7 # \n                  3.Rf7-g7 # \n              2...Re3*g3 \n\
+  \                  3.Rf7-f6 + \n                      3...Kh5-h4 \n            \
+  \              4.Rf6*h6 # \n                  3.Rf7-h7 + \n                    \
+  \  3...Kh5-h4 \n                          4.Rh7*h6 # \n          2.Rf7-f6 threat:\n\
+  \                  3.Bb5-e8 # \n              2...Re3*g3 \n                  3.Bb5-e8\
+  \ + \n                      3...Kh5-h4 \n                          4.Rf6*h6 # \n\
+  \          2.Rf7-h7 threat:\n                  3.Bb5-e8 # \n              2...Re3*g3\
+  \ \n                  3.Bb5-e8 + \n                      3...Kh5-h4 \n         \
+  \                 4.Rh7*h6 # \n      1...Re1-g1 \n          2.Rf7-h7 threat:\n \
+  \                 3.Bb5-e8 # \n              2...Rg1*g3 \n                  3.Bb5-e8\
+  \ + \n                      3...Kh5-h4 \n                          4.Rh7*h6 # \n\
+  \          2.Rf7-f6 threat:\n                  3.Bb5-e8 # \n              2...Rg1*g3\
+  \ \n                  3.Bb5-e8 + \n                      3...Kh5-h4 \n         \
+  \                 4.Rf6*h6 # \n          2.Bb5-e8 threat:\n                  3.Rf7-f6\
+  \ # \n                  3.Rf7-a7 # \n                  3.Rf7-b7 # \n           \
+  \       3.Rf7-c7 # \n                  3.Rf7-d7 # \n                  3.Rf7-e7 #\
+  \ \n                  3.Rf7-f8 # \n                  3.Rf7-h7 # \n             \
+  \     3.Rf7-g7 # \n              2...Rg1*g3 \n                  3.Rf7-f6 + \n  \
+  \                    3...Kh5-h4 \n                          4.Rf6*h6 # \n      \
+  \            3.Rf7-h7 + \n                      3...Kh5-h4 \n                  \
+  \        4.Rh7*h6 # \n      1...Re1-f1 \n          2.Rf7-f6 threat:\n          \
+  \        3.Bb5-e8 # \n          2.Bb5-e8 threat:\n                  3.Rf7-f6 # \n\
+  \                  3.Rf7-a7 # \n                  3.Rf7-b7 # \n                \
+  \  3.Rf7-c7 # \n                  3.Rf7-d7 # \n                  3.Rf7-e7 # \n \
+  \                 3.Rf7-f8 # \n                  3.Rf7-h7 # \n                 \
+  \ 3.Rf7-g7 # \n              2...Rf1*f5 \n                  3.Rf7*f5 # \n      \
+  \            3.Rf7-f6 #"
+source:
+  date:
+    year: 1925
+  name: Arbeiter-Schachzeitung
+  problemid: '1301'
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Ph4
+  - Pg7
+  - Pf4
+  - Pd7
+  white:
+  - Ke1
+  - Rh1
+  - Bd6
+  - Pg6
+  - Pe2
+  - Pc4
+  - Pa6
+authors:
+- Ярославцев, Аркадий Иванович
+award:
+  distinction: 2nd HM
+  tourney:
+    name: Pamjati Loida
+solution: "1.c4-c5 ! threat:\n          2.Ke1-f2 zugzwang.\n              2...Ra8*a6\
+  \ \n                  3.Rh1*h4 threat:\n                          4.Rh4-h8 # \n\
+  \                      3...Ra6*d6 \n                          4.c5*d6 threat:\n\
+  \                                  5.Rh4-h8 # \n              2...f4-f3 \n     \
+  \             3.Rh1*h4 threat:\n                          4.Rh4-h8 # \n        \
+  \              3...0-0-0 \n                          4.Rh4-b4 threat:\n        \
+  \                          5.Rb4-b8 # \n              2...h4-h3 \n             \
+  \     3.Rh1*h3 threat:\n                          4.Rh3-h8 # \n                \
+  \      3...0-0-0 \n                          4.Rh3-b3 threat:\n                \
+  \                  5.Rb3-b8 # \n              2...Ra8-a7 \n                  3.Rh1*h4\
+  \ threat:\n                          4.Rh4-h8 # \n              2...Ra8-d8 \n  \
+  \                3.Rh1*h4 threat:\n                          4.Rh4-h8 # \n     \
+  \         2...Ra8-c8 \n                  3.Rh1*h4 threat:\n                    \
+  \      4.Rh4-h8 # \n              2...Ra8-b8 \n                  3.Rh1*h4 threat:\n\
+  \                          4.Rh4-h8 # \n              2...0-0-0 \n             \
+  \     3.Rh1-b1 threat:\n                          4.Rb1-b8 # \n              2...Ke8-d8\
+  \ \n                  3.Rh1*h4 threat:\n                          4.Rh4-h8 # \n\
+  \      1...f4-f3 \n          2.Rh1*h4 threat:\n                  3.Rh4-h8 # \n \
+  \             2...f3-f2 + \n                  3.Ke1-f1 threat:\n               \
+  \           4.Rh4-h8 # \n                      3...0-0-0 \n                    \
+  \      4.Rh4-b4 threat:\n                                  5.Rb4-b8 # \n       \
+  \       2...0-0-0 \n                  3.Rh4-b4 threat:\n                       \
+  \   4.Rb4-b8 # \n                      3...f3-f2 + \n                          4.Ke1-f1\
+  \ threat:\n                                  5.Rb4-b8 # \n      1...Ra8*a6 \n  \
+  \        2.Rh1*h4 threat:\n                  3.Rh4-h8 # \n              2...Ra6-a1\
+  \ + \n                  3.Ke1-f2 threat:\n                          4.Rh4-h8 # \n\
+  \                      3...Ra1-h1 \n                          4.Rh4*h1 threat:\n\
+  \                                  5.Rh1-h8 # \n                      3...Ra1-f1\
+  \ + \n                          4.Kf2*f1 threat:\n                             \
+  \     5.Rh4-h8 # \n              2...Ra6*d6 \n                  3.c5*d6 threat:\n\
+  \                          4.Rh4-h8 # \n      1...Ra8-b8 \n          2.a6-a7 threat:\n\
+  \                  3.a7*b8=Q # \n                  3.a7*b8=R # \n              2...Rb8-b1\
+  \ + \n                  3.Ke1-f2 threat:\n                          4.a7-a8=Q +\
+  \ \n                              4...Rb1-b8 \n                                \
+  \  5.Qa8*b8 # \n                          4.a7-a8=R + \n                       \
+  \       4...Rb1-b8 \n                                  5.Ra8*b8 # \n           \
+  \               4.Rh1*b1 threat:\n                                  5.a7-a8=Q #\
+  \ \n                                  5.a7-a8=R # \n                           \
+  \       5.Rb1-b8 # \n                      3...Rb1-a1 \n                       \
+  \   4.Rh1*a1 threat:\n                                  5.a7-a8=Q # \n         \
+  \                         5.a7-a8=R # \n                      3...Rb1-b7 \n    \
+  \                      4.a7-a8=Q + \n                              4...Rb7-b8 \n\
+  \                                  5.Qa8*b8 # \n                          4.a7-a8=R\
+  \ + \n                              4...Rb7-b8 \n                              \
+  \    5.Ra8*b8 # \n                          4.Rh1*h4 threat:\n                 \
+  \                 5.Rh4-h8 # \n                      3...Rb1-b6 \n             \
+  \             4.a7-a8=Q + \n                              4...Rb6-b8 \n        \
+  \                          5.Qa8*b8 # \n                          4.a7-a8=R + \n\
+  \                              4...Rb6-b8 \n                                  5.Ra8*b8\
+  \ # \n                          4.c5*b6 threat:\n                              \
+  \    5.a7-a8=Q # \n                                  5.a7-a8=R # \n            \
+  \          3...Rb1-b5 \n                          4.a7-a8=Q + \n               \
+  \               4...Rb5-b8 \n                                  5.Qa8*b8 # \n   \
+  \                       4.a7-a8=R + \n                              4...Rb5-b8 \n\
+  \                                  5.Ra8*b8 # \n                          4.Rh1*h4\
+  \ threat:\n                                  5.Rh4-h8 # \n                     \
+  \ 3...Rb1-b4 \n                          4.a7-a8=Q + \n                        \
+  \      4...Rb4-b8 \n                                  5.Qa8*b8 # \n            \
+  \              4.a7-a8=R + \n                              4...Rb4-b8 \n       \
+  \                           5.Ra8*b8 # \n                          4.Rh1*h4 threat:\n\
+  \                                  5.Rh4-h8 # \n                      3...Rb1-b3\
+  \ \n                          4.a7-a8=Q + \n                              4...Rb3-b8\
+  \ \n                                  5.Qa8*b8 # \n                          4.a7-a8=R\
+  \ + \n                              4...Rb3-b8 \n                              \
+  \    5.Ra8*b8 # \n                      3...Rb1-b2 \n                          4.a7-a8=Q\
+  \ + \n                              4...Rb2-b8 \n                              \
+  \    5.Qa8*b8 # \n                          4.a7-a8=R + \n                     \
+  \         4...Rb2-b8 \n                                  5.Ra8*b8 # \n         \
+  \             3...Rb1-f1 + \n                          4.Kf2*f1 threat:\n      \
+  \                            5.a7-a8=Q # \n                                  5.a7-a8=R\
+  \ # \n                          4.Rh1*f1 threat:\n                             \
+  \     5.a7-a8=Q # \n                                  5.a7-a8=R # \n           \
+  \   2...Rb8-b2 \n                  3.a7-a8=Q + \n                      3...Rb2-b8\
+  \ \n                          4.Qa8*b8 # \n                  3.a7-a8=R + \n    \
+  \                  3...Rb2-b8 \n                          4.Ra8*b8 # \n        \
+  \      2...Rb8-b3 \n                  3.a7-a8=Q + \n                      3...Rb3-b8\
+  \ \n                          4.Qa8*b8 # \n                  3.a7-a8=R + \n    \
+  \                  3...Rb3-b8 \n                          4.Ra8*b8 # \n        \
+  \      2...Rb8-b4 \n                  3.a7-a8=Q + \n                      3...Rb4-b8\
+  \ \n                          4.Qa8*b8 # \n                  3.a7-a8=R + \n    \
+  \                  3...Rb4-b8 \n                          4.Ra8*b8 # \n        \
+  \      2...Rb8-b5 \n                  3.a7-a8=Q + \n                      3...Rb5-b8\
+  \ \n                          4.Qa8*b8 # \n                  3.a7-a8=R + \n    \
+  \                  3...Rb5-b8 \n                          4.Ra8*b8 # \n        \
+  \      2...Rb8-b6 \n                  3.a7-a8=Q + \n                      3...Rb6-b8\
+  \ \n                          4.Qa8*b8 # \n                  3.a7-a8=R + \n    \
+  \                  3...Rb6-b8 \n                          4.Ra8*b8 # \n        \
+  \          3.c5*b6 threat:\n                          4.a7-a8=Q # \n           \
+  \               4.a7-a8=R # \n              2...Rb8-b7 \n                  3.a7-a8=Q\
+  \ + \n                      3...Rb7-b8 \n                          4.Qa8*b8 # \n\
+  \                  3.a7-a8=R + \n                      3...Rb7-b8 \n           \
+  \               4.Ra8*b8 # \n              2...Rb8-a8 \n                  3.Rh1*h4\
+  \ threat:\n                          4.Rh4-h8 # \n              2...Rb8-d8 \n  \
+  \                3.Rh1*h4 threat:\n                          4.Rh4-h8 # \n     \
+  \         2...Rb8-c8 \n                  3.Rh1*h4 threat:\n                    \
+  \      4.Rh4-h8 # \n          2.Rh1*h4 threat:\n                  3.Rh4-h8 # \n\
+  \              2...Rb8-b1 + \n                  3.Ke1-f2 threat:\n             \
+  \             4.Rh4-h8 # \n                      3...Rb1-h1 \n                 \
+  \         4.Rh4*h1 threat:\n                                  5.Rh1-h8 # \n    \
+  \                  3...Rb1-f1 + \n                          4.Kf2*f1 threat:\n \
+  \                                 5.Rh4-h8 # \n      1...0-0-0 \n          2.0-0\
+  \ threat:\n                  3.Rf1-b1 threat:\n                          4.Rb1-b8\
+  \ # \n              2...f4-f3 \n                  3.Rf1-b1 threat:\n           \
+  \               4.Rb1-b8 # \n                      3...f3-f2 + \n              \
+  \            4.Kg1-f1 threat:\n                                  5.Rb1-b8 # \n \
+  \             2...h4-h3 \n                  3.Rf1-b1 threat:\n                 \
+  \         4.Rb1-b8 # \n                      3...h3-h2 + \n                    \
+  \      4.Kg1-h1 threat:\n                                  5.Rb1-b8 # \n       \
+  \           3.Kg1-h1 threat:\n                          4.Rf1-b1 threat:\n     \
+  \                             5.Rb1-b8 #"
+source:
+  date:
+    year: 1961
+  name: Pamjati Loida
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kg1
+  - Rh1
+  - Ph6
+  - Ph2
+  - Pg2
+  - Pf3
+  - Pd6
+  - Pb3
+  white:
+  - Ke1
+  - Rd8
+  - Bf7
+  - Ph3
+  - Pf2
+  - Pd3
+  - Pc2
+authors:
+- Genenncher, Frank
+solution: "1.c2*b3 ! threat:\n          2.Rd8-g8 threat:\n                  3.Bf7-d5\
+  \ threat:\n                          4.Bd5*f3 threat:\n                        \
+  \          5.Rg8*g2 # \n                  3.Bf7-h5 threat:\n                   \
+  \       4.Bh5*f3 threat:\n                                  5.Rg8*g2 # \n      \
+  \    2.Bf7-d5 threat:\n                  3.Rd8-g8 threat:\n                    \
+  \      4.Bd5*f3 threat:\n                                  5.Rg8*g2 # \n       \
+  \           3.Bd5*f3 threat:\n                          4.Rd8-g8 threat:\n     \
+  \                             5.Rg8*g2 # \n          2.Bf7-h5 threat:\n        \
+  \          3.Rd8-g8 threat:\n                          4.Bh5*f3 threat:\n      \
+  \                            5.Rg8*g2 # \n                  3.Bh5*f3 threat:\n \
+  \                         4.Rd8-g8 threat:\n                                  5.Rg8*g2\
+  \ # \n      1...d6-d5 \n          2.Bf7-h5 threat:\n                  3.Rd8-g8 threat:\n\
+  \                          4.Bh5*f3 threat:\n                                  5.Rg8*g2\
+  \ # \n                  3.Bh5*f3 threat:\n                          4.Rd8-g8 threat:\n\
+  \                                  5.Rg8*g2 # \n              2...d5-d4 \n     \
+  \             3.Bh5*f3 threat:\n                          4.Rd8-g8 threat:\n   \
+  \                               5.Rg8*g2 # \n      1...h6-h5 \n          2.Bf7-d5\
+  \ threat:\n                  3.Rd8-g8 threat:\n                          4.Bd5*f3\
+  \ threat:\n                                  5.Rg8*g2 # \n                  3.Bd5*f3\
+  \ threat:\n                          4.Rd8-g8 threat:\n                        \
+  \          5.Rg8*g2 # \n              2...h5-h4 \n                  3.Bd5*f3 threat:\n\
+  \                          4.Rd8-g8 threat:\n                                  5.Rg8*g2\
+  \ #"
+source:
+  date:
+    year: 1976
+  name: Die Schwalbe
+  problemid: '1819'
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh8
+  - Rc1
+  - Ph4
+  - Pg2
+  - Pf4
+  - Pe7
+  - Pd6
+  - Pd5
+  - Pb2
+  - Pa6
+  white:
+  - Kf7
+  - Rd3
+  - Bg6
+authors:
+- Schade van Westrum, Louis Ceril
+solution: "1.Rd3-h3 ! threat:\n          2.Rh3*h4 # \n      1...Rc1-h1 \n        \
+  \  2.Rh3-c3 threat:\n                  3.Rc3-c8 # \n              2...Rh1-c1 \n\
+  \                  3.Bg6-c2 threat:\n                          4.Rc3-c8 # \n   \
+  \                   3...Rc1*c2 \n                          4.Rc3-h3 threat:\n  \
+  \                                5.Rh3*h4 # \n                      3...g2-g1=Q\
+  \ \n                          4.Rc3-c8 + \n                              4...Qg1-g8\
+  \ + \n                                  5.Rc8*g8 # \n                      3...g2-g1=R\
+  \ \n                          4.Rc3-c8 + \n                              4...Rg1-g8\
+  \ \n                                  5.Rc8*g8 #"
+source:
+  date:
+    year: 1983
+  name: Probleemblad
+  problemid: '8752'
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kf5
+  - Rb5
+  - Pf6
+  - Pf3
+  - Pc7
+  white:
+  - Kf7
+  - Rd4
+  - Bh2
+  - Ph4
+  - Ph3
+  - Pf2
+  - Pd3
+  - Pb2
+  - Pa2
+authors:
+- Macleod, Norman Alasdair
+solution: "1.b2-b4 ! zugzwang.\n      1...Rb5-c5 \n          2.a2-a4 zugzwang.\n \
+  \             2...Rc5-b5 \n                  3.a4*b5 threat:\n                 \
+  \         4.Rd4-d5 # \n                      3...c7-c6 \n                      \
+  \    4.b5-b6 zugzwang.\n                              4...c6-c5 \n             \
+  \                     5.Rd4-d5 # \n                          4.Rd4-c4 threat:\n\
+  \                                  5.Rc4-c5 # \n                          4.Rd4-d8\
+  \ zugzwang.\n                              4...c6-c5 \n                        \
+  \          5.Rd8-d5 # \n                              4...c6*b5 \n             \
+  \                     5.Rd8-d5 # \n                          4.Rd4-d7 zugzwang.\n\
+  \                              4...c6-c5 \n                                  5.Rd7-d5\
+  \ # \n                              4...c6*b5 \n                               \
+  \   5.Rd7-d5 # \n                          4.Rd4-d6 threat:\n                  \
+  \                5.Rd6*f6 # \n                          4.Bh2-b8 threat:\n     \
+  \                             5.Rd4-f4 # \n                          4.Bh2-c7 threat:\n\
+  \                                  5.Rd4-f4 # \n                          4.Bh2-d6\
+  \ threat:\n                                  5.Rd4-f4 # \n                     \
+  \     4.Bh2-g3 zugzwang.\n                              4...c6-c5 \n           \
+  \                       5.Rd4-d5 # \n                              4...c6*b5 \n\
+  \                                  5.Rd4-d5 # \n              2...Rc5-c1 \n    \
+  \              3.Rd4-d5 # \n              2...Rc5-c2 \n                  3.Rd4-d5\
+  \ # \n              2...Rc5-c3 \n                  3.Rd4-d5 # \n              2...Rc5-c4\
+  \ \n                  3.Rd4-d5 # \n              2...Rc5-a5 \n                 \
+  \ 3.b4*a5 threat:\n                          4.Rd4-d5 # \n                     \
+  \ 3...c7-c6 \n                          4.a5-a6 zugzwang.\n                    \
+  \          4...c6-c5 \n                                  5.Rd4-d5 # \n         \
+  \                 4.Rd4-c4 threat:\n                                  5.Rc4-c5 #\
+  \ \n                          4.Rd4-d8 zugzwang.\n                             \
+  \ 4...c6-c5 \n                                  5.Rd8-d5 # \n                  \
+  \        4.Rd4-d7 zugzwang.\n                              4...c6-c5 \n        \
+  \                          5.Rd7-d5 # \n                          4.Rd4-d6 threat:\n\
+  \                                  5.Rd6*f6 # \n                          4.Bh2-b8\
+  \ threat:\n                                  5.Rd4-f4 # \n                     \
+  \     4.Bh2-c7 threat:\n                                  5.Rd4-f4 # \n        \
+  \                  4.Bh2-d6 threat:\n                                  5.Rd4-f4\
+  \ # \n                          4.Bh2-g3 zugzwang.\n                           \
+  \   4...c6-c5 \n                                  5.Rd4-d5 # \n              2...Rc5-c6\
+  \ \n                  3.Rd4-d5 # \n              2...Rc5-e5 \n                 \
+  \ 3.Rd4-f4 # \n              2...Rc5-d5 \n                  3.Rd4*d5 # \n      \
+  \        2...c7-c6 \n                  3.Rd4-d6 threat:\n                      \
+  \    4.Rd6*f6 # \n      1...Rb5*b4 \n          2.Rd4-d5 # \n      1...Rb5-a5 \n\
+  \          2.b4*a5 threat:\n                  3.Rd4-d5 # \n              2...c7-c6\
+  \ \n                  3.a5-a6 zugzwang.\n                      3...c6-c5 \n    \
+  \                      4.Rd4-d5 # \n                  3.Rd4-c4 threat:\n       \
+  \                   4.Rc4-c5 # \n                  3.Rd4-d8 zugzwang.\n        \
+  \              3...c6-c5 \n                          4.Rd8-d5 # \n             \
+  \     3.Rd4-d7 zugzwang.\n                      3...c6-c5 \n                   \
+  \       4.Rd7-d5 # \n                  3.Rd4-d6 threat:\n                      \
+  \    4.Rd6*f6 # \n                  3.Bh2-b8 threat:\n                         \
+  \ 4.Rd4-f4 # \n                  3.Bh2-c7 threat:\n                          4.Rd4-f4\
+  \ # \n                  3.Bh2-d6 threat:\n                          4.Rd4-f4 # \n\
+  \                  3.Bh2-g3 zugzwang.\n                      3...c6-c5 \n      \
+  \                    4.Rd4-d5 # \n                  3.a2-a4 zugzwang.\n        \
+  \              3...c6-c5 \n                          4.Rd4-d5 # \n             \
+  \     3.a2-a3 zugzwang.\n                      3...c6-c5 \n                    \
+  \      4.Rd4-d5 # \n      1...Rb5-b8 \n          2.Rd4-d5 # \n      1...Rb5-b7 \n\
+  \          2.Rd4-d5 # \n      1...Rb5-b6 \n          2.Rd4-d5 # \n      1...Rb5-e5\
+  \ \n          2.Rd4-f4 # \n      1...Rb5-d5 \n          2.Rd4*d5 # \n      1...c7-c5\
+  \ \n          2.Rd4-d5 # \n      1...c7-c6 \n          2.Bh2-c7 threat:\n      \
+  \            3.Rd4-f4 # \n              2...Rb5*b4 \n                  3.Rd4*b4\
+  \ threat:\n                          4.Rb4-f4 # \n              2...Rb5-e5 \n  \
+  \                3.Rd4-f4 + \n                      3...Kf5*f4 \n              \
+  \            4.Kf7*f6 threat:\n                                  5.Bc7*e5 #"
+source:
+  date:
+    year: 1989
+  name: Die Schwalbe
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh1
+  - Ra2
+  - Pf2
+  - Pd7
+  white:
+  - Kf1
+  - Rd1
+  - Bb8
+authors:
+- Staudte, Rainer
+award:
+  distinction: 3rd Comm.
+  tourney:
+    name: Freie Presse
+foreignids:
+- domain: PDB
+  problemid: P1155060
+solution: "1.Rd1-d5 ? Ra2-a1+ 2.Kf1*f2 Ra1-a2+ ! 1.Bb8-f4 ? d7-d6 ! 1...d7-d5 !\n\
+  1.Bb8-e5 ! Ra2-c2 2.Be5-f4 Rc2-a2 3.Rd1-d5 ! Ra2-a1+ 4.Kf1*f2\n Ra1-a2+ 5.Bf4-d2\
+  \ Ra2*d2+ 6.Rd5*d2 Kh1-h2 7.Rd2*d7 Kh2-h3 8.Rd7-d4\n Kh3-h2 9.Rd4-h4# 3.Rd1-d6 ?\
+  \ {or Rxd7?} Ra2-a1+ 4.Kf1*f2 Ra1-f1+\n ! 5.Kf2*f1 3.Rd1-d3 ? Ra2-a1+ 4.Kf1*f2 Ra1-a2+\
+  \ 5.Bf4-d2 Kh1-h2\n 3.Rd1-d4 ? 2...Rc2-b2 3.Rd1-d5 Rb2-b1+ 4.Kf1*f2 Rb1-b2+ 5.Bf4-d2\n\
+  \ Rb2*d2+ 6.Rd5*d2 Kh1-h2 7.Rd2*d7 Kh2-h3 8.Rd7-d4 Kh3-h2 9.Rd4-h4#\n 1...Ra2-e2\
+  \ 2.Rd1-d3 Re2-e1+ 3.Kf1*f2 Re1-e2+ 4.Kf2*e2 Kh1-g2 5.Be5-d6\n Kg2-g1 6.Ke2-f3 Kg1-h1\
+  \ 7.Rd3-d1# 6...Kg1-f1 7.Rd3-d1# 5...Kg2-h1\n 6.Ke2-f3 Kh1-g1 7.Rd3-d1#"
+source:
+  date:
+    day: 29
+    month: 10
+    year: 2009
+  name: Freie Presse
+  problemid: '4717'
+stipulation: '#9'
+---
+algebraic:
+  black:
+  - Ka7
+  - Ra3
+  white:
+  - Kc7
+  - Rb4
+  - Bc4
+  - Pa2
+authors:
+- Kozdon, Baldur J. L.
+solution: "1.Rb4-b6 Ka7-a8 2.Kc7-c8 Ra3-a4 3.Rb6-b8+ Ka8-a7 4.Rb8-b7+ Ka7-a8\n 5.Bc4-d5\
+  \ Ra4-d4 6.Rb7-d7+ Rd4*d5 7.Rd7*d5 Ka8-a7 8.Rd5-d6 Ka7-a8\n 9.Rd6-a6# 5...Ra4-a5\
+  \ 6.Rb7-d7+ Ra5*d5 7.Rd7*d5 Ka8-a7 8.Rd5-d6\n Ka7-a8 9.Rd6-a6#"
+source:
+  date:
+    month: 7
+    year: 2009
+  name: Schweizerische Schachzeitung
+  problemid: '14742'
+stipulation: '#9'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rh6
+  - Ph7
+  - Pg7
+  - Pf6
+  - Pf5
+  - Pd3
+  - Pc5
+  - Pb5
+  white:
+  - Ke1
+  - Rh1
+  - Ba7
+  - Ph2
+  - Pg3
+  - Pf4
+  - Pe2
+  - Pc6
+  - Pc4
+  - Pb6
+  - Pa2
+authors:
+- Tribowski, Marcel
+award:
+  distinction: 4th Place
+  tourney:
+    name: Berlin-Munich
+source:
+  date:
+    year: 1988
+  name: Berlin-Munich
+stipulation: '#8'
+---
+algebraic:
+  black:
+  - Ka1
+  - Rh5
+  white:
+  - Kc2
+  - Rf3
+  - Be6
+  - Ph2
+  - Pg2
+  - Pf2
+  - Pe2
+  - Pd3
+  - Pd2
+  - Pc5
+authors:
+- Halumbirek, Josef
+solution: "1.h2-h4 ! zugzwang.\n      1...Rh5*c5 + \n          2.Be6-c4 threat:\n\
+  \                  3.Rf3-h3 threat:\n                          4.Rh3-h1 # \n   \
+  \                   3...Rc5*c4 + \n                          4.d3*c4 threat:\n \
+  \                                 5.Rh3-a3 # \n                              4...Ka1-a2\
+  \ \n                                  5.h4-h5 zugzwang.\n                      \
+  \                5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.c4-c5 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.Rh3-b3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rb3-a3\
+  \ # \n                                  5.Rh3-c3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rc3-a3\
+  \ # \n                                  5.Rh3-d3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rd3-a3\
+  \ # \n                                  5.Rh3-e3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Re3-a3\
+  \ # \n                                  5.Rh3-f3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rf3-a3\
+  \ # \n                                  5.Rh3-g3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rg3-a3\
+  \ # \n                                  5.g2-g4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.f2-f4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.e2-e4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.d2-d4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.Kc2-c1 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                      3...Rc5-b5 \n                          4.Rh3-h1 + \n\
+  \                              4...Rb5-b1 \n                                  5.Rh1*b1\
+  \ # \n              2...Rc5-h5 \n                  3.Rf3-f8 threat:\n          \
+  \                4.Rf8-a8 + \n                              4...Rh5-a5 \n      \
+  \                            5.Ra8*a5 # \n                      3...Rh5-a5 \n  \
+  \                        4.Rf8-b8 threat:\n                                  5.Rb8-b1\
+  \ # \n                              4...Ra5-a2 + \n                            \
+  \      5.Bc4*a2 zugzwang.\n                                      5...Ka1*a2 \n \
+  \                                         6.Rb8-a8 # \n                        \
+  \      4...Ra5-b5 \n                                  5.Rb8-a8 + \n            \
+  \                          5...Rb5-a5 \n                                       \
+  \   6.Ra8*a5 # \n                                  5.Bc4*b5 threat:\n          \
+  \                                6.Rb8-a8 # \n                      3...Rh5-h8 \n\
+  \                          4.Bc4-g8 threat:\n                                  5.Rf8-a8\
+  \ # \n                              4...Rh8*h4 \n                              \
+  \    5.Rf8-a8 + \n                                      5...Rh4-a4 \n          \
+  \                                6.Ra8*a4 # \n                              4...Rh8-h5\
+  \ \n                                  5.Rf8-a8 + \n                            \
+  \          5...Rh5-a5 \n                                          6.Ra8*a5 # \n\
+  \                              4...Rh8-h6 \n                                  5.Rf8-a8\
+  \ + \n                                      5...Rh6-a6 \n                      \
+  \                    6.Ra8*a6 # \n                              4...Rh8-h7 \n  \
+  \                                5.Rf8-a8 + \n                                 \
+  \     5...Rh7-a7 \n                                          6.Ra8*a7 # \n     \
+  \                             5.Bg8*h7 threat:\n                               \
+  \           6.Rf8-a8 # \n                              4...Rh8*g8 \n           \
+  \                       5.Rf8*g8 threat:\n                                     \
+  \     6.Rg8-a8 # \n      1...Rh5*h4 \n          2.Rf3-f8 threat:\n             \
+  \     3.Rf8-a8 + \n                      3...Rh4-a4 \n                         \
+  \ 4.Ra8*a4 # \n              2...Rh4-a4 \n                  3.Rf8-b8 threat:\n \
+  \                         4.Rb8-b1 # \n                      3...Ra4-a2 + \n   \
+  \                       4.Be6*a2 zugzwang.\n                              4...Ka1*a2\
+  \ \n                                  5.Rb8-a8 # \n                      3...Ra4-c4\
+  \ + \n                          4.d3*c4 threat:\n                              \
+  \    5.Rb8-a8 # \n                      3...Ra4-b4 \n                          4.Rb8-a8\
+  \ + \n                              4...Rb4-a4 \n                              \
+  \    5.Ra8*a4 # \n                  3.Rf8-h8 threat:\n                         \
+  \ 4.Rh8-h1 # \n                      3...Ra4-a2 + \n                          4.Be6*a2\
+  \ zugzwang.\n                              4...Ka1*a2 \n                       \
+  \           5.Rh8-a8 # \n                      3...Ra4-h4 \n                   \
+  \       4.Rh8-a8 + \n                              4...Rh4-a4 \n               \
+  \                   5.Ra8*a4 # \n                      3...Ra4-c4 + \n         \
+  \                 4.d3*c4 threat:\n                                  5.Rh8-a8 #\
+  \ \n                      3...Ra4-b4 \n                          4.Rh8-h1 + \n \
+  \                             4...Rb4-b1 \n                                  5.Rh1*b1\
+  \ # \n                          4.Rh8-a8 + \n                              4...Rb4-a4\
+  \ \n                                  5.Ra8*a4 # \n              2...Rh4-c4 + \n\
+  \                  3.d3*c4 threat:\n                          4.Rf8-a8 # \n    \
+  \          2...Rh4-h8 \n                  3.Be6-g8 threat:\n                   \
+  \       4.Rf8-a8 # \n                      3...Rh8-h4 \n                       \
+  \   4.Rf8-a8 + \n                              4...Rh4-a4 \n                   \
+  \               5.Ra8*a4 # \n                      3...Rh8-h6 \n               \
+  \           4.Rf8-a8 + \n                              4...Rh6-a6 \n           \
+  \                       5.Ra8*a6 # \n                      3...Rh8-h7 \n       \
+  \                   4.Rf8-a8 + \n                              4...Rh7-a7 \n   \
+  \                               5.Ra8*a7 # \n                          4.Bg8*h7\
+  \ threat:\n                                  5.Rf8-a8 # \n                     \
+  \ 3...Rh8*g8 \n                          4.Rf8*g8 threat:\n                    \
+  \              5.Rg8-a8 # \n          2.d3-d4 threat:\n                  3.Rf3-a3\
+  \ # \n              2...Rh4-h3 \n                  3.Be6*h3 threat:\n          \
+  \                4.Rf3-a3 # \n                      3...Ka1-a2 \n              \
+  \            4.c5-c6 zugzwang.\n                              4...Ka2-a1 \n    \
+  \                              5.Rf3-a3 # \n                          4.d4-d5 zugzwang.\n\
+  \                              4...Ka2-a1 \n                                  5.Rf3-a3\
+  \ # \n                          4.Bh3-c8 zugzwang.\n                           \
+  \   4...Ka2-a1 \n                                  5.Rf3-a3 # \n               \
+  \           4.Bh3-d7 zugzwang.\n                              4...Ka2-a1 \n    \
+  \                              5.Rf3-a3 # \n                          4.Bh3-e6 +\
+  \ \n                              4...Ka2-a1 \n                                \
+  \  5.Rf3-a3 # \n                          4.Bh3-f5 zugzwang.\n                 \
+  \             4...Ka2-a1 \n                                  5.Rf3-a3 # \n     \
+  \                     4.Bh3-g4 zugzwang.\n                              4...Ka2-a1\
+  \ \n                                  5.Rf3-a3 # \n                          4.Rf3-b3\
+  \ zugzwang.\n                              4...Ka2-a1 \n                       \
+  \           5.Rb3-a3 # \n                          4.Rf3-c3 zugzwang.\n        \
+  \                      4...Ka2-a1 \n                                  5.Rc3-a3 #\
+  \ \n                          4.Rf3-d3 zugzwang.\n                             \
+  \ 4...Ka2-a1 \n                                  5.Rd3-a3 # \n                 \
+  \         4.Rf3-e3 zugzwang.\n                              4...Ka2-a1 \n      \
+  \                            5.Re3-a3 # \n                          4.Rf3-g3 zugzwang.\n\
+  \                              4...Ka2-a1 \n                                  5.Rg3-a3\
+  \ # \n                          4.g2-g4 zugzwang.\n                            \
+  \  4...Ka2-a1 \n                                  5.Rf3-a3 # \n                \
+  \          4.g2-g3 zugzwang.\n                              4...Ka2-a1 \n      \
+  \                            5.Rf3-a3 # \n                          4.e2-e4 zugzwang.\n\
+  \                              4...Ka2-a1 \n                                  5.Rf3-a3\
+  \ # \n                          4.Kc2-c1 zugzwang.\n                           \
+  \   4...Ka2-a1 \n                                  5.Rf3-a3 # \n      1...Rh5-d5\
+  \ \n          2.Rf3-h3 threat:\n                  3.Rh3-h1 + \n                \
+  \      3...Ka1-a2 \n                          4.Kc2-c3 zugzwang.\n             \
+  \                 4...Ka2-a3 \n                                  5.Rh1-a1 # \n \
+  \                 3.Kc2-b3 threat:\n                          4.Rh3-h1 # \n    \
+  \                  3...Rd5*d3 + \n                          4.e2*d3 threat:\n  \
+  \                                5.Rh3-h1 # \n                      3...Rd5*c5 \n\
+  \                          4.Rh3-h1 + \n                              4...Rc5-c1\
+  \ \n                                  5.Rh1*c1 # \n              2...Rd5*c5 + \n\
+  \                  3.Be6-c4 threat:\n                          4.Rh3-h1 # \n   \
+  \                   3...Rc5*c4 + \n                          4.d3*c4 threat:\n \
+  \                                 5.Rh3-a3 # \n                              4...Ka1-a2\
+  \ \n                                  5.h4-h5 zugzwang.\n                      \
+  \                5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.c4-c5 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.Rh3-b3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rb3-a3\
+  \ # \n                                  5.Rh3-c3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rc3-a3\
+  \ # \n                                  5.Rh3-d3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rd3-a3\
+  \ # \n                                  5.Rh3-e3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Re3-a3\
+  \ # \n                                  5.Rh3-f3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rf3-a3\
+  \ # \n                                  5.Rh3-g3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rg3-a3\
+  \ # \n                                  5.g2-g4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.f2-f4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.e2-e4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.d2-d4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.Kc2-c1 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                      3...Rc5-b5 \n                          4.Rh3-h1 + \n\
+  \                              4...Rb5-b1 \n                                  5.Rh1*b1\
+  \ # \n      1...Rh5-e5 \n          2.Rf3-h3 threat:\n                  3.Rh3-h1\
+  \ # \n              2...Re5*e2 \n                  3.Rh3-h1 + \n               \
+  \       3...Re2-e1 \n                          4.Rh1*e1 # \n              2...Re5*c5\
+  \ + \n                  3.Be6-c4 threat:\n                          4.Rh3-h1 # \n\
+  \                      3...Rc5*c4 + \n                          4.d3*c4 threat:\n\
+  \                                  5.Rh3-a3 # \n                              4...Ka1-a2\
+  \ \n                                  5.Kc2-c1 zugzwang.\n                     \
+  \                 5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.h4-h5 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.c4-c5 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.Rh3-b3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rb3-a3\
+  \ # \n                                  5.Rh3-c3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rc3-a3\
+  \ # \n                                  5.Rh3-d3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rd3-a3\
+  \ # \n                                  5.Rh3-e3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Re3-a3\
+  \ # \n                                  5.Rh3-f3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rf3-a3\
+  \ # \n                                  5.Rh3-g3 zugzwang.\n                   \
+  \                   5...Ka2-a1 \n                                          6.Rg3-a3\
+  \ # \n                                  5.g2-g4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.f2-f4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.e2-e4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                                  5.d2-d4 zugzwang.\n                    \
+  \                  5...Ka2-a1 \n                                          6.Rh3-a3\
+  \ # \n                      3...Rc5-b5 \n                          4.Rh3-h1 + \n\
+  \                              4...Rb5-b1 \n                                  5.Rh1*b1\
+  \ # \n              2...Re5-d5 \n                  3.Rh3-h1 + \n               \
+  \       3...Ka1-a2 \n                          4.Kc2-c3 zugzwang.\n            \
+  \                  4...Ka2-a3 \n                                  5.Rh1-a1 # \n\
+  \                  3.Kc2-b3 threat:\n                          4.Rh3-h1 # \n   \
+  \                   3...Rd5*d3 + \n                          4.e2*d3 threat:\n \
+  \                                 5.Rh3-h1 # \n                      3...Rd5*c5\
+  \ \n                          4.Rh3-h1 + \n                              4...Rc5-c1\
+  \ \n                                  5.Rh1*c1 # \n              2...Re5*e6 \n \
+  \                 3.Kc2-b3 threat:\n                          4.Rh3-h1 # \n    \
+  \                  3...Re6*e2 \n                          4.Rh3-h1 + \n        \
+  \                      4...Re2-e1 \n                                  5.Rh1*e1 #\
+  \ \n                      3...Re6-b6 + \n                          4.c5*b6 threat:\n\
+  \                                  5.Rh3-h1 # \n      1...Rh5-f5 \n          2.Be6*f5\
+  \ threat:\n                  3.Rf3-f4 threat:\n                          4.Rf4-a4\
+  \ # \n              2...Ka1-a2 \n                  3.d3-d4 zugzwang.\n         \
+  \             3...Ka2-a1 \n                          4.Rf3-a3 # \n      1...Rh5-g5\
+  \ \n          2.Rf3-h3 threat:\n                  3.Rh3-h1 # \n              2...Rg5*g2\
+  \ \n                  3.Rh3-h1 + \n                      3...Rg2-g1 \n         \
+  \                 4.Rh1*g1 # \n              2...Rg5*c5 + \n                  3.Be6-c4\
+  \ threat:\n                          4.Rh3-h1 # \n                      3...Rc5*c4\
+  \ + \n                          4.d3*c4 threat:\n                              \
+  \    5.Rh3-a3 # \n                              4...Ka1-a2 \n                  \
+  \                5.h4-h5 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rh3-a3 # \n                    \
+  \              5.c4-c5 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rh3-a3 # \n                    \
+  \              5.Rh3-b3 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rb3-a3 # \n                    \
+  \              5.Rh3-c3 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rc3-a3 # \n                    \
+  \              5.Rh3-d3 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rd3-a3 # \n                    \
+  \              5.Rh3-e3 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Re3-a3 # \n                    \
+  \              5.Rh3-f3 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rf3-a3 # \n                    \
+  \              5.Rh3-g3 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rg3-a3 # \n                    \
+  \              5.g2-g4 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rh3-a3 # \n                    \
+  \              5.f2-f4 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rh3-a3 # \n                    \
+  \              5.e2-e4 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rh3-a3 # \n                    \
+  \              5.d2-d4 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rh3-a3 # \n                    \
+  \              5.Kc2-c1 zugzwang.\n                                      5...Ka2-a1\
+  \ \n                                          6.Rh3-a3 # \n                    \
+  \  3...Rc5-b5 \n                          4.Rh3-h1 + \n                        \
+  \      4...Rb5-b1 \n                                  5.Rh1*b1 # \n            \
+  \  2...Rg5-d5 \n                  3.Rh3-h1 + \n                      3...Ka1-a2\
+  \ \n                          4.Kc2-c3 zugzwang.\n                             \
+  \ 4...Ka2-a3 \n                                  5.Rh1-a1 # \n                 \
+  \ 3.Kc2-b3 threat:\n                          4.Rh3-h1 # \n                    \
+  \  3...Rd5*d3 + \n                          4.e2*d3 threat:\n                  \
+  \                5.Rh3-h1 # \n                      3...Rd5*c5 \n              \
+  \            4.Rh3-h1 + \n                              4...Rc5-c1 \n          \
+  \                        5.Rh1*c1 # \n      1...Rh5-h8 \n          2.Rf3-f4 threat:\n\
+  \                  3.Rf4-a4 # \n              2...Rh8*h4 \n                  3.Be6-g4\
+  \ threat:\n                          4.Rf4-a4 # \n                      3...Rh4*g4\
+  \ \n                          4.Rf4*g4 threat:\n                               \
+  \   5.Rg4-a4 # \n                  3.g2-g4 threat:\n                          4.Rf4-a4\
+  \ # \n                      3...Rh4*g4 \n                          4.Be6*g4 threat:\n\
+  \                                  5.Rf4-a4 # \n              2...Rh8-a8 \n    \
+  \              3.Rf4-b4 threat:\n                          4.Rb4-b1 # \n       \
+  \               3...Ra8-a2 + \n                          4.Be6*a2 zugzwang.\n  \
+  \                            4...Ka1*a2 \n                                  5.Rb4-a4\
+  \ # \n                      3...Ra8-b8 \n                          4.Rb4-a4 # \n\
+  \      1...Rh5-h7 \n          2.Rf3-f4 threat:\n                  3.Rf4-a4 # \n\
+  \              2...Rh7*h4 \n                  3.Be6-g4 threat:\n               \
+  \           4.Rf4-a4 # \n                      3...Rh4*g4 \n                   \
+  \       4.Rf4*g4 threat:\n                                  5.Rg4-a4 # \n      \
+  \            3.g2-g4 threat:\n                          4.Rf4-a4 # \n          \
+  \            3...Rh4*g4 \n                          4.Be6*g4 threat:\n         \
+  \                         5.Rf4-a4 # \n              2...Rh7-a7 \n             \
+  \     3.Rf4-b4 threat:\n                          4.Rb4-b1 # \n                \
+  \      3...Ra7-a2 + \n                          4.Be6*a2 zugzwang.\n           \
+  \                   4...Ka1*a2 \n                                  5.Rb4-a4 # \n\
+  \                      3...Ra7-b7 \n                          4.Rb4-a4 # \n    \
+  \      2.Rf3-f8 threat:\n                  3.Rf8-a8 + \n                      3...Rh7-a7\
+  \ \n                          4.Ra8*a7 # \n              2...Rh7-a7 \n         \
+  \         3.Rf8-b8 threat:\n                          4.Rb8-b1 # \n            \
+  \          3...Ra7-a2 + \n                          4.Be6*a2 zugzwang.\n       \
+  \                       4...Ka1*a2 \n                                  5.Rb8-a8\
+  \ # \n                      3...Ra7-b7 \n                          4.Rb8-a8 + \n\
+  \                              4...Rb7-a7 \n                                  5.Ra8*a7\
+  \ # \n              2...Rh7-h8 \n                  3.Be6-g8 threat:\n          \
+  \                4.Rf8-a8 # \n                      3...Rh8*h4 \n              \
+  \            4.Rf8-a8 + \n                              4...Rh4-a4 \n          \
+  \                        5.Ra8*a4 # \n                      3...Rh8-h6 \n      \
+  \                    4.Rf8-a8 + \n                              4...Rh6-a6 \n  \
+  \                                5.Ra8*a6 # \n                      3...Rh8-h7 \n\
+  \                          4.Rf8-a8 + \n                              4...Rh7-a7\
+  \ \n                                  5.Ra8*a7 # \n                          4.Bg8*h7\
+  \ threat:\n                                  5.Rf8-a8 # \n                     \
+  \ 3...Rh8*g8 \n                          4.Rf8*g8 threat:\n                    \
+  \              5.Rg8-a8 # \n      1...Rh5-h6 \n          2.d3-d4 threat:\n     \
+  \             3.Rf3-a3 #"
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kd4
+  - Rb4
+  - Pf6
+  - Pf2
+  - Pd7
+  - Pc5
+  - Pb3
+  - Pa7
+  white:
+  - Kf4
+  - Rh6
+  - Bf1
+  - Pc4
+  - Pb2
+authors:
+- Auhagen, Ulrich Otto Ferdinand
+- Zucker, Manfred
+stipulation: '#7'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rd5
+  - Pg7
+  - Pg6
+  - Pf2
+  - Pe7
+  white:
+  - Kf1
+  - Rc6
+  - Bg3
+  - Pg5
+  - Pe6
+  - Pd3
+authors:
+- Baumann, Hannes
+award:
+  distinction: 1st HM
+  judges:
+  - Gruber, Hans
+  - Rehm, Hans Peter
+  tourney:
+    date:
+      year: 1999
+    name: Die Schwalbe
+foreignids:
+- domain: PDB
+  problemid: P1008564
+- domain: WinChloe
+  problemid: 359928
+keywords:
+- Peri-critical decoy
+- Indian
+- Stalemate avoidance
+- Wild rook
+reprints:
+- comments:
+  - Award
+  date:
+    month: 4
+    year: 2008
+  issue: 230
+  name: Die Schwalbe
+- date:
+    month: 4
+    year: 2021
+  issue: 150
+  name: idee & form
+  pagenumber: 5075
+  problemid: 3
+solution: "1.Rc6-c4? Rd5-d4! 1.Rc6-c1? 1...Rd5-f5! 1...Rd5-c5!\n1.Rc6-c8! Rd5-d8 2.Rc8-c1\
+  \ Rd8-f8! 3.Bg3-e5! threat: 4.Rc1-c4 3...Rf8-c8! {(3...Rf4!?)} \n4.Be5-c7! Rc8-f8\
+  \ 5.Rc1-c4 Rf8-h8 6.Rc4-e4! Rh8-h3 7.Kf1*f2 Rh3-f3+ 8.Kf2*f3 threat: 9.Re4-h4#"
+source:
+  date:
+    month: 4
+    year: 1999
+  issue: '176'
+  name: Die Schwalbe
+  problemid: '10309'
+stipulation: '#9'
+---
+algebraic:
+  black:
+  - Ke4
+  - Rb2
+  - Pf4
+  - Pe3
+  - Pd4
+  - Pc6
+  white:
+  - Ke6
+  - Rh7
+  - Be5
+  - Pg2
+  - Pe2
+  - Pc5
+authors:
+- Labai, Zoltán
+award:
+  distinction: 1st HM
+  tourney:
+    name: Pravda
+keywords:
+- Rundlauf
+solution: 'a) Diagram
+
+  1. Rd7! [2. Rxd4#]
+
+  1. ... Rd2 2. Rd8 (A) Rd1 3. Rf8 (B) Rf1 4. Rf7 (C) Rf2 5. Rd7 (D) Rxe2 6. Rxd4#
+
+
+  b) Rwh7-h8
+
+  1. Rd8! [2. Rxd4#]
+
+  1. ... Rd2 2. Rd7 (D) Rd1 3. Rf7 (C) Rf1 4. Rf8 (B) Rf2 5. Rd8 (A) Rxe2 6. Rxd4#'
+source:
+  date:
+    day: 14
+    month: 10
+    year: 2004
+  name: Pravda (Bratislava)
+  problemid: '3497'
+stipulation: '#6'
+twins:
+  b: Rwh7-h8
+---
+algebraic:
+  black:
+  - Kh8
+  - Rg1
+  white:
+  - Kf6
+  - Ra6
+  - Bd3
+  - Pe4
+authors:
+- Becker, Richard
+award:
+  distinction: Commendation
+  tourney:
+    name: StrateGems
+solution: "1.Ra6-a5 ! threat:\n       2.Ra5-h5 +\n           2...Kh8-g8\n        \
+  \       3.Bd3-c4 +\n                   3...Kg8-f8\n                       4.Rh5-h8\
+  \ +\n                           4...Rg1-g8\n                               5.Rh8*g8\
+  \ #\n   1...Rg1-c1\n       2.Ra5-a8 +\n           2...Rc1-c8\n               3.Ra8*c8\
+  \ +\n                   3...Kh8-h7\n                       4.Bd3-b1 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Rc8-h8\
+  \ #\n                       4.Bd3-c2 zugzwang.\n                           4...Kh7-h6\n\
+  \                               5.Rc8-h8 #\n                       4.Bd3-f1 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Rc8-h8\
+  \ #\n                       4.Bd3-e2 zugzwang.\n                           4...Kh7-h6\n\
+  \                               5.Rc8-h8 #\n                       4.Bd3-a6 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Rc8-h8\
+  \ #\n                       4.Bd3-b5 zugzwang.\n                           4...Kh7-h6\n\
+  \                               5.Rc8-h8 #\n                       4.Bd3-c4 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Rc8-h8\
+  \ #\n                       4.e4-e5 +\n                           4...Kh7-h6\n \
+  \                              5.Rc8-h8 #\n                       4.Rc8-a8 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Ra8-h8\
+  \ #\n                       4.Rc8-b8 zugzwang.\n                           4...Kh7-h6\n\
+  \                               5.Rb8-h8 #\n                       4.Rc8-f8 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Rf8-h8\
+  \ #\n                       4.Rc8-e8 zugzwang.\n                           4...Kh7-h6\n\
+  \                               5.Re8-h8 #\n                       4.Rc8-d8 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Rd8-h8\
+  \ #\n           2...Kh8-h7\n               3.e4-e5 +\n                   3...Kh7-h6\n\
+  \                       4.Ra8-h8 #\n   1...Rg1-g7\n       2.Ra5-d5 zugzwang.\n \
+  \          2...Rg7-g1\n               3.Rd5-h5 +\n                   3...Kh8-g8\n\
+  \                       4.Bd3-c4 +\n                           4...Kg8-f8\n    \
+  \                           5.Rh5-h8 +\n                                   5...Rg1-g8\n\
+  \                                       6.Rh8*g8 #\n           2...Rg7-g2\n    \
+  \           3.Rd5-h5 +\n                   3...Kh8-g8\n                       4.Bd3-c4\
+  \ +\n                           4...Kg8-f8\n                               5.Rh5-h8\
+  \ +\n                                   5...Rg2-g8\n                           \
+  \            6.Rh8*g8 #\n           2...Rg7-g3\n               3.Rd5-h5 +\n    \
+  \               3...Kh8-g8\n                       4.Bd3-c4 +\n                \
+  \           4...Kg8-f8\n                               5.Rh5-h8 +\n            \
+  \                       5...Rg3-g8\n                                       6.Rh8*g8\
+  \ #\n           2...Rg7-g4\n               3.Rd5-h5 +\n                   3...Kh8-g8\n\
+  \                       4.Bd3-c4 +\n                           4...Kg8-f8\n    \
+  \                           5.Rh5-h8 +\n                                   5...Rg4-g8\n\
+  \                                       6.Rh8*g8 #\n           2...Rg7-g5\n    \
+  \           3.Rd5*g5 threat:\n                       4.Bd3-c4 threat:\n        \
+  \                       5.Rg5-h5 #\n                       4.Kf6-f7 threat:\n  \
+  \                             5.Rg5-h5 #\n                   3...Kh8-h7\n      \
+  \                 4.Bd3-b1 zugzwang.\n                           4...Kh7-h6\n  \
+  \                             5.Bb1-a2 zugzwang.\n                             \
+  \      5...Kh6-h7\n                                       6.Rg5-h5 #\n         \
+  \                  4...Kh7-h8\n                               5.Bb1-a2 threat:\n\
+  \                                       6.Rg5-h5 #\n                           \
+  \    5.Kf6-f7 threat:\n                                       6.Rg5-h5 #\n     \
+  \                  4.Bd3-c2 zugzwang.\n                           4...Kh7-h6\n \
+  \                              5.Bc2-b3 zugzwang.\n                            \
+  \       5...Kh6-h7\n                                       6.Rg5-h5 #\n        \
+  \                   4...Kh7-h8\n                               5.Bc2-b3 threat:\n\
+  \                                       6.Rg5-h5 #\n                           \
+  \    5.Kf6-f7 threat:\n                                       6.Rg5-h5 #\n     \
+  \                  4.Bd3-f1 zugzwang.\n                           4...Kh7-h6\n \
+  \                              5.Bf1-c4 zugzwang.\n                            \
+  \       5...Kh6-h7\n                                       6.Rg5-h5 #\n        \
+  \                   4...Kh7-h8\n                               5.Bf1-c4 threat:\n\
+  \                                       6.Rg5-h5 #\n                           \
+  \    5.Kf6-f7 threat:\n                                       6.Rg5-h5 #\n     \
+  \                  4.Bd3-e2 threat:\n                               5.Kf6-f7 threat:\n\
+  \                                       6.Rg5-h5 #\n                       4.Bd3-a6\
+  \ zugzwang.\n                           4...Kh7-h6\n                           \
+  \    5.Ba6-c4 zugzwang.\n                                   5...Kh6-h7\n       \
+  \                                6.Rg5-h5 #\n                           4...Kh7-h8\n\
+  \                               5.Ba6-c4 threat:\n                             \
+  \          6.Rg5-h5 #\n                               5.Kf6-f7 threat:\n       \
+  \                                6.Rg5-h5 #\n                       4.Bd3-b5 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Bb5-c4\
+  \ zugzwang.\n                                   5...Kh6-h7\n                   \
+  \                    6.Rg5-h5 #\n                           4...Kh7-h8\n       \
+  \                        5.Bb5-c4 threat:\n                                    \
+  \   6.Rg5-h5 #\n                               5.Kf6-f7 threat:\n              \
+  \                         6.Rg5-h5 #\n                       4.Bd3-c4 threat:\n\
+  \                               5.Rg5-h5 #\n                           4...Kh7-h6\n\
+  \                               5.Bc4-a2 zugzwang.\n                           \
+  \        5...Kh6-h7\n                                       6.Rg5-h5 #\n       \
+  \                        5.Bc4-b3 zugzwang.\n                                  \
+  \ 5...Kh6-h7\n                                       6.Rg5-h5 #\n              \
+  \                 5.Bc4-f7 threat:\n                                       6.Rg5-h5\
+  \ #\n                               5.Bc4-e6 zugzwang.\n                       \
+  \            5...Kh6-h7\n                                       6.Rg5-h5 #\n   \
+  \                            5.Bc4-d5 zugzwang.\n                              \
+  \     5...Kh6-h7\n                                       6.Rg5-h5 #\n          \
+  \                     5.e4-e5 zugzwang.\n                                   5...Kh6-h7\n\
+  \                                       6.Rg5-h5 #\n                           \
+  \    5.Rg5-a5 zugzwang.\n                                   5...Kh6-h7\n       \
+  \                                6.Ra5-h5 #\n                               5.Rg5-b5\
+  \ zugzwang.\n                                   5...Kh6-h7\n                   \
+  \                    6.Rb5-h5 #\n                               5.Rg5-c5 zugzwang.\n\
+  \                                   5...Kh6-h7\n                               \
+  \        6.Rc5-h5 #\n                               5.Rg5-d5 zugzwang.\n       \
+  \                            5...Kh6-h7\n                                      \
+  \ 6.Rd5-h5 #\n                               5.Rg5-e5 zugzwang.\n              \
+  \                     5...Kh6-h7\n                                       6.Re5-h5\
+  \ #\n                               5.Rg5-f5 zugzwang.\n                       \
+  \            5...Kh6-h7\n                                       6.Rf5-h5 #\n   \
+  \                    4.e4-e5 +\n                           4...Kh7-h6\n        \
+  \                       5.Bd3-c4 zugzwang.\n                                   5...Kh6-h7\n\
+  \                                       6.Rg5-h5 #\n                           4...Kh7-h8\n\
+  \                               5.Bd3-c4 threat:\n                             \
+  \          6.Rg5-h5 #\n                       4.Rg5-g1 threat:\n               \
+  \                5.Bd3-c4 threat:\n                                       6.Rg1-h1\
+  \ #\n                       4.Rg5-g2 threat:\n                               5.Bd3-c4\
+  \ threat:\n                                       6.Rg2-h2 #\n                 \
+  \      4.Rg5-g3 threat:\n                               5.Bd3-c4 threat:\n     \
+  \                                  6.Rg3-h3 #\n                       4.Rg5-g4 threat:\n\
+  \                               5.Bd3-c4 threat:\n                             \
+  \          6.Rg4-h4 #\n                       4.Rg5-a5 threat:\n               \
+  \                5.Ra5-a8 zugzwang.\n                                   5...Kh7-h6\n\
+  \                                       6.Ra8-h8 #\n                           4...Kh7-g8\n\
+  \                               5.Bd3-c4 +\n                                   5...Kg8-h7\n\
+  \                                       6.Ra5-h5 #\n                           \
+  \        5...Kg8-f8\n                                       6.Ra5-a8 #\n       \
+  \                            5...Kg8-h8\n                                      \
+  \ 6.Ra5-h5 #\n                               5.e4-e5 threat:\n                 \
+  \                      6.Ra5-a8 #\n                               5.Ra5-h5 zugzwang.\n\
+  \                                   5...Kg8-f8\n                               \
+  \        6.Rh5-h8 #\n                           4...Kh7-h6\n                   \
+  \            5.Bd3-c4 zugzwang.\n                                   5...Kh6-h7\n\
+  \                                       6.Ra5-h5 #\n                           \
+  \    5.Kf6-f7 zugzwang.\n                                   5...Kh6-h7\n       \
+  \                                6.Ra5-h5 #\n                           4...Kh7-h8\n\
+  \                               5.Bd3-c4 threat:\n                             \
+  \          6.Ra5-h5 #\n                               5.e4-e5 threat:\n        \
+  \                               6.Ra5-a8 #\n                               5.Kf6-f7\
+  \ threat:\n                                       6.Ra5-h5 #\n                 \
+  \              5.Kf6-g6 threat:\n                                       6.Ra5-a8\
+  \ #\n                       4.Rg5-b5 threat:\n                               5.Rb5-b8\
+  \ zugzwang.\n                                   5...Kh7-h6\n                   \
+  \                    6.Rb8-h8 #\n                           4...Kh7-g8\n       \
+  \                        5.Bd3-c4 +\n                                   5...Kg8-h7\n\
+  \                                       6.Rb5-h5 #\n                           \
+  \        5...Kg8-f8\n                                       6.Rb5-b8 #\n       \
+  \                            5...Kg8-h8\n                                      \
+  \ 6.Rb5-h5 #\n                               5.e4-e5 threat:\n                 \
+  \                      6.Rb5-b8 #\n                               5.Rb5-h5 zugzwang.\n\
+  \                                   5...Kg8-f8\n                               \
+  \        6.Rh5-h8 #\n                           4...Kh7-h6\n                   \
+  \            5.Bd3-c4 zugzwang.\n                                   5...Kh6-h7\n\
+  \                                       6.Rb5-h5 #\n                           \
+  \    5.Kf6-f7 zugzwang.\n                                   5...Kh6-h7\n       \
+  \                                6.Rb5-h5 #\n                           4...Kh7-h8\n\
+  \                               5.Bd3-c4 threat:\n                             \
+  \          6.Rb5-h5 #\n                               5.e4-e5 threat:\n        \
+  \                               6.Rb5-b8 #\n                               5.Kf6-f7\
+  \ threat:\n                                       6.Rb5-h5 #\n                 \
+  \              5.Kf6-g6 threat:\n                                       6.Rb5-b8\
+  \ #\n                       4.Rg5-c5 threat:\n                               5.Rc5-c8\
+  \ zugzwang.\n                                   5...Kh7-h6\n                   \
+  \                    6.Rc8-h8 #\n                           4...Kh7-g8\n       \
+  \                        5.Bd3-c4 +\n                                   5...Kg8-h7\n\
+  \                                       6.Rc5-h5 #\n                           \
+  \        5...Kg8-f8\n                                       6.Rc5-c8 #\n       \
+  \                            5...Kg8-h8\n                                      \
+  \ 6.Rc5-h5 #\n                               5.e4-e5 threat:\n                 \
+  \                      6.Rc5-c8 #\n                               5.Rc5-h5 zugzwang.\n\
+  \                                   5...Kg8-f8\n                               \
+  \        6.Rh5-h8 #\n                           4...Kh7-h6\n                   \
+  \            5.Bd3-c4 zugzwang.\n                                   5...Kh6-h7\n\
+  \                                       6.Rc5-h5 #\n                           \
+  \    5.Kf6-f7 zugzwang.\n                                   5...Kh6-h7\n       \
+  \                                6.Rc5-h5 #\n                           4...Kh7-h8\n\
+  \                               5.Bd3-c4 threat:\n                             \
+  \          6.Rc5-h5 #\n                               5.e4-e5 threat:\n        \
+  \                               6.Rc5-c8 #\n                               5.Kf6-f7\
+  \ threat:\n                                       6.Rc5-h5 #\n                 \
+  \              5.Kf6-g6 threat:\n                                       6.Rc5-c8\
+  \ #\n                       4.Rg5-d5 threat:\n                               5.Rd5-d8\
+  \ zugzwang.\n                                   5...Kh7-h6\n                   \
+  \                    6.Rd8-h8 #\n                           4...Kh7-g8\n       \
+  \                        5.Bd3-c4 zugzwang.\n                                  \
+  \ 5...Kg8-h7\n                                       6.Rd5-h5 #\n              \
+  \                     5...Kg8-f8\n                                       6.Rd5-d8\
+  \ #\n                                   5...Kg8-h8\n                           \
+  \            6.Rd5-h5 #\n                               5.e4-e5 threat:\n      \
+  \                                 6.Rd5-d8 #\n                               5.Rd5-h5\
+  \ zugzwang.\n                                   5...Kg8-f8\n                   \
+  \                    6.Rh5-h8 #\n                           4...Kh7-h6\n       \
+  \                        5.Bd3-c4 zugzwang.\n                                  \
+  \ 5...Kh6-h7\n                                       6.Rd5-h5 #\n              \
+  \                 5.Kf6-f7 zugzwang.\n                                   5...Kh6-h7\n\
+  \                                       6.Rd5-h5 #\n                           4...Kh7-h8\n\
+  \                               5.e4-e5 threat:\n                              \
+  \         6.Rd5-d8 #\n                               5.Kf6-f7 threat:\n        \
+  \                               6.Rd5-h5 #\n                               5.Kf6-g6\
+  \ threat:\n                                       6.Rd5-d8 #\n                 \
+  \      4.Rg5-e5 threat:\n                               5.Re5-e8 zugzwang.\n   \
+  \                                5...Kh7-h6\n                                  \
+  \     6.Re8-h8 #\n                           4...Kh7-g8\n                      \
+  \         5.Re5-h5 zugzwang.\n                                   5...Kg8-f8\n  \
+  \                                     6.Rh5-h8 #\n                           4...Kh7-h6\n\
+  \                               5.Bd3-c4 zugzwang.\n                           \
+  \        5...Kh6-h7\n                                       6.Re5-h5 #\n       \
+  \                        5.Kf6-f7 zugzwang.\n                                  \
+  \ 5...Kh6-h7\n                                       6.Re5-h5 #\n              \
+  \             4...Kh7-h8\n                               5.Bd3-c4 threat:\n    \
+  \                                   6.Re5-h5 #\n                               5.Kf6-f7\
+  \ threat:\n                                       6.Re5-h5 #\n                 \
+  \              5.Kf6-g6 threat:\n                                       6.Re5-e8\
+  \ #\n                       4.Rg5-f5 zugzwang.\n                           4...Kh7-g8\n\
+  \                               5.Rf5-h5 zugzwang.\n                           \
+  \        5...Kg8-f8\n                                       6.Rh5-h8 #\n       \
+  \                        5.Kf6-g6 zugzwang.\n                                  \
+  \ 5...Kg8-h8\n                                       6.Rf5-f8 #\n              \
+  \             4...Kh7-h6\n                               5.Bd3-c4 zugzwang.\n  \
+  \                                 5...Kh6-h7\n                                 \
+  \      6.Rf5-h5 #\n                               5.Kf6-f7 zugzwang.\n         \
+  \                          5...Kh6-h7\n                                       6.Rf5-h5\
+  \ #\n                           4...Kh7-h8\n                               5.Bd3-c4\
+  \ threat:\n                                       6.Rf5-h5 #\n                 \
+  \              5.Kf6-f7 threat:\n                                       6.Rf5-h5\
+  \ #\n                       4.Rg5-h5 +\n                           4...Kh7-g8\n\
+  \                               5.Bd3-b1 zugzwang.\n                           \
+  \        5...Kg8-f8\n                                       6.Rh5-h8 #\n       \
+  \                        5.Bd3-c2 zugzwang.\n                                  \
+  \ 5...Kg8-f8\n                                       6.Rh5-h8 #\n              \
+  \                 5.Bd3-f1 zugzwang.\n                                   5...Kg8-f8\n\
+  \                                       6.Rh5-h8 #\n                           \
+  \    5.Bd3-e2 zugzwang.\n                                   5...Kg8-f8\n       \
+  \                                6.Rh5-h8 #\n                               5.Bd3-a6\
+  \ zugzwang.\n                                   5...Kg8-f8\n                   \
+  \                    6.Rh5-h8 #\n                               5.Bd3-b5 zugzwang.\n\
+  \                                   5...Kg8-f8\n                               \
+  \        6.Rh5-h8 #\n                               5.Bd3-c4 +\n               \
+  \                    5...Kg8-f8\n                                       6.Rh5-h8\
+  \ #\n                               5.e4-e5 zugzwang.\n                        \
+  \           5...Kg8-f8\n                                       6.Rh5-h8 #\n    \
+  \                           5.Rh5-h1 zugzwang.\n                               \
+  \    5...Kg8-f8\n                                       6.Rh1-h8 #\n           \
+  \                    5.Rh5-h2 zugzwang.\n                                   5...Kg8-f8\n\
+  \                                       6.Rh2-h8 #\n                           \
+  \    5.Rh5-h3 zugzwang.\n                                   5...Kg8-f8\n       \
+  \                                6.Rh3-h8 #\n                               5.Rh5-h4\
+  \ zugzwang.\n                                   5...Kg8-f8\n                   \
+  \                    6.Rh4-h8 #\n                               5.Rh5-h6 zugzwang.\n\
+  \                                   5...Kg8-f8\n                               \
+  \        6.Rh6-h8 #\n                       4.Kf6-f7 threat:\n                 \
+  \              5.Rg5-h5 #\n                           4...Kh7-h6\n             \
+  \                  5.Rg5-a5 zugzwang.\n                                   5...Kh6-h7\n\
+  \                                       6.Ra5-h5 #\n                           \
+  \    5.Rg5-b5 zugzwang.\n                                   5...Kh6-h7\n       \
+  \                                6.Rb5-h5 #\n                               5.Rg5-c5\
+  \ zugzwang.\n                                   5...Kh6-h7\n                   \
+  \                    6.Rc5-h5 #\n                               5.Rg5-d5 zugzwang.\n\
+  \                                   5...Kh6-h7\n                               \
+  \        6.Rd5-h5 #\n                               5.Rg5-e5 zugzwang.\n       \
+  \                            5...Kh6-h7\n                                      \
+  \ 6.Re5-h5 #\n                               5.Rg5-f5 zugzwang.\n              \
+  \                     5...Kh6-h7\n                                       6.Rf5-h5\
+  \ #\n           2...Rg7-g6 +\n               3.Kf6*g6 threat:\n                \
+  \       4.Rd5-d8 #\n           2...Rg7-a7\n               3.Rd5-d8 +\n         \
+  \          3...Kh8-h7\n                       4.e4-e5 +\n                      \
+  \     4...Kh7-h6\n                               5.Rd8-h8 +\n                  \
+  \                 5...Ra7-h7\n                                       6.Rh8*h7 #\n\
+  \           2...Rg7-b7\n               3.Rd5-d8 +\n                   3...Kh8-h7\n\
+  \                       4.e4-e5 +\n                           4...Kh7-h6\n     \
+  \                          5.Rd8-h8 +\n                                   5...Rb7-h7\n\
+  \                                       6.Rh8*h7 #\n           2...Rg7-c7\n    \
+  \           3.Rd5-d8 +\n                   3...Kh8-h7\n                       4.e4-e5\
+  \ +\n                           4...Kh7-h6\n                               5.Rd8-h8\
+  \ +\n                                   5...Rc7-h7\n                           \
+  \            6.Rh8*h7 #\n           2...Rg7-d7\n               3.Rd5*d7 threat:\n\
+  \                       4.e4-e5 threat:\n                               5.Rd7-d8\
+  \ #\n                       4.Kf6-g6 threat:\n                               5.Rd7-d8\
+  \ #\n                   3...Kh8-g8\n                       4.e4-e5 threat:\n   \
+  \                            5.Rd7-d8 #\n           2...Rg7-e7\n               3.Rd5-d8\
+  \ +\n                   3...Re7-e8\n                       4.Rd8*e8 +\n        \
+  \                   4...Kh8-h7\n                               5.Bd3-b1 zugzwang.\n\
+  \                                   5...Kh7-h6\n                               \
+  \        6.Re8-h8 #\n                               5.Bd3-c2 zugzwang.\n       \
+  \                            5...Kh7-h6\n                                      \
+  \ 6.Re8-h8 #\n                               5.Bd3-f1 zugzwang.\n              \
+  \                     5...Kh7-h6\n                                       6.Re8-h8\
+  \ #\n                               5.Bd3-e2 zugzwang.\n                       \
+  \            5...Kh7-h6\n                                       6.Re8-h8 #\n   \
+  \                            5.Bd3-a6 zugzwang.\n                              \
+  \     5...Kh7-h6\n                                       6.Re8-h8 #\n          \
+  \                     5.Bd3-b5 zugzwang.\n                                   5...Kh7-h6\n\
+  \                                       6.Re8-h8 #\n                           \
+  \    5.Bd3-c4 zugzwang.\n                                   5...Kh7-h6\n       \
+  \                                6.Re8-h8 #\n                               5.e4-e5\
+  \ +\n                                   5...Kh7-h6\n                           \
+  \            6.Re8-h8 #\n                               5.Re8-a8 zugzwang.\n   \
+  \                                5...Kh7-h6\n                                  \
+  \     6.Ra8-h8 #\n                               5.Re8-b8 zugzwang.\n          \
+  \                         5...Kh7-h6\n                                       6.Rb8-h8\
+  \ #\n                               5.Re8-c8 zugzwang.\n                       \
+  \            5...Kh7-h6\n                                       6.Rc8-h8 #\n   \
+  \                            5.Re8-d8 zugzwang.\n                              \
+  \     5...Kh7-h6\n                                       6.Rd8-h8 #\n          \
+  \                     5.Re8-f8 zugzwang.\n                                   5...Kh7-h6\n\
+  \                                       6.Rf8-h8 #\n                   3...Kh8-h7\n\
+  \                       4.e4-e5 +\n                           4...Kh7-h6\n     \
+  \                          5.Rd8-h8 +\n                                   5...Re7-h7\n\
+  \                                       6.Rh8*h7 #\n           2...Rg7-f7 +\n  \
+  \             3.Kf6*f7 threat:\n                       4.Rd5-h5 #\n           2...Rg7-g8\n\
+  \               3.Rd5-h5 #\n           2...Rg7-h7\n               3.Rd5-d8 #\n \
+  \          2...Kh8-h7\n               3.Rd5-h5 +\n                   3...Kh7-g8\n\
+  \                       4.Bd3-c4 +\n                           4...Rg7-f7 +\n  \
+  \                             5.Bc4*f7 +\n                                   5...Kg8-f8\n\
+  \                                       6.Rh5-h8 #\n                           4...Kg8-f8\n\
+  \                               5.Rh5-h8 +\n                                   5...Rg7-g8\n\
+  \                                       6.Rh8*g8 #\n           2...Kh8-g8\n    \
+  \           3.Rd5-d8 +\n                   3...Kg8-h7\n                       4.e4-e5\
+  \ +\n                           4...Rg7-g6 +\n                               5.Bd3*g6\
+  \ +\n                                   5...Kh7-h6\n                           \
+  \            6.Rd8-h8 #\n                           4...Kh7-h6\n               \
+  \                5.Rd8-h8 +\n                                   5...Rg7-h7\n   \
+  \                                    6.Rh8*h7 #\n   1...Rg1-g5\n       2.Ra5*g5\
+  \ threat:\n               3.Bd3-c4 threat:\n                       4.Rg5-h5 #\n\
+  \               3.Kf6-f7 threat:\n                       4.Rg5-h5 #\n          \
+  \ 2...Kh8-h7\n               3.Bd3-b1 zugzwang.\n                   3...Kh7-h6\n\
+  \                       4.Bb1-a2 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rg5-h5 #\n                   3...Kh7-h8\n    \
+  \                   4.Bb1-a2 threat:\n                               5.Rg5-h5 #\n\
+  \                       4.Kf6-f7 threat:\n                               5.Rg5-h5\
+  \ #\n               3.Bd3-c2 zugzwang.\n                   3...Kh7-h6\n        \
+  \               4.Bc2-b3 zugzwang.\n                           4...Kh6-h7\n    \
+  \                           5.Rg5-h5 #\n                   3...Kh7-h8\n        \
+  \               4.Bc2-b3 threat:\n                               5.Rg5-h5 #\n  \
+  \                     4.Kf6-f7 threat:\n                               5.Rg5-h5\
+  \ #\n               3.Bd3-f1 zugzwang.\n                   3...Kh7-h6\n        \
+  \               4.Bf1-c4 zugzwang.\n                           4...Kh6-h7\n    \
+  \                           5.Rg5-h5 #\n                   3...Kh7-h8\n        \
+  \               4.Bf1-c4 threat:\n                               5.Rg5-h5 #\n  \
+  \                     4.Kf6-f7 threat:\n                               5.Rg5-h5\
+  \ #\n               3.Bd3-e2 threat:\n                       4.Kf6-f7 threat:\n\
+  \                               5.Rg5-h5 #\n               3.Bd3-a6 zugzwang.\n\
+  \                   3...Kh7-h6\n                       4.Ba6-c4 zugzwang.\n    \
+  \                       4...Kh6-h7\n                               5.Rg5-h5 #\n\
+  \                   3...Kh7-h8\n                       4.Ba6-c4 threat:\n      \
+  \                         5.Rg5-h5 #\n                       4.Kf6-f7 threat:\n\
+  \                               5.Rg5-h5 #\n               3.Bd3-b5 zugzwang.\n\
+  \                   3...Kh7-h6\n                       4.Bb5-c4 zugzwang.\n    \
+  \                       4...Kh6-h7\n                               5.Rg5-h5 #\n\
+  \                   3...Kh7-h8\n                       4.Bb5-c4 threat:\n      \
+  \                         5.Rg5-h5 #\n                       4.Kf6-f7 threat:\n\
+  \                               5.Rg5-h5 #\n               3.Bd3-c4 threat:\n  \
+  \                     4.Rg5-h5 #\n                   3...Kh7-h6\n              \
+  \         4.Bc4-a2 zugzwang.\n                           4...Kh6-h7\n          \
+  \                     5.Rg5-h5 #\n                       4.Bc4-b3 zugzwang.\n  \
+  \                         4...Kh6-h7\n                               5.Rg5-h5 #\n\
+  \                       4.Bc4-f7 threat:\n                               5.Rg5-h5\
+  \ #\n                       4.Bc4-e6 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rg5-h5 #\n                       4.Bc4-d5 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Rg5-h5\
+  \ #\n                       4.e4-e5 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rg5-h5 #\n                       4.Rg5-a5 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Ra5-h5\
+  \ #\n                       4.Rg5-b5 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rb5-h5 #\n                       4.Rg5-c5 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Rc5-h5\
+  \ #\n                       4.Rg5-d5 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rd5-h5 #\n                       4.Rg5-e5 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Re5-h5\
+  \ #\n                       4.Rg5-f5 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rf5-h5 #\n               3.e4-e5 +\n         \
+  \          3...Kh7-h6\n                       4.Bd3-c4 zugzwang.\n             \
+  \              4...Kh6-h7\n                               5.Rg5-h5 #\n         \
+  \          3...Kh7-h8\n                       4.Bd3-c4 threat:\n               \
+  \                5.Rg5-h5 #\n               3.Rg5-g1 threat:\n                 \
+  \      4.Bd3-c4 threat:\n                               5.Rg1-h1 #\n           \
+  \    3.Rg5-g2 threat:\n                       4.Bd3-c4 threat:\n               \
+  \                5.Rg2-h2 #\n               3.Rg5-g3 threat:\n                 \
+  \      4.Bd3-c4 threat:\n                               5.Rg3-h3 #\n           \
+  \    3.Rg5-g4 threat:\n                       4.Bd3-c4 threat:\n               \
+  \                5.Rg4-h4 #\n               3.Rg5-a5 threat:\n                 \
+  \      4.Ra5-a8 zugzwang.\n                           4...Kh7-h6\n             \
+  \                  5.Ra8-h8 #\n                   3...Kh7-g8\n                 \
+  \      4.Bd3-c4 +\n                           4...Kg8-h7\n                     \
+  \          5.Ra5-h5 #\n                           4...Kg8-f8\n                 \
+  \              5.Ra5-a8 #\n                           4...Kg8-h8\n             \
+  \                  5.Ra5-h5 #\n                       4.e4-e5 threat:\n        \
+  \                       5.Ra5-a8 #\n                       4.Ra5-h5 zugzwang.\n\
+  \                           4...Kg8-f8\n                               5.Rh5-h8\
+  \ #\n                   3...Kh7-h6\n                       4.Bd3-c4 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Ra5-h5\
+  \ #\n                       4.Kf6-f7 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Ra5-h5 #\n                   3...Kh7-h8\n    \
+  \                   4.Bd3-c4 threat:\n                               5.Ra5-h5 #\n\
+  \                       4.e4-e5 threat:\n                               5.Ra5-a8\
+  \ #\n                       4.Kf6-f7 threat:\n                               5.Ra5-h5\
+  \ #\n                       4.Kf6-g6 threat:\n                               5.Ra5-a8\
+  \ #\n               3.Rg5-b5 threat:\n                       4.Rb5-b8 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Rb8-h8\
+  \ #\n                   3...Kh7-g8\n                       4.Bd3-c4 +\n        \
+  \                   4...Kg8-h7\n                               5.Rb5-h5 #\n    \
+  \                       4...Kg8-f8\n                               5.Rb5-b8 #\n\
+  \                           4...Kg8-h8\n                               5.Rb5-h5\
+  \ #\n                       4.e4-e5 threat:\n                               5.Rb5-b8\
+  \ #\n                       4.Rb5-h5 zugzwang.\n                           4...Kg8-f8\n\
+  \                               5.Rh5-h8 #\n                   3...Kh7-h6\n    \
+  \                   4.Bd3-c4 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rb5-h5 #\n                       4.Kf6-f7 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Rb5-h5\
+  \ #\n                   3...Kh7-h8\n                       4.Bd3-c4 threat:\n  \
+  \                             5.Rb5-h5 #\n                       4.e4-e5 threat:\n\
+  \                               5.Rb5-b8 #\n                       4.Kf6-f7 threat:\n\
+  \                               5.Rb5-h5 #\n                       4.Kf6-g6 threat:\n\
+  \                               5.Rb5-b8 #\n               3.Rg5-c5 threat:\n  \
+  \                     4.Rc5-c8 zugzwang.\n                           4...Kh7-h6\n\
+  \                               5.Rc8-h8 #\n                   3...Kh7-g8\n    \
+  \                   4.Bd3-c4 +\n                           4...Kg8-h7\n        \
+  \                       5.Rc5-h5 #\n                           4...Kg8-f8\n    \
+  \                           5.Rc5-c8 #\n                           4...Kg8-h8\n\
+  \                               5.Rc5-h5 #\n                       4.e4-e5 threat:\n\
+  \                               5.Rc5-c8 #\n                       4.Rc5-h5 zugzwang.\n\
+  \                           4...Kg8-f8\n                               5.Rh5-h8\
+  \ #\n                   3...Kh7-h6\n                       4.Bd3-c4 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Rc5-h5\
+  \ #\n                       4.Kf6-f7 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rc5-h5 #\n                   3...Kh7-h8\n    \
+  \                   4.Bd3-c4 threat:\n                               5.Rc5-h5 #\n\
+  \                       4.e4-e5 threat:\n                               5.Rc5-c8\
+  \ #\n                       4.Kf6-f7 threat:\n                               5.Rc5-h5\
+  \ #\n                       4.Kf6-g6 threat:\n                               5.Rc5-c8\
+  \ #\n               3.Rg5-d5 threat:\n                       4.Rd5-d8 zugzwang.\n\
+  \                           4...Kh7-h6\n                               5.Rd8-h8\
+  \ #\n                   3...Kh7-g8\n                       4.Bd3-c4 zugzwang.\n\
+  \                           4...Kg8-h7\n                               5.Rd5-h5\
+  \ #\n                           4...Kg8-f8\n                               5.Rd5-d8\
+  \ #\n                           4...Kg8-h8\n                               5.Rd5-h5\
+  \ #\n                       4.e4-e5 threat:\n                               5.Rd5-d8\
+  \ #\n                       4.Rd5-h5 zugzwang.\n                           4...Kg8-f8\n\
+  \                               5.Rh5-h8 #\n                   3...Kh7-h6\n    \
+  \                   4.Bd3-c4 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rd5-h5 #\n                       4.Kf6-f7 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Rd5-h5\
+  \ #\n                   3...Kh7-h8\n                       4.e4-e5 threat:\n   \
+  \                            5.Rd5-d8 #\n                       4.Kf6-f7 threat:\n\
+  \                               5.Rd5-h5 #\n                       4.Kf6-g6 threat:\n\
+  \                               5.Rd5-d8 #\n               3.Rg5-e5 threat:\n  \
+  \                     4.Re5-e8 zugzwang.\n                           4...Kh7-h6\n\
+  \                               5.Re8-h8 #\n                   3...Kh7-g8\n    \
+  \                   4.Re5-h5 zugzwang.\n                           4...Kg8-f8\n\
+  \                               5.Rh5-h8 #\n                   3...Kh7-h6\n    \
+  \                   4.Bd3-c4 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Re5-h5 #\n                       4.Kf6-f7 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Re5-h5\
+  \ #\n                   3...Kh7-h8\n                       4.Bd3-c4 threat:\n  \
+  \                             5.Re5-h5 #\n                       4.Kf6-f7 threat:\n\
+  \                               5.Re5-h5 #\n                       4.Kf6-g6 threat:\n\
+  \                               5.Re5-e8 #\n               3.Rg5-f5 zugzwang.\n\
+  \                   3...Kh7-g8\n                       4.Rf5-h5 zugzwang.\n    \
+  \                       4...Kg8-f8\n                               5.Rh5-h8 #\n\
+  \                       4.Kf6-g6 zugzwang.\n                           4...Kg8-h8\n\
+  \                               5.Rf5-f8 #\n                   3...Kh7-h6\n    \
+  \                   4.Bd3-c4 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rf5-h5 #\n                       4.Kf6-f7 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Rf5-h5\
+  \ #\n                   3...Kh7-h8\n                       4.Bd3-c4 threat:\n  \
+  \                             5.Rf5-h5 #\n                       4.Kf6-f7 threat:\n\
+  \                               5.Rf5-h5 #\n               3.Rg5-h5 +\n        \
+  \           3...Kh7-g8\n                       4.Bd3-b1 zugzwang.\n            \
+  \               4...Kg8-f8\n                               5.Rh5-h8 #\n        \
+  \               4.Bd3-c2 zugzwang.\n                           4...Kg8-f8\n    \
+  \                           5.Rh5-h8 #\n                       4.Bd3-f1 zugzwang.\n\
+  \                           4...Kg8-f8\n                               5.Rh5-h8\
+  \ #\n                       4.Bd3-e2 zugzwang.\n                           4...Kg8-f8\n\
+  \                               5.Rh5-h8 #\n                       4.Bd3-a6 zugzwang.\n\
+  \                           4...Kg8-f8\n                               5.Rh5-h8\
+  \ #\n                       4.Bd3-b5 zugzwang.\n                           4...Kg8-f8\n\
+  \                               5.Rh5-h8 #\n                       4.Bd3-c4 +\n\
+  \                           4...Kg8-f8\n                               5.Rh5-h8\
+  \ #\n                       4.e4-e5 zugzwang.\n                           4...Kg8-f8\n\
+  \                               5.Rh5-h8 #\n                       4.Rh5-h1 zugzwang.\n\
+  \                           4...Kg8-f8\n                               5.Rh1-h8\
+  \ #\n                       4.Rh5-h2 zugzwang.\n                           4...Kg8-f8\n\
+  \                               5.Rh2-h8 #\n                       4.Rh5-h3 zugzwang.\n\
+  \                           4...Kg8-f8\n                               5.Rh3-h8\
+  \ #\n                       4.Rh5-h4 zugzwang.\n                           4...Kg8-f8\n\
+  \                               5.Rh4-h8 #\n                       4.Rh5-h6 zugzwang.\n\
+  \                           4...Kg8-f8\n                               5.Rh6-h8\
+  \ #\n               3.Kf6-f7 threat:\n                       4.Rg5-h5 #\n      \
+  \             3...Kh7-h6\n                       4.Rg5-a5 zugzwang.\n          \
+  \                 4...Kh6-h7\n                               5.Ra5-h5 #\n      \
+  \                 4.Rg5-b5 zugzwang.\n                           4...Kh6-h7\n  \
+  \                             5.Rb5-h5 #\n                       4.Rg5-c5 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Rc5-h5\
+  \ #\n                       4.Rg5-d5 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rd5-h5 #\n                       4.Rg5-e5 zugzwang.\n\
+  \                           4...Kh6-h7\n                               5.Re5-h5\
+  \ #\n                       4.Rg5-f5 zugzwang.\n                           4...Kh6-h7\n\
+  \                               5.Rf5-h5 #"
+source:
+  date:
+    year: 2012
+  name: StrateGems
+  problemid: M1049
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kc1
+  - Rd1
+  - Ph5
+  - Ph4
+  white:
+  - Kc3
+  - Rf5
+  - Bd3
+authors:
+- Becker, Richard
+solution: '1. Rf2! h3
+
+  2. Rh2 h4
+
+  3. Rc2+ Kb1
+
+  4. Rd2+ Kc1
+
+  5. Rh2 Rxd3+
+
+  6. Kxd3 Kb1
+
+  7. Kc3 Ka1
+
+  8. Kb3 Kb1
+
+  9. Rh1#'
+source:
+  date:
+    month: 3
+    year: 2015
+  issue: '110'
+  name: Семь шахматных нот
+  problemid: '5435'
+stipulation: '#9'
+---
+algebraic:
+  black:
+  - Kh5
+  - Rf1
+  - Ph6
+  white:
+  - Kh8
+  - Rg8
+  - Bb3
+  - Pg3
+authors:
+- Mihalčo, Oto
+award:
+  distinction: HM
+  tourney:
+    name: Проблеміст України
+comments:
+- С подобным материалом имеется классическая миниатюра,  где реализована тема полного
+  круговращения слона белых!  Игра в этой задаче мне показалась занимательной.  (Ф.
+  Кармиль, судья)
+foreignids:
+- domain: WinChloe
+  problemid: 716786
+keywords:
+- Switchback
+solution: "1.Bb3-a4 ! threat:\n        2.Ba4-e8 +\n            2...Rf1-f7\n      \
+  \          3.Be8*f7 #\n    1...Rf1-e1\n        2.Rg8-g7 threat:\n              \
+  \  3.Kh8-h7 \n           2...Re1-e2\n                3.Kh8-g8 zugzwang.\n      \
+  \              3...Re2-e1\n                        4.Kg8-h7 zugzwang.\n        \
+  \                   4...Re1-e2\n                                5.Ba4-b3 {(switchback)}\
+  \ threat:\n                                        6.Bb3-f7 #\n                \
+  \                    5...Re2-e7\n                                        6.Bb3-d1\
+  \ +\n                                            6...Re7-e2\n                  \
+  \                              7.Bd1*e2 #"
+source:
+  date:
+    year: 2014
+  issue: '42'
+  name: Проблеміст України
+  problemid: C173
+stipulation: '#7'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rg2
+  - Ph2
+  - Pf6
+  white:
+  - Kf1
+  - Rd1
+  - Ba2
+  - Pf5
+authors:
+- Becker, Richard
+award:
+  distinction: 3rd HM
+  tourney:
+    name: StrateGems
+solution: "1.Bd5? pat\n\n1.Bb3, Bc4??   Rg1+!\n\n1.Bb1! Rc2 2.Re1 Rg2 3.Rc1 Rc2 4.Rd1\
+  \ Rg2 \n5.Bd3 Re2 6.Be4+ R:e4 7.Kf2+ Re1 8.R:e1#"
+source:
+  date:
+    year: 2014
+  name: StrateGems
+  problemid: M1282
+stipulation: '#8'
+---
+algebraic:
+  black:
+  - Ka8
+  - Re1
+  white:
+  - Ka6
+  - Re4
+  - Be5
+  - Pe2
+  - Pa2
+authors:
+- Hoffmann, Martin Wolfgang
+comments:
+- see 138704
+keywords:
+- Sackmann
+- Wild rook
+- Mass sacrifice
+- Stalemate avoidance
+- Self-obstruction
+- Kalinin theme
+options:
+- defence 1
+solution: "1.Re4-a4 ? {(Rd4, Rf4?)}\n   1...Re1-b1 ! {(Rd1, Rf1!)}\n 1.Re4-b4?\n \
+  \  1...Re1-b1\n       2.Be5-b2? Rb1*b2 \n              3.Rb4*b2 {stalemate}\n 1.Re4-c4?\
+  \ \n   1...Re1-c1 \n       2.Be5-c3? \n            2...Ka8-b8 !\n 1.Re4-h4 ? \n\
+  \    1...Re1-h1 \n       2.Be5-h2 \n           2...Rh1*h2 \n              3.Rh4*h2\
+  \ \n                   3...Ka8-b8 {4.Rc2??}\n 1.Re4-g4 ! threat:\n       2.Rg4-g8\
+  \ #\n   1...Re1-g1\n       2.Be5-g3 \n           2...Rg1*g3\n               3.Rg4*g3\
+  \ \n                   3...Ka8-b8\n                       4.Rg3-c3 \n          \
+  \                 4...Kb8-a8\n                               5.Rc3-c8 #"
+source:
+  date:
+    year: 2013
+  issue: '6'
+  name: Schweizerische Schachzeitung
+  problemid: '14945'
+stipulation: '#5'
+---
+algebraic:
+  black:
+  - Kh4
+  - Ra1
+  - Pe7
+  - Pe4
+  - Pd6
+  - Pa7
+  white:
+  - Kh6
+  - Rb2
+  - Be6
+  - Ph3
+  - Ph2
+  - Pe5
+  - Pa6
+authors:
+- Hoffmann, Martin Wolfgang
+keywords:
+- Duel bR/wR
+- Task record
+options:
+- Defence 1
+reprints:
+- comments:
+  - Eine Auswahl der schönsten Schweizer Schachaufgaben aus den Jahren 1987-1996
+  - M. Hoffmann
+  date:
+    year: 2001
+  name: kunstschaCH
+  pagenumber: 73
+  problemid: 200
+solution: "1.Rb2-f2 ?\n  1...d6*e5\n   2.Rf2-f5\n    2...Kh4*h3\n     3.Rf5-f2 +\n\
+  \      3...Kh3-h4\n       4.Rf2-e2\n        5...Ra1-f1 !\n\n 1.Rb2-g2 ?\n  1...Ra1-a5\
+  \ ?\n   2.Rg2-f2 !\n  1...Ra1-h1 !\n\n 1.Rb2-e2 !\n  1...Ra1-a4 ! \n   2.Re2-g2\
+  \ ! threat:\n     3.Rg2-f2 ? e4-e3 !\n     3.Rg2-g5 threat: 4.Rg5-h5 #\n   2...Ra4-a5\n\
+  \     3.Rg2-f2 !\n      3...d6*e5 \n       4.Rf2-f5\n        4...Kh4*h3\n      \
+  \   5.Rf5-f2 + \n          5...Kh3-h4\n           6.Rf2-e2\n            6...Ra5-a4\n\
+  \             7.Re2-e3 \n              7...Ra4-a3\n               8.Re3*e4 #\n \
+  \  1...e4-e3 ? \n    2.Re2-b2 Ra1-a4 \n    3.Rb2-b8 4.Kh6-g6 threat: 5.Rb8-h8 #"
+source:
+  date:
+    month: 3
+    year: 1996
+  name: Schweizerische Schachzeitung
+  problemid: '13936'
+stipulation: '#8'
+---
+algebraic:
+  black:
+  - Kh4
+  - Rf7
+  - Ph5
+  - Pg6
+  white:
+  - Kh2
+  - Rg2
+  - Bd4
+authors:
+- Brozus, Hartmut
+keywords:
+- Rundlauf
+solution: "1.Bd4-e3 Rf7-f5 2.Be3-d2 Rf5-e5 3.Bd2-c3 Re5-e6 4.Bc3-d4 Re6-e2\n 5.Bd4-f6+\
+  \ g6-g5 6.Bf6*g5#"
+source:
+  date:
+    month: 10
+    year: 2017
+  name: Schach
+  problemid: '18662'
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kh6
+  - Ra1
+  - Pe6
+  white:
+  - Kh8
+  - Rb8
+  - Be8
+  - Pf4
+  - Pf2
+  - Pe5
+  - Pc4
+  - Pc2
+authors:
+- Rauch, Otto
+comments:
+- C+
+solution: "1.Rb8-b6 ! threat:\n       2.Rb6*e6 #\n   1...Ra1-a6\n       2.Rb6-d6 Ra6-b6\n\
+  \               3.Rd6-d3 \n                   3...Rb6-b3\n                     \
+  \  4.c2-c3 \n                           4...Rb3*c3\n                           \
+  \    5.Rd3-d7 threat:\n                                       6.Rd7-h7 #\n     \
+  \      2...Ra6*d6\n               3.e5*d6 e6-e5\n                       4.d6-d7\
+  \ e5*f4\n                               5.d7-d8=Q f4-f3\n                      \
+  \                 6.Qd8-h4 # {(Qf6#)}\n   1...Ra1-g1\n       2.Rb6*e6 +\n      \
+  \     2...Rg1-g6\n               3.Re6*g6 +\n                   3...Kh6-h5\n   \
+  \                    4.Kh8-g7 {(Kh7)} Kh5-h4\n                               5.Be8-d7\
+  \ Kh4-h5\n                                       6.Rg6-h6 #"
+source:
+  date:
+    day: 27
+    month: 3
+    year: 1938
+  issue: '13'
+  name: Deutsche Zeitung Bohemia
+  problemid: '3666'
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Kb1
+  - Ra1
+  - Pb2
+  - Pa3
+  white:
+  - Ke6
+  - Rc8
+  - Ba4
+authors:
+- Коваленко, Владимир Николаевич
+award:
+  distinction: 4th Prize
+  judges:
+  - Сыгуров, Александр Ильич
+  tourney:
+    name: Семь шахматных нот
+solution: "1.Ba4-b5 Kb1-a2 2.Bb5-c4+ Ka2-b1 3.Bc4-d5 Ra1-a2 4.Bd5-e4+ Kb1-a1\n 5.Rc8-b8\
+  \ b2-b1=Q 6.Rb8*b1#"
+source:
+  date:
+    year: 2020
+  name: Семь шахматных нот
+  problemid: '8902'
+stipulation: '#6'
+---
+algebraic:
+  black:
+  - Ka5
+  - Ra4
+  - Pb5
+  - Pb4
+  - Pa6
+  - Pa3
+  white:
+  - Kd8
+  - Rh6
+  - Be1
+  - Pb3
+  - Pa2
+authors:
+- Schreckenbach, Michael
+- Zucker, Manfred
+keywords:
+- Stalemate avoidance
+solution: "1.Be1-f2 ? {stalemate}\n1.Rh6-h7 ! Ka5-b6 2.Rh7-c7 Kb6-a5 3.Kd8-d7 Ka5-b6\
+  \ 4.Be1-f2+ Kb6-a5\n 5.Rc7-c4 b5*c4 6.Kd7-c6 c4*b3 7.Bf2-b6#"
+source:
+  date:
+    day: 20
+    month: 5
+    year: 1999
+  name: stern
+stipulation: '#7'

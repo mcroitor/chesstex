@@ -1,4 +1,4 @@
-\documentclass[12pt,b5paper]{book}
+\documentclass[12pt,b4paper]{book}
 \usepackage[utf8x]{inputenc}
 \usepackage[english,russian]{babel}
 \usepackage{xskak,chessfss,indentfirst}
@@ -8,12 +8,17 @@
 \usepackage{longtable}
 \usepackage{wrapfig}
 
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{JetBrains Mono}
+% \setsansfont[Ligatures=TeX]{Roboto}
+
 % page layout set
 \usepackage[top=2cm, bottom=2cm, left=1.5cm, right=1.5cm]{geometry}
 %\pagestyle{plain}
-\newcommand{\diagramsize}{smallboard} % {normalboard} %
+
+\newcommand{\diagramsize}{normalboard} % {smallboard} % 
 \setchessboard{normalboard,showmover}
-\renewcommand{\familydefault}{\sfdefault}
+% \renewcommand{\familydefault}{\sfdefault}
 
 \title{Учебник шахмат}
 \author{М. В. Кройтор}
@@ -23,6 +28,7 @@
 % \frontmatter
 \maketitle
 \tableofcontents
+\clearpage
 \pagebreak
 
 % \mainmatter

@@ -1,0 +1,8672 @@
+---
+algebraic:
+  black:
+  - Kb2
+  - Rb4
+  white:
+  - Ke3
+  - Rc8
+  - Bf8
+  - Pa2
+authors:
+- Bédoni, Roméo
+keywords:
+- Grimshaw
+options:
+- SetPlay
+solution: '1...Bf8-c5   2.Kb2-c3 Bc5-d4 #
+
+
+  1.Kb2-a3 Rc8-c5   2.Rb4-b2 Rc5-a5 #'
+source:
+  date:
+    year: 1967
+  name: Thèmes-64
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka4
+  - Rc3
+  - Pd3
+  - Pb4
+  - Pa5
+  white:
+  - Kf3
+  - Rd4
+  - Bf1
+authors:
+- Mentasti, Gino
+solution: '1.Rc3-a3 Rd4*d3   2.b4-b3 Rd3-d4 #'
+source:
+  date:
+    year: 1937
+  name: L'Italia Scacchistica
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  white:
+  - Ke1
+  - Rb7
+  - Ba1
+authors:
+- Havel, Miroslav
+solution: "a)\n\n  1.0-0 Rb7-h7   2.Rf8-f7 Rh7-h8 # \n\nb) bKe8--f8\n\n  1.Rh8-h7\
+  \ Ba1-f6   2.Rh7-f7 Rb7-b8 # \n\nc) bKe8--g8\n\n  1.Rh8-h7 Rb7-b2   2.Kg8-h8 Rb2-b8\
+  \ # \n\nd) bKe8--a6\n\n  1.Rh8-h5 Ba1-d4   2.Rh5-b5 Rb7-a7 # \n\ne) bKe8--e3\n\n\
+  \  1.Rh8-h4 Ba1-e5   2.Rh4-e4 Rb7-b3 #"
+source:
+  date:
+    day: 10
+    month: 10
+    year: 1942
+  name: Týden Rozhlasu
+stipulation: h#2
+twins:
+  b: Move e8 f8
+  c: Move e8 g8
+  d: Move e8 a6
+  e: Move e8 e3
+---
+algebraic:
+  black:
+  - Ke2
+  - Rf2
+  - Pf5
+  - Pf4
+  - Pe7
+  - Pe4
+  white:
+  - Kc2
+  - Re5
+  - Bg2
+  - Pe6
+authors:
+- Mlynka, Karol
+intended-solutions: 2.1.1.1
+options:
+- SetPlay
+solution: '1...Bg2*e4   2.f4-f3 Be4-d3 #
+
+
+  1.f4-f3 Bg2-h3   2.f5-f4 Re5*e4 #
+
+  1.Rf2-f1 Bg2*e4   2.Rf1-f2 Be4-g2 #'
+source:
+  date:
+    month: 9
+    year: 1997
+  issue: '58'
+  name: Šachová skladba
+  problemid: '4349'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka2
+  - Rg8
+  - Pe2
+  - Pb7
+  white:
+  - Kh4
+  - Rh3
+  - Be4
+  - Ph7
+authors:
+- Kardos, Tivadar
+keywords:
+- Duplex
+options:
+- Duplex
+solution: "1.e2-e1=R h7*g8=R   2.Re1-a1 Rg8-g2 # \n\n  1.h7-h8=R e2-e1=R   2.Rh8-h5\
+  \ Re1*e4 # \n  1.Be4-c2 e2-e1=R   2.Rh3-h1 Re1*h1 # \n  1.Be4-d3 e2-e1=R   2.Rh3-h1\
+  \ Re1*h1 # \n  1.Be4-f3 e2-e1=S   2.Bf3-h5 Se1-g2 # \n  1.Be4-g6 e2-e1=S   2.Bg6-h5\
+  \ Se1-g2 # \n  1.Rh3-h1 e2-e1=Q +   2.Kh4-h3 Qe1-g3 # \n  1.Rh3-h1 e2-e1=R   2.Be4-c2\
+  \ Re1*h1 # \n  1.Rh3-h1 e2-e1=R   2.Be4-d3 Re1*h1 # \n  1.Rh3-b3 e2-e1=R   2.Be4-d3\
+  \ Re1-h1 # \n  1.Rh3-c3 e2-e1=R   2.Be4-d3 Re1-h1 # \n  1.Rh3-f3 e2-e1=Q +   2.Kh4-h3\
+  \ Qe1-h1 # \n  1.Rh3-f3 e2-e1=R   2.Kh4-h3 Re1-h1 # \n  1.Rh3-g3 e2-e1=Q   2.Kh4-h3\
+  \ Qe1*g3 #"
+source:
+  comments:
+  - TT
+  date:
+    year: 1964
+  name: Budapesti Sakkszövetség
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd6
+  - Rh6
+  white:
+  - Kb6
+  - Rg7
+  - Bh4
+authors:
+- Macleod, Norman Alasdair
+source:
+  date:
+    year: 1988
+  issue: '11'
+  name: Sakkélet
+  problemid: '5308'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke3
+  - Rg7
+  - Pg4
+  - Pf2
+  white:
+  - Kd1
+  - Rg8
+  - Bh8
+authors:
+- Majoros, Béla
+keywords:
+- Ideal mates
+solution: "{zeroposition}\na) bPf2--d3  \n  1.Rg7-f7 Rg8*g4   2.Rf7-f3 Bh8-d4 #\n\
+  b) -bPg4  \n  1.Rg7-g4 Bh8-e5   2.Rg4-e4 Rg8-g3 #"
+source:
+  date:
+    year: 1998
+  name: Molnar-60 JT
+stipulation: h#2
+twins:
+  a: Move f2 d3
+  b: Remove g4
+---
+algebraic:
+  black:
+  - Ke4
+  - Rc3
+  - Pe6
+  - Pd4
+  white:
+  - Kg4
+  - Rc2
+  - Ba2
+  - Pe2
+  - Pc4
+authors:
+- Bussetta, Arturo
+- Franco, Francesco
+intended-solutions: '2'
+solution: "1.Rc3-f3 Rc2-c3   2.e6-e5 e2*f3 # \n1.Rc3-e3 Ba2-b1   2.Re3*e2 Rc2*e2 #"
+source:
+  date:
+    month: 10
+    year: 1997
+  name: Scacco!
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka7
+  - Rc6
+  - Pd6
+  white:
+  - Kc1
+  - Rc3
+  - Bf3
+authors:
+- Smecca, Angelo
+intended-solutions: '2'
+solution: "1.Rc6-a6 Rc3-c8   2.Ra6-b6 Rc8-a8 # \n1.Rc6-b6 Bf3-c6   2.Ka7-a6 Rc3-a3\
+  \ #"
+source:
+  date:
+    month: 6
+    year: 1998
+  name: Scacco!
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  white:
+  - Ke4
+  - Rb1
+  - Bb2
+authors:
+- Rallo, Vito
+keywords:
+- Castling
+- Model mates
+solution: "a) 1.0-0-0 Bb2-e5   2.Rd8-d7 Rb1-b8 # \n\nb) bRa8--h8\n1.0-0 Rb1-h1   2.Rf8-f7\
+  \ Rh1-h8 #"
+source:
+  date:
+    month: 3
+    year: 1999
+  name: Scacco!
+stipulation: h#2
+twins:
+  b: Move a8 h8
+---
+algebraic:
+  black:
+  - Kd5
+  - Rd4
+  - Pd6
+  - Pb5
+  - Pb4
+  white:
+  - Kb3
+  - Re6
+  - Bf2
+authors:
+- Giorgetti, Fosco
+intended-solutions: 1.2.1.1
+solution: "1.Kd5-c5 Re6-e3   2.Rd4-d5 Re3-c3 # \n1.Kd5-c5 Bf2-h4   2.d6-d5 Bh4-e7\
+  \ #"
+source:
+  date:
+    month: 4
+    year: 2000
+  name: Telescacco 2000
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka5
+  - Rf6
+  white:
+  - Ka3
+  - Rh7
+  - Bh8
+  - Pf5
+  - Pe6
+authors:
+- Bussetta, Arturo
+intended-solutions: '2'
+solution: "1.Rf6*f5 Bh8-d4   2.Rf5-b5 Rh7-a7 # \n1.Rf6*e6 Rh7-b7   2.Re6-a6 Bh8-c3\
+  \ #"
+source:
+  date:
+    month: 11
+    year: 2000
+  name: Telescacco 2000
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc5
+  - Rb4
+  - Pc6
+  - Pb5
+  white:
+  - Ka7
+  - Re1
+  - Bg3
+  - Pc4
+authors:
+- Долгинович, Николай Осипович
+solution: "a)\n\n  1.b5*c4 Re1-d1   2.Rb4-b5 Bg3-d6 # \n\nb)  -wBg3  +wSg3 \n\n  1.Rb4*c4\
+  \ Sg3-f5   2.b5-b4 Re1-e5 #"
+source:
+  date:
+    month: 12
+    year: 1994
+  name: Telescacco 92
+stipulation: h#2
+twins:
+  b: Remove g3 add white Sg3
+---
+algebraic:
+  black:
+  - Ke5
+  - Rf5
+  - Pe4
+  white:
+  - Kb3
+  - Rh6
+  - Be1
+authors:
+- Kardos, Tivadar
+keywords:
+- Ideal mates
+- Echo mates
+solution: "a) \n  1.Ke5-d5 Be1-b4   2.Rf5-e5 Rh6-d6 #\nb) wKb3--h3  \n  1.Rf5-g5 Be1-c3\
+  \ +   2.Ke5-f5 Rh6-f6 #"
+source:
+  date:
+    year: 1985
+  name: Ideal-Mate Review
+  problemid: '1233'
+stipulation: h#2
+twins:
+  b: Move b3 h3
+---
+algebraic:
+  black:
+  - Ke4
+  - Ra4
+  - Pg4
+  white:
+  - Kh7
+  - Rf5
+  - Ba2
+  - Pd4
+authors:
+- Boy, Claude
+- Gandy, Jean-Claude
+solution: "a)\n\n  1.Ra4-a5 Rf5-f8   2.Ra5-g5 Ba2-f7   3.Ke4-f5 Bf7-d5 # \n\nb) bPg4--d6\n\
+  \n  1.Ra4-a6 Ba2-g8   2.Ra6-c6 Rf5-f7   3.Ke4-d5 Rf7-f4 #"
+source:
+  date:
+    year: 1980
+  name: Thèmes-64
+stipulation: h#3
+twins:
+  b: Move g4 d6
+---
+algebraic:
+  black:
+  - Kf3
+  - Rc2
+  - Pf5
+  - Pc3
+  white:
+  - Ke1
+  - Ra1
+  - Bb1
+  - Pa2
+authors:
+- Carrà, Arturo
+solution: "1.Rc2-h2 Bb1*f5   2.Kf3-g2 Bf5-h3 +   3.Kg2-h1 0-0-0 # \n  1.Rc2-g2 a2-a4\
+  \   2.f5-f4 Bb1-f5   3.c3-c2 Ra1-a3 # \n  1.Rc2-f2 Bb1*f5   2.Kf3-e3 Ra1-d1   3.Rf2-f4\
+  \ Rd1-d3 # \n  1.f5-f4 a2-a4   2.Rc2-g2 Bb1-f5   3.c3-c2 Ra1-a3 #"
+source:
+  date:
+    month: 6
+    year: 1952
+  name: Magyar Sakkélet
+  problemid: '692'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ka4
+  - Rb3
+  - Ph5
+  - Pg2
+  - Pf3
+  - Pe2
+  - Pc2
+  - Pa3
+  white:
+  - Ka6
+  - Rh2
+  - Bh1
+  - Pd5
+  - Pb5
+authors:
+- Kárpáti, Aurél M.
+solution: '1.g2-g1=S Bh1*f3   2.e2-e1=S Bf3-d1   3.c2-c1=S Rh2-h4 #'
+source:
+  date:
+    year: 1993
+  issue: 6-7
+  name: Sakkélet
+  problemid: '5859'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke1
+  - Ra5
+  - Pc3
+  - Pa6
+  - Pa4
+  - Pa3
+  white:
+  - Kb8
+  - Rc5
+  - Bh7
+  - Pe4
+  - Pd3
+  - Pc2
+  - Pa2
+authors:
+- Копаев, Вячеслав Георгиевич
+award:
+  distinction: 5th Place
+  tourney:
+    name: IX командное первенство СССР
+solution: "1.Ke1-f1 Rc5-h5   2.Ra5-f5 e4-e5   3.Rf5-f2 Bh7-e4   4.Kf1-g1 Rh5-h1 #\
+  \ \n  1.Ke1-f2 Rc5*c3   2.Ra5-g5 Bh7-f5   3.Kf2-g3 d3-d4 +   4.Kg3-h4 Rc3-h3 #"
+source:
+  date:
+    year: 1975
+  name: IX командное первенство СССР
+stipulation: h#4
+---
+algebraic:
+  black:
+  - Kh4
+  - Ra6
+  - Ph5
+  - Ph2
+  white:
+  - Kb8
+  - Rf8
+  - Bc6
+authors:
+- Abdurahmanović, Fadil
+solution: "a) \n  1.Kh4-h3 Rf8-g8   2.h5-h4 Bc6-g2 #\n+b) bKh4<--wBc6  \n  1.Kc6-d7\
+  \ Kb8-b7   2.Ra6-e6 Rf8-d8 #\n+c) wBh4<--wRf8  \n  1.Kc6-b5 Kb8-b7   2.Ra6-a5 Rh4-b4\
+  \ #\n+d) wRh4<--bKc6  \n  1.Ra6-a3 Rc6-g6   2.Ra3-h3 Bf8-e7 #\n+e) bKh4<--wBf8 \
+  \ \n  1.Ra6-a7 Bh4-f6   2.Ra7-f7 Rc6-c8 #\n+f) wBh4<--wRc6  \n  1.Kf8-e7 Rh4-e4\
+  \ +   2.Ke7-d8 Re4-e8 #"
+source:
+  date:
+    year: 1985
+  name: feenschach
+stipulation: h#2
+twins:
+  b: Continued exchange h4 c6
+  c: Continued exchange h4 f8
+  d: Continued exchange h4 c6
+  e: Continued exchange h4 f8
+  f: Continued exchange h4 c6
+---
+algebraic:
+  black:
+  - Kd5
+  - Rf5
+  - Pc5
+  white:
+  - Kb5
+  - Rh5
+  - Ba5
+authors:
+- Albert, Eugene
+solution: '1.c5-c4 Kb5-a4   2.Kd5-c5 Rh5-h6   3.Rf5-d5 Ba5-b6 #'
+source:
+  date:
+    year: 1983
+  name: Ideal-Mate Review
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Re3
+  white:
+  - Ke1
+  - Re2
+  - Bg1
+  - Pf2
+  - Pe5
+authors:
+- Bales, Robert J.
+solution: "1.Re3-c3 f2-f3 +   2.Kd4-d3 Bg1-d4   3.Rc3-c4 Re2-d2 # \n  1.Re3*e5 Ke1-d2\
+  \   2.Re5-c5 Re2-e5   3.Rc5-c4 f2-f4 #"
+source:
+  date:
+    year: 1999
+  name: StrateGems
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kb4
+  - Rf5
+  white:
+  - Kc1
+  - Ra8
+  - Bb6
+authors:
+- Bédoni, Roméo
+award:
+  distinction: 2nd Prize
+  tourney:
+    name: feenschach
+keywords:
+- No pawns
+- Twins continued
+solution: "a) \n  1.Rf5-b5 Bb6-a7   2.Kb4-a5 Ba7-c5 #\nb) bKb4--g7  \n  1.Rf5-f7 Bb6-d8\
+  \   2.Kg7-f8 Bd8-f6 #\n+c) bRf5--g8  \n  1.Kg7-h7 Bb6-d4   2.Rg8-g6 Ra8-h8 #\n+d)\
+  \ bKg7--g3  \n  1.Kg3-h2 Bb6-f2   2.Rg8-g2 Ra8-h8 #\n+e) wKc1--d4  \n  1.Kg3-f2\
+  \ Kd4-d3 +   2.Kf2-e1 Ra8-a1 #\n+f) wKd4--f7  \n  1.Kg3-h2 Bb6-f2   2.Rg8-g2 Ra8-h8\
+  \ #\n+g) bKg3--f1  \n  1.Rg8-g2 Ra8-g8   2.Rg2-e2 Rg8-g1 #\n+h) bKf1--e1  \n  1.Rg8-g2\
+  \ Bb6-e3   2.Rg2-e2 Ra8-a1 #"
+source:
+  date:
+    year: 1962
+  name: feenschach
+stipulation: h#2
+twins:
+  b: Move b4 g7
+  c: Cont move f5 g8
+  d: Cont move g7 g3
+  e: Cont move c1 d4
+  f: Cont move d4 f7
+  g: Cont move g3 f1
+  h: Cont move f1 e1
+---
+algebraic:
+  black:
+  - Ka2
+  - Rb2
+  - Pa3
+  white:
+  - Ke1
+  - Rh1
+  - Bc1
+  - Pb3
+authors:
+- dalla Rosa, Pedro
+solution: "1.Ka2-a1 0-0   2.Rb2-a2 Bc1*a3 # \n  1.Rb2*b3 Rh1-h3   2.Rb3-b1 Rh3*a3\
+  \ #"
+source:
+  date:
+    year: 1966
+  name: 2nd TT, Boletim da UBP
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc4
+  - Re5
+  - Pd3
+  - Pc5
+  white:
+  - Kf1
+  - Rg7
+  - Ba1
+  - Pf5
+  - Pe2
+  - Pd5
+  - Pd2
+authors:
+- Fleisch, Bernard
+solution: "1.Kc4*d5 Ba1*e5   2.Kd5-e4 e2*d3 +   3.Ke4-f3 Rg7-g3 # \n  1.Re5*d5 Ba1-f6\
+  \   2.Rd5-e5 e2*d3 +   3.Kc4-d4 Rg7-d7 #"
+source:
+  date:
+    year: 1976
+  name: The Problemist
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kf4
+  - Rg4
+  white:
+  - Kf6
+  - Ra3
+  - Bb7
+  - Pf3
+authors:
+- Gabor, Nicholas
+solution: '1.Kf4-g3 f3-f4 +   2.Kg3*f4 Ra3-f3 #'
+source:
+  date:
+    year: 1949
+  name: American Chess Problemist
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf5
+  - Rg5
+  white:
+  - Kb5
+  - Rb2
+  - Ba8
+authors:
+- Кисляк, Олександр Авраамович
+- Ивунин, Алексей Всеволодович
+solution: "1.Rg5-g3 Rb2-b1   2.Kf5-g4 Ba8-f3 +   3.Kg4-h3 Rb1-h1 # \n  1.Rg5-g7 Ba8-d5\
+  \   2.Kf5-g6 Bd5-f7 +   3.Kg6-h7 Rb2-h2 #"
+source:
+  date:
+    year: 1991
+  name: Кони Гипаниса (Николаев)
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kh1
+  - Rh3
+  white:
+  - Ka4
+  - Rg2
+  - Bb8
+  - Ph4
+  - Pe2
+authors:
+- Желтоножко, Владимир Иванович
+solution: '1.Rh3-g3 Rg2-f2   2.Rg3-g1 Rf2-h2 #'
+source:
+  date:
+    month: 3
+    year: 1990
+  name: Revista Română de Şah
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd3
+  - Rc7
+  white:
+  - Kg4
+  - Re8
+  - Bg8
+  - Pc3
+authors:
+- Желтоножко, Владимир Иванович
+solution: "a) \n  1.Rc7-e7 Bg8-c4 +   2.Kd3-e4 Re8*e7 #\nb) wKg4--b6  \n  1.Rc7-f7\
+  \ Re8-e3 +   2.Kd3-c4 Bg8*f7 #"
+source:
+  date:
+    year: 1993
+  name: Интеллектуальные игры
+stipulation: h#2
+twins:
+  b: Move g4 b6
+---
+algebraic:
+  black:
+  - Kg1
+  - Rg2
+  white:
+  - Kd1
+  - Rh8
+  - Bf6
+  - Ph2
+authors:
+- Желтоножко, Владимир Иванович
+solution: "1.Kg1-h1 Bf6-h4   2.Kh1*h2 Bh4-f2 # \n1.Kg1-f1 Rh8-f8   2.Kf1-f2 Bf6-d4\
+  \ #"
+source:
+  date:
+    year: 1995
+  name: На смену!
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd6
+  - Rg7
+  white:
+  - Kc4
+  - Rf7
+  - Bf6
+  - Pb5
+authors:
+- Kubečka, Jan
+solution: "1.Rg7-g6 Bf6-d8   2.Rg6-e6 Bd8-c7 # \n  1.Rg7-h7 Rf7-c7   2.Rh7-d7 Rc7-c6\
+  \ #"
+source:
+  date:
+    year: 1970
+  name: Sinfonie Scacchistiche
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc1
+  - Rb1
+  - Pe5
+  - Pe3
+  - Pc3
+  - Pa3
+  white:
+  - Ke1
+  - Ra1
+  - Be2
+  - Pe4
+  - Pd3
+  - Pc2
+  - Pb3
+  - Pa2
+authors:
+- Maryško, Miloš
+keywords:
+- Scaccografia
+- Belen Theme
+- Anti-Belen Theme
+- Castling
+solution: '1.Kc1*c2 + Be2-d1 +   2.Kc2*d3 b3-b4   3.Rb1*b4 Bd1-f3   4.Rb4-c4 0-0-0
+  #
+
+  1.Kc1*c2 + Be2-d1 +   2.Kc2*d3 b3-b4   3.Rb1*b4 Bd1-b3   4.Rb4*e4 Ra1-d1 #
+
+  1.Kc1*c2 + Be2-d1 +   2.Kc2*d3 Ke1-f1   3.Rb1*b3 Bd1*b3   4.Kd3-d2 Ra1-d1 #'
+source:
+  date:
+    year: 1960
+  name: Die Schwalbe
+stipulation: h#4
+---
+algebraic:
+  black:
+  - Kg7
+  - Rf8
+  white:
+  - Kd5
+  - Ra8
+  - Ba5
+authors:
+- Morra, Juan Carlos
+solution: 'a) Diagram
+
+  1.Rf7 Bd8  2.Kf8 Bf6#
+
+
+  b) Rf8-g8
+
+  1.Kh7 Bc3  2.Rg6 Rh8#
+
+
+  c) Rf8-h8
+
+  1.Rh7 Bd8  2.Kh8 Bf6#'
+source:
+  date:
+    year: 1966
+  name: Problemas
+  problemid: '80'
+stipulation: h#2
+twins:
+  b: Move f8 g8
+  c: Move f8 h8
+---
+algebraic:
+  black:
+  - Kh6
+  - Rg5
+  - Ph7
+  - Ph5
+  - Ph4
+  - Pg7
+  - Pg3
+  white:
+  - Kb6
+  - Rg4
+  - Bf5
+  - Pe4
+authors:
+- Pietzcker, Eduard
+solution: '1.g3-g2 Rg4*g5   2.g2-g1=R Rg5*g7   3.Rg1-g5 Rg7*h7 #'
+source:
+  date:
+    year: 1968
+  name: Die Schwalbe
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kg2
+  - Ra1
+  white:
+  - Kb3
+  - Rb1
+  - Be3
+authors:
+- Popa, Nicolae
+solution: "1.Ra1-a2 Rb1-b2 +   2.Kg2-f1 Rb2-g2   3.Ra2-e2 Rg2-g1 # \n  1.Kg2-h2 Rb1-b2\
+  \ +   2.Kh2-h1 Be3-f4   3.Ra1-g1 Rb2-h2 # \n  1.Kg2-h3 Rb1-b2   2.Ra1-g1 Be3-f4\
+  \   3.Rg1-g4 Rb2-h2 #"
+source:
+  date:
+    year: 1988
+  name: Coupe de Bucharest
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke3
+  - Rf3
+  - Pd5
+  white:
+  - Ke1
+  - Rh3
+  - Bb8
+  - Pg3
+authors:
+- Riczu, Lajos
+solution: "1.Rf3-f4 Bb8-e5   2.Rf4-e4 g3-g4 # \n  1.d5-d4 Rh3-h4   2.d4-d3 Bb8-a7\
+  \ #"
+source:
+  date:
+    year: 1980
+  name: Canadian Chess Chat
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc4
+  - Rb5
+  - Pf7
+  - Pd7
+  - Pd3
+  - Pc6
+  white:
+  - Kh5
+  - Re6
+  - Bg8
+  - Pc5
+  - Pc3
+authors:
+- Simonet, André
+solution: '1.f7-f5 Re6*c6 +   2.d7-d5 c5*d6 ep. #'
+source:
+  date:
+    year: 1991
+  name: Apprenti Sorcier
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kh8
+  - Rh2
+  - Ph3
+  - Pg7
+  - Pg3
+  - Pg2
+  white:
+  - Kg1
+  - Rg4
+  - Bg8
+authors:
+- Стёпочкин, Анатолий Викторович
+solution: '1.g7-g5 Rg4-h4 +   2.Kh8-g7 Rh4-h8   3.Kg7-g6 Bg8-h7 +   4.Kg6-h5 Bh7-f5
+  #'
+source:
+  date:
+    year: 1999
+  name: StrateGems
+stipulation: h#4
+---
+algebraic:
+  black:
+  - Ke3
+  - Rf3
+  - Pd5
+  white:
+  - Kc2
+  - Ra6
+  - Bc7
+authors:
+- Ваулин, Евгений Александрович
+solution: "1.Ke3-e4 Ra6-f6   2.Rf3-e3 Rf6-f4 # \n1.Ke3-d4 Bc7-d6   2.Rf3-e3 Ra6-a4\
+  \ #"
+source:
+  date:
+    year: 2000
+  name: Ideal-Mate Review
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke2
+  - Rf1
+  - Ph6
+  - Pf6
+  - Pf2
+  - Pe4
+  white:
+  - Kg4
+  - Rh4
+  - Bf4
+  - Ph5
+  - Ph3
+  - Ph2
+  - Pf5
+  - Pe3
+authors:
+- Yzarn, Xavier
+solution: '1.Rf1-e1 Bf4-g5   2.f2-f1=B Kg4-f4   3.Ke2-f2 Rh4-g4   4.Re1-e2 Bg5-h4
+  #'
+source:
+  date:
+    year: 1968
+  name: Europe Échecs
+stipulation: h#4
+---
+algebraic:
+  black:
+  - Kg4
+  - Rh4
+  - Ph3
+  white:
+  - Kd1
+  - Ra6
+  - Bb8
+authors:
+- Yamanishi, Jorge T.
+solution: "1.h3-h2 Ra6-g6 +   2.Kg4-h3 Rg6-g3 # \n  1.Kg4-h5 Bb8-f4   2.Rh4-g4 Ra6-h6\
+  \ # \n  1.Rh4-h5 Ra6-g6 +   2.Kg4-h4 Bb8-g3 #"
+source:
+  date:
+    year: 1963
+  name: Boletim da União Brasileira de Problemistas
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd3
+  - Ra6
+  - Pe3
+  - Pc4
+  - Pc3
+  white:
+  - Kd1
+  - Ra7
+  - Bf7
+authors:
+- Bussetta, Arturo
+- Smecca, Angelo
+comments:
+- Inversione delle mosse bianche di T/A con cambio d'inchiodatura e matto. Manovra
+  non nuova ma ben realizzata in una 'quasi' miniatura (Vito Rallo).
+intended-solutions: '2'
+solution: "1.Ra6-e6 Bf7-g6 +   2.Re6-e4 Ra7-d7 # \n1.Ra6-d6 Ra7-d7   2.Rd6-d4 Bf7-g6\
+  \ #"
+source:
+  date:
+    month: 5
+    year: 2003
+  name: Telescacco 2000
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka3
+  - Rb1
+  - Pa2
+  white:
+  - Kb5
+  - Rd4
+  - Be3
+  - Pb4
+authors:
+- Zujevas, Nikolajus
+- Цырулик, Степан Павлович
+award:
+  distinction: 3rd Prize
+  tourney:
+    name: Šahs/Шахматы (Rīga)
+solution: "1.Rb1-b3 Be3-c1 +   2.Rb3-b2 Rd4-d3 # \n1.Rb1-b2 Rd4-d3 +   2.Rb2-b3 Be3-c1\
+  \ # \n1.Ka3-b2 Rd4-d1   2.Kb2-a1 Be3-d4 #"
+source:
+  date:
+    year: 1988
+  name: Šahs/Шахматы (Rīga)
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf2
+  - Rf3
+  white:
+  - Ke6
+  - Rg4
+  - Bf5
+  - Pe4
+authors:
+- Ruth, Emiliano Fernando
+comments:
+- Magazine edited and judged by José Miguel Martínez.
+keywords:
+- Ideal mates
+solution: '1.Re3 Rh4
+
+  2.Kf3 Bg4
+
+  3.Kxe4 Be2#'
+source:
+  date:
+    month: 7
+    year: 1970
+  issue: '18'
+  name: Ajedrez Mágico
+  problemid: '660'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kh1
+  - Rg2
+  white:
+  - Kd1
+  - Re3
+  - Be4
+authors:
+- Шалетић, Слободан
+intended-solutions: 2.1.1.1
+options:
+- SetPlay
+solution: '1...Re3-f3   2.Rg2-h2 Rf3-f1 #
+
+
+  1.Kh1-h2 Re3-e1   2.Rg2-g3 Re1-h1 #
+
+  1.Kh1-g1 Re3-h3   2.Rg2-f2 Rh3-h1 #'
+source:
+  date:
+    year: 2006
+  name: Проблеміст України
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd4
+  - Re4
+  - Ph5
+  - Pg5
+  - Pd6
+  - Pd5
+  - Pc2
+  - Pb6
+  white:
+  - Kh3
+  - Rc5
+  - Bf4
+  - Pe2
+authors:
+- Копил, Валерій Володимирович
+- Козюра, Геннадій Володимирович
+award:
+  distinction: 4th HM
+  tourney:
+    name: Шахматная композиция
+solution: 'I  1. c1R  Rb5 2. Rc5  Bd2 3. Kc4  Rb4#
+
+
+  II 1. c1B  Bh2 2. Bf4  Rc2 3. Ke3  Bg1#'
+source:
+  date:
+    year: 2003
+  name: Шахматная композиция
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd6
+  - Rf8
+  - Pc6
+  white:
+  - Kb4
+  - Re7
+  - Be2
+authors:
+- Martínez, José Miguel
+comments:
+- Magazine edited and judged by José Miguel Martínez.
+keywords:
+- Ideal mates
+solution: 'a) 1.Rf5 Bg4  2.Re5 Rd7#
+
+  b) 1.Rc8 Bc4  2.Rc7 Re6#'
+source:
+  date:
+    month: 6
+    year: 1971
+  issue: '27'
+  name: Ajedrez Mágico
+  problemid: '993'
+stipulation: h#2
+twins:
+  b: Add white Pc6
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  white:
+  - Kh6
+  - Rg1
+  - Bg8
+authors:
+- Martínez, José Miguel
+comments:
+- Magazine edited and judged by José Miguel Martínez.
+keywords:
+- Model mates
+options:
+- Duplex
+solution: 'a) 1.Ra7 Be6  2.Re7 Rg8#
+
+  b) 1.Bf7+ Kxf7  2.Rg5 Rh8#'
+source:
+  date:
+    month: 6
+    year: 1971
+  issue: '27'
+  name: Ajedrez Mágico
+  problemid: '999'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Pg7
+  - Pg6
+  - Pa7
+  white:
+  - Kh8
+  - Rb1
+  - Bd6
+authors:
+- Leibovici, Paul
+award:
+  distinction: 2nd Comm.
+  tourney:
+    name: N.Kovács MT
+keywords:
+- Retro
+solution: '1.Ra8-d8 Rb1-f1   2.Rd8-d7 Rf1-f8 #'
+source:
+  date:
+    year: 1948
+  name: Magyar Sakkvilág
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf5
+  - Rb1
+  - Pf6
+  - Pe6
+  - Pe4
+  - Pd4
+  white:
+  - Ka4
+  - Rd5
+  - Be5
+  - Pg2
+authors:
+- Garai, Toma
+comments:
+- E156 p.389, Album FIDE 1989-91
+foreignids:
+- domain: WinChloe
+  problemid: 17066
+intended-solutions: 2.1.1...
+solution: "1.Rb1-b5 Be5-h2 +   2.Rb5*d5 g2-g3   3.Kf5-e5 g3-g4 # \n  1.Rb1-f1 Rd5-a5\
+  \   2.Rf1-f4 Ka4-b5   3.Kf5*e5 Kb5-c6 #"
+source:
+  date:
+    year: 1990
+  name: Шахматна мисъл
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kb5
+  - Rb4
+  white:
+  - Kf1
+  - Rf2
+  - Bg2
+  - Pc2
+authors:
+- Hýsek, Martin
+keywords:
+- Model mates
+solution: 'a) 1.Ka6 c4  2.Rb6 Ra2#
+
+  b) 1.c1=S Rd4  2.Se2 Rd1#'
+source:
+  date:
+    year: 1965
+  name: Die Schwalbe
+stipulation: h#2
+twins:
+  b: PolishType
+---
+algebraic:
+  black:
+  - Kf3
+  - Rd2
+  - Ph2
+  - Pg5
+  - Pc6
+  - Pc4
+  - Pc2
+  white:
+  - Kf8
+  - Rh7
+  - Bg3
+authors:
+- Bartolović, Hrvoje
+award:
+  distinction: 1st HM
+  tourney:
+    name: Magyar Sakkélet
+keywords:
+- BK star
+- Forsberg twins
+- Model mates
+solution: "a) \n\n1.Kf3-e2 Rh7-e7 +   2.Ke2-d1 Re7-e1 #\n\nb) wBh7  \n\n1.Kf3-g2 Bg3-f2\
+  \   2.Kg2-h1 Bh7-e4 #\n\nc) wSh7  \n\n1.Kf3-g4 Kf8-g7   2.Kg4-h5 Sh7-f6 #\n\nd)\
+  \ wPh7  \n\n1.Kf3-e4 h7-h8=Q   2.Ke4-d5 Qh8-e5 #"
+source:
+  date:
+    year: 1956
+  name: Magyar Sakkélet
+stipulation: h#2
+twins:
+  b: Add white Bh7
+  c: Add white Sh7
+  d: Add white Ph7
+---
+algebraic:
+  black:
+  - Ke5
+  - Ra1
+  white:
+  - Kc7
+  - Ra2
+  - Bb1
+authors:
+- Lago, Carlos
+award:
+  distinction: 1st Prize, set
+  tourney:
+    name: Problemas
+intended-solutions: '3'
+solution: '1.Ke6 Bg6  2.Rf1 Kc6  3.Rf6 Re2#
+
+  1.Kd4 Re2  2.Ra3 Kd6  3.Rc3 Re4#
+
+  1.Kf6 Rg2  2.Ra7+ Kd6  3.Rf7 Rg6#'
+source:
+  date:
+    year: 1997
+  name: Problemas
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd5
+  - Rg2
+  - Pe5
+  - Pc3
+  - Pa3
+  - Pa2
+  white:
+  - Ka5
+  - Re4
+  - Be3
+  - Pg4
+  - Pe2
+  - Pb3
+authors:
+- Schaffner, Gerold
+comments:
+- Thomas Maeder zum 40. Geburtstag gew.
+intended-solutions: 2.1.1...
+keywords:
+- Zilahi
+- Indian
+solution: '1.Rg2*g4 Be3-a7   2.Rg4*e4 Ka5-b6   3.Kd5-d4 Kb6-c6 #
+
+  1.Rg2-g3 Re4-a4   2.Rg3*e3 Ka5-b4   3.Kd5-e4 Kb4-c5 #'
+source:
+  date:
+    month: 7
+    year: 2007
+  issue: '95'
+  name: idee & form
+  problemid: '2270'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke4
+  - Rf5
+  - Pf4
+  - Pc5
+  - Pc4
+  white:
+  - Kc3
+  - Rf6
+  - Bf1
+  - Pe5
+authors:
+- Копил, Валерій Володимирович
+award:
+  distinction: 1st HM
+  tourney:
+    name: 5 EFCC Antalya
+solution: '2 Sol
+
+
+  I  1. K:e5(A)  Re6+ 2. Kd5(B)  B:c4#
+
+
+  II 1. Kd5(B)  B:c4+ 2. K:e5(A)  Re6#'
+source:
+  date:
+    year: 2008
+  name: 5 EFCC Antalya
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc1
+  - Rd1
+  - Pd2
+  white:
+  - Kh1
+  - Rg1
+  - Be2
+authors:
+- Астахов, Николай Иванович
+intended-solutions: 1.2.1.1
+solution: 'I. 1. Rf1  B:f1  2. Kd1  Bd3#
+
+
+  II. 1. Rf1  Bd3  2. Kd1  R:f1#'
+source:
+  date:
+    month: 9
+    year: 1982
+  issue: 5-8
+  name: Šahovska kompozicija
+  problemid: '162'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kg7
+  - Rf6
+  white:
+  - Ka7
+  - Rh1
+  - Bd8
+authors:
+- Нефёдов, Владислав Валерьевич
+award:
+  distinction: 2nd Prize
+  tourney:
+    name: Проблемист Прибужья TT
+keywords:
+- No pawns
+- Model mates
+solution: "a) \n\n1.Rf6-g6 Bd8-h4   2.Kg7-h6 Bh4-f6 #\n\nb) bSf6 \n\n1.Sf6-g8 Bd8-h4\
+  \   2.Kg7-h8 Bh4-f6 #"
+source:
+  date:
+    year: 1995
+  name: Проблемист Прибужья
+stipulation: h#2
+twins:
+  b: Substitute bR bS
+---
+algebraic:
+  black:
+  - Kc5
+  - Re4
+  - Pd4
+  white:
+  - Ka1
+  - Rf4
+  - Bg7
+authors:
+- Тогер, Александр Вульфович
+solution: "a)  1. Kb4  B:d4  2. Re5  Kb2  3. Rb5  Bb6#\n\nb) +bPe4\n\n    1. d3  Bf8\
+  \  2. Kd4  Rf2  3. Ke3  Bc5#"
+source:
+  date:
+    month: 7
+    year: 1999
+  issue: '41'
+  name: The Problemist Supplement
+  problemid: '898'
+stipulation: h#3
+twins:
+  b: Add black Pe4
+---
+algebraic:
+  black:
+  - Kd4
+  - Rf6
+  white:
+  - Kb4
+  - Rc7
+  - Bg3
+authors:
+- Rusek, Jan A.
+intended-solutions: 2.1.1...
+solution: '1. Re6  Bf4    2. Re4  Rd7#
+
+  1. Ke3  Kc3    2. Rf3  Re7#'
+source:
+  date:
+    day: 30
+    month: 9
+    year: 1938
+  name: Jan
+  problemid: '983'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Ra8
+  white:
+  - Ke1
+  - Ra4
+  - Ba5
+authors:
+- Илиевски, Тоде
+award:
+  distinction: 1st Prize
+  tourney:
+    name: JT Moscow-1941 (miniatury)
+solution: "a)  1. Rd8  Bb4  2. Kd4  Kd2  3. Rd5  Bd6#\n\nb) +wSa5\n\n    1. Re8  Sc4\
+  \  2. Ke4  Ke2  3. Re5  Se3#"
+source:
+  date:
+    year: 2006
+  name: JT Moscow-1941 (miniatury)
+stipulation: h#3
+twins:
+  b: Add white Sa5
+---
+algebraic:
+  black:
+  - Kb1
+  - Ra3
+  white:
+  - Ke8
+  - Rg2
+  - Bh8
+authors:
+- Амиров, Талип Хасанович
+- Димитров, Николай
+- Сорокин, Евгений Павлович
+intended-solutions: '3'
+solution: "1. Rb3  Rg1\n  2. Ka2  Ra1#\n\n1. Rc3  Ra2\n   2. Rc2  Ra1#\n\n1. Ra2 \
+  \ Rg7\n   2. Ka1  Rg1#"
+source:
+  date:
+    year: 1967
+  name: Probleemblad
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc4
+  - Rf3
+  - Pf7
+  - Pf5
+  - Pe2
+  white:
+  - Kg1
+  - Rh3
+  - Bh1
+  - Pd4
+  - Pa3
+authors:
+- Jones, Christopher James Austin
+award:
+  distinction: Prize
+  judges:
+  - Столев, Никола
+  tourney:
+    date:
+      year: 2005
+    name: Problem Online
+comments:
+- compare with 536846
+foreignids:
+- domain: PDB
+  problemid: P1075898
+- domain: WinChloe
+  problemid: 208878
+keywords:
+- Switchback
+reprints:
+- comments:
+  - Award
+  date:
+    month: 3
+    year: 2006
+  name: Problem Online
+- date:
+    year: 2013
+  name: FIDE Album
+  pagenumber: 312
+  problemid: E247
+  volume: 2004-2006
+- date:
+    year: 2007
+  name: Anthology of Helpmates III
+  pagenumber: 36
+  problemid: 98
+- date:
+    month: 9
+    year: 2007
+  name: The Problemist
+  pagenumber: 192
+  problemid: 26
+solution: "a) \n  1.Rf3-c3 Bh1-e4   2.Rc3-c2 Rh3-b3   3.Rc2-c3 Rb3-b4 #\nb) bBf3 \
+  \ \n  1.Bf3-d5 Rh3-d3   2.Bd5-e6 Bh1-b7   3.Be6-d5 Bb7-a6 #"
+source:
+  date:
+    day: 8
+    month: 11
+    year: 2005
+  name: Problem Online
+  problemid: E0027
+stipulation: h#3
+twins:
+  b: Add black Bf3
+---
+algebraic:
+  black:
+  - Ke6
+  - Ra7
+  - Pg3
+  - Pf7
+  - Pe5
+  white:
+  - Kg4
+  - Rh2
+  - Bd4
+  - Pe3
+  - Pc4
+authors:
+- Tritten, Pierre
+intended-solutions: '2'
+options:
+- Take&MakeChess
+solution: '1.g3*h2-h1=Q Bd4*a7-a2   2.Qh1-d5 c4*d5-d8=Q #
+
+  1.e5*d4-a1=Q Rh2-e2   2.Qa1-d4 + e3*d4-d8=Q #'
+source:
+  date:
+    year: 2011
+  issue: '1'
+  name: Šachmatija
+  problemid: '2149'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kg4
+  - Rc5
+  - Pg6
+  - Pf6
+  - Pf4
+  - Pe4
+  - Pc7
+  - Pb7
+  white:
+  - Ka5
+  - Rb5
+  - Ba4
+  - Pd5
+  - Pd4
+  - Pb4
+authors:
+- Predrag, Nikola
+award:
+  distinction: 11th Place
+  tourney:
+    name: Liga Problemista
+solution: 1.Rxd5! Rc5! 2.Rg5 Rf5 3.Kxf5 Bd7#
+source:
+  date:
+    year: 2009
+  issue: '33'
+  name: Mat Plus
+  problemid: '1815'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd5
+  - Ra3
+  - Pc4
+  white:
+  - Kf7
+  - Rf3
+  - Bh3
+  - Pc3
+authors:
+- Тюнин, Александр Дмитриевич
+award:
+  distinction: 2nd HM
+  tourney:
+    name: Шахматная композиция, TT
+keywords:
+- Ideal mates
+- Battery play
+- White constant
+solution: 'a)
+
+  1. Ra6! Bg2 2. Rd6 Rf5#
+
+
+  b) wPc3 -- c5
+
+  1. Rd3! Bg2 2. Rd4 Rf5#
+
+
+  c) bPc4 -- d6
+
+  1. Ra4!Bg2 2. Rc4 Rf5#'
+source:
+  date:
+    year: 1996
+  issue: '15'
+  name: Шахматная композиция, TT
+stipulation: h#2
+twins:
+  b: Move c3 c5
+  c: Move c4 d6
+---
+algebraic:
+  black:
+  - Ke5
+  - Re4
+  white:
+  - Kb3
+  - Rb7
+  - Be6
+  - Pg4
+authors:
+- Кройтор, Михаил Васильевич
+intended-solutions: '2'
+keywords:
+- Battery creation
+- Selfblock
+- Echo mates
+solution: 'I)
+
+  1.Kd4 Bd5 2.Kd3 Rd7 3.Re3 Bf3#
+
+
+  II)
+
+  1.Rxg4 Re7 2.Ke4 Kc4 3.Rf4 Bg4#'
+source:
+  date:
+    year: 2010
+  issue: 37-38
+  name: Mat Plus
+  problemid: '1578'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ka4
+  - Ra3
+  - Pb3
+  white:
+  - Kd3
+  - Ra1
+  - Bd1
+  - Pb4
+authors:
+- Labai, Zoltán
+award:
+  distinction: 3rd Prize
+  tourney:
+    name: Stalingrad -65 JT
+solution: '1. ... Kc4!  [2. Bxb3# (A)]  2. Ra2  Rxa2# (B)
+
+
+  1. Ra2  Kc4 [2. Bxa2# (B)]   2. Ra3  Bxb3# (A)'
+source:
+  date:
+    year: 2007
+  name: Stalingrad -65 JT
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kh3
+  - Rh4
+  - Ra1
+  - Pf3
+  - Pf2
+  - Pa2
+  white:
+  - Kh1
+  - Rb1
+  - Bb7
+  - Ph2
+authors:
+- Туцаков, Јоза
+keywords:
+- Meredith
+options:
+- SetPlay
+solution: '1...Rg1 2.f1B Rg3#
+
+
+  1.f1S Rb4 2.f2 Bg2#'
+source:
+  date:
+    year: 1987
+  name: Liga Problemista
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Pe3
+  white:
+  - Kf1
+  - Rh1
+  - Bh4
+authors:
+- Ackerman, Ernest
+foreignids:
+- domain: WinChloe
+  problemid: 336502
+solution: '1.0-0 + Bh4-f6   2.Rf8-f7 Rh1-h8 #
+
+
+  1.Bh4-e1 Rh8-h2   2.Rh1-g1 e3-e2 #'
+source:
+  date:
+    month: 8
+    year: 1972
+  name: Šachové umění
+  problemid: '3211'
+stipulation: h#2
+twins:
+  b: Duplex
+---
+algebraic:
+  black:
+  - Kd7
+  - Rc7
+  white:
+  - Kh4
+  - Rf8
+  - Ba2
+  - Pf5
+  - Pc5
+authors:
+- Simoni, Francesco
+award:
+  distinction: 2nd HM
+  tourney:
+    name: ЮК "Карелия-90"
+keywords:
+- Reciprocal
+- Model mates
+- Forsberg twins
+solution: 'a) 1. Rb7  Be6  2. Kc7  Rc8#
+
+
+  b) -bRc7, +bBc7
+
+  1. Kc6  Ra8  2. Kb7  Bd5#
+
+
+  c) -bRc7, +bSc7
+
+  1. Sd5  Rc8  2. Se7  Be6#
+
+
+  d) bKd7--b5
+
+  1. Ka6  Bd5  2. Ka7  Ra8#'
+source:
+  date:
+    year: 2010
+  name: Семь шахматных нот
+  problemid: '2161'
+stipulation: h#2
+twins:
+  b: Remove cc7 add black Bc7
+  c: Remove cc7 add black Sc7
+  d: Move d7 b5
+---
+algebraic:
+  black:
+  - Kb4
+  - Rf6
+  - Pe7
+  - Pe5
+  - Pb6
+  white:
+  - Kh8
+  - Ra7
+  - Bd8
+  - Pb3
+authors:
+- Buňka, Vladislav
+solution: '1. b5  Rd7    2. Ra6  Rd3       3. Ra5  Bxe7#
+
+  1. Rf3  Bxb6    2. Rxb3  Ba5       3. Ka3  Bc3#
+
+  1. Rf2  Ra1    2. Ra2  Rb1       3. Ka3  Bxe7#'
+source:
+  date:
+    month: 1
+    year: 1977
+  name: Tidskrift för Schack
+  problemid: '13463'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ka2
+  - Rb6
+  white:
+  - Kc5
+  - Rb1
+  - Bc1
+  - Pb2
+  - Pa3
+authors:
+- Buňka, Vladislav
+intended-solutions: '2'
+solution: '1. Rxb2  Kc4    2. Kxa3  Ra1#
+
+  1. Kb3  Kxb6    2. Ka4  b3#'
+source:
+  date:
+    month: 2
+    year: 1978
+  name: Schweizerische Schachzeitung
+  problemid: '11392'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Rf4
+  - Pg3
+  - Pf7
+  - Pd4
+  white:
+  - Kd7
+  - Rf6
+  - Bh1
+  - Pd6
+  - Pc2
+  - Pb2
+authors:
+- Buňka, Vladislav
+options:
+- SetPlay
+solution: "a) Set Play: 1. ... Rg6!    2. f5  Re6#\n Set Play: 1. ... Rh6!    2. f5\
+  \  Re6#\n\n1. Re4  b3    2. Kd5  Rf5#\n\nb) Set Play: 1. ... Ra1!    2. f6  Ra5#\n\
+  \n1. f5  Rg2    2. Ke4  Re2#"
+source:
+  date:
+    month: 12
+    year: 1983
+  name: Rokada
+  problemid: '1421'
+stipulation: h#2
+twins:
+  b: Move f6 g1
+---
+algebraic:
+  black:
+  - Kf8
+  - Rg3
+  white:
+  - Ka1
+  - Rc3
+  - Bd3
+authors:
+- Buňka, Vladislav
+solution: 'a)  1. Rg7  Bg6    2. Kg8  Rc8#
+
+  b)  1. Rc7  Bc4    2. Re7  Rg8#
+
+  c)  1. Rg2  Rb3    2. Ra2  Rb1#'
+source:
+  date:
+    day: 13
+    month: 2
+    year: 1988
+  name: Oktober Tany
+stipulation: h#2
+twins:
+  b: Rwc3<-Rbg3
+  c: Kwa1<-Kbf8
+---
+algebraic:
+  black:
+  - Kh1
+  - Rb1
+  - Ph4
+  - Ph2
+  - Pe4
+  - Pe3
+  - Pc2
+  white:
+  - Ka8
+  - Re1
+  - Bf1
+  - Ph3
+  - Pe2
+authors:
+- Buňka, Vladislav
+intended-solutions: '2'
+solution: '1. c1=Q  Ka7    2. Qc8  Rxb1       3. Qxh3  Bxh3#
+
+  1. c1=S  Rd1    2. Sxe2  Rd2       3. Sg1  Bg2#'
+source:
+  date:
+    year: 2001
+  name: Уральский проблемист
+  problemid: '1406'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke4
+  - Rc8
+  - Pf5
+  - Pe6
+  white:
+  - Kb1
+  - Rd7
+  - Ba1
+authors:
+- Кулігін, Микола Володимирович
+intended-solutions: 2.1.1...
+solution: '1.Rc8-c3 Rd7-d5   2.Rc3-f3 Kb1-c2   3.f5-f4 Rd5-e5 #
+
+  1.Rc8-g8 Ba1-h8   2.Rg8-g7 Rd7-d4 +   3.Ke4-e5 Bh8*g7 #'
+source:
+  date:
+    month: 1
+    year: 2005
+  issue: '90'
+  name: Šachová skladba
+  problemid: '7944'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  white:
+  - Ke1
+  - Re3
+  - Be5
+authors:
+- Telkes, Imre
+solution: "a) \n\n1.0-0 Re3-h3   2.Rf8-f7 Rh3-h8 #\n\nb) bRh8--a8  \n\n1.0-0-0 Re3-b3\
+  \   2.Rd8-d7 Rb3-b8 #"
+source:
+  date:
+    day: 15
+    month: 2
+    year: 1935
+  issue: '641'
+  name: Revista Română de Şah
+  problemid: '642'
+stipulation: h#2
+twins:
+  b: Move h8 a8
+---
+algebraic:
+  black:
+  - Kf5
+  - Ra8
+  - Pf6
+  - Pe4
+  - Pd7
+  - Pb6
+  white:
+  - Kf7
+  - Ra1
+  - Bh2
+  - Ph4
+  - Pe2
+  - Pd6
+  - Pb7
+  - Pb5
+authors:
+- Molnár, Árpád
+award:
+  distinction: Comm.
+  tourney:
+    name: Feather Twins Tourney - Orbit
+solution: 'a)  1. Rg8  Rd1    2. Rg4  Rd5#
+
+  b)  1. Rxa8  bxa8=Q    2. e3  Qf3#'
+source:
+  date:
+    year: 2008
+  name: Feather Twins Tourney - Orbit
+stipulation: h#2
+twins:
+  b: Exchange a1 a8
+---
+algebraic:
+  black:
+  - Ke1
+  - Rf1
+  - Pc2
+  white:
+  - Ke5
+  - Ra2
+  - Bb1
+authors:
+- Molnár, Árpád
+solution: 'a)  1. c1=R  Bd3    2. Rd1  Re2#
+
+  b)  1. c1=B  Rg2    2. Be3  Be4#'
+source:
+  date:
+    month: 5
+    year: 2001
+  name: The Macedonian Problemist
+  problemid: '204'
+stipulation: h#2
+twins:
+  b: Move e1 f3
+---
+algebraic:
+  black:
+  - Ka8
+  - Rh3
+  - Pb5
+  white:
+  - Ka1
+  - Rf7
+  - Bc8
+authors:
+- Labai, Zoltán
+solution: "a) \n\n1.Rh3-h7 Rf7-f8   2.Rh7-a7 + Bc8-a6 #\n\nb) wBc8--d8\n\n1.Rh3-h8\
+  \ Bd8-b6   2.Rh8-b8 Rf7-a7 #"
+source:
+  date:
+    year: 2004
+  name: Umenie 64
+  problemid: '1321'
+stipulation: h#2
+twins:
+  b: Move c8 d8
+---
+algebraic:
+  black:
+  - Ka8
+  - Rb7
+  - Pd7
+  white:
+  - Kc4
+  - Rb1
+  - Bg1
+authors:
+- Капустін, Федір Михайлович
+keywords:
+- Model mates
+- Echo mates
+options:
+- SetPlay
+solution: "1...Bh2 2.Ra7 Rb8# \n1.Rb8 Rb7 2.d6 Ra7#"
+source:
+  date:
+    month: 9
+    year: 2012
+  issue: '106'
+  name: Шахматная композиция
+  problemid: '24'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd5
+  - Rd2
+  - Pf6
+  - Pf5
+  white:
+  - Kb5
+  - Re8
+  - Bf4
+  - Pe3
+authors:
+- Bakcsi, György
+- Zoltán, László
+award:
+  distinction: 5th Comm.
+  tourney:
+    date:
+      year: 2001-2002
+    name: Suomen Tehtäväniekat
+solution: "a) \n  1.Rd2-d4 Re8-e6   2.Rd4-e4 Re6-d6 #\nb) bRd2--d7  \n  1.Rd7-d6 Re8-e4\
+  \   2.Rd6-e6 Re4-d4 #"
+source:
+  date:
+    year: 2002
+  issue: '7'
+  name: Suomen Tehtäväniekat
+  problemid: '2123'
+stipulation: h#2
+twins:
+  b: Move d2 d7
+---
+algebraic:
+  black:
+  - Kc5
+  - Rh4
+  - Pe6
+  white:
+  - Kf3
+  - Rh5
+  - Bf5
+  - Pb2
+authors:
+- Bakcsi, György
+- Zoltán, László
+award:
+  distinction: Special Comm.
+  judges:
+  - Feather, Christopher John
+  tourney:
+    name: F.Chlubna MT
+foreignids:
+- domain: WinChloe
+  problemid: 237113
+intended-solutions: 3.1.1.1
+solution: '1.Rh4-a4 Bf5-d3 +   2.Kc5-b4 Rh5-b5 #
+
+  1.Rh4-b4 Kf3-e3   2.Kc5-c4 Bf5*e6 #
+
+  1.Rh4-c4 Bf5*e6 +   2.Kc5-d4 Rh5-d5 #'
+source:
+  date:
+    year: 2006
+  name: Schach-Aktiv
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd5
+  - Rd1
+  white:
+  - Kf6
+  - Re7
+  - Bh3
+  - Pe3
+  - Pb5
+authors:
+- Fasher, Eliahu
+intended-solutions: '3'
+solution: "I)\n1.Rc1 Re4 2.Rc5 Rd4# \n\nII)\n1.Rd4 exd4 2.Kd6 Rd7# \n\nIII)\n1.Kd6\
+  \ Rc7 2.Rd5 Rc6#"
+source:
+  date:
+    month: 12
+    year: 1999
+  issue: '26'
+  name: Problemas
+  problemid: '1583'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pg7
+  white:
+  - Kb1
+  - Ra1
+  - Bc1
+  - Pd2
+  - Pc3
+  - Pb2
+  - Pa2
+authors:
+- Velucchi, Mario
+keywords:
+- Retro
+solution: "White played last, and it wasn't 0...c2-c3 (locks in wK) so was 0...Kc2xMb1.\
+  \ \nWhat is M? Not B or Q because of impossible check. So R or S or 0, and Black\
+  \ cannot castle (not 0 Sa3-b1+?).\n1. Kf7 a4 2. Rb8 Ra3 3. Kg8 Rb3 4. Kh8 Rxb8#"
+source:
+  date:
+    year: 1997
+  name: Phenix
+  problemid: '2611'
+stipulation: h#4
+---
+algebraic:
+  black:
+  - Ka5
+  - Rg1
+  - Ph3
+  - Pf3
+  - Pe4
+  - Pd3
+  - Pb4
+  - Pa6
+  - Pa4
+  white:
+  - Kg8
+  - Rg4
+  - Bh2
+  - Pg3
+  - Pd4
+authors:
+- Долгинович, Николай Осипович
+intended-solutions: '2'
+solution: '1. Rc1  Rg5    2. Rc5  g4       3. Rb5  Bc7#
+
+  1. Rxg3  Rg7    2. Rg6  Bc7       3. Rb6  Rg5#'
+source:
+  date:
+    year: 1988
+  issue: '11'
+  name: Šachové umění
+  problemid: '7467'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc4
+  - Rg2
+  - Ph3
+  - Pc5
+  - Pc3
+  - Pb3
+  - Pb2
+  - Pa5
+  - Pa2
+  white:
+  - Kh1
+  - Ra1
+  - Bb1
+  - Pe4
+  - Pe2
+  - Pa3
+authors:
+- Гершинський, Михайло Овсійович
+award:
+  distinction: 3rd Prize
+  tourney:
+    name: Csák - Majoros
+intended-solutions: '2'
+solution: '1.axb1S Ra2 2.Sxa3 Ra1 3.Sb5 Ra4#
+
+  1.bxa1S Bxa2 2.Sc2 Bb1 3.Sd4 bd3#'
+source:
+  date:
+    day: 30
+    month: 6
+    year: 2004
+  name: Csák - Majoros
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kh7
+  - Rg4
+  - Pc4
+  white:
+  - Kh5
+  - Rg1
+  - Bg3
+authors:
+- Abdullayev, Elmar
+intended-solutions: '2'
+solution: '1. Kh8  Kh6    2. Rd4  Be5#
+
+  1. Rg8  Be5    2. Rh8  Rg7#'
+source:
+  date:
+    year: 2007
+  issue: '1'
+  name: Problemaz
+  problemid: '42'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc8
+  - Rd7
+  white:
+  - Kf1
+  - Rb7
+  - Bf5
+authors:
+- Тогоохуу, Лхундэвийн
+award:
+  distinction: 4th HM
+  tourney:
+    name: World Olympic Movement - 100 JT
+solution: "A:\n 1.Kd8 Rc7 2.Re7 Rc8# \n\n B: wBf5--e4\n 1.Rc7 Ra7 2.Kb8 Ra8#"
+source:
+  date:
+    year: 1996
+  name: World Olympic Movement - 100 JT
+stipulation: h#2
+twins:
+  b: Move f5 e4
+---
+algebraic:
+  black:
+  - Kh4
+  - Rc5
+  - Pg3
+  - Pf6
+  - Pe5
+  - Pe4
+  white:
+  - Ka4
+  - Rc4
+  - Bd8
+  - Pg4
+authors:
+- Henrych, Miroslav
+intended-solutions: '2'
+solution: '1.g3-g2 Rc4-c2   2.Rc5-c3 Rc2*g2   3.Rc3-h3 Bd8*f6 #
+
+  1.Rc5-c7 Rc4-c6   2.Rc7-g7 Rc6*f6   3.Rg7*g4 Rf6-h6 #'
+source:
+  date:
+    year: 2005
+  issue: '1'
+  name: Šachové umění
+  problemid: '6'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc2
+  - Rd2
+  - Pe6
+  - Pc3
+  white:
+  - Kc5
+  - Ra4
+  - Bc6
+authors:
+- Hudák, Stanislav
+foreignids:
+- domain: WinChloe
+  problemid: 539409
+intended-solutions: 2.1.1.1
+solution: '1.Kc2-b3 Ra4-a1   2.Rd2-b2 Bc6-a4 #
+
+  1.Kc2-d3 Bc6-f3   2.c3-c2 Ra4-a3 #'
+source:
+  date:
+    day: 2
+    month: 2
+    year: 2006
+  name: Pravda (Bratislava)
+  problemid: '3566'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc5
+  - Rb5
+  white:
+  - Kc2
+  - Rg6
+  - Bg5
+  - Pb3
+authors:
+- Hudák, Stanislav
+foreignids:
+- domain: WinChloe
+  problemid: 541546
+intended-solutions: 2.1.1.1
+solution: '1.Rb5-a5 Bg5-e3 +   2.Kc5-b5 Rg6-b6 #
+
+  1.Kc5-d4 Rg6-e6   2.Rb5-d5 Bg5-e3 #'
+source:
+  date:
+    day: 22
+    month: 11
+    year: 1996
+  name: Pravda (Bratislava)
+  problemid: '2970'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd6
+  - Rf3
+  - Pf6
+  - Pe5
+  - Pe4
+  - Pd5
+  - Pc5
+  - Pb6
+  - Pa3
+  white:
+  - Ka1
+  - Rd1
+  - Bc1
+  - Pg4
+  - Pc4
+  - Pa2
+authors:
+- Jones, Christopher James Austin
+solution: "a) \n1.Rf3-f5 Bc1-f4   2.e5*f4 g4*f5   3.Kd6-e5 Rd1*d5 # \n\nb) +wPd5 \n\
+  1.Rf3-b3 Rd1-d4   2.c5*d4 a2*b3   3.Kd6-c5 Bc1*a3 #"
+source:
+  date:
+    month: 3
+    year: 2008
+  issue: '60'
+  name: Pat a Mat
+  problemid: '552'
+stipulation: h#3
+twins:
+  b: Add white Pd5
+---
+algebraic:
+  black:
+  - Kd1
+  - Rf7
+  - Pe7
+  white:
+  - Kb1
+  - Rb5
+  - Ba5
+  - Pe2
+authors:
+- Delobel, Bernard
+intended-solutions: '3'
+solution: '1) 1. Rf2  Rc5  2. R:e2  Rc1#
+
+
+  2) 1. Rf1  Rb2  2. Re1  Rd2#
+
+
+  3) 1. K:e2  Re5  2. Kd1  Re1#'
+source:
+  date:
+    year: 2006
+  issue: '49'
+  name: Problemesis
+  problemid: H663
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kg2
+  - Rb2
+  - Pe4
+  white:
+  - Ke1
+  - Ra1
+  - Bf5
+  - Pa2
+authors:
+- Kardos, Tivadar
+solution: "a) \n  1.Kg2-h1 Bf5-h3   2.Rb2-h2 0-0-0 #\nb) bKg2--h5  \n  1.Rb2-g2 0-0-0\
+  \   2.Rg2-g5 Rd1-h1 #\nc) bKg2--d8  \n  1.Rb2-b7 Ra1-c1   2.Rb7-e7 Rc1-c8 #"
+source:
+  date:
+    year: 1971
+  name: Feladványkedvelők lapja
+  problemid: '680'
+stipulation: h#2
+twins:
+  b: Move g2 h5
+  c: Move g2 d8
+---
+algebraic:
+  black:
+  - Ka1
+  - Rh3
+  white:
+  - Kh8
+  - Rh2
+  - Bc1
+  - Ph4
+authors:
+- Hudák, Stanislav
+comments:
+- dedicated to B.Formanek
+foreignids:
+- domain: WinChloe
+  problemid: 453958
+intended-solutions: 2.1.1.1
+solution: "1.Rh3-a3 Rh2-h1   2.Ra3-a2 Bc1-a3 # \n1.Rh3-b3 Rh2-h3   2.Rb3-b1 Rh3-a3\
+  \ #"
+source:
+  date:
+    month: 9
+    year: 2008
+  issue: '63'
+  name: Pat a Mat
+  problemid: '877'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka8
+  - Rh1
+  white:
+  - Kd2
+  - Rb2
+  - Bc8
+authors:
+- Панкратьев, Александр Николаевич
+award:
+  distinction: 3rd Prize
+  tourney:
+    name: Чорно-білі стежини
+solution: "a) \n\n1.Rh1-b1 Rb2-c2   2.Rb1-b8 Rc2-a2 #\n\nb) wSc8  \n\n1.Rh1-h8 Sc8-d6\
+  \   2.Rh8-b8 Rb2-a2 #"
+source:
+  date:
+    year: 2006
+  issue: 6(12)
+  name: Чорно-білі стежини
+  problemid: '869'
+stipulation: h#2
+twins:
+  b: Add white Sc8
+---
+algebraic:
+  black:
+  - Kg8
+  - Rf4
+  white:
+  - Ka1
+  - Rd3
+  - Be4
+authors:
+- Залокоцький, Роман Федорович
+- Угнівенко, Олексій Мефодійович
+solution: 'a)  1. Rf7  Bg6  2. Rg7  Rd8#
+
+
+  b)  1. Rf6  Rd8  2. Rb6  Ra8#
+
+
+  c)  1. Rf2  Rb3  2. Ra2  Rb1#
+
+
+  d)  1. Rg4  Bf5  2. Rg5  Rh3#
+
+
+  e)  1. Kg1  Rh3  2. Rf2  Rh1#
+
+
+  f)  1. Kh8  Rd7  2. Rg8  Rh7#'
+source:
+  date:
+    year: 2006
+  issue: 6(12)
+  name: Чорно-білі стежини
+  problemid: '872'
+stipulation: h#2
+twins:
+  b: Move g8 a7
+  c: Exchange g8 a1
+  d: Move g8 h5
+  e: Move g8 f2
+  f: Move f4 g2
+---
+algebraic:
+  black:
+  - Kd3
+  - Rd7
+  - Pg6
+  - Pf4
+  - Pe6
+  white:
+  - Kh8
+  - Rb3
+  - Bh7
+  - Pe5
+  - Pe4
+  - Pc3
+authors:
+- Jones, Christopher James Austin
+solution: 'a)  1. Rd4  cxd4    2. Kxe4  Rg3       3. Kf5  Bxg6#
+
+  b)  1. Rd5  exd5    2. Kc4  Bd3       3. Kc5  Rb5#'
+source:
+  date:
+    year: 2011
+  issue: '10'
+  name: Šachové umění
+  problemid: '72'
+stipulation: h#3
+twins:
+  b: Remove g6
+---
+algebraic:
+  black:
+  - Kf5
+  - Rf4
+  - Pg5
+  - Pg4
+  - Pf7
+  - Pe7
+  - Pe4
+  - Pa6
+  white:
+  - Ka4
+  - Rb6
+  - Bb3
+  - Ph5
+  - Pf6
+  - Pd2
+  - Pa5
+authors:
+- Kerhuel, Maryan
+award:
+  distinction: 3rd HM
+  tourney:
+    name: JT Nikolaj Zujev-60
+intended-solutions: '2'
+options:
+- SetPlay
+solution: 'I)  1... Rc6  2. e:f6  Rc5#
+
+
+  II) 1... B:f7  2. e5  Bg6#
+
+
+  1) 1. e5  Rb7  2. K:f6  R:f7#
+
+
+  2) 1. Ke5  Rb5  2. Kd4  Rd5#'
+source:
+  date:
+    year: 2013
+  name: JT Nikolaj Zujev-60
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kb3
+  - Ra2
+  - Pd4
+  white:
+  - Kd7
+  - Rh5
+  - Be4
+authors:
+- Грінченко, Дмитро Михайлович
+intended-solutions: '3'
+solution: '1) 1. Kb2 Rb5+ 2. Ka1 Rb1#
+
+
+  2) 1. Kc4 Bf5 2. Kd5 Bd3#
+
+
+  3) 1. Rb2 Bc2+ 2. Ka2 Ra5#'
+source:
+  date:
+    year: 2009
+  issue: '48'
+  name: Шаховий Леополіс
+  problemid: '3440'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf3
+  - Rf5
+  - Pd5
+  white:
+  - Kf1
+  - Re8
+  - Bf6
+authors:
+- Zilahi, Zoltán
+award:
+  distinction: 1st Comm.
+  tourney:
+    name: T.T. Lindner
+solution: "a) \n\n1.Rf5-f4 Bf6-g5   2.Rf4-g4 Re8-e3 #\n\nb) wKf1--h3\n\n1.Kf3-f2 Bf6-h4\
+  \ +   2.Kf2-f1 Re8-e1 #\n\nc) wKf1--f7\n\n1.Kf3-g4 Re8-e4 +   2.Kg4-h5 Re4-h4 #\n\
+  \nd) wKf1--c5\n\n1.Kf3-f4 Bf6-e7   2.Kf4-e5 Be7-g5 #"
+source:
+  date:
+    month: 12
+    year: 1941
+  name: Magyar Sakkvilág
+  problemid: '1710'
+stipulation: h#2
+twins:
+  b: Move f1 h3
+  c: Move f1 f7
+  d: Move f1 c5
+---
+algebraic:
+  black:
+  - Kd5
+  - Rg3
+  - Ph6
+  - Pg7
+  - Pg2
+  - Pf5
+  - Pf2
+  - Pe6
+  - Pd4
+  white:
+  - Kh4
+  - Rc8
+  - Bf1
+  - Ph5
+  - Pg6
+  - Pe5
+  - Pd3
+authors:
+- Lindner, László
+options:
+- SetPlay
+solution: '1...Kh4*g3   2.f5-f4 + Kg3*f4   3.g2-g1=B Bf1-g2 #
+
+  1...Kh4*g3   2.g2-g1=Q + Kg3-f4   3.Qg1-g2 Bf1*g2 # {(Cook)} 1...Kh4*g3   2.g2-g1=R
+  + Kg3-f4   3.Rg1-g2 Bf1*g2 # {(Cook)} 1...Kh4*g3   2.g2-g1=R + Kg3-f4   3.Rg1-h1
+  Bf1-g2 # {(Cook)}
+
+  1.g2*f1=R Kh4*g3   2.Rf1-c1 Kg3-f4   3.Rc1-c4 d3*c4 #'
+source:
+  date:
+    year: 1947
+  issue: '4'
+  name: Magyar Sakkvilág
+  problemid: '477'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  white:
+  - Ke2
+  - Rh2
+  - Bg5
+authors:
+- Páros, György
+solution: "a) \n  1.0-0 Bg5-f6   2.Rf8-f7 Rh2-h8 #\nb) shift a2 == a1  \n  1.Ke7-e8\
+  \ Bg4-e6   2.Rh7-e7 Rh1-h8 #"
+source:
+  date:
+    year: 1970
+  name: Feladványkedvelők lapja
+  problemid: '187'
+stipulation: h#2
+twins:
+  b: Shift a2 a1
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Ph6
+  - Pf5
+  - Pe3
+  white:
+  - Kd1
+  - Ra7
+  - Bh2
+  - Ph4
+  - Pf4
+  - Pf3
+authors:
+- Páros, György
+solution: "a) \n\n1.0-0-0 + Ra7-d7   2.Kc8-b8 Bh2-g1   3.Kb8-a8 Bg1*e3   4.Rd8-b8\
+  \ Rd7-a7 #\n\nb) wBh2--h1  \n\n1.Ke8-f8 Bh1-g2   2.Kf8-g8 Bg2-h3   3.Kg8-h8 Bh3*f5\
+  \   4.Ra8-g8 Ra7-h7 #"
+source:
+  date:
+    year: 1954
+  name: Problem
+  problemid: '607'
+stipulation: h#4
+twins:
+  b: Move h2 h1
+---
+algebraic:
+  black:
+  - Kb2
+  - Ra8
+  white:
+  - Kh8
+  - Rd7
+  - Bf8
+authors:
+- Benedek, Attila
+solution: 'a)  1. Ra2  Ba3    2. Ka1  Rd1#
+
+  b)  1. Ra2  Ba3    2. Ka1  Rd1#'
+source:
+  date:
+    year: 1970
+  name: Feladványkedvelök lapja
+  problemid: '296'
+stipulation: h#2
+twins:
+  b: Exchange h8 b2
+---
+algebraic:
+  black:
+  - Kh8
+  - Rd2
+  - Pg4
+  - Pc4
+  white:
+  - Kg1
+  - Rd1
+  - Bb5
+authors:
+- Mlynka, Karol
+intended-solutions: '2'
+keywords:
+- Model mates
+solution: '1.Rd2-d8 Rd1-d7   2.c4-c3 Bb5-d3   3.Rd8-g8 Rd7-h7 #
+
+  1.Kh8-g8 Bb5-e8   2.Rd2-d7 Be8-g6   3.Rd7-g7 Rd1-d8 #'
+source:
+  date:
+    year: 2013
+  issue: '4'
+  name: Проблеміст України
+  problemid: H324
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke5
+  - Rg1
+  - Pg3
+  - Pf5
+  - Pe4
+  - Pd5
+  white:
+  - Kg6
+  - Rg4
+  - Bh7
+  - Ph4
+  - Pd3
+authors:
+- Feldmann, Tibor
+solution: "1. exd3  Rd4    2. f4  Rxd3       3. Ke4  Kf6#\nCook:\n1. d4  Bg8    2.\
+  \ f4  Kg7       3. Kf5  Rg5#\n  2. f4  Kf7       3. Kf5  Rg5#\n  2. e3  Rxd4   \
+  \    3. f4  Rd5#\n1. d4  Kg7    2. f4  Bg8       3. Kf5  Rg5#\n1. d4  Kh5    2.\
+  \ e3  Rg5       3. Kf4  Rxf5#\n1. d4  Kf7     2. f4  Bf5       3. Kxf5  Rg5#...."
+source:
+  date:
+    day: 15
+    month: 1
+    year: 1935
+  name: Zászlónk
+  problemid: '672'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd3
+  - Rc4
+  - Pf3
+  - Pb4
+  white:
+  - Kg5
+  - Re8
+  - Bg8
+authors:
+- Lehmann, Tadeusz
+solution: 'a)  1. Rd4  Be6    2. Ke4  Bc4#
+
+  b)  1. Rc3  Re6    2. Kc4  Rd6#'
+source:
+  date:
+    year: 1992
+  issue: '16'
+  name: Pat a Mat
+  problemid: '130'
+stipulation: h#2
+twins:
+  b: Move g5 b6
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Pf4
+  - Pf3
+  - Pe3
+  white:
+  - Ke1
+  - Rh1
+  - Bf1
+  - Ph2
+  - Pg4
+  - Pc2
+authors:
+- Fenton, Ron
+intended-solutions: '2'
+solution: '1.Ra8-a2 c2-c3   2.Ra2*h2 Bf1-c4   3.Rh2-h7 Bc4-e6   4.Rh7-e7 Rh1-h8 #
+
+  1.0-0-0 Bf1-a6 +   2.Kc8-b8 0-0   3.Kb8-a8 Rf1-a1   4.Rd8-b8 Ba6-c8 #'
+source:
+  date:
+    month: 7
+    year: 2010
+  issue: '107'
+  name: The PRoblemist Supplement
+  problemid: '2330'
+stipulation: h#4
+---
+algebraic:
+  black:
+  - Kg6
+  - Ra6
+  - Pg7
+  white:
+  - Kh3
+  - Rf5
+  - Bh4
+authors:
+- Иванов, Валерий Алексеевич
+- Aliovsadzade, Rauf Gadschiaga
+keywords:
+- Duplex
+- No white pawns
+- Selfblock
+- Model mates
+options:
+- Duplex
+solution: '1.Kg6-h6 Rf5-f8   2.Ra6-g6 Rf8-h8 #
+
+  1.Bh4-g3 Kg6*f5   2.Kh3-h4 Ra6-h6 #'
+source:
+  date:
+    day: 5
+    month: 5
+    year: 2013
+  issue: '88'
+  name: Семь шахматных нот
+  problemid: '4251'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke3
+  - Rd2
+  - Pd4
+  white:
+  - Kg1
+  - Rh4
+  - Bh5
+  - Ph3
+  - Pf6
+  - Pf5
+  - Pf4
+  - Pf3
+authors:
+- Schulze, Eberhard
+solution: "a) \n  1.d4-d3 Bh5-g4   2.Ke3*f4 Bg4-h5 +   3.Kf4-e3 Rh4-e4 #\n\nb) wKg1--g5\n\
+  \  1.Rd2-d3 Rh4-g4   2.Ke3*f3 Rg4-g2 +   3.Kf3-e3 Rg2-e2 #"
+source:
+  date:
+    month: 3
+    year: 2010
+  issue: '105'
+  name: The Problemist Supplement
+  problemid: '2292'
+stipulation: h#3
+twins:
+  b: Move g1 g5
+---
+algebraic:
+  black:
+  - Kd5
+  - Rd7
+  - Pe5
+  - Pc5
+  - Pc3
+  white:
+  - Ka1
+  - Re7
+  - Bb1
+authors:
+- Гершинський, Михайло Овсійович
+award:
+  distinction: 2nd HM
+  tourney:
+    name: В.Черноус-80 JT
+solution: 'a)  1. Kd4  R:e5  2. Rd5  Re4#
+
+
+  b)  1. Rc7  Rf7  2. Ke6  Ba2#
+
+
+  c)  1. Rb7  R:b7  2. Kc6  Be4#'
+source:
+  date:
+    year: 2013
+  name: В.Черноус-80 JT
+stipulation: h#2
+twins:
+  b: Add white Pc5
+  c: Add white Pe5
+---
+algebraic:
+  black:
+  - Kf4
+  - Rf5
+  - Pg5
+  - Pb5
+  - Pb4
+  - Pa5
+  white:
+  - Kf2
+  - Ra4
+  - Bd6
+  - Pe5
+  - Pc2
+authors:
+- Balo, Tibor
+options:
+- SetPlay
+solution: '1...c2-c4   2.b4-b3 c4*b5 #
+
+
+  1.Rf5*e5 Bd6*b4   2.Re5-f5 Bb4-d6 #'
+source:
+  date:
+    month: 11
+    year: 1989
+  issue: '93'
+  name: feenschach
+  problemid: '5654'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kh5
+  - Rh7
+  - Pg5
+  - Pf5
+  - Pe6
+  - Pd6
+  - Pd5
+  - Pc4
+  - Pa6
+  white:
+  - Ka5
+  - Rb2
+  - Bf8
+  - Ph2
+  - Pc3
+  - Pc2
+  - Pa2
+authors:
+- Zilahi, Zoltán
+award:
+  distinction: 5th Comm.
+  judges:
+  - Sanderse, Jacobus Theodorus
+  tourney:
+    name: Probleemblad
+foreignids:
+- domain: PDB
+  problemid: P0506830
+keywords:
+- Duplex
+options:
+- Duplex
+reprints:
+- comments:
+  - Award
+  date:
+    year: 1969
+  name: Jaarboek van de Nederlandse Bond van Probleemvrienden
+  pagenumber: 14
+solution: '1.Rh7-a7 Rb2-b7   2.Kh5-g6 Rb7-h7   3.Ra7-f7 Rh7-h6 #
+
+  1.Rb2-b8 Rh7-b7   2.Ka5-a4 Rb7-b2   3.Rb8-b4 Rb2*a2 #'
+source:
+  date:
+    month: 3
+    year: 1968
+  issue: '2'
+  name: Probleemblad
+  problemid: '6383'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc2
+  - Rb2
+  white:
+  - Ka1
+  - Ra2
+  - Be1
+  - Pg7
+authors:
+- Földeák, Árpád
+award:
+  distinction: 1st HM
+  tourney:
+    name: Magyar Sakkszövetség mini
+solution: 1. Kb3  Ba5    2. Rh2  g8=Q/B#
+source:
+  date:
+    year: 1962
+  name: Magyar Sakkszövetség mini
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf3
+  - Rc2
+  - Pc4
+  - Pa2
+  white:
+  - Ke1
+  - Ra1
+  - Bb1
+authors:
+- Агапов, Игорь Алексеевич
+award:
+  distinction: 1st Prize
+  tourney:
+    name: ЮК Николаев-225
+comments:
+- Конкурс миниатюр
+keywords:
+- Retro
+- Castling
+solution: "1.Rh2 Bf5 2.Kg2 Bh3+ 3.Kh1 0-0-0#? (illegal)\n\n 1.Rd2! K:d2 2.Kg2 Ke3\
+  \ 3.Kf1 Be4#"
+source:
+  date:
+    year: 2014
+  name: ЮК Николаев-225
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc5
+  - Rg2
+  white:
+  - Kh1
+  - Rh2
+  - Bh3
+  - Pd2
+authors:
+- Goumondy, Claude
+award:
+  distinction: 2nd HM
+  tourney:
+    name: Europe Échecs
+solution: 'a)  1. Rg4  Bg2    2. Rc4  Rh5       3. Kd4  Rd5#
+
+  b)  1. Kd5  d3    2. Rc2  Rh6       3. Rc5  Rd6#
+
+  c)  1. Kd6  d4    2. Rc2  Rh7       3. Rc6  Rd7#'
+source:
+  date:
+    month: 2
+    year: 1979
+  issue: '242'
+  name: Europe Échecs
+  problemid: '2686'
+stipulation: h#3
+twins:
+  b: Move h3 g3
+  c: Move h3 g4
+---
+algebraic:
+  black:
+  - Kd5
+  - Rc5
+  - Pg3
+  - Pd4
+  - Pd3
+  white:
+  - Kh8
+  - Rb5
+  - Bf8
+authors:
+- Јаневски, Живко
+intended-solutions: 2.1.1...
+solution: '1. Ke4  Bd6    2. Rf5  Bxg3       3. Rf3  Re5#
+
+  1. Kc4  Ra5    2. Rb5  Ba3       3. Rb3  Rc5#'
+source:
+  date:
+    year: 1997
+  name: Buletin Problemistic
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kf6
+  - Rd6
+  - Pf7
+  - Pf5
+  - Pd4
+  - Pc5
+  - Pb5
+  white:
+  - Ka2
+  - Re7
+  - Bd5
+  - Pc4
+authors:
+- Јаневски, Живко
+intended-solutions: 2.1.1...
+solution: '1. bxc4  Be6    2. Ke5  Bxf5       3. Kd5  Be4#
+
+  1. f4  Rd7    2. Ke5  Rxd6       3. f5  Re6#'
+source:
+  date:
+    month: 4
+    year: 2000
+  issue: '98'
+  name: Thema Danicum
+  problemid: '8023'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd3
+  - Ra5
+  white:
+  - Kh7
+  - Re8
+  - Ba8
+  - Pf3
+  - Pf2
+  - Pd5
+  - Pd4
+  - Pc3
+authors:
+- Jones, Christopher James Austin
+solution: 'a)  1. Rxd5  Re2    2. Rc5  Rc2       3. Rc4  Be4#
+
+  b)  1. Rxe5  Bd5    2. Re2  Bb3       3. Rd2  Re3#'
+source:
+  date:
+    month: 11
+    year: 2001
+  name: Problem Observer
+  problemid: O608
+stipulation: h#3
+twins:
+  b: Move d5 e5
+---
+algebraic:
+  black:
+  - Kf5
+  - Ra6
+  - Pf3
+  - Pe7
+  - Pd3
+  - Pc6
+  white:
+  - Kh1
+  - Rb4
+  - Bd5
+  - Ph5
+  - Pe5
+  - Pc3
+authors:
+- Jones, Christopher James Austin
+award:
+  distinction: 2nd HM
+  tourney:
+    name: Best Problems
+solution: 'a)  1. Ra4  Rb1    2. Rf4  Be6       3. Ke4  Re1#
+
+  b)  1. Bc4  Bxf3    2. Bf7  Rb5       3. Ke6  Bg4#'
+source:
+  date:
+    month: 7
+    year: 2005
+  issue: '35'
+  name: Best Problems
+  problemid: '109'
+stipulation: h#3
+twins:
+  b: Add black Ba6
+---
+algebraic:
+  black:
+  - Kf5
+  - Rh8
+  - Ph7
+  - Ph6
+  - Pe5
+  - Pe3
+  - Pc3
+  - Pb4
+  white:
+  - Ka8
+  - Rg8
+  - Ba6
+  - Pf4
+  - Pd3
+  - Pb2
+authors:
+- Jones, Christopher James Austin
+intended-solutions: 2.1.1...
+solution: '1. exf4  d4    2. f3  Bc8       3. Kf4  Rg4#
+
+  1. e4  bxc3    2. exd3  Rf8       3. Ke4  Bb7#'
+source:
+  date:
+    month: 11
+    year: 2008
+  issue: '45'
+  name: Шаховий Леополіс
+  problemid: '3285'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke5
+  - Rf4
+  white:
+  - Ke1
+  - Rh1
+  - Be2
+authors:
+- Клипачёв, Владимир Пантелеевич
+solution: "a) \n  1.Rf4-h4 Be2-h5   2.Ke5-f4 0-0 +   3.Kf4-g3 Rf1-f3 #\nb) wBe2--f2\
+  \  \n  1.Ke5-e4 Bf2-g3   2.Ke4-e3 Rh1-h3   3.Rf4-e4 Bg3-e5 #"
+source:
+  date:
+    month: 3
+    year: 2015
+  issue: '110'
+  name: Семь шахматных нот
+  problemid: '5451'
+stipulation: h#3
+twins:
+  b: Move e2 f2
+---
+algebraic:
+  black:
+  - Kc5
+  - Re5
+  - Pc7
+  white:
+  - Kf7
+  - Rf3
+  - Bc6
+  - Pe2
+authors:
+- Carf, Jean
+intended-solutions: '2'
+keywords:
+- Play on same square
+- Echo mates
+solution: '1.Kd4 Bd5 2.c5 Rd3#
+
+  1.Kd6 Re3 2.Rc5 Re6#'
+source:
+  date:
+    month: 1
+    year: 2014
+  issue: '96'
+  name: Семь шахматных нот
+  problemid: '4689'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd4
+  - Rc1
+  - Pa4
+  white:
+  - Kb2
+  - Rf5
+  - Bb1
+  - Pf2
+authors:
+- Дикусаров, Андрей Николаевич
+intended-solutions: '3'
+solution: '1.Re1 Ba2 2.Re4 Rd5#
+
+  1.Rc2+ K:c2 2.Ke4 Kc3#
+
+  1.Kc4 Bd3+ 2.Kb4 Rb5#'
+source:
+  date:
+    month: 1
+    year: 2014
+  issue: '96'
+  name: Семь шахматных нот
+  problemid: '4694'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke1
+  - Rg2
+  - Pg5
+  - Pe4
+  white:
+  - Kh3
+  - Rh1
+  - Bg1
+  - Pg4
+  - Pg3
+  - Pe3
+authors:
+- Ивунин, Алексей Всеволодович
+award:
+  distinction: 23rd-26th Place
+  tourney:
+    name: 18-й командный чемпионат России
+intended-solutions: '2'
+solution: '1)  1. Re2  Rh2  2. R:e3  Rh1  3. Re2  Be3#
+
+
+  2)  1. Rc2  Bf2  2. Kd2  Be1  3. Kc1  Bc3#'
+source:
+  date:
+    year: 2013
+  name: 18-й командный чемпионат России
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Rf4
+  - Pd5
+  white:
+  - Kd7
+  - Rh4
+  - Bh2
+  - Pd2
+authors:
+- Carf, Jean
+intended-solutions: 2.1.1.1
+solution: '1.Kd4-e4 Rh4*f4 +   2.Ke4-e5 d2-d4 #
+
+  1.Kd4-e5 Bh2-g1   2.Rf4-f5 Bg1-d4 #'
+source:
+  date:
+    year: 2015
+  issue: '173'
+  name: ЮК Кудесник-25
+  problemid: '6226'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd6
+  - Rc5
+  white:
+  - Ke8
+  - Rb8
+  - Ba8
+  - Pa4
+authors:
+- Mitter, Ján
+solution: "a) \n\n\n1.Kd6-e6 Ba8-e4   2.Rc5-e5 Rb8-b6 #\n\nb) +bPc7 \n\n\n1.Rc5-e5\
+  \ + Ke8-d8   2.c7-c5 Rb8-b6 #\n\nc) +bBc7 \n\n\n1.Bc7-b6 Rb8-b7   2.Kd6-c6 Rb7-d7\
+  \ #"
+source:
+  date:
+    year: 1989
+  name: Mat a Pat
+  problemid: '991'
+stipulation: h#2
+twins:
+  b: Add black Pc7
+  c: Add black Bc7
+---
+algebraic:
+  black:
+  - Kd4
+  - Re4
+  - Pd2
+  white:
+  - Ka8
+  - Rf8
+  - Bf1
+  - Be7
+authors:
+- Петков, Петко Андонов
+award:
+  distinction: 1st Prize
+  tourney:
+    name: Problemista
+options:
+- SetPlay
+solution: '1...Be7-h4   2.Kd4-e3 Bh4-f2 #
+
+
+  1.d2-d1=S Rf8-f5   2.Sd1-c3 Be7-c5 #'
+source:
+  date:
+    year: 1961
+  name: Problemista
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Rf4
+  - Pg5
+  - Pf2
+  white:
+  - Kh3
+  - Rf1
+  - Bg3
+authors:
+- Goldstein, Alexander
+award:
+  distinction: 7th Place
+  tourney:
+    name: Hungary-CSSR-Rumina-Poland
+solution: '1.Ke5-f5 Bg3-h4   2.Rf4-e4 Bh4*f2   3.Kf5-f4 Bf2-d4 #'
+source:
+  date:
+    year: 1951
+  name: Hungary-CSSR-Rumina-Poland
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kf5
+  - Ra6
+  - Pf7
+  - Pd5
+  white:
+  - Kf1
+  - Rc3
+  - Bb7
+  - Pf4
+authors:
+- Иванов, Валерий Алексеевич
+keywords:
+- Model mates
+solution: '1.Ke4  Ke2  2.f5  Rc4#,
+
+  1.Rg6  Rc4  2.f6 Bc8 #,
+
+  1.Kg4  Bc8 2.Kh4 Rh3 #'
+source:
+  date:
+    day: 4
+    month: 6
+    year: 2015
+  issue: '113'
+  name: Семь шахматных нот
+  problemid: '9'
+stipulation: H#2
+---
+algebraic:
+  black:
+  - Kd5
+  - Re4
+  - Pg7
+  - Pg4
+  - Pg3
+  - Pe6
+  - Pe5
+  - Pc4
+  white:
+  - Kf7
+  - Re7
+  - Bg6
+  - Ph5
+authors:
+- Edwards, Brian
+options:
+- Duplex
+source:
+  date:
+    month: 11
+    year: 2003
+  issue: '67'
+  name: The Problemiste Supplement
+  problemid: '1457'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke5
+  - Rd7
+  - Pf7
+  white:
+  - Ka8
+  - Rh3
+  - Ba2
+  - Pf2
+authors:
+- Jonsson, Bernt Christer
+intended-solutions: 3.1.1...
+solution: '1.Rd7-d4 Ba2-b1   2.Rd4-g4 Rh3-h5 +   3.Ke5-f4 Rh5-f5 # 1.Rd7-d3 Rh3-h6   2.Rd3-e3
+  f2*e3   3.f7-f5 Rh6-e6 # 1.Rd7-d6 Rh3-h7   2.Rd6-g6 f2-f4 +   3.Ke5-f6 Rh7*f7 #'
+source:
+  date:
+    month: 7
+    year: 2002
+  issue: '59'
+  name: The Problemist Supplement
+  problemid: '1299'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ka1
+  - Rh3
+  - Ra2
+  - Pe3
+  white:
+  - Ke1
+  - Rh1
+  - Bc2
+authors:
+- Залокоцький, Роман Федорович
+award:
+  distinction: 2nd HM
+  tourney:
+    name: MT Samuel Loyd-165
+solution: 'a)  1. Rb2  Bb3  2. Kb1  O-O#
+
+
+  b)  1. Rh2  Be4  2. Rag2  O-O-O#'
+source:
+  date:
+    year: 2006
+  name: MT Samuel Loyd-165
+stipulation: h#2
+twins:
+  b: Exchange h1 a1
+---
+algebraic:
+  black:
+  - Kg2
+  - Rf5
+  - Pe5
+  white:
+  - Ke4
+  - Re1
+  - Bh7
+authors:
+- Vitale, Luigi
+options:
+- Duplex
+- AntiCirce
+solution: '1.Rf5-f8 Re1-h1   2.Rf8-e8 Ke4-f3 #
+
+
+  1.Ke4-e3 Rf5-f2   2.Bh7-d3 Kg2-f3 #'
+source:
+  date:
+    month: 6
+    year: 2001
+  issue: '135'
+  name: Problemkiste
+  problemid: '5301'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph6
+  - Pg7
+  white:
+  - Ke1
+  - Rh7
+  - Bh1
+authors:
+- Donati, Gianni
+solution: '1.Rh8-f8 Bh1-d5   2.Rf8-f7 Bd5-e6   3.Rf7-e7 Rh7-h8 #'
+source:
+  date:
+    month: 9
+    year: 1998
+  issue: '36'
+  name: The Problemist Supplement
+  problemid: '803'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd2
+  - Re3
+  - Pd4
+  white:
+  - Kf5
+  - Rd8
+  - Bb6
+  - Pc2
+authors:
+- Радченко, Сергей Владимирович
+source:
+  date:
+    month: 7
+    year: 1998
+  issue: '35'
+  name: The Problemist Supplement
+  problemid: '765'
+stipulation: h#2
+twins:
+  b: Move f5 f2
+---
+algebraic:
+  black:
+  - Kd5
+  - Ra5
+  - Pe5
+  - Pc4
+  white:
+  - Kf3
+  - Ra4
+  - Be7
+  - Pf6
+authors:
+- Дикусаров, Андрей Николаевич
+solution: "a) \n\n1.Ra5-b5 Ra4-a6   2.Rb5-c5 Ra6-d6 #\n\nb) bPe5--d4  \n\n1.Ra5-a6\
+  \ Ra4*c4   2.Ra6-e6 Rc4-c5 #\n\nc) bPe5--c3  \n\n1.Kd5-d4 Ra4-a1   2.Ra5-e5 Ra1-d1\
+  \ #"
+source:
+  date:
+    year: 2015
+  issue: '126'
+  name: Šachová skladba
+  problemid: '12542'
+stipulation: h#2
+twins:
+  b: Move e5 d4
+  c: Move e5 c3
+---
+algebraic:
+  black:
+  - Kf3
+  - Rg6
+  - Pg5
+  - Pf4
+  - Pd3
+  - Pa6
+  white:
+  - Kc7
+  - Re5
+  - Bf1
+authors:
+- Majoros, Béla
+comments:
+- C+
+foreignids:
+- domain: WinChloe
+  problemid: 276339
+- domain: PDB
+  problemid: P1076172
+solution: "a) +bPd4  \n\n1.Rg6-d6 Re5-e1   2.Rd6-d5 Bf1-e2 +   3.Kf3-e4 Be2-g4 #\n\
+  \nb) bPd3--d4  \n\n1.Rg6-e6 Re5-a5   2.Kf3-e4 Bf1-b5   3.Ke4-d5 Bb5-d3 #\n\nc) bKf3--c4\
+  \  \n\n1.Rg6-b6 Bf1-g2   2.Rb6-b4 Bg2-d5 +   3.Kc4-b5 Bd5-b3 #"
+source:
+  date:
+    month: 6
+    year: 2006
+  issue: '46'
+  name: Уральский проблемист
+  problemid: '4116'
+stipulation: h#3
+twins:
+  a: Add black Pd4
+  b: Move d3 d4
+  c: Move f3 c4
+---
+algebraic:
+  black:
+  - Kd6
+  - Rc7
+  - Ph4
+  - Pc3
+  - Pa7
+  - Pa6
+  white:
+  - Ka1
+  - Rh3
+  - Be1
+  - Pd4
+authors:
+- Zimmer, Eligiusz
+intended-solutions: 2.1.1...
+solution: '1.Kd6-c6 Rh3*c3 +   2.Kc6-b6 Rc3-c5   3.Rc7-b7 Be1-a5 #
+
+  1.Kd6-e7 Be1*h4 +   2.Ke7-f8 Bh4-f6   3.Rc7-f7 Rh3-h8 #'
+source:
+  date:
+    month: 10
+    year: 2013
+  issue: '121'
+  name: Šachová skladba
+  problemid: '11953'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke3
+  - Re4
+  - Pg4
+  - Pg3
+  - Pe5
+  - Pe2
+  white:
+  - Kc4
+  - Rb5
+  - Ba8
+  - Pd4
+authors:
+- Piet, Pascale
+intended-solutions: 2.1.1.1
+solution: '1.Ke3-f3 Rb5-b7   2.Re4-e3 Rb7-f7 #
+
+  1.Re4-f4 Rb5-d5   2.Ke3-e4 Rd5*e5 #'
+source:
+  date:
+    month: 10
+    year: 2011
+  issue: '113'
+  name: Šachová skladba
+  problemid: '10892'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kh8
+  - Ra3
+  - Pd7
+  - Pc7
+  white:
+  - Kd1
+  - Rd2
+  - Ba4
+  - Pd3
+authors:
+- Agostini, Valerio
+intended-solutions: 1.2.1...
+solution: '1.Ra3*d3 Ba4-c2   2.Rd3-g3 Rd2*d7   3.Rg3-g8 Rd7-h7 #
+
+  1.Ra3*d3 Ba4-b3   2.Rd3-h3 Rd2-g2   3.Rh3-h7 Rg2-g8 #'
+source:
+  date:
+    month: 1
+    year: 2011
+  issue: '110'
+  name: Šachová skladba
+  problemid: '10506'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke4
+  - Rf8
+  - Pg3
+  - Pc5
+  - Pc4
+  white:
+  - Ke2
+  - Re1
+  - Be6
+  - Pf4
+  - Pd5
+  - Pd4
+authors:
+- Kawagoe, Toshiji
+intended-solutions: '4'
+keywords:
+- Circe
+- Meredith
+options:
+- Circe
+solution: '1.Kxd4[+wPd2] Rc1 2.Ke4 Rxc4[+bPc7] #
+
+  1.Kxf4[+wPf2] Rg1 2.gxf2 Rg4 #
+
+  1.cxd4[+wPd2] Kd1 + 2.Kd3 Bf5 # (3.Rxf5? [+wBc1+!] )
+
+  1.Rxf4[+wPf2] Kf1 + 2.Kf3 Re3 #'
+source:
+  date:
+    year: 2015
+  name: Problem Paradise
+  problemid: F676
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  white:
+  - Ke1
+  - Rb7
+  - Ba1
+authors:
+- Havel, Miroslav
+solution: "a) \n\n\n1.0-0-0 Ba1-e5   2.Rd8-d7 Rb7-b8 #\n\nb) bRa8--h8\n\n\n1.0-0 Rb7-h7\
+  \   2.Rf8-f7 Rh7-h8 #"
+source:
+  date:
+    day: 10
+    month: 10
+    year: 1942
+  name: Týden rozhlasu
+  problemid: 180-181
+stipulation: h#2
+twins:
+  b: Move a8 h8
+---
+algebraic:
+  black:
+  - Ke5
+  - Rc5
+  - Pf6
+  - Pe3
+  - Pd6
+  white:
+  - Kf1
+  - Rf3
+  - Be4
+  - Pf5
+  - Pc4
+authors:
+- Fox, Charles Masson
+solution: '1.Ke5-d4 Rf3-f4   2.Rc5*f5 Be4-f3 +   3.Kd4-e5 Rf4-e4 #'
+source:
+  date:
+    month: 10
+    year: 1942
+  name: The Fairy Chess Review
+  problemid: '5297'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kh1
+  - Rh2
+  - Pg2
+  - Pf5
+  white:
+  - Kd3
+  - Rh4
+  - Be4
+authors:
+- Moder, Janez
+award:
+  distinction: 1st Comm.
+  tourney:
+    name: Delo-Tovariš
+options:
+- SetPlay
+solution: '1... B:f5  2. g1B  Be4#
+
+
+  1. Kg1  Rf4  2. Kh1  Rf1#'
+source:
+  date:
+    year: 1968
+  name: Delo-Tovariš
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke6
+  - Re7
+  - Pg5
+  - Pf4
+  - Pe4
+  - Pd7
+  - Pd6
+  - Pc6
+  white:
+  - Kd2
+  - Rd5
+  - Bg3
+authors:
+- Moskowitz, Martin
+intended-solutions: 2.1.1...
+solution: '1.g5-g4 Rd5*d6 +   2.Ke6-f5 Bg3-h4   3.Re7-e5 Rd6-f6 #
+
+  1.c6-c5 Rd5-f5   2.d6-d5 Rf5*f4   3.Ke6-d6 Rf4-f6 #'
+source:
+  date:
+    month: 4
+    year: 2007
+  issue: '94'
+  name: idee & form
+  problemid: '2236'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Rg2
+  - Pe3
+  white:
+  - Kh6
+  - Rf8
+  - Bf5
+authors:
+- Ylijoki, Marko
+intended-solutions: 2.1.1...
+solution: '1.Rg2-f2 Kh6-g5   2.e3-e2 Rf8-d8 +   3.Kd4-e3 Rd8-d3 #
+
+  1.Kd4-e5 Kh6-h5   2.Ke5-f4 Kh5-h4   3.Kf4-f3 Bf5-d3 #'
+source:
+  date:
+    month: 9
+    year: 2002
+  issue: '90'
+  name: Springaren
+  problemid: '935'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Rh8
+  white:
+  - Kg6
+  - Rh7
+  - Bg8
+authors:
+- Панкратьев, Александр Николаевич
+solution: "a) \n\n1.Kd4-e5 Rh7-d7   2.Rh8-h4 Kg6-g5   3.Rh4-e4 Rd7-d5 #\n\nb) bKd4--e5\
+  \  \n\n1.Ke5-d6 Rh7*h8   2.Kd6-d7 Kg6-f6   3.Kd7-e8 Bg8-e6 #"
+source:
+  date:
+    month: 12
+    year: 2006
+  issue: '166'
+  name: feenschach
+  problemid: '9443'
+stipulation: h#3
+twins:
+  b: Move d4 e5
+---
+algebraic:
+  black:
+  - Ka5
+  - Ra4
+  - Pb4
+  white:
+  - Kh5
+  - Ra2
+  - Bf8
+  - Pb2
+authors:
+- Каковин, Александр Сергеевич
+solution: '1.b4-b3 Bf8-a3   2.Ra4-b4 Ra2-a1   3.Rb4-b5 + Ba3-c5 #'
+source:
+  date:
+    year: 1961
+  name: FIDE Revue
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Ra5
+  - Pd7
+  - Pb6
+  - Pa6
+  - Pa4
+  white:
+  - Kf2
+  - Rb5
+  - Bb4
+  - Pf4
+  - Pd6
+  - Pd3
+  - Pc2
+  - Pa3
+authors:
+- Скрипник, Анатолий Николаевич
+award:
+  distinction: 1st HM
+  tourney:
+    name: ASIGC
+options:
+- SetPlay
+solution: "a) \n\n1...Rb5-e5   2.Ra5-d5 Re5-e4 #\n\n1.Ra5*b5 Kf2-e2   2.Rb5-d5 c2-c3\
+  \ #\n\nb) +bBa5  \n\n1...Bb4-d2   2.Ba5-c3 Bd2-e3 #\n\n1.Ba5*b4 c2-c4   2.Bb4-c3\
+  \ Rb5-d5 #"
+source:
+  date:
+    year: 2014
+  name: ASIGC
+  problemid: H72
+stipulation: h#2
+twins:
+  b: Add black Ba5
+---
+algebraic:
+  black:
+  - Kh2
+  - Rh8
+  white:
+  - Ke1
+  - Rb1
+  - Bf1
+authors:
+- Onkoud, Abdelaziz
+intended-solutions: 3.1.1.1
+solution: '1.Kh2-g1 Rb1-b2   2.Rh8-h1 Rb2-g2 #
+
+  1.Kh2-h1 Ke1-f2   2.Rh8-h2 + Bf1-g2 #
+
+  1.Rh8-g8 Rb1-b3   2.Rg8-g1 Rb3-h3 #'
+source:
+  date:
+    month: 7
+    year: 1994
+  issue: '52'
+  name: Probleemblad
+  problemid: '2576'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kb5
+  - Ra7
+  white:
+  - Kb3
+  - Rf4
+  - Bb8
+authors:
+- Безносов, П.
+award:
+  distinction: Special Commendation
+  tourney:
+    name: ЮК Николаев-225
+intended-solutions: '2'
+solution: '1)  1. Ra6  Ba7  2. Ka5  Rf5#
+
+
+  2)  1. Kb6  Kb4  2. Rb7  Rf6#'
+source:
+  date:
+    year: 2014
+  name: ЮК Николаев-225
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke3
+  - Rd8
+  - Pg7
+  - Pf5
+  - Pe6
+  - Pd7
+  - Pc5
+  - Pb5
+  white:
+  - Kf7
+  - Re7
+  - Ba7
+  - Pe2
+  - Pd5
+authors:
+- Onkoud, Abdelaziz
+intended-solutions: 2.1.1...
+solution: '1.Ke3-d4 Ba7-b8   2.e6*d5 Re7-e3   3.c5-c4 Bb8-a7 #
+
+  1.Ke3-e4 Re7*d7   2.c5-c4 Ba7-e3   3.e6*d5 Rd7-e7 #'
+source:
+  date:
+    month: 3
+    year: 2005
+  issue: '48'
+  name: Pat a Mat
+  problemid: '323'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc7
+  - Rc1
+  white:
+  - Kh8
+  - Rg8
+  - Bg7
+authors:
+- Locker, Miklós S.
+intended-solutions: 2.1.1...
+solution: '1.Rc1-b1 Bg7-f6   2.Rb1-b7 Bf6-d8 +   3.Kc7-b8 Bd8-b6 #
+
+  1.Rc1-d1 Bg7-h6   2.Rd1-d7 Bh6-f8   3.Kc7-d8 Bf8-d6 #'
+source:
+  date:
+    year: 1965
+  issue: '613'
+  name: feenschach
+  problemid: '7418'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kb1
+  - Rc8
+  - Pb2
+  - Pa3
+  - Pa2
+  white:
+  - Kh1
+  - Rc2
+  - Bd1
+  - Pe2
+  - Pd2
+authors:
+- Niemann, John
+award:
+  distinction: 3rd Comm.
+  tourney:
+    name: Feenschach
+solution: "a) \n\n1.a2-a1=S Rc2-c3   2.Sa1-c2 Bd1*c2 +   3.Kb1-a1 Rc3*a3 #\n\nb) bRc8--a8\
+  \  \n\n1.a2-a1=R Rc2-c1 +   2.Kb1-a2 Bd1-a4   3.b2-b1=S Rc1-c2 #"
+source:
+  date:
+    year: 1951
+  issue: '73'
+  name: feenschach
+  problemid: '771'
+stipulation: h#3
+twins:
+  b: Move c8 a8
+---
+algebraic:
+  black:
+  - Kd3
+  - Rd4
+  - Pf5
+  - Pf4
+  - Pe7
+  - Pe6
+  - Pd6
+  - Pc5
+  white:
+  - Kf7
+  - Ra7
+  - Bc1
+  - Pf3
+  - Pa5
+authors:
+- Agostini, Valerio
+intended-solutions: 1.3.1.1...
+solution: '1.Rd4-d5 Ra7*e7   2.Kd3-d4 Bc1-e3 +   3.Kd4-e5 Re7*e6 #
+
+  1.Rd4-d5 Ra7-c7   2.Kd3-d4 Rc7*c5   3.Kd4-e5 Bc1-b2 #
+
+  1.Rd4-d5 Ra7-b7   2.Kd3-d4 Rb7-b4 +   3.Kd4-e5 Bc1*f4 #'
+source:
+  date:
+    month: 6
+    year: 2010
+  issue: '71'
+  name: Pat a Mat
+  problemid: '193'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke5
+  - Rh2
+  - Pf3
+  - Pd3
+  white:
+  - Ka8
+  - Rg6
+  - Bg5
+  - Pe2
+authors:
+- Jonsson, Bernt Christer
+award:
+  distinction: Special HM
+  tourney:
+    name: Springaren
+intended-solutions: 3.1.1...
+solution: '1.Ke5-d5 e2*d3   2.Rh2-c2 Bg5-f4   3.Rc2-c5 Rg6-d6 #
+
+  1.Ke5-f5 e2*f3   2.Rh2-e2 Bg5-h4   3.Re2-e5 Rg6-f6 #
+
+  1.Rh2-h6 Rg6-g7   2.Rh6-d6 e2-e4   3.Ke5-e6 Rg7-e7 #'
+source:
+  date:
+    month: 12
+    year: 2010
+  issue: '118'
+  name: Springaren
+  problemid: '1273'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kg2
+  - Rb1
+  - Ph3
+  - Pf5
+  - Pe5
+  - Pe4
+  white:
+  - Kg8
+  - Rd7
+  - Ba6
+  - Pe3
+  - Pd2
+authors:
+- Jonsson, Bernt Christer
+intended-solutions: 2.1.1...
+solution: '1.Rb1-g1 Ba6-f1 +   2.Kg2-h1 + Bf1-g2 +   3.h3*g2 Rd7-h7 #
+
+  1.Kg2-f3 Rd7-d3   2.e4*d3 Ba6-b5   3.Kf3-e4 Bb5-c6 #'
+source:
+  date:
+    month: 2
+    year: 2009
+  issue: '50'
+  name: Broodings
+  problemid: '5'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kf4
+  - Ra6
+  - Pg3
+  - Pf5
+  - Pe7
+  - Pe5
+  - Pe4
+  - Pe3
+  white:
+  - Kd5
+  - Ra5
+  - Ba7
+authors:
+- Jonsson, Bernt Christer
+award:
+  distinction: 2nd Prize
+  tourney:
+    name: Springaren
+intended-solutions: 2.1.1...
+solution: '1.Ra6-g6 Ba7-d4   2.Rg6-g4 Kd5-e6   3.e5*d4 Ra5*f5 #
+
+  1.Ra6-f6 Kd5-c4   2.e7-e6 Ra5*e5   3.Kf4*e5 Ba7-b8 #'
+source:
+  date:
+    year: 1990
+  name: Springaren
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kf5
+  - Rc8
+  - Ph5
+  - Pg7
+  - Pf6
+  - Pe7
+  - Pd5
+  white:
+  - Kb5
+  - Rg8
+  - Bh2
+  - Pf4
+authors:
+- Jonsson, Bernt Christer
+award:
+  distinction: 1st HM
+  tourney:
+    name: ТК С.-Петербургской комиссии по композиции
+intended-solutions: 2.1.1...
+solution: '1.Kf5-e6 Rg8-e8   2.Ke6-d6 f4-f5 +   3.e7-e5 f5*e6 ep. #
+
+  1.Kf5-g6 f4-f5 +   2.Kg6-h6 Bh2-f4 +   3.g7-g5 f5*g6 ep. #'
+source:
+  date:
+    year: 1996
+  name: ТК С.-Петербургской комиссии по композиции
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kh6
+  - Rg7
+  - Ph7
+  - Pf4
+  - Pe4
+  - Pe2
+  - Pd2
+  white:
+  - Kg1
+  - Rd1
+  - Be1
+  - Pg3
+authors:
+- Панкратьев, Александр Николаевич
+award:
+  distinction: Special Prize
+  tourney:
+    name: Проблеміст України, TT Paradox of Zilahi
+intended-solutions: '3'
+solution: '1.d2*e1=R + Kg1-f2   2.Re1-g1 g3*f4   3.Rg1-g6 Rd1-h1 #
+
+  1.e2*d1=B Be1*d2   2.Bd1-h5 g3-g4   3.Bh5-g6 Bd2*f4 #
+
+  1.Rg7-g8 Rd1*d2   2.Kh6-g7 Rd2-d8   3.Kg7-h8 Be1-c3 #'
+source:
+  date:
+    year: 2016
+  issue: №2
+  name: Проблеміст України, TT Paradox of Zilahi
+  problemid: '48'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  white:
+  - Ke1
+  - Re2
+  - Be5
+authors:
+- Mantha, Srinivas
+foreignids:
+- domain: WinChloe
+  problemid: 5075
+solution: 'a) 1.0-0 Re2-h2 2.Rf8-f7 Rh2-h8 # b) bRh8--a8 1.0-0-0 Re2-b2 2.Rd8-d7 Rb2-b8
+  #'
+source:
+  date:
+    month: 9
+    year: 1994
+  issue: '14'
+  name: The Problemist Supplement
+  problemid: '262'
+stipulation: h#2
+twins:
+  b: Move h8 a8
+---
+algebraic:
+  black:
+  - Kg1
+  - Rh1
+  - Ph2
+  - Pg3
+  white:
+  - Kc8
+  - Rc6
+  - Ba5
+  - Pf2
+  - Pe2
+authors:
+- Jonsson, Bernt Christer
+award:
+  distinction: 1st Prize
+  tourney:
+    name: feenschach
+solution: "a) \n\n1...Ba5-b6   2.g3-g2 Rc6-c1 #\n\n1.g3*f2 Ba5-e1   2.f2-f1=R Rc6-g6\
+  \ #\n\nb) -wPf2  bPg3--f2  \n\n1...Ba5-e1   2.f2-f1=R Rc6-g6 #\n\n1.f2-f1=B Rc6-f6\
+  \   2.Bf1-g2 Ba5-b6 #\n\n+c) +bBf1  -bPf2  \n\n1...Rc6-f6   2.Bf1-g2 Ba5-b6 #\n\n\
+  1.Bf1*e2 Rc6-c2   2.Be2-f1 Ba5-b6 #"
+source:
+  date:
+    year: 1986
+  name: feenschach
+stipulation: h#2
+twins:
+  b: Move g3 f2
+  c: Cont add black Bf1, remove f2
+---
+algebraic:
+  black:
+  - Ke4
+  - Rd3
+  white:
+  - Kb1
+  - Rd7
+  - Be8
+  - Pd2
+authors:
+- Brixi, Heinz
+solution: '1.Rd3-d4 Rd7-d8   2.Ke4-d3 Be8-d7   3.Rd4-e4 Bd7-b5 #'
+source:
+  date:
+    year: 1934
+  name: The Problemist Fairy Chess Supplement
+  problemid: v
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Rc4
+  - Pd5
+  - Pd2
+  white:
+  - Kf2
+  - Rc8
+  - Be8
+authors:
+- Carf, Jean
+solution: "a) 1.Kd3 Ba4 2.Rd4 Bc2#;  \nb) 1.Ke4 Rc5 2d4 Bg6#"
+source:
+  date:
+    year: 2016
+  issue: '3'
+  name: Проблеміст України
+  problemid: '49'
+stipulation: h#2
+twins:
+  b: Move d2 f4
+---
+algebraic:
+  black:
+  - Kb7
+  - Rb8
+  - Pa7
+  white:
+  - Kd4
+  - Rd6
+  - Be8
+authors:
+- Garai, Toma
+options:
+- SetPlay
+solution: '1...Rd6-d8   2.Kb7-a8 Be8-c6 #
+
+
+  1.Kb7-a8 Be8-c6 +   2.Rb8-b7 Rd6-d8 #'
+source:
+  date:
+    month: 5
+    year: 1965
+  name: Europe Échecs
+  problemid: '842'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc6
+  - Rb4
+  white:
+  - Kh5
+  - Rh7
+  - Ba5
+authors:
+- Garai, Toma
+intended-solutions: 3.1.1...
+solution: '1.Kc6-b5 Ba5-b6   2.Kb5-a6 Bb6-c5   3.Rb4-b5 Rh7-a7 #
+
+  1.Rb4-b8 Ba5-c7   2.Kc6-b7 Bc7-b6 +   3.Kb7-a8 Rh7-a7 #
+
+  1.Rb4-b7 Rh7-h6 +   2.Kc6-d7 Rh6-d6 +   3.Kd7-c8 Rd6-d8 #'
+source:
+  date:
+    month: 5
+    year: 1994
+  name: Problem Observer
+  problemid: O146
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kh8
+  - Rc6
+  white:
+  - Kb7
+  - Rf6
+  - Bc1
+authors:
+- Mlynka, Karol
+solution: "a) \n\n1.Rc6-c8 Bc1-b2   2.Rc8-g8 Rf6-h6 #\n\nb) bKh8--d8\n\n1.Rc6-e6 Bc1-g5\
+  \   2.Re6-e8 Rf6-d6 #\n\nc) bKh8--a5\n\n1.Rc6-c4 Bc1-a3   2.Rc4-a4 Rf6-f5 #\n\n\
+  d) wKb7--d4\n\n1.Rc6-c7 Bc1-h6   2.Rc7-h7 Rf6-f8 #"
+source:
+  date:
+    month: 4
+    year: 2016
+  name: KoBulChess
+  problemid: '722'
+stipulation: h#2
+twins:
+  b: Move h8 d8
+  c: Move h8 a5
+  d: Move b7 d4
+---
+algebraic:
+  black:
+  - Kb6
+  - Rb7
+  white:
+  - Ka1
+  - Ra8
+  - Bb8
+authors:
+- Maryško, Miloš
+intended-solutions: 2.1.1...
+solution: '1.Kb6-b5 Bb8-a7   2.Kb5-a5 Ka1-a2   3.Rb7-b5 Ba7-c5 #
+
+  1.Rb7-d7 Bb8-a7 +   2.Kb6-c7 Ba7-b8 +   3.Kc7-d8 Bb8-d6 #'
+source:
+  date:
+    month: 10
+    year: 1972
+  name: Land og Folk
+  problemid: '815'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kf6
+  - Rf1
+  - Pg5
+  white:
+  - Kf8
+  - Rc5
+  - Bf2
+  - Ph5
+authors:
+- Maryško, Miloš
+options:
+- SetPlay
+solution: '1...Bf2-g3   2.Rf1-f5 Rc5-c6 #
+
+
+  1.Rf1-e1 Bf2-h4   2.Re1-e6 Bh4*g5 #'
+source:
+  date:
+    year: 1957
+  issue: '275'
+  name: feenschach
+  problemid: '3310'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd3
+  - Rg4
+  - Pe4
+  - Pd7
+  white:
+  - Ka8
+  - Rc1
+  - Bd4
+authors:
+- Панкратьев, Александр Николаевич
+award:
+  distinction: 7th HM
+  tourney:
+    name: ЮК О.Угнівенко-65
+solution: "a) \n\n1.d7-d5 Bd4-h8   2.Rg4-g7 Rc1-c3 +   3.Kd3-d4 Bh8*g7 #\n\nb) bPd7--c2\
+  \  \n\n1.Kd3-d2 Rc1-h1   2.Rg4-g1 Bd4-c3 +   3.Kd2-c1 Rh1*g1 #"
+source:
+  date:
+    year: 2004
+  name: ЮК О.Угнівенко-65
+stipulation: h#3
+twins:
+  b: Move d7 c2
+---
+algebraic:
+  black:
+  - Kd3
+  - Rg6
+  - Pe4
+  - Pd7
+  white:
+  - Kh8
+  - Rc1
+  - Bd4
+authors:
+- Панкратьев, Александр Николаевич
+solution: "a) \n\n1.d7-d5 Bd4-g7   2.Rg6-f6 Rc1-c3 +   3.Kd3-d4 Bg7*f6 #\n\nb) bPe4--c2\n\
+  \n1.Kd3-d2 Rc1-h1   2.Rg6-g1 Bd4-c3 +   3.Kd2-c1 Rh1*g1 #"
+source:
+  date:
+    month: 4
+    year: 2005
+  issue: '26'
+  name: Orbit
+  problemid: '1511'
+stipulation: h#3
+twins:
+  b: Move e4 c2
+---
+algebraic:
+  black:
+  - Ke4
+  - Rh4
+  - Pe5
+  - Pd7
+  - Pc7
+  - Pc4
+  - Pb6
+  - Pa6
+  white:
+  - Ke7
+  - Rb5
+  - Bc6
+  - Pd5
+  - Pb4
+authors:
+- Панкратьев, Александр Николаевич
+- Гершинський, Михайло Овсійович
+intended-solutions: 2.1.1...
+solution: '1.d7*c6 Rb5*b6   2.Ke4*d5 Rb6-b8   3.Rh4-e4 Rb8-d8 #
+
+  1.a6*b5 Bc6*b5   2.Ke4*d5 Ke7*d7   3.Rh4-d4 Bb5-c6 #'
+source:
+  date:
+    month: 2
+    year: 2012
+  issue: '116'
+  name: Gaudium
+  problemid: '696'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kf3
+  - Re3
+  - Ph3
+  - Pg3
+  - Pe4
+  - Pd7
+  white:
+  - Kf1
+  - Ra3
+  - Bb7
+  - Pd6
+  - Pd5
+  - Pd3
+  - Pc4
+  - Pb4
+authors:
+- Панкратьев, Александр Николаевич
+- Гершинський, Михайло Овсійович
+award:
+  distinction: 1st Comm.
+  tourney:
+    name: Orbit
+solution: "a) \n\n1.Re3*d3 Ra3-a5   2.Rd3*d5 Ra5*d5   3.e4-e3 Rd5-d4 #\n\nb) wPc4--d4\
+  \  \n\n1.e4*d3 Bb7-a6   2.Re3-e4 Ba6*d3   3.Re4-f4 Bd3-f5 #"
+source:
+  date:
+    month: 8
+    year: 2012
+  issue: '55'
+  name: Orbit
+  problemid: '3460'
+stipulation: h#3
+twins:
+  b: Move c4 d4
+---
+algebraic:
+  black:
+  - Kd3
+  - Rb3
+  - Pg6
+  - Pf2
+  - Pe2
+  white:
+  - Kd8
+  - Rc8
+  - Bb8
+  - Pf4
+  - Pc3
+  - Pb2
+authors:
+- Панкратьев, Александр Николаевич
+- Гершинський, Михайло Овсійович
+solution: "a) \n\n1.Rb3*c3 Bb8-a7   2.Rc3-c4 Ba7-e3   3.Rc4-e4 Rc8-c3 #\n\nb) bKd3--e3\
+  \  \n\n1.g6-g5 Rc8-c4   2.g5*f4 Rc4-d4   3.f4-f3 Bb8-f4 #"
+source:
+  date:
+    month: 9
+    year: 2012
+  issue: '125'
+  name: Springaren
+  problemid: '12553'
+stipulation: h#3
+twins:
+  b: Move d3 e3
+---
+algebraic:
+  black:
+  - Ka8
+  - Rh3
+  white:
+  - Kb1
+  - Rg7
+  - Bd8
+authors:
+- Винокуров, Вадим Константинович
+solution: "a) \n\n1.Rh3-h8 Bd8-b6   2.Rh8-b8 Rg7-a7 #\n\nb) bKa8--b8  \n\n1.Rh3-h7\
+  \ Rg7-g8   2.Rh7-b7 + Bd8-b6 #"
+source:
+  date:
+    year: 2000
+  name: V.Tsivilev-80 JT
+stipulation: h#2
+twins:
+  b: Move a8 b8
+---
+algebraic:
+  black:
+  - Kg7
+  - Rg5
+  - Ph6
+  white:
+  - Kd8
+  - Ra6
+  - Bc7
+  - Pg6
+authors:
+- Винокуров, Вадим Константинович
+award:
+  distinction: Special Prize
+  tourney:
+    name: ЮК 395 лет Победы народного ополчения
+solution: "a) \n\n1.h6-h5 Bc7-d6   2.Kg7-h6 Bd6-f8 #\n\nb) bSh6  \n\n1.Sh6-f5 Bc7-b6\
+  \   2.Kg7-f6 Bb6-d4 #\n\nc) -wPg6  \n\n1.Kg7-f8 Ra6-a7   2.Rg5-g8 Bc7-d6 #"
+source:
+  date:
+    year: 2007
+  name: Кудесник
+stipulation: h#2
+twins:
+  b: add black Sh6
+  c: Remove g6
+---
+algebraic:
+  black:
+  - Kf4
+  - Rc1
+  - Pe2
+  - Pd6
+  - Pd2
+  - Pc3
+  white:
+  - Ke7
+  - Ra5
+  - Ba7
+  - Pf3
+  - Pc5
+authors:
+- Винокуров, Вадим Константинович
+solution: "a) \n\n1.d6*c5 Ba7*c5   2.Kf4-e5 Bc5-e3 #\n\nb) bPc3--d3\n\n1.Rc1*c5 Ra5*c5\
+  \   2.Kf4-e3 Rc5-f5 #"
+source:
+  date:
+    month: 10
+    year: 2007
+  issue: '28'
+  name: Шаховий Леополіс
+  problemid: '1808'
+stipulation: h#2
+twins:
+  b: Move c3 d3
+---
+algebraic:
+  black:
+  - Kb2
+  - Rb3
+  - Pc3
+  white:
+  - Ke1
+  - Ra1
+  - Bc2
+  - Pd3
+  - Pa2
+authors:
+- Weisert, Otto
+solution: '1.Kb2-a3 0-0-0   2.Ka3*a2 Bc2*b3 +   3.Ka2-a1 Kc1-c2 #'
+source:
+  date:
+    day: 1
+    month: 4
+    year: 1927
+  name: Magyar Sakkvilág
+  problemid: '179'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke3
+  - Rb4
+  - Pf2
+  - Pe5
+  - Pe2
+  - Pc4
+  white:
+  - Kc5
+  - Ra3
+  - Bh6
+  - Pg5
+  - Pf4
+  - Pd3
+  - Pc3
+authors:
+- Винокуров, Вадим Константинович
+solution: "a) \n\n1.e5*f4 c3*b4   2.f4-f3 g5-g6 #\n\nb) bPe5--e4  \n\n1.c4*d3 g5-g6\
+  \   2.d3-d2 c3*b4 #"
+source:
+  date:
+    month: 2
+    year: 2009
+  issue: '7'
+  name: e4 e5
+  problemid: '90'
+stipulation: h#2
+twins:
+  b: move e5 e4
+---
+algebraic:
+  black:
+  - Kd5
+  - Rg4
+  white:
+  - Kf2
+  - Re4
+  - Bf5
+  - Pe5
+  - Pb4
+authors:
+- Горбатенко, Юрий Григорьевич
+solution: "a) \n  1.Rg4-h4 Re4-c4   2.Rh4-d4 Rc4-c5 #\nb) bBg4  \n  1.Bg4-h3 Bf5-c8\
+  \   2.Bh3-e6 Bc8-b7 #"
+source:
+  date:
+    day: 4
+    month: 7
+    year: 2014
+  name: SuperProblem
+  problemid: E035
+stipulation: h#2
+twins:
+  b: Add black Bg4
+---
+algebraic:
+  black:
+  - Kf2
+  - Rf1
+  - Ph3
+  - Pe3
+  white:
+  - Kf4
+  - Rd8
+  - Bd5
+authors:
+- Németh, Gyula
+award:
+  distinction: 5th HM
+  judges:
+  - Földeák, Árpád
+  tourney:
+    date:
+      year: 1974
+    name: Magyar Sakkszövetség
+intended-solutions: 3.1.1.1
+solution: '1.Kf2-e1 + Bd5-f3   2.Rf1-f2 Rd8-d1 #
+
+  1.Kf2-g1 + Kf4*e3   2.h3-h2 Rd8-g8 #
+
+  1.Kf2-e2 + Kf4-g3   2.Rf1-e1 Bd5-c4 #'
+source:
+  date:
+    year: 1975
+  issue: '11'
+  name: Magyar Sakkélet
+  pagenumber: 265
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka4
+  - Rb8
+  - Ph4
+  white:
+  - Kh1
+  - Rh3
+  - Be1
+  - Pa5
+  - Pa3
+authors:
+- Gruber, Lutz-Dieter
+intended-solutions: '2'
+solution: '1.Rb8-b3 Rh3-c3   2.Ka4*a5 Rc3-c5 +   3.Ka5-a4 Rc5-a5 #
+
+
+  1.Rb8-b5 Be1-g3   2.Ka4*a3 Bg3-d6 +   3.Ka3-a4 Rh3-a3 #'
+source:
+  date:
+    year: 1990
+  issue: '6'
+  name: Schach (magazine)
+  problemid: '12298'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke4
+  - Rb7
+  - Pe5
+  white:
+  - Kc5
+  - Rb8
+  - Ba6
+  - Pf5
+  - Pe2
+authors:
+- Agostini, Valerio
+solution: "a) \n  1.Rb7-b3 Ba6-c8   2.Rb3-e3 Rb8-b4 #\n\nb) wPe2--e3  \n  1.Rb7-f7\
+  \ Rb8-b3   2.Rf7*f5 Ba6-b7 #"
+source:
+  date:
+    month: 1
+    year: 2015
+  name: Grand Prix 1 A.P.I.
+stipulation: h#2
+twins:
+  b: Move e2 e3
+---
+algebraic:
+  black:
+  - Kf1
+  - Rh1
+  - Pf2
+  white:
+  - Kd2
+  - Rg2
+  - Bh3
+authors:
+- Kahl, Peter
+solution: '1.Rh1-g1 Rg2-h2 +   2.Rg1-g2 Rh2-h1 #'
+source:
+  date:
+    year: 1954
+  issue: '199'
+  name: feenschach
+  problemid: '2454'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka7
+  - Rd6
+  white:
+  - Kb1
+  - Rd1
+  - Bf8
+authors:
+- Gassiot, Charles
+solution: '1.Rd6-d7 Bf8-c5 +   2.Ka7-b8 Bc5-b6   3.Rd7-b7 Rd1-d8 #'
+source:
+  date:
+    year: 1954
+  name: L'Echiquier de Paris
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kb2
+  - Rg1
+  - Pe6
+  - Pb6
+  - Pb3
+  - Pa4
+  white:
+  - Kc7
+  - Rh4
+  - Bh8
+  - Pf6
+  - Pe5
+  - Pe2
+  - Pd4
+  - Pc3
+  - Pb5
+  - Pa3
+authors:
+- Wastl, Rudolf
+solution: '1.Kb2*c3 e2-e4   2.Kc3*d4 Rh4-g4   3.Kd4*e5 f6-f7 #'
+source:
+  date:
+    year: 1954
+  issue: '182'
+  name: feenschach
+  problemid: '2221'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kf6
+  - Rf7
+  white:
+  - Kf1
+  - Rg7
+  - Bh8
+authors:
+- Schlitt, Werner
+award:
+  distinction: 2nd Comm.
+  tourney:
+    name: Die Schwalbe
+options:
+- SetPlay
+solution: '1...Rg7-h7 +   2.Kf6-e7 + Bh8-f6 +   3.Ke7-f8 Rh7-h8 #
+
+
+  1.Kf6-e5 + Kf1-e2   2.Rf7-f5 Rg7-d7 +   3.Ke5-e4 Rd7-d4 #'
+source:
+  date:
+    year: 1953
+  name: Die Schwalbe
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ka2
+  - Rc2
+  white:
+  - Ke8
+  - Rb8
+  - Bd4
+authors:
+- Maßmann, Wilhelm Karl Heinrich
+options:
+- SetPlay
+solution: "a) \n\n1...Rb8-a8 +   2.Ka2-b1 Ra8-a1 #\n\n1.Rc2-c3 Rb8-b1   2.Rc3-b3 Rb1-a1\
+  \ #\n\n\nb) bKa2--a5  \n\n\n1.Rc2-b2 Bd4-c5   2.Rb2-b5 Rb8-a8 #"
+source:
+  date:
+    year: 1952
+  issue: '93'
+  name: feenschach
+  problemid: '1087'
+stipulation: h#2
+twins:
+  b: Move a2 a5
+---
+algebraic:
+  black:
+  - Kb1
+  - Rg6
+  white:
+  - Ke1
+  - Rh1
+  - Bd1
+authors:
+- Watson, Frederick W.
+intended-solutions: 2.1.1.1
+solution: '1.Rg6-g2 Bd1-b3   2.Rg2-b2 0-0 #
+
+  1.Rg6-b6 0-0   2.Rb6-b2 Bd1-b3 #'
+source:
+  date:
+    year: 1952
+  name: American Chess Bulletin
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Rc5
+  white:
+  - Ke3
+  - Ra1
+  - Ba7
+  - Pd5
+authors:
+- Carrà, Arturo
+solution: '1.Rc5*d5 Ba7-c5   2.Rd5-d6 Ra1-a5   3.Rd6-e6 Bc5-e7 #'
+source:
+  date:
+    month: 6
+    year: 1952
+  issue: '558'
+  name: L'Italia Scacchistica
+  problemid: '1040'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kb8
+  - Rb6
+  white:
+  - Ke8
+  - Rd6
+  - Bd5
+authors:
+- Jacobs, Max
+intended-solutions: 2.1.1.1
+options:
+- SetPlay
+solution: '1...Rd6-d8 +   2.Kb8-a7 Rd8-a8 #
+
+
+  1.Rb6-b7 Rd6-a6   2.Rb7-c7 Ra6-a8 #
+
+  1.Kb8-c8 Bd5-a8   2.Rb6-b8 Rd6-c6 #'
+source:
+  date:
+    year: 1955
+  issue: '225'
+  name: feenschach
+  problemid: '2753'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kg4
+  - Rh2
+  - Pg7
+  - Pg3
+  - Pb2
+  white:
+  - Ke1
+  - Rh1
+  - Bc1
+  - Ph5
+  - Pg2
+  - Pf6
+  - Pf4
+  - Pc3
+authors:
+- Mlynka, Karol
+award:
+  distinction: 4th Special Comm.
+  tourney:
+    name: Emil Klemanič 50 JT
+solution: "a) wPg2--f7  \n  1.Rh2-f2 f7-f8=Q   2.Rf2-f3 Qf8-c8 #\n\nb) bKg4--h6  \n\
+  \  1.Rh2*g2 f4-f5 +   2.g7-g5 h5*g6 ep. #\n\n+c) wBc1--h4  \n  1.b2-b1=B Rh1*h2\
+  \   2.Bb1-h7 Bh4-g5 #\n\nd) bKg4--a1  \n  1.Rh2*h5 Rh1*h5   2.b2-b1=R Rh5-a5 #\n\
+  \n+e) bPg7--a2  \n  1.b2-b1=S 0-0   2.Sb1-a3 Bc1*a3 #"
+source:
+  date:
+    year: 2017
+  name: Emil Klemanič 50 JT
+stipulation: h#2
+twins:
+  a: Move g2 f7
+  b: Move g4 h6
+  c: Cont Move c1 h4
+  d: Move g4 a1
+  e: Cont Move g7 a2
+---
+algebraic:
+  black:
+  - Kd5
+  - Ra5
+  white:
+  - Kg5
+  - Re1
+  - Bc5
+authors:
+- Lasković, Đorđe
+solution: '1.Ra5-b5 Bc5-e3   2.Kd5-e5 Re1-e2   3.Rb5-d5 Be3-c5 #'
+source:
+  date:
+    year: 1955
+  name: Problem
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd5
+  - Ra5
+  - Pg7
+  - Pg6
+  white:
+  - Kg5
+  - Re2
+  - Ba7
+authors:
+- Lasković, Đorđe
+solution: '1.Ra5-b5 Ba7-e3   2.Kd5-e5 Re2-e1   3.Rb5-d5 Be3-c5 #'
+source:
+  date:
+    year: 1955
+  name: Problem
+  problemid: '777'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ka4
+  - Ra5
+  - Ph5
+  - Pb4
+  white:
+  - Kd8
+  - Rh3
+  - Be1
+authors:
+- Jessurun Lobo, Johan Rudolf
+options:
+- SetPlay
+solution: '1...Rh3*h5   2.b4-b3 Rh5*a5 #
+
+
+  1.Ra5-b5 Kd8-c7   2.Ka4-a5 Rh3-a3 #'
+source:
+  date:
+    year: 1956
+  issue: '257'
+  name: feenschach
+  problemid: '3105'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf4
+  - Rf5
+  - Pg3
+  - Pf3
+  white:
+  - Kg1
+  - Rc5
+  - Bh7
+  - Pg5
+  - Pe2
+  - Pc4
+authors:
+- Förster, Richard
+options:
+- SetPlay
+solution: '1...Rc5-e5   2.Rf5*g5 Re5-e4 #
+
+
+  1.Rf5-e5 e2*f3   2.Re5-e3 Rc5-f5 #'
+source:
+  date:
+    year: 1956
+  name: Die Schwalbe
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Re4
+  - Pd5
+  white:
+  - Kc8
+  - Rc1
+  - Bg5
+  - Pg4
+  - Pc6
+  - Pb2
+authors:
+- Bartolović, Hrvoje
+solution: "a) \n\n1.Re4-d4 Rc1-c3   2.Ke5-e4 Rc3-e3 #\n\nb) wSg5  \n\n1.Ke5-d6 Kc8-d8\
+  \   2.Re4-e6 Sg5-f7 #"
+source:
+  date:
+    year: 1956
+  name: Problem
+stipulation: h#2
+twins:
+  b: add white Sg5
+---
+algebraic:
+  black:
+  - Kb6
+  - Ra3
+  - Pc3
+  - Pb5
+  - Pa4
+  white:
+  - Kb1
+  - Ra7
+  - Bd5
+  - Pb4
+authors:
+- Milenković, Stanko
+award:
+  distinction: 4th Place
+  tourney:
+    name: Serbia - Slovenia
+options:
+- SetPlay
+solution: '1...Ra7*a4   2.Ra3-a2 Ra4-a7   3.Ra2-a6 Ra7-b7 #
+
+
+  1.Ra3-a2 Ra7*a4   2.Ra2-a3 Ra4-a7   3.Ra3-a6 Ra7-b7 #'
+source:
+  date:
+    year: 1956
+  name: Serbia - Slovenia
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke3
+  - Rd4
+  white:
+  - Ke5
+  - Rd5
+  - Bd3
+authors:
+- Szabó, László
+solution: '1.Rd4-f4 Bd3-f1   2.Rf4-f2 Rd5-d3 #'
+source:
+  date:
+    month: 8
+    year: 1984
+  issue: '70'
+  name: feenschach
+  problemid: '422'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc3
+  - Rb2
+  - Pa2
+  white:
+  - Kh8
+  - Ra1
+  - Bb6
+  - Pf2
+  - Pa4
+authors:
+- Стоянов, Кирил Н.
+intended-solutions: 3.1...
+solution: '1.Rb2-b5 a4-a5   2.Kc3-b4 Bb6-c5 +   3.Kb4*a5 Ra1*a2 #
+
+  1.Kc3-d2 Ra1*a2   2.Kd2-e1 Bb6-e3   3.Rb2-e2 Ra2-a1 #
+
+  1.Kc3-c2 Ra1*a2   2.Kc2-b1 Bb6-d4   3.Rb2-c2 Ra2-a1 #'
+source:
+  date:
+    year: 2008
+  issue: '2481'
+  name: idee & form
+  problemid: '100'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kb6
+  - Ra6
+  - Pc7
+  - Pc5
+  - Pa5
+  white:
+  - Kh8
+  - Rh2
+  - Bh1
+authors:
+- Förster, Richard
+options:
+- SetPlay
+solution: '1...Bh1-b7   2.Ra6-a7 Rh2-b2 #
+
+
+  1.c5-c4 Rh2-h7   2.c7-c5 Rh7-b7 #'
+source:
+  date:
+    year: 1957
+  name: Schach-Echo
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke3
+  - Rg8
+  white:
+  - Ka5
+  - Rc1
+  - Ba6
+  - Pg5
+  - Pd7
+authors:
+- Förster, Richard
+intended-solutions: 3.1.1.1
+solution: '1.Ke3-d2 d7-d8=B   2.Rg8*g5 + Bd8*g5 #
+
+  1.Rg8-c8 d7*c8=Q   2.Ke3-d2 Qc8-c3 #
+
+  1.Rg8-e8 d7*e8=Q +   2.Ke3-d2 Qe8-e1 #'
+source:
+  date:
+    year: 1957
+  issue: '275'
+  name: feenschach
+  problemid: '3316'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd5
+  - Ra3
+  white:
+  - Ke1
+  - Ra1
+  - Bc5
+authors:
+- Білокінь, Юрій Володимирович
+intended-solutions: 2.1...
+keywords:
+- Ideal mates
+- Castling
+- Chumakov theme
+solution: '1.Ra3-a5 Bc5-d6   2.Kd5-d4 Ke1-d2   3.Ra5-d5 Ra1-a4 #
+
+  1.Kd5-c4 0-0-0   2.Kc4-b3 Rd1-d3 +   3.Kb3-a2 Rd3*a3 #'
+source:
+  date:
+    year: 2007
+  issue: '15599'
+  name: Ideal-Mate Review
+  problemid: '103'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc3
+  - Rb4
+  - Pe4
+  - Pb5
+  - Pa4
+  - Pa3
+  white:
+  - Ka1
+  - Rc1
+  - Bc2
+  - Pe3
+  - Pb3
+authors:
+- Hernitz, Albert
+options:
+- SetPlay
+solution: '1...Bc2-b1 +   2.Kc3*b3 Bb1-a2 #
+
+
+  1.a4*b3 Ka1-b1   2.Kc3-c4 Bc2*e4 #'
+source:
+  date:
+    year: 1957
+  issue: '294'
+  name: feenschach
+  problemid: '3573'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Pd4
+  white:
+  - Ke1
+  - Rh1
+  - Be3
+authors:
+- Glaß, Günter
+keywords:
+- Castling
+options:
+- duplex
+solution: '1.0-0 Be3*d4   2.Rf8-f7 Rh1-h8 #
+
+  1.Rh1-h2 d4*e3   2.Rh2-e2 Rh8-h1 #'
+source:
+  date:
+    year: 1974
+  name: Kieler Nachrichten
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke4
+  - Rf5
+  - Pg5
+  - Pe3
+  white:
+  - Kd6
+  - Rh6
+  - Bg6
+  - Ph5
+  - Pg3
+  - Pc4
+  - Pb5
+authors:
+- Quindt, Paul
+options:
+- SetPlay
+solution: '1...Bg6-h7   2.g5-g4 Rh6-g6   3.Rf5-f3 Rg6*g4 #
+
+
+  1.Ke4-f3 Rh6-h8   2.Kf3-g4 Bg6-h7   3.Kg4*h5 Bh7*f5 #'
+source:
+  date:
+    year: 1957
+  issue: '294'
+  name: feenschach
+  problemid: '3565'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kb5
+  - Ra4
+  - Pc6
+  white:
+  - Kd3
+  - Ra1
+  - Bd4
+authors:
+- Антипин, Иван Иванович
+award:
+  distinction: Special Prize
+  tourney:
+    name: А. и В. Семененко - 50
+solution: "a) \n  1.Ra4-a6 Bd4-c3   2.Ra6-b6 Ra1-a5 #\nb) bBa4  \n  1.Ba4-b3 Ra1-a5\
+  \ +   2.Kb5-b4 Bd4-c3 #\nc) bPc6--a3  \n  1.Kb5-a5 Bd4-b6 +   2.Ka5-b4 Ra1-b1 #\n\
+  d) bPc6--a6  \n  1.Kb5-b4 Ra1-b1 +   2.Kb4-a5 Bd4-b6 #"
+source:
+  date:
+    month: 4
+    year: 2009
+  name: Проблеміст України
+stipulation: h#2
+twins:
+  b: Add black Ba4
+  c: Move c6 a3
+  d: Move c6 a6
+---
+algebraic:
+  black:
+  - Kg5
+  - Rh5
+  - Pf2
+  white:
+  - Kd3
+  - Rc2
+  - Be1
+  - Pf7
+authors:
+- Sontag, Gustav Joachim
+options:
+- SetPlay
+solution: '1...f7-f8=Q   2.f2-f1=R Rc2-g2 #
+
+
+  1.f2-f1=R f7-f8=Q   2.Rf1-h1 Rc2-g2 #'
+source:
+  date:
+    year: 1951
+  issue: '67'
+  name: feenschach
+  problemid: '674'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph2
+  - Pg7
+  white:
+  - Ke4
+  - Rh1
+  - Bd8
+  - Pg6
+  - Pf3
+authors:
+- Hagemann, Wilhelm
+options:
+- SetPlay
+solution: '1...Rh1*h2   2.Ke8-f8 Rh2*h8 #
+
+
+  1.0-0 Rh1-d1   2.Rf8*d8 Rd1*d8 #'
+source:
+  date:
+    month: 5
+    year: 1950
+  name: Arbejder-Skak
+  problemid: '2595'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke7
+  - Rh8
+  - Ph7
+  - Pf7
+  white:
+  - Kg1
+  - Rg8
+  - Bh2
+authors:
+- Stapff, Hermann
+award:
+  distinction: 2nd Prize
+  tourney:
+    name: Feenschach
+options:
+- SetPlay
+solution: '1...Rg8-g2   2.Ke7-f8 Bh2-g3   3.Kf8-g8 Bg3-d6 #
+
+
+  1.Ke7-f6 Rg8-a8   2.Kf6-g7 Bh2-b8   3.Kg7-g8 Bb8-e5 #'
+source:
+  date:
+    year: 1949
+  issue: '3'
+  name: feenschach
+  problemid: '17'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke5
+  - Rb5
+  white:
+  - Kg3
+  - Rd4
+  - Bb4
+  - Pd5
+authors:
+- Барсуков, Валерий Николаевич
+intended-solutions: '2'
+solution: '1.Rb5-b6 Kg3-h4   2.Rb6-g6 Bb4-d6 +   3.Ke5-f5 Rd4-f4 #
+
+  1.Ke5-f5 Bb4-e7   2.Rb5-b4 Rd4-g4   3.Rb4-e4 Rg4-g5 #'
+source:
+  date:
+    year: 2008
+  issue: '1745'
+  name: Variantim
+  problemid: '47'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ka2
+  - Rb8
+  white:
+  - Kg4
+  - Rh1
+  - Bd7
+  - Pg2
+  - Pb3
+authors:
+- Martin, Ernst Otto
+intended-solutions: 2.1.1...
+solution: '1.Rb8*b3 Bd7-a4   2.Rb3-b2 Ba4-d1   3.Ka2-b1 Bd1-b3 #
+
+  1.Ka2*b3 Bd7-e6 +   2.Kb3-a4 Be6-c4   3.Rb8-b4 Rh1-a1 #'
+source:
+  date:
+    year: 1958
+  issue: '23'
+  name: Schach
+  problemid: '3064'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke3
+  - Rd8
+  white:
+  - Kg3
+  - Rd7
+  - Ba6
+authors:
+- Петков, Петко Андонов
+options:
+- SetPlay
+solution: '1...Rd7-d2   2.Rd8-d4 Rd2-e2 #
+
+
+  1.Rd8-e8 Ba6-f1   2.Re8-e4 Rd7-d3 #'
+source:
+  date:
+    month: 11
+    year: 1958
+  issue: '16'
+  name: Probleemblad
+  problemid: '3362'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Pg7
+  - Pf7
+  white:
+  - Kh7
+  - Ra7
+  - Bh2
+authors:
+- Steudel, Friedrich Theodor
+solution: '1.Ke8-f8 Bh2-e5   2.Ra8-e8 Be5*g7 #'
+source:
+  date:
+    year: 1968
+  name: Deutsche Schachzeitung
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kb4
+  - Ra3
+  - Pc3
+  white:
+  - Kh3
+  - Ra6
+  - Be3
+authors:
+- Musante, Horacio L.
+options:
+- SetPlay
+solution: '1...Be3-b6   2.Ra3-b3 Bb6-a5 +   3.Kb4-a3 Ba5*c3 #
+
+
+  1.Ra3-a5 Ra6-a8   2.Ra5-b5 Be3-a7   3.Kb4-a5 Ba7-c5 #'
+source:
+  date:
+    year: 1959
+  issue: III
+  name: feenschach
+  problemid: '47'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke5
+  - Ra8
+  - Pd6
+  white:
+  - Kg7
+  - Rb8
+  - Ba7
+  - Pd5
+  - Pa4
+authors:
+- Moder, Janez
+options:
+- SetPlay
+solution: '1...Ba7-e3   2.Ra8*a4 Rb8-h8   3.Ra4-e4 Rh8-h5 #
+
+  1...Ba7-e3   2.Ra8-a5 Kg7-g6   3.Ra5*d5 Rb8-e8 #
+
+
+  1.Ke5*d5 Rb8-b4   2.Ra8-c8 Kg7-f6   3.Rc8-c6 Rb4-d4 #'
+source:
+  date:
+    year: 1959
+  name: Problem
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kg8
+  - Rh8
+  - Ph6
+  - Ph5
+  white:
+  - Kh4
+  - Rf1
+  - Bf8
+authors:
+- Кулігін, Микола Володимирович
+award:
+  distinction: 1st HM
+  tourney:
+    name: Stefan Parzuch-70 (miniatures)
+intended-solutions: '2'
+options:
+- SetPlay
+solution: '1...Rf1-g1 +   2.Kg8-h7 Rg1-g7 #
+
+  1...Bf8*h6   2.Rh8-h7 Rf1-f8 #
+
+  1.Kg8-h7 Rf1-f6   2.Rh8-g8 Rf6*h6 #
+
+  1.Rh8-h7 Bf8*h6   2.Kg8-h8 Rf1-f8 #'
+source:
+  date:
+    year: 2007
+  name: Rozmaitości szachowe
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka1
+  - Rf6
+  white:
+  - Ke1
+  - Rh1
+  - Bd6
+authors:
+- Клипачёв, Владимир Пантелеевич
+award:
+  distinction: 2nd HM
+  tourney:
+    name: Stefan Parzuch-70 (miniatures)
+solution: "a) \n  1.Rf6-f2 Bd6-a3   2.Rf2-a2 0-0 #\nb) bKa1--e3  \n  1.Rf6-f4 Bd6-e5\
+  \   2.Rf4-e4 Rh1-h3 #\nc) bKa1--e8  \n  1.Rf6-f7 Rh1-f1   2.Rf7-d7 Rf1-f8 #\nd)\
+  \ bKa1--f7  \n  1.Kf7-g8 Bd6-e5   2.Rf6-f7 Rh1-h8 #\ne) bKa1--g2  \n  1.Rf6-f1 +\
+  \ Ke1-e2   2.Rf1-g1 Rh1-h2 #"
+source:
+  date:
+    year: 2007
+  name: Rozmaitości szachowe
+stipulation: h#2
+twins:
+  b: Move a1 e3
+  c: Move a1 e8
+  d: Move a1 f7
+  e: Move a1 g2
+---
+algebraic:
+  black:
+  - Ka8
+  - Rg7
+  white:
+  - Ka1
+  - Rf7
+  - Bc8
+authors:
+- Vuković, Miodrag
+options:
+- SetPlay
+solution: '1...Rf7-f8   2.Rg7-a7 + Bc8-a6 #
+
+
+  1.Rg7-h7 Rf7-f8   2.Rh7-a7 + Bc8-a6 #'
+source:
+  date:
+    year: 1959
+  issue: '365'
+  name: feenschach
+  problemid: '4456'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Pe3
+  white:
+  - Ke1
+  - Rc2
+  - Bg1
+authors:
+- Mlynka, Karol
+award:
+  distinction: HM
+  tourney:
+    name: ЮК Алексей Ивунин-70
+solution: "a) \n  1.e3-e2 Rc2-b2   2.0-0-0 Bg1-h2   3.Rd8-d7 Rb2-b8 #\n\nb) bRa8--h8\
+  \  \n  1.0-0 Rc2-h2   2.e3-e2 Bg1-d4   3.Rf8-f7 Rh2-h8 #"
+source:
+  date:
+    year: 2017
+  name: ЮК Алексей Ивунин-70 (h#3, miniatures)
+stipulation: h#3
+twins:
+  b: Move a8 h8
+---
+algebraic:
+  black:
+  - Kh6
+  - Ra6
+  - Ph5
+  white:
+  - Kf3
+  - Ra5
+  - Bb1
+authors:
+- Залокоцький, Роман Федорович
+- Угнівенко, Олексій Мефодійович
+intended-solutions: '2'
+solution: '1.Ra6-a7 Ra5-g5   2.Ra7-h7 Rg5-g6 #
+
+  1.Ra6-g6 Ra5-a7   2.Rg6-g5 Ra7-h7 #'
+source:
+  date:
+    year: 2015
+  issue: '4322'
+  name: Чорно-бiлi стежини
+  problemid: '4'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka8
+  - Rc7
+  white:
+  - Ke8
+  - Rd7
+  - Bc8
+  - Pa7
+authors:
+- Тутлаянц, Арам Акопович
+- Сорокин, Евгений Павлович
+intended-solutions: '2'
+solution: '1.Rc7-b7 Rd7-d8   2.Rb7*a7 Bc8-a6 #
+
+  1.Rc7*c8 + Rd7-d8   2.Rc8-b8 a7*b8=Q #'
+source:
+  date:
+    month: 1
+    year: 1973
+  name: Buletin  Problemistic
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Pf7
+  white:
+  - Ke1
+  - Ra1
+  - Bb6
+authors:
+- Кукин, Геннадий Иванович
+solution: "a) \n  1.Ra8-a7 0-0-0   2.Ra7-e7 Rd1-d8 #\nb) wBb6--g3  \n  1.0-0-0 Ra1-b1\
+  \   2.Rd8-d7 Rb1-b8 #"
+source:
+  date:
+    month: 7
+    year: 1997
+  issue: '214'
+  name: Australian Chess Problem Magazine
+  problemid: '31'
+stipulation: h#2
+twins:
+  b: Move b6 g3
+---
+algebraic:
+  black:
+  - Kc3
+  - Rh2
+  - Pd3
+  - Pb3
+  white:
+  - Ke1
+  - Ra4
+  - Ba3
+  - Pe3
+  - Pc5
+authors:
+- Васючко, Николай Романович
+award:
+  distinction: HM
+  tourney:
+    name: Ideal-Mate Review
+keywords:
+- Ideal mates
+solution: "a) \n  1.Rh2-h5 Ra4-a5   2.Rh5*c5 Ra5*c5 #\nb) bBe3  \n  1.Be3*c5 Ba3*c5\
+  \   2.Rh2-c2 Bc5-d4 #"
+source:
+  date:
+    month: 9
+    year: 1995
+  issue: '7341'
+  name: Ideal-Mate Review
+  problemid: '59'
+stipulation: h#2
+twins:
+  b: Add black Be3
+---
+algebraic:
+  black:
+  - Kf4
+  - Rb5
+  - Pf5
+  white:
+  - Kh2
+  - Ra5
+  - Bh5
+  - Pg2
+  - Pe4
+  - Pd3
+authors:
+- Васючко, Николай Романович
+keywords:
+- Ideal mates
+solution: "a) \n  1.f5*e4 Ra5*b5   2.e4-e3 g2-g3 #\nb) bRb5--e5  \n  1.Re5*e4 g2-g4\
+  \   2.Re4-e3 Ra5*f5 #"
+source:
+  date:
+    month: 7
+    year: 1999
+  issue: '10118'
+  name: Ideal-Mate Review
+  problemid: '75'
+stipulation: h#2
+twins:
+  b: Move b5 e5
+---
+algebraic:
+  black:
+  - Kd4
+  - Rd7
+  - Pe3
+  - Pd5
+  white:
+  - Kb3
+  - Rg5
+  - Bc8
+authors:
+- Павлов, Михаил Александрович
+keywords:
+- Ideal mates
+solution: "a) \n  1.Rd7-e7 Bc8-b7   2.Re7-e4 Rg5*d5 #\nb) wSg5  \n  1.Rd7-c7 Bc8-f5\
+  \   2.Rc7-c5 Sg5-f3 #"
+source:
+  date:
+    month: 7
+    year: 1999
+  issue: '10228'
+  name: Ideal-Mate Review
+  problemid: '75'
+stipulation: h#2
+twins:
+  b: Add white Sg5
+---
+algebraic:
+  black:
+  - Kc6
+  - Rf1
+  white:
+  - Ka4
+  - Rd8
+  - Bf4
+  - Pa5
+authors:
+- Zimmer, Eligiusz
+award:
+  distinction: Comm.
+  tourney:
+    name: Ideal-Mate Review
+keywords:
+- Ideal mates
+solution: "a) \n  1.Rf1-d1 Rd8-d7   2.Rd1-d5 Rd7-c7 #\nb) wPa5--a6  \n  1.Rf1-c1 Bf4-b8\
+  \   2.Rc1-c5 Rd8-d6 #\nc) bKc6--c5  \n  1.Rf1-d1 Bf4-e5   2.Rd1-d5 Rd8-c8 #\nd)\
+  \ wPa5--e4  \n  1.Rf1-b1 Rd8-d7   2.Rb1-b6 Rd7-c7 #"
+source:
+  date:
+    month: 1
+    year: 2000
+  issue: '10653'
+  name: Ideal-Mate Review
+  problemid: '77'
+stipulation: h#2
+twins:
+  b: Move a5 a6
+  c: Move c6 c5
+  d: Move a5 e4
+---
+algebraic:
+  black:
+  - Ke4
+  - Rh5
+  white:
+  - Kg2
+  - Rd5
+  - Bc7
+  - Pc3
+authors:
+- Илиевски, Тоде
+award:
+  distinction: HM
+  tourney:
+    name: Ideal-Mate Review
+keywords:
+- Ideal mates
+options:
+- SetPlay
+solution: '1...Bc7-f4   2.Rh5-f5 Rd5-d4 #
+
+  1.Rh5-h3 Bc7-h2   2.Rh3-d3 Rd5-e5 #'
+source:
+  date:
+    month: 4
+    year: 2000
+  issue: '10657'
+  name: Ideal-Mate Review
+  problemid: '78'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd3
+  - Rc4
+  - Pe3
+  white:
+  - Ke5
+  - Rb1
+  - Bb3
+  - Pd2
+authors:
+- Илиевски, Тоде
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.e3*d2 Bb3-d1   2.Kd3-c3 Rb1-b3 #
+
+  1.Rc4-c2 Rb1-c1   2.Rc2*d2 Bb3-c4 #'
+source:
+  date:
+    month: 4
+    year: 2000
+  issue: '10674'
+  name: Ideal-Mate Review
+  problemid: '78'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Rc5
+  - Pd4
+  white:
+  - Kd2
+  - Ra6
+  - Bd1
+authors:
+- Колпаков, Виктор Сергеевич
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Ke5-e4 Ra6-f6   2.Rc5-e5 Bd1-f3 #
+
+  1.Ke5-d5 Ra6-b6   2.Kd5-c4 Bd1-b3 #'
+source:
+  date:
+    month: 7
+    year: 2000
+  issue: '10917'
+  name: Ideal-Mate Review
+  problemid: '79'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd3
+  - Rb1
+  - Ph7
+  - Pe3
+  - Pd6
+  white:
+  - Ke6
+  - Rc8
+  - Bg7
+  - Pd4
+  - Pc4
+authors:
+- Kekely, Ľuboš
+options:
+- TransmutedKings
+solution: "a) \n\n1.Rb1-b6 Ke6-f6   2.Kd3*d4 Kf6-f7 #\n\nb) wKe6--d5\n\n1.Rb1-b4 Kd5-c6\
+  \   2.Kd3*c4 Kc6-d7 #"
+source:
+  date:
+    year: 2018
+  issue: '192'
+  name: Gaudium
+  problemid: '1657'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd6
+  - Rf7
+  - Pe7
+  white:
+  - Kb5
+  - Rf8
+  - Bd8
+authors:
+- Колпаков, Виктор Сергеевич
+- Кошеленко, Валерій Федотович
+keywords:
+- Ideal mates
+solution: "a) \n  1.e7-e5 Kb5-c4   2.Rf7-d7 Rf8-f6 #\nb) bSf7  \n  1.Sf7-e5 Rf8-f4\
+  \   2.e7-e6 Rf4-d4 #"
+source:
+  date:
+    month: 7
+    year: 2001
+  issue: '11931'
+  name: Ideal-Mate Review
+  problemid: '83'
+stipulation: h#2
+twins:
+  b: Add black Sf7
+---
+algebraic:
+  black:
+  - Ke5
+  - Rf8
+  white:
+  - Kc3
+  - Rd8
+  - Bc8
+  - Pf3
+authors:
+- Колпаков, Виктор Сергеевич
+keywords:
+- Ideal mates
+solution: "a) \n  1.Rf8-f6 Rd8-f8   2.Rf6-d6 Rf8-f5 #\nb) bSf8  \n  1.Sf8-h7 Rd8-d4\
+  \   2.Sh7-f6 f3-f4 #"
+source:
+  date:
+    month: 7
+    year: 2001
+  issue: '11932'
+  name: Ideal-Mate Review
+  problemid: '83'
+stipulation: h#2
+twins:
+  b: Add black Sf8
+---
+algebraic:
+  black:
+  - Ke4
+  - Rf3
+  - Pf4
+  - Pe5
+  - Pd5
+  - Pd3
+  white:
+  - Kg6
+  - Rd8
+  - Be3
+authors:
+- Grigorjan, Albert Abramowitsch
+award:
+  distinction: HM
+  tourney:
+    name: Ideal-Mate Review
+keywords:
+- Ideal mates
+options:
+- SetPlay
+solution: '1...Be3-d4   2.e5*d4 Rd8-e8 #
+
+  1.Rf3*e3 Rd8-h8   2.f4-f3 Rh8-h4 #'
+source:
+  date:
+    month: 10
+    year: 2001
+  issue: '12084'
+  name: Ideal-Mate Review
+  problemid: '84'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd4
+  - Rg8
+  - Pc4
+  white:
+  - Kc2
+  - Rd7
+  - Bg5
+  - Pd5
+authors:
+- Zujevas, Nikolajus
+keywords:
+- Ideal mates
+solution: "a) \n  1.Rg8-d8 Rd7-e7   2.Rd8*d5 Bg5-e3 #\nb) bPc4<--wPd5  \n  1.Rg8-e8\
+  \ Kc2-b3   2.Re8-e4 Rd7*d5 #"
+source:
+  date:
+    month: 10
+    year: 2001
+  issue: '12237'
+  name: Ideal-Mate Review
+  problemid: '84'
+stipulation: h#2
+twins:
+  b: Exchange c4 d5
+---
+algebraic:
+  black:
+  - Kc3
+  - Rc4
+  - Pb2
+  white:
+  - Kd1
+  - Rb8
+  - Bf8
+authors:
+- Илиевски, Тоде
+keywords:
+- Ideal mates
+options:
+- SetPlay
+solution: '1...Rb8-a8   2.Kc3-b3 Ra8-a3 #
+
+  1.b2-b1=B Bf8-a3   2.Bb1-d3 Ba3-b2 #'
+source:
+  date:
+    month: 1
+    year: 2002
+  issue: '12389'
+  name: Ideal-Mate Review
+  problemid: '85'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke4
+  - Rb4
+  - Pf4
+  - Pd4
+  white:
+  - Kc6
+  - Rg3
+  - Bg4
+authors:
+- Lincoln, Robert A.
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Rb4-b5 Bg4-e2   2.Rb5-e5 Be2-d3 #
+
+  1.d4-d3 Rg3-g1   2.Rb4-d4 Rg1-e1 #'
+source:
+  date:
+    year: 2002
+  issue: '12439'
+  name: Ideal-Mate Review
+  problemid: 85-01
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc6
+  - Rf6
+  - Pd7
+  white:
+  - Ka7
+  - Re6
+  - Bd6
+  - Pg7
+authors:
+- Илиевски, Тоде
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Rf6-f5 g7-g8=S   2.Rf5-b5 Sg8-e7 #
+
+  1.Rf6*e6 g7-g8=Q   2.Re6*d6 Qg8-c4 #'
+source:
+  date:
+    year: 2002
+  issue: '12455'
+  name: Ideal-Mate Review
+  problemid: 85-01
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke6
+  - Re5
+  - Pf6
+  - Pd7
+  white:
+  - Kg8
+  - Rh1
+  - Bh2
+authors:
+- Lincoln, Robert A.
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Re5-e1 Bh2-c7   2.Ke6-e7 Rh1*e1 #
+
+  1.Re5-d5 Bh2-d6   2.f6-f5 Rh1-h6 #'
+source:
+  date:
+    month: 4
+    year: 2002
+  issue: '12790'
+  name: Ideal-Mate Review
+  problemid: '86'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd4
+  - Rc1
+  - Pd3
+  white:
+  - Kf2
+  - Rh8
+  - Ba3
+  - Pc4
+authors:
+- Илиевски, Тоде
+keywords:
+- Ideal mates
+options:
+- SetPlay
+solution: '1...Ba3-d6   2.Rc1-c3 Rh8-h4 #
+
+  1.Rc1-e1 Rh8-c8   2.Re1-e4 Ba3-b2 #'
+source:
+  date:
+    month: 4
+    year: 2002
+  issue: '12829'
+  name: Ideal-Mate Review
+  problemid: '86'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc3
+  - Rb1
+  white:
+  - Ka5
+  - Rd2
+  - Bd1
+  - Pe2
+authors:
+- Илиевски, Тоде
+keywords:
+- Ideal mates
+options:
+- SetPlay
+solution: '1...Bd1-b3   2.Rb1-b2 Rd2-d3 #
+
+  1.Rb1-b4 Bd1-a4   2.Rb4-d4 Rd2-c2 #'
+source:
+  date:
+    month: 4
+    year: 2002
+  issue: '12858'
+  name: Ideal-Mate Review
+  problemid: '86'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke3
+  - Rh8
+  white:
+  - Kc6
+  - Rh7
+  - Bb2
+  - Pg3
+  - Pd3
+authors:
+- Барсуков, Валерий Николаевич
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Rh8-d8 Rh7-f7   2.Rd8*d3 Bb2-d4 +   3.Ke3-e4 Rf7-f4 #
+
+  1.Rh8-g8 Bb2-h8   2.Rg8*g3 Rh7-g7   3.Ke3-d4 Rg7*g3 #'
+source:
+  date:
+    month: 7
+    year: 2002
+  issue: '13093'
+  name: Ideal-Mate Review
+  problemid: '87'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc6
+  - Rb6
+  white:
+  - Ke4
+  - Rb1
+  - Bh2
+  - Pa4
+authors:
+- Ласій, Василь Дмитрович
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Rb6-a6 Rb1-b7   2.Ra6-b6 Rb7-c7 #
+
+  1.Kc6-c5 Ke4-d3   2.Rb6-c6 Rb1-b5 #'
+source:
+  date:
+    month: 1
+    year: 2003
+  issue: '13402'
+  name: Ideal-Mate Review
+  problemid: '89'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd3
+  - Rg4
+  - Pc2
+  white:
+  - Ke1
+  - Rc4
+  - Be6
+authors:
+- Milewski, Stefan
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.c2-c1=B Be6*g4   2.Bc1-e3 Bg4-e2 #
+
+  1.Rg4-d4 Rc4-b4   2.Kd3-c3 Rb4-b3 #'
+source:
+  date:
+    year: 2004
+  issue: '14014'
+  name: Ideal-Mate Review
+  problemid: '93'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf4
+  - Ra4
+  white:
+  - Ke1
+  - Rh1
+  - Bf6
+authors:
+- Клипачёв, Владимир Пантелеевич
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Ra4-a5 Ke1-f2   2.Ra5-f5 Rh1-h4 #
+
+  1.Kf4-e3 Bf6-e5   2.Ra4-e4 Rh1-h3 #'
+source:
+  date:
+    year: 2010
+  issue: '15955'
+  name: Ideal-Mate Review
+  problemid: '106'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc4
+  - Rc7
+  white:
+  - Kf3
+  - Rh1
+  - Ba4
+authors:
+- Дикусаров, Андрей Николаевич
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Kc4-d3 Ba4-b3   2.Rc7-c3 Rh1-d1 #
+
+  1.Rc7-b7 Kf3-e4   2.Rb7-b4 Rh1-c1 #'
+source:
+  date:
+    year: 2010
+  issue: '16050'
+  name: Ideal-Mate Review
+  problemid: '106'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka4
+  - Re5
+  - Pa5
+  white:
+  - Ka2
+  - Rf5
+  - Bd5
+authors:
+- Albert, Eugene
+options:
+- SetPlay
+solution: '1...Bd5-c6 +   2.Re5-b5 Rf5-f4 #
+
+  1.Re5-e4 Rf5-f4   2.Re4-b4 Bd5-c6 #'
+source:
+  date:
+    year: 1965
+  issue: '14'
+  name: U.S. Problem Bulletin
+  problemid: '265'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Rf6
+  - Pf4
+  - Pe6
+  - Pd7
+  - Pd6
+  - Pc7
+  - Pc4
+  white:
+  - Kh7
+  - Rg7
+  - Bf8
+  - Pf5
+  - Pd3
+authors:
+- Јаневски, Живко
+intended-solutions: '4'
+solution: '1.Ke5*f5 Bf8-e7   2.Rf6-f8 Rg7-g5 #
+
+
+  1.d6-d5 Rg7-e7   2.Ke5-d6 Re7*e6 #
+
+
+  1.e6*f5 d3*c4   2.Ke5-e6 Rg7-e7 #
+
+
+  1.Rf6*f5 d3-d4 +   2.Ke5-f6 Bf8-e7 #'
+source:
+  date:
+    year: 2016
+  issue: '3'
+  name: Šachmatija
+  problemid: '3398'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kb7
+  - Re1
+  - Pf4
+  - Pd4
+  - Pc7
+  - Pc6
+  - Pc5
+  - Pb5
+  white:
+  - Ke8
+  - Rf6
+  - Bf5
+  - Pe5
+  - Pe3
+  - Pd5
+authors:
+- Labai, Zoltán
+award:
+  distinction: 3rd Comm.
+  tourney:
+    name: ЮК И. Антипин - 65
+intended-solutions: 1.2.1.1
+solution: "a) \n\n1.c6*d5 Rf6-e6 {(A)}  2.Kb7-c8 Re6-b6 #\n1.c6*d5 Bf5-e6 {(B)}  2.Kb7-c6\
+  \ Be6-c8 #\n\nb) bKb7--c4\n\n1.Kc4*d5 e3-e4 +   2.Kd5*e5 Rf6-e6 # {(A)}\n1.Kc4*d5\
+  \ e3*f4   2.Re1-e4 Bf5-e6 # {(B)}"
+source:
+  date:
+    day: 28
+    month: 6
+    year: 2018
+  name: ЮК И. Антипин - 65
+stipulation: h#2
+twins:
+  b: Move  b7 c4
+---
+algebraic:
+  black:
+  - Kh3
+  - Rc2
+  - Ph2
+  white:
+  - Kh5
+  - Rb2
+  - Bd1
+authors:
+- Матэуш, Василий Григорьевич
+intended-solutions: '2'
+keywords:
+- Model mates
+solution: "a) \n  1.Rc2-g2 Rb2-f2   2.Kh3-g3 Rf2-f3 #\n  1.Kh3-g2 Rb2-b1   2.Kg2-h1\
+  \ Bd1-f3 #\nb) wBd1--e2  \n  1.Rc2-c3 Rb2-b3   2.Rc3-g3 Be2-f1 #\n  1.Rc2-d2 Be2-f1\
+  \ +   2.Rd2-g2 Rb2-b3 #"
+source:
+  date:
+    month: 9
+    year: 2018
+  issue: '152'
+  name: Семь шахматных нот
+  problemid: '7726'
+stipulation: h#2
+twins:
+  b: Move d1 e2
+---
+algebraic:
+  black:
+  - Kf3
+  - Re4
+  - Pf5
+  - Pd3
+  white:
+  - Kc6
+  - Rg2
+  - Bh1
+authors:
+- Riczu, Lajos
+intended-solutions: 2.1.1.1
+solution: '1.Re4-f4 Kc6-c5   2.Kf3-e4 Rg2-e2 #
+
+  1.Re4-e3 Kc6-d6   2.Kf3-e4 Rg2-g4 #'
+source:
+  date:
+    month: 11
+    year: 1972
+  name: Mat
+  problemid: '232'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd5
+  - Rg3
+  - Ph6
+  - Pg7
+  - Pg2
+  - Pf5
+  - Pf2
+  - Pe6
+  - Pd4
+  white:
+  - Kh2
+  - Rc8
+  - Bf1
+  - Ph5
+  - Ph4
+  - Pg6
+  - Pe5
+  - Pd3
+authors:
+- Lindner, László
+comments:
+- dedicated to N.Kovács
+solution: '1.g2*f1=R Kh2*g3   2.Rf1-c1 Kg3-f4   3.Rc1-c4 d3*c4 #'
+source:
+  date:
+    day: 1
+    month: 4
+    year: 1947
+  name: Magyar Sakkvilág
+  problemid: '477'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke7
+  - Rg8
+  white:
+  - Kc4
+  - Rf8
+  - Bg6
+authors:
+- Kricheli, Josif Michailowitsch
+intended-solutions: '2'
+solution: '1.Ke7-e6 Bg6-f7 +   2.Ke6-f5 Kc4-d5   3.Rg8-g5 Bf7-h5 #
+
+  1.Rg8-g7 Rf8-f7 +   2.Ke7-e8 Rf7-e7 +   3.Ke8-f8 Re7-e8 #'
+source:
+  date:
+    year: 1988
+  issue: '6190'
+  name: Die Schwalbe
+  problemid: '110'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kg7
+  - Rf6
+  - Pg6
+  - Pe7
+  - Pd7
+  - Pd5
+  - Pc5
+  white:
+  - Ke5
+  - Rh8
+  - Ba1
+  - Pf5
+authors:
+- Hildebrand, Alexander
+award:
+  distinction: 3rd-4th Comm.
+  tourney:
+    name: ТК С.-Петербургской комиссии по композиции
+intended-solutions: '2'
+keywords:
+- En passant
+solution: '1.Rf6-c6 Ke5*d5 +   2.e7-e5 f5*e6 ep. #
+
+
+  1.Rf6-e6 + f5*e6   2.d7-d6 + Ke5*d5 #'
+source:
+  date:
+    year: 1996
+  name: ТК С.-Петербургской комиссии по композиции
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc4
+  - Re7
+  - Pd3
+  - Pc3
+  white:
+  - Kb6
+  - Rh4
+  - Bg8
+  - Pf5
+  - Pf2
+  - Pd6
+  - Pd5
+  - Pd4
+authors:
+- Барсуков, Валерий Николаевич
+intended-solutions: '3'
+solution: '1.Re7-e4 f2-f3   2.Kc4*d4 Rh4*e4 #
+
+
+  1.Re7-e6 Kb6-c7   2.Kc4*d5 Bg8*e6 #
+
+
+  1.Re7-c7 Kb6-a5   2.Rc7-c6 d5*c6 #'
+source:
+  date:
+    year: 2017
+  issue: '2'
+  name: Чорно-білі стежини
+  problemid: '4769'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc5
+  - Ra4
+  - Pd6
+  - Pb5
+  white:
+  - Ke3
+  - Ra1
+  - Bc7
+authors:
+- Grigorjan, Albert Abramowitsch
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Ra4-d4 Bc7-a5   2.Rd4-d5 Ra1-c1 #
+
+  1.Ra4-c4 Ra1-a6   2.d6-d5 Bc7-d6 #'
+source:
+  date:
+    year: 1992
+  issue: '5023'
+  name: Ideal-Mate Review
+  problemid: '43'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke4
+  - Rh4
+  - Pf4
+  - Pd4
+  white:
+  - Kc2
+  - Rg8
+  - Be6
+authors:
+- Grigorjan, Albert Abramowitsch
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.f4-f3 Rg8-g1   2.Rh4-f4 Rg1-e1 #
+
+  1.Rh4-h3 Rg8-g5   2.Rh3-e3 Be6-d5 #'
+source:
+  date:
+    year: 1992
+  issue: '5024'
+  name: Ideal-Mate Review
+  problemid: '43'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc1
+  - Ra8
+  white:
+  - Kh1
+  - Rg3
+  - Be5
+authors:
+- Барсуков, Валерий Николаевич
+keywords:
+- Aristocrat
+- Model echo mates
+solution: 'a)
+
+  1.Ra8-a2 Be5-c3   2.Ra2-c2 Rg3-g1 #
+
+  b) bKc1--a7
+
+  1.Ra8-b8 Be5-c7   2.Rb8-b7 Rg3-a3 #
+
+  c) bKc1--d8
+
+  1.Ra8-a7 Be5-d6   2.Ra7-d7 Rg3-g8 #
+
+  d) bKc1--h6
+
+  1.Ra8-g8 Be5-f6   2.Rg8-g6 Rg3-h3 #'
+source:
+  date:
+    year: 2000
+  issue: '130'
+  name: feenschach
+  problemid: '7441'
+stipulation: h#2
+twins:
+  b: Move c1 a7
+  c: Move c1 d8
+  d: Move c1 h6
+---
+algebraic:
+  black:
+  - Kd6
+  - Rd3
+  - Pc5
+  - Pb2
+  white:
+  - Kd8
+  - Rd2
+  - Ba1
+  - Pd5
+  - Pd4
+authors:
+- Васючко, Николай Романович
+- Гальма, Михайло Теодозiйович
+intended-solutions: '2'
+keywords:
+- Ideal mates
+solution: '1.Rd3*d4 Rd2*b2   2.Rd4*d5 Rb2-b6 #
+
+  1.Rd3-e3 Ba1*b2   2.Re3-e5 d4*e5 #'
+source:
+  date:
+    year: 1998
+  issue: '9220'
+  name: Ideal-Mate Review
+  problemid: '71'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke4
+  - Rg8
+  - Pd6
+  white:
+  - Kh1
+  - Rf1
+  - Bb3
+  - Pd4
+authors:
+- Барсуков, Валерий Николаевич
+intended-solutions: '3'
+keywords:
+- Model mates
+solution: '1.Rg8-c8 Kh1-g2   2.Ke4-d3 Kg2-f3   3.Rc8-c3 Rf1-d1 #
+
+  1.Rg8-g4 d4-d5   2.Ke4-e5 Bb3-c2   3.Rg4-d4 Rf1-f5 #
+
+  1.Rg8-c8 Bb3-g8   2.Rc8-c6 Rf1-f7   3.Ke4-d5 Rf7-f4 #'
+source:
+  date:
+    year: 2008
+  issue: '166'
+  name: diagrammes
+  problemid: '6244'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke4
+  - Rf7
+  - Pd6
+  white:
+  - Kh8
+  - Rf1
+  - Ba2
+  - Pd4
+authors:
+- Барсуков, Валерий Николаевич
+award:
+  distinction: HM
+  tourney:
+    name: Чорно-білі стежини
+intended-solutions: '2'
+keywords:
+- Model mates
+solution: '1.Rf7-c7 Ba2-g8   2.Rc7-c6 Rf1-f7   3.Ke4-d5 Rf7-f4 #
+
+  1.Rf7-f4 d4-d5   2.Ke4-e5 Ba2-b1   3.Rf4-d4 Rf1-f5 #'
+source:
+  date:
+    year: 2012
+  issue: '4'
+  name: Чорно-білі стежини
+  problemid: '3370'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd5
+  - Re4
+  - Pe5
+  - Pc6
+  white:
+  - Kf7
+  - Rb3
+  - Ba8
+authors:
+- Шалетић, Слободан
+solution: "a) \n\n1.Re4-c4 Rb3-b7   2.c6-c5 Rb7-d7 #\n\nb) wBa8--g2\n\n1.c6-c5 Rb3-f3\
+  \   2.Re4-c4 Rf3-d3 #"
+source:
+  date:
+    month: 2
+    year: 2006
+  issue: '163'
+  name: Problemkiste
+  problemid: '6594'
+stipulation: h#2
+twins:
+  b: Move a8 g2
+---
+algebraic:
+  black:
+  - Kd4
+  - Rb7
+  - Pe6
+  white:
+  - Kf8
+  - Rc1
+  - Bg3
+  - Pe4
+authors:
+- Барсуков, Валерий Николаевич
+intended-solutions: '2'
+keywords:
+- Model mates
+solution: '1.Rb7-b4 e4-e5   2.Kd4-d5 Bg3-f2   3.Rb4-e4 Rc1-c5 #
+
+  1.Rb7-d7 Bg3-f2 +   2.Kd4-e5 Rc1-c5 +   3.Ke5-d6 e4-e5 #'
+source:
+  date:
+    year: 2013
+  issue: '92'
+  name: Семь шахматных нот
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Pf6
+  - Pe6
+  - Pd7
+  - Pb7
+  - Pb6
+  - Pb5
+  white:
+  - Kg4
+  - Rd4
+  - Bg3
+  - Pd2
+  - Pb4
+authors:
+- Шалетић, Слободан
+options:
+- SetPlay
+solution: '1...Rd4-d3   2.0-0-0 Rd3-c3 #
+
+
+  1.0-0-0 Rd4-f4   2.Kc8-c7 Rf4-c4 #'
+source:
+  date:
+    year: 2013
+  name: Problemkiste
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc5
+  - Rc6
+  - Pd5
+  white:
+  - Ke7
+  - Rh3
+  - Bf1
+authors:
+- Горбунов, Валерій Михайлович
+comments:
+- По О. Парадзинскому
+- Check also 471228
+solution: '1...Rh3-b3   2.d5-d4 Rb3-b5 #
+
+
+  1.d5-d4 Bf1-d3   2.Kc5-d5 Rh3-h5 #
+
+  1.Rc6-b6 Bf1-a6   2.Kc5-c6 Rh3-c3 #'
+source:
+  date:
+    year: 2013
+  name: Ясиноватские конкурсы, шестой выпуск
+  problemid: 545а
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc6
+  - Rc5
+  white:
+  - Ka6
+  - Re2
+  - Bc8
+authors:
+- Шалетић, Слободан
+intended-solutions: 2.1.1.1
+solution: '1.Rc5-d5 Bc8-e6   2.Rd5-d6 Re2-c2 #
+
+  1.Kc6-d6 Ka6-b6   2.Rc5-d5 Re2-e6 #'
+source:
+  date:
+    month: 12
+    year: 2004
+  issue: '156'
+  name: Problemkiste
+  problemid: '6331'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kb2
+  - Rc3
+  white:
+  - Kf5
+  - Ra3
+  - Ba2
+  - Pd5
+authors:
+- Шалетић, Слободан
+solution: "a) \n\n1.Rc3-c2 Ra3-d3   2.Kb2-c1 Ba2-b3   3.Rc2-b2 Rd3-d1 #\n\nb) wRa3--a1\n\
+  \n1.Rc3-c1 Kf5-e4   2.Rc1-b1 Ke4-d3   3.Kb2-c1 Ra1*b1 #\n\nc) wRa3--c1\n\n1.Kb2-a3\
+  \ Ba2-c4   2.Rc3-b3 Rc1-c2   3.Rb3-b4 Rc2-a2 #"
+source:
+  date:
+    month: 1
+    year: 2017
+  issue: '133'
+  name: idee & form
+  problemid: '3901'
+stipulation: h#3
+twins:
+  b: Move a3 a1
+  c: Move a3 c1
+---
+algebraic:
+  black:
+  - Kh3
+  - Re8
+  - Pe7
+  - Pe2
+  white:
+  - Kd7
+  - Rd1
+  - Bg3
+  - Ph2
+  - Pf7
+  - Pc7
+authors:
+- Шалетић, Слободан
+options:
+- Duplex
+solution: '1.e2-e1=S f7-f8=Q   2.Se1-g2 Qf8-f5 #
+
+
+  1.f7-f8=S e2*d1=B   2.Sf8-e6 Bd1-a4 #'
+source:
+  date:
+    year: 2012
+  name: Problemkiste
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd6
+  - Rd1
+  - Pe7
+  - Pe5
+  - Pd7
+  - Pd5
+  - Pc7
+  - Pc6
+  white:
+  - Kh1
+  - Rg1
+  - Bg8
+authors:
+- Шалетић, Слободан
+solution: "a) \n\n1.Rd1-c1 Bg8-e6   2.Rc1-c5 Rg1-g8   3.d7*e6 Rg8-d8 #\n\n\nb) bPe5--f5\n\
+  \n1.Rd1-e1 Bg8-f7   2.Re1-e5 Bf7-e8   3.Kd6-e6 Rg1-g6 #"
+source:
+  date:
+    month: 12
+    year: 2017
+  issue: '146'
+  name: Springaren
+  problemid: '14057'
+stipulation: h#3
+twins:
+  b: Move e5 f5
+---
+algebraic:
+  black:
+  - Kh3
+  - Rg4
+  - Ph4
+  - Pb3
+  - Pa4
+  white:
+  - Kh1
+  - Ra3
+  - Be6
+  - Pg3
+  - Pb2
+authors:
+- Шалетић, Слободан
+options:
+- SetPlay
+solution: '1...Be6*b3   2.Rg4*g3 Bb3-e6 #
+
+
+  1.Kh3*g3 Be6*b3   2.Kg3-h3 Bb3-e6 #'
+source:
+  date:
+    year: 1972
+  issue: '3'
+  name: Mat
+  problemid: '25'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf5
+  - Rf6
+  - Ph5
+  - Pc7
+  - Pc6
+  - Pc5
+  white:
+  - Ka5
+  - Ra3
+  - Bc3
+authors:
+- Шалетић, Слободан
+intended-solutions: 2.1.1...
+solution: '1.Kf5-e6 Bc3-d4   2.Ke6-d6 Ra3-d3   3.Rf6-e6 Bd4-f6 #
+
+  1.Kf5-g6 Ra3-b3   2.Kg6-h7 Rb3-b8   3.Rf6-g6 Rb8-h8 #'
+source:
+  date:
+    year: 2019
+  issue: '49'
+  name: Problemskak
+  problemid: '2185'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd6
+  - Rd5
+  white:
+  - Kf7
+  - Re2
+  - Bb6
+authors:
+- Slávik, Peter
+- Ondruš, Milan
+foreignids:
+- domain: WinChloe
+  problemid: 573692
+solution: "a) \n\n1.Rd5-c5 Kf7-f6   2.Rc5-c6 Re2-d2 #\n\nb) +bBb3 \n\n1.Bb3-a4 Re2-c2\
+  \   2.Ba4-d7 Bb6-c7 #\n\n+c) wKf7--c8\n\n1.Bb3-a4 Bb6-d8   2.Ba4-c6 Bd8-e7 #\n\n\
+  +d) bSd5 \n\n1.Sd5-b4 Re2-e5   2.Sb4-c6 Bb6-c7 #\n\n+e) bKd6--b4\n\n1.Kb4-a4 Re2-e5\
+  \   2.Sd5-b4 Re5-a5 #"
+source:
+  date:
+    day: 29
+    month: 9
+    year: 2011
+  name: Pravda (Bratislava)
+  problemid: '3852'
+stipulation: h#3
+twins:
+  b: Add black Bb3
+  c: Cont Move f7 c8
+  d: Cont add black Sd5
+  e: Cont Move d6 b4
+---
+algebraic:
+  black:
+  - Ke6
+  - Rb7
+  white:
+  - Ke8
+  - Ra5
+  - Ba8
+authors:
+- Benítez, Juan Carlos
+solution: "a) \n\n1.Rb7-b5 Ba8-e4   2.Rb5-e5 Ra5-a6 #\n\nb) wSa8 \n\n1.Rb7-f7 Ra5-d5\
+  \   2.Rf7-f6 Sa8-c7 #"
+source:
+  date:
+    day: 10
+    month: 6
+    year: 1988
+  name: Pravda (Bratislava)
+  problemid: '2079'
+stipulation: h#2
+twins:
+  b: Add white Sa8
+---
+algebraic:
+  black:
+  - Kd4
+  - Rb7
+  - Pe7
+  - Pe6
+  white:
+  - Ka2
+  - Rc1
+  - Bh2
+  - Pe4
+authors:
+- Барсуков, Валерий Николаевич
+intended-solutions: '2'
+keywords:
+- Model mates
+solution: '1.Rb7-b4 e4-e5   2.Kd4-d5 Bh2-g1   3.Rb4-e4 Rc1-c5 #
+
+  1.Rb7-d7 Bh2-g1 +   2.Kd4-e5 Rc1-c5 +   3.Ke5-d6 e4-e5 #'
+source:
+  date:
+    year: 2008
+  issue: '3'
+  name: Sachmatija
+  problemid: '1365'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Re4
+  - Pf3
+  white:
+  - Kh5
+  - Rf8
+  - Bg5
+  - Ph6
+authors:
+- Хаџи-Васков, Георги
+award:
+  distinction: 6th Comm.
+  tourney:
+    name: Ilinden-100JT
+solution: '1.Kd4-e5 Bg5-f6 +   2.Ke5-f4 Kh5-h4   3.f3-f2 Bf6-d4 #
+
+  1.Re4-e6 Rf8*f3   2.Kd4-e5 Bg5-f4 +   3.Ke5-f6 Bf4-d6 #'
+source:
+  date:
+    year: 2003
+  name: Ilinden-100JT
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke3
+  - Rf3
+  - Pe2
+  white:
+  - Kb1
+  - Rb4
+  - Ba3
+authors:
+- Holladay, Edgar Dinwiddie
+solution: "a) \n\n1.Ke3-d3 Ba3-b2   2.Rf3-e3 Rb4-d4 #\n\nb) wBa3--c2\n\n1.e2-e1=B\
+  \ Kb1-c1   2.Be1-f2 Rb4-e4 #\n\nc) wKb1--h1\n\n1.Rf3-g3 Ba3-c1 +   2.Ke3-f3 Rb4-f4\
+  \ #"
+source:
+  date:
+    month: 1
+    year: 1986
+  issue: '19'
+  name: Ideal-Mate Review
+  problemid: '1613'
+stipulation: h#2
+twins:
+  b: Move a3 c2
+  c: Move b1 h1
+---
+algebraic:
+  black:
+  - Ka8
+  - Rh4
+  - Pg7
+  - Pf4
+  - Pb5
+  - Pa7
+  white:
+  - Kf7
+  - Rh3
+  - Bh5
+  - Pg2
+  - Pf3
+  - Pe4
+authors:
+- Kekely, Ľuboš
+intended-solutions: '3'
+options:
+- TransmutedKings
+solution: '1.Rh4*h3 e4-e5   2.Rh3*f3 Bh5*f3 #
+
+  1.Rh4*h5 Kf7*g7   2.Rh5-h8 Rh3*h8 #
+
+  1.g7-g6 Rh3-g3   2.g6*h5 Rg3-g8 #'
+source:
+  date:
+    year: 2019
+  issue: '205'
+  name: Gaudium
+  problemid: '1798'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kh4
+  - Ra8
+  - Ph5
+  - Pa3
+  white:
+  - Kh2
+  - Rh8
+  - Bh6
+  - Pg5
+  - Pg2
+  - Pf5
+  - Pe5
+  - Pd5
+  - Pc5
+  - Pb5
+  - Pa5
+authors:
+- Дикусаров, Андрей Николаевич
+solution: '1.Ra8*a5 Rh8-a8   2.Ra5-a4 Ra8*a4 #'
+source:
+  date:
+    year: 1996
+  name: Šachová skladba
+  problemid: '4088'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd7
+  - Rd3
+  - Pf7
+  white:
+  - Kg2
+  - Ra5
+  - Be5
+authors:
+- Дикусаров, Андрей Николаевич
+solution: "a) \n\n1.Kd7-c8 Ra5-b5   2.Rd3-d7 Rb5-b8 #\n\nb) bKd7--e3\n\n1.f7-f5 Be5-c3\
+  \   2.f5-f4 Ra5-e5 #\n\n+c) bPf7--f2\n\n1.f2-f1=S Ra5-a1   2.Sf1-d2 Ra1-e1 #\n\n\
+  +d) bPf2--d2\n\n1.Rd3-d4 Kg2-f1   2.Rd4-e4 Ra5-a3 #\n1.d2-d1=B Ra5-a4   2.Bd1-e2\
+  \ Be5-f4 #"
+source:
+  date:
+    month: 2
+    year: 2009
+  issue: '1'
+  name: Чорно-білі стежини
+  problemid: '1765'
+stipulation: h#2
+twins:
+  b: Move d7 e3
+  c: Cont Move f7 f2
+  d: Cont Move f2 d2, 2.1.1.1
+---
+algebraic:
+  black:
+  - Kc1
+  - Re3
+  - Pe2
+  white:
+  - Ka2
+  - Rd3
+  - Be4
+authors:
+- Дикусаров, Андрей Николаевич
+intended-solutions: 3.1.1.1
+solution: '1.e2-e1=S Be4-f3   2.Se1-c2 Rd3-d1 #
+
+  1.e2-e1=R Rd3-d2   2.Re1-d1 Rd2-c2 #
+
+  1.e2-e1=B Rd3-b3   2.Be1-d2 Rb3-b1 #'
+source:
+  date:
+    month: 3
+    year: 2009
+  issue: '122'
+  name: Кудесник
+  problemid: '4351'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Rd1
+  white:
+  - Kb5
+  - Rd8
+  - Bh3
+  - Pf2
+authors:
+- Дикусаров, Андрей Николаевич
+solution: "a) \n\n1.Rd1-d7 f2-f4 +   2.Ke5-d6 Rd8*d7 #\n\nb) wKb5--b3\n\n1.Rd1-d5\
+  \ Bh3-g2   2.Ke5-d4 Rd8*d5 #"
+source:
+  date:
+    month: 3
+    year: 2007
+  issue: '1'
+  name: Чорно-білі стежини
+  problemid: '981'
+stipulation: h#2
+twins:
+  b: Move b5 b3
+---
+algebraic:
+  black:
+  - Kf5
+  - Rg4
+  white:
+  - Kd6
+  - Rg3
+  - Bc5
+authors:
+- Riczu, Lajos
+solution: "a) \n\n1.Kf5-e4 Kd6-e6   2.Rg4-f4 Rg3-e3 #\n\nb) bBg4 \n\n1.Kf5-f4 Kd6-d5\
+  \   2.Bg4-f5 Bc5-d6 #"
+source:
+  date:
+    month: 10
+    year: 1977
+  name: Land og Folk
+  problemid: '2632'
+stipulation: h#2
+twins:
+  b: Add black Bg4
+---
+algebraic:
+  black:
+  - Kc1
+  - Rb1
+  white:
+  - Ka6
+  - Ra4
+  - Bd1
+  - Pb4
+authors:
+- Makaronez, Leonid
+intended-solutions: 1.2.1...
+solution: '1.Rb1-b2 Ra4-a5   2.Kc1-b1 Bd1-a4   3.Kb1-a2 Ba4-c2 #
+
+  1.Rb1-b2 Bd1-e2   2.Rb2-d2 Be2-d3   3.Kc1-d1 Ra4-a1 #'
+source:
+  date:
+    month: 3
+    year: 1972
+  name: Stella Polaris
+  problemid: '4534'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kb3
+  - Ra3
+  - Pe4
+  - Pd4
+  - Pc6
+  - Pb4
+  white:
+  - Kh4
+  - Re6
+  - Be8
+  - Pa4
+authors:
+- Nieuwhart, Hans
+intended-solutions: '2'
+solution: '1.Kb3-c4 Be8-f7   2.Ra3-d3 Re6*c6 #
+
+  1.Kb3*a4 Re6*c6   2.Ra3-b3 Rc6-a6 #'
+source:
+  date:
+    month: 12
+    year: 2013
+  issue: '32'
+  name: ASIGC, 11° Torneo internazionale di composizione
+  problemid: H01
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  white:
+  - Ke1
+  - Rh1
+  - Bf1
+  - Ph2
+authors:
+- Dawson, Thomas Rayner
+comments:
+- The Problemist, 1944-05, p. 121
+keywords:
+- Homebase
+- Black-white line clearance
+- Anticipatory interference
+- Selfblock
+- Model mate
+solution: '1.Rh8*h2 Bf1-c4   2.Rh2-h7 Bc4-e6   3.Rh7-e7 Rh1-h8 #'
+source:
+  date:
+    month: 5
+    year: 1944
+  name: The Problemist
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Rf4
+  white:
+  - Ke1
+  - Ra1
+  - Bh7
+  - Pb3
+authors:
+- Гордіан, Юрій Маркович
+options:
+- SetPlay
+solution: '1...Ra1-d1 +   2.Kd4-e3 Rd1-d3 #
+
+  1.Kd4-c3 0-0-0   2.Rf4-b4 Rd1-d3 #'
+source:
+  date:
+    year: 1979
+  issue: '1042'
+  name: Buletin Problemistic
+  problemid: '32'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kg4
+  - Rf4
+  white:
+  - Ke6
+  - Re4
+  - Be5
+authors:
+- Lindner, László
+keywords:
+- Letters
+solution: '1.Kg4-h3 Re4-e2   2.Rf4-g4 Re2-h2 #'
+source:
+  date:
+    month: 10
+    year: 1981
+  issue: '56'
+  name: feenschach
+  problemid: '236'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke4
+  - Re6
+  - Pc6
+  - Pc4
+  - Pb2
+  white:
+  - Kb1
+  - Re8
+  - Bd2
+authors:
+- Грінченко, Дмитро Михайлович
+solution: "a) \n  1.Ke4-d5 Bd2-c3   2.Re6-d6 Re8-e5 #\nb) bBe6  \n  1.Ke4-d4 Kb1-c2\
+  \   2.Be6-d5 Bd2-e3 #\nc) bSe6  \n  1.Ke4-d3 Bd2-c1   2.Se6-d4 Re8-e3 #"
+source:
+  date:
+    year: 2020
+  issue: '29'
+  name: TT Problemas
+  problemid: '718'
+stipulation: h#2
+twins:
+  b: add black Be6
+  c: add black Se6
+---
+algebraic:
+  black:
+  - Kd4
+  - Rf3
+  white:
+  - Kb4
+  - Ra1
+  - Bg5
+authors:
+- Акимов, Николай Николаевич
+intended-solutions: '2'
+keywords:
+- Ideal mates
+- Echo mates
+solution: "1.Rf3-e3 Bg5-f4 2.Re3-e4 Ra1-d1 #\n 1.Kd4-e5 Kb4-c5 2.Rf3-f5 Ra1-e1 #"
+source:
+  date:
+    month: 6
+    year: 2019
+  issue: '161'
+  name: Семь шахматных нот
+  problemid: '8134'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke3
+  - Re4
+  white:
+  - Ke1
+  - Re8
+  - Be7
+  - Pf4
+  - Pe2
+  - Pd4
+authors:
+- Labai, Zoltán
+- Kekely, Ľuboš
+intended-solutions: 2.1.1.1
+options:
+- SetPlay
+solution: '1...f4-f5 {(A)}  2.Re4*d4 {(X)} Be7-g5 # {(B)}
+
+  1...d4-d5 {(C)}  2.Re4*f4 {(Y)}Be7-c5 # {(D)}
+
+
+  1.Re4*d4 {(X)} f4-f5 {(A)} {(2.Bg5 B)} 2.Rd4-f4 Be7-c5 # {(D)}
+
+  1.Re4*f4 {(Y)} d4-d5 {(C)} {(2.Bc5 D)} 2.Rf4-d4 Be7-g5 # {(B)}'
+source:
+  date:
+    month: 12
+    year: 2019
+  name: Polski Związek Szachowy
+  problemid: '1962'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka3
+  - Rb1
+  - Pb2
+  white:
+  - Kc4
+  - Rc1
+  - Ba2
+authors:
+- Чорноус, Володимир  Михайлович
+intended-solutions: '3'
+solution: '1.Rb1-a1 Rc1*a1   2.Ka3-a4 Ba2-b3 #
+
+  1.Rb1-a1 Kc4-b5   2.Ra1*a2 Rc1-c3 #
+
+  1.Ka3*a2 Rc1-c3   2.Ka2-a1 Rc3-a3 #'
+source:
+  date:
+    year: 2019
+  issue: '60'
+  name: Проблеміст України
+  problemid: H910
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kd5
+  - Rb6
+  white:
+  - Kg5
+  - Rh3
+  - Bb5
+  - Pg6
+  - Pd4
+authors:
+- Bidleň, Anton
+intended-solutions: 2.1.1.1
+solution: '1.Rb6-e6 Rh3-h7   2.Kd5-d6 Rh7-d7 #
+
+  1.Rb6-d6 Bb5-c6 +   2.Kd5-e6 Rh3-e3 #'
+source:
+  date:
+    month: 4
+    year: 2018
+  issue: '22'
+  name: Problemas
+  problemid: '446'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kf4
+  - Rh5
+  - Pg4
+  white:
+  - Kg8
+  - Ra6
+  - Bc2
+  - Pf5
+  - Pf2
+  - Pb5
+authors:
+- Glaß, Günter
+keywords:
+- Model mates
+options:
+- SetPlay
+solution: '1...Ra6-f6   2.Rh5*f5 Rf6*f5 #
+
+  1.g4-g3 f2*g3 +   2.Kf4-g5 Ra6-g6 #'
+source:
+  date:
+    month: 3
+    year: 1969
+  issue: '5'
+  name: Schach-Echo
+  problemid: '5386'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Re8
+  white:
+  - Kf3
+  - Ra6
+  - Be4
+authors:
+- Polk, Harry G.
+award:
+  distinction: HM
+  tourney:
+    name: U.S. Problem Bulletin
+foreignids:
+- domain: PDB
+  problemid: P0555797
+keywords:
+- No pawns
+- Ideal mates
+- Echo mates
+options:
+- SetPlay
+reprints:
+- date:
+    month: 5
+    year: 1969
+  issue: 9
+  name: Schach-Echo
+  pagenumber: 143
+solution: '1...Be4-c6   2.Ke5-e6 Kf3-e4   3.Re8-e7 Bc6-e8 #
+
+  1.Re8-e6 Be4-d5   2.Ke5-f5 Ra6-a5   3.Re6-f6 Bd5-f7 #'
+source:
+  date:
+    month: 3
+    year: 1967
+  name: U.S. Problem Bulletin
+  problemid: '385'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc5
+  - Ra3
+  - Pb5
+  white:
+  - Kh8
+  - Ra2
+  - Bf1
+  - Pb2
+authors:
+- Glaß, Günter
+foreignids:
+- domain: PDB
+  problemid: P0505441
+keywords:
+- Model mate
+solution: '1.Ra3-a7 Ra2-a6   2.Kc5-b4 Ra6-b6   3.Ra7-a4 Rb6*b5 #'
+source:
+  date:
+    month: 10
+    year: 1969
+  issue: '20'
+  name: Schach-Echo
+  problemid: '5684'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kc5
+  - Rb4
+  - Pd4
+  white:
+  - Kh6
+  - Rd2
+  - Bg3
+  - Pf3
+  - Pe4
+  - Pa4
+authors:
+- Rehm, Bernhard
+keywords:
+- Cooked
+options:
+- SetPlay
+solution: '1...Rd2*d4   2.Kc5-c6 Rd4-d7   3.Rb4-b6 Rd7-c7 #
+
+  1...Bg3-e5   2.d4-d3 Rd2*d3   3.Kc5-c4 Rd3-c3 #
+
+  1.Rb4-b1 Rd2-b2   2.Kc5-c6 Rb2-b7   3.Rb1-b6 Rb7-c7 #
+
+  {
+
+
+  Cooks:}
+
+  1.Rb4-b1 Rd2*d4   2.Kc5-c6 Rd4-d7   3.Rb1-b6 Rd7-c7 #
+
+  1.Rb4-b2 Rd2*d4   2.Kc5-c6 Rd4-d7   3.Rb2-b6 Rd7-c7 #
+
+  1.Rb4-b3 Rd2*d4   2.Kc5-c6 Rd4-d7   3.Rb3-b6 Rd7-c7 #
+
+  1.Rb4-b8 Rd2*d4   2.Kc5-c6 Rd4-d7   3.Rb8-b6 Rd7-c7 #
+
+  1.Rb4-b7 Rd2*d4   2.Kc5-c6 Rd4-d7   3.Rb7-b6 Rd7-c7 #
+
+  1.Rb4-b5 Rd2*d4   2.Kc5-c6 Rd4-d7   3.Rb5-b6 Rd7-c7 #
+
+  1.Rb4-b5 Rd2-d3   2.Kc5-b4 Bg3-d6 +   3.Kb4*a4 Rd3-a3 #
+
+  1.d4-d3 Rd2-c2 +   2.Kc5-d4 Rc2-c5   3.Rb4-b1 Bg3-f2 #
+
+  1.d4-d3 Rd2-c2 +   2.Kc5-d4 Rc2-c5   3.Rb4-b3 Bg3-f2 #
+
+  1.d4-d3 Rd2-c2 +   2.Kc5-d4 Rc2-c5   3.Rb4*a4 Bg3-f2 #
+
+  1.d4-d3 Rd2-c2 +   2.Kc5-d4 Rc2-c5   3.Rb4-b8 Bg3-f2 #
+
+  1.d4-d3 Rd2-c2 +   2.Kc5-d4 Rc2-c5   3.Rb4-b7 Bg3-f2 #
+
+  1.d4-d3 Rd2-c2 +   2.Kc5-d4 Rc2-c5   3.Rb4-b5 Bg3-f2 #
+
+  1.d4-d3 Rd2*d3   2.Kc5-c6 Rd3-d7   3.Rb4-b6 Rd7-c7 #
+
+  1.Kc5-b6 Rd2*d4   2.Kb6-c6 Rd4-d7   3.Rb4-b6 Rd7-c7 #
+
+  1.Kc5-c6 Rd2*d4   2.Rb4-b1 Rd4-d7   3.Rb1-b6 Rd7-c7 #
+
+  1.Kc5-c6 Rd2*d4   2.Rb4-b2 Rd4-d7   3.Rb2-b6 Rd7-c7 #
+
+  1.Kc5-c6 Rd2*d4   2.Rb4-b3 Rd4-d7   3.Rb3-b6 Rd7-c7 #
+
+  1.Kc5-c6 Rd2*d4   2.Rb4-b8 Rd4-d7   3.Rb8-b6 Rd7-c7 #
+
+  1.Kc5-c6 Rd2*d4   2.Rb4-b7 Rd4-d7   3.Rb7-b6 Rd7-c7 #
+
+  1.Kc5-c6 Rd2*d4   2.Rb4-b5 Rd4-d7   3.Rb5-b6 Rd7-c7 #'
+source:
+  date:
+    month: 12
+    year: 1969
+  issue: '24'
+  name: Schach-Echo
+  problemid: '5780'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ke7
+  - Rd3
+  white:
+  - Kh5
+  - Ra8
+  - Bc7
+authors:
+- Hebelt, Wacław
+options:
+- SetPlay
+solution: '1.Rd3-d7 Bc7-b8   2.Ke7-d8 Bb8-d6 #'
+source:
+  date:
+    year: 1962
+  issue: 09
+  name: Šahs/Шахматы (Rīga)
+  problemid: '1200'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Kc4
+  - Re6
+  - Pd3
+  - Pc6
+  - Pb4
+  white:
+  - Ka6
+  - Rd5
+  - Bg8
+authors:
+- Rallo, Vito
+intended-solutions: '2'
+solution: '1.Kc4-b3 Bg8*e6   2.Kb3-a4 Rd5-a5 #
+
+  1.Re6-e4 Ka6-b6   2.Re4-d4 Rd5-c5 #
+
+  1.Re6-d6 Rd5-d4 +   2.Kc4-c5 Rd4-c4 #'
+source:
+  date:
+    month: 3
+    year: 2014
+  issue: '34'
+  name: Newsletter ASIGC
+  problemid: H14
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka6
+  - Ra2
+  - Pe7
+  - Pd4
+  - Pc3
+  - Pb7
+  - Pb2
+  white:
+  - Kb1
+  - Ra1
+  - Bg8
+  - Pe6
+  - Pe3
+  - Pd3
+  - Pb6
+  - Pa5
+  - Pa4
+authors:
+- Pitkänen, Jorma
+solution: '1.Ra2-a3 Bg8-f7   2.Ra3-b3 Bf7-e8   3.Rb3-b5 a4*b5 #
+
+  1.Ra2*a4 e3*d4   2.Ra4*d4 Bg8-h7   3.Rd4*d3 Bh7*d3 #'
+source:
+  date:
+    year: 2013
+  issue: '1'
+  name: Tehtäväniekka
+  problemid: '3986'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Ka7
+  - Ra8
+  - Pg5
+  - Pf4
+  - Pc7
+  white:
+  - Kh3
+  - Rh2
+  - Bg2
+  - Pf2
+authors:
+- Zach, Zdeněk
+options:
+- Duplex
+solution: '1.Ka7-b8 Kh3-g4   2.Ra8-a7 Rh2-h8 #
+
+
+  1.f2-f3 g5-g4 +   2.f3*g4 Ra8-h8 #'
+source:
+  date:
+    year: 2019
+  issue: '36'
+  name: Řešitelský Zpravodaj
+  problemid: '1140'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rg8
+  white:
+  - Ka6
+  - Rc5
+  - Ba3
+authors:
+- Білий, Анатолій
+- Шевченко, Віталій Іванович
+intended-solutions: '2'
+solution: '1.Ke8-d8 Ka6-b7   2.Rg8-e8 Rc5-d5 #
+
+  1.Rg8-g7 Rc5-f5   2.Rg7-d7 Rf5-f8 #'
+source:
+  date:
+    month: 8
+    year: 2007
+  name: Шаховий Леополіс
+  problemid: '1627'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ka4
+  - Ra3
+  - Pe3
+  - Pc4
+  - Pc3
+  - Pb7
+  - Pa7
+  white:
+  - Ke1
+  - Rh1
+  - Ba6
+  - Pe2
+  - Pc2
+  - Pb4
+authors:
+- Schwarzkopf, Bernd
+foreignids:
+- domain: WinChloe
+  problemid: 780679
+intended-solutions: 2.1.1.1
+solution: '1.Ra3-b3 0-0   2.Rb3*b4 Rf1-a1 #
+
+  1.c4*b3 ep. Ba6-d3 2.a4-a5 Rh1-h4 #'
+source:
+  date:
+    year: 1971
+  name: feenschach
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  white:
+  - Ke2
+  - Ra1
+  - Be5
+authors:
+- Mlynka, Karol
+foreignids:
+- domain: WinChloe
+  problemid: 784476
+solution: "a) \n\n1.0-0-0 Ra1-b1   2.Rd8-d7 Rb1-b8 #\n\nb) bRa8--h8  \n\n1.0-0 Ra1-h1\
+  \   2.Rf8-f7 Rh1-h8 #"
+source:
+  date:
+    month: 1
+    year: 2020
+  issue: '4'
+  name: Curierul Problemistic
+  problemid: '351'
+stipulation: h#2
+twins:
+  b: Move a8 h8
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  white:
+  - Kh6
+  - Rb7
+  - Bh8
+authors:
+- Lind, Carl Erik Israel
+keywords:
+- Duplex
+- No pawns
+- Retro
+- Cantcastler
+options:
+- Duplex
+solution: '1.0-0-0? { (illegal)} Bh8-e5   2.Rd8-d7 Rb7-b8 #
+
+  1.Ke8-f8 Kh6-h7   2.Ra8-e8 Bh8-g7 #
+
+  1.Rb7-b5 Ke8-f7   2.Rb5-g5 Ra8*h8 #'
+source:
+  date:
+    month: 11
+    year: 1975
+  name: Tidskrift för Schack
+  problemid: '13345'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke5
+  - Rf4
+  white:
+  - Kd1
+  - Rg6
+  - Bc5
+  - Pe4
+authors:
+- Bidleň, Anton
+foreignids:
+- domain: WinChloe
+  problemid: 788788
+solution: "a) \n\n1.Rf4-f6 Rg6-g7   2.Ke5-e6 Rg7-e7 #\n\nb) bRf4--c4  \n\n1.Ke5*e4\
+  \ Rg6-e6 +   2.Ke4-d3 Re6-e3 #"
+source:
+  date:
+    month: 1
+    year: 2019
+  issue: '2'
+  name: Curierul Problemistic
+  problemid: '97'
+stipulation: h#2
+twins:
+  b: Move f4 c4
+---
+algebraic:
+  black:
+  - Kf8
+  - Rf7
+  - Ph3
+  - Pd3
+  - Pd2
+  - Pc3
+  - Pa7
+  - Pa5
+  white:
+  - Kd4
+  - Ra1
+  - Be1
+authors:
+- Trommler, Sven
+solution: "a) \n  1.d2-d1=R Be1-h4   2.Rd1-g1 Ra1-b1   3.Rg1-g7 Rb1-b8 #\nb) bBf7\
+  \  \n  1.d2-d1=B Be1-g3   2.Bd1-a4 Ra1-g1   3.Ba4-e8 Bg3-d6 #"
+source:
+  date:
+    year: 1993
+  issue: '11'
+  name: Schweizer Schach-Magazin
+  problemid: '5561'
+stipulation: h#3
+twins:
+  b: Add black Bf7
+---
+algebraic:
+  black:
+  - Kh3
+  - Rc6
+  - Ph6
+  white:
+  - Kh1
+  - Ra6
+  - Ba8
+authors:
+- Armeni, Alberto
+foreignids:
+- domain: WinChloe
+  problemid: 578767
+intended-solutions: 2.1.1.1
+solution: '1.Rc6-c4 Ra6-g6   2.Rc4-h4 Ba8-g2 #
+
+  1.Rc6-g6 Ba8-f3   2.Rg6-g3 Ra6*h6 #'
+source:
+  date:
+    month: 7
+    year: 2015
+  issue: '11'
+  name: Problemas
+  problemid: '123'
+stipulation: h#2
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Pc7
+  - Pb7
+  white:
+  - Ke4
+  - Rh1
+  - Bg1
+authors:
+- Залокоцький, Роман Федорович
+- Угнівенко, Олексій Мефодійович
+foreignids:
+- domain: WinChloe
+  problemid: 793337
+solution: "a) \n\n1.0-0 Bg1-d4   2.Rf8-f7 Rh1-h8 #\n\nb) bRh8--a8\n\n1.0-0-0 Rh1-h8\
+  \   2.Kc8-b8 Rh8*d8 #"
+source:
+  date:
+    month: 4
+    year: 2012
+  name: Чорно-білі стежини
+  problemid: '3099'
+stipulation: h#2
+twins:
+  b: Move h8 a8
+---
+algebraic:
+  black:
+  - Kd3
+  - Rg6
+  - Pg3
+  - Pe7
+  - Pd7
+  - Pc5
+  - Pa4
+  white:
+  - Kb2
+  - Rd8
+  - Bh7
+  - Pf2
+  - Pe6
+authors:
+- Stucker, Bruno
+award:
+  distinction: 1st Comm.
+  judges:
+  - Larsen, Lars Aksglæde
+  tourney:
+    name: Thema Danicum
+foreignids:
+- domain: PDB
+  problemid: P1304386
+- domain: WinChloe
+  problemid: 235467
+intended-solutions: 2.1.1...
+keywords:
+- Model mates
+- Indirect unpinning
+reprints:
+- comments:
+  - Award
+  date:
+    month: 4
+    year: 1991
+  issue: 62
+  name: Thema Danicum
+- date:
+    year: 2007
+  name: Anthology of Helpmates III
+  pagenumber: 67
+  problemid: 191
+solution: "1.Kd3-d4 f2-f4   2.Rg6*e6 Bh7-d3   3.Re6-e3 Rd8*d7 #\n 1.Kd3-e4 f2*g3 \
+  \  2.d7*e6 Rd8-d3   3.e6-e5 Bh7*g6 #"
+source:
+  date:
+    month: 10
+    year: 1989
+  issue: '56'
+  name: Thema Danicum
+  problemid: '4532'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd2
+  - Ra4
+  - Pe3
+  - Pd7
+  - Pd4
+  white:
+  - Kh4
+  - Rf1
+  - Ba2
+authors:
+- Каковин, Александр Сергеевич
+- Будков, Николай Павлович
+comments:
+- cor. D.Grinchenko +bpd6.
+intended-solutions: '2'
+solution: '1.Kd2-e2 Ba2-b3   2.d4-d3 + Bb3*a4   3.d3-d2 Ba4-b5 #
+
+  1.d4-d3 + Rf1-f4   2.Kd2-e1 Ba2-c4   3.d3-d2 Rf4-f1 #'
+source:
+  date:
+    year: 1978
+  issue: '4'
+  name: Problemas
+  problemid: '50'
+stipulation: h#3
+---
+algebraic:
+  black:
+  - Kd4
+  - Re4
+  - Pg4
+  - Pf7
+  white:
+  - Kh4
+  - Rf2
+  - Bg5
+authors:
+- Höller, Werner
+foreignids:
+- domain: WinChloe
+  problemid: 211303
+solution: "a) \n\n1.Kd4-d5 Rf2*f7   2.Kd5-e5 Bg5-f6 +   3.Ke5-f4 Bf6-d4 #\n\nb) wKh4--h6\
+  \  \n\n1.Kd4-e5 Bg5-f4 +   2.Ke5-f6 Rf2-f1   3.Re4-e6 Bf4-d6 #"
+source:
+  date:
+    month: 4
+    year: 2003
+  issue: '200'
+  name: Die Schwalbe
+  problemid: '11832'
+stipulation: h#3
+twins:
+  b: Move h4 h6
+---
+algebraic:
+  black:
+  - Kb1
+  - Re6
+  white:
+  - Kh8
+  - Rg7
+  - Bd5
+authors:
+- Laborczi, Zoltán
+keywords:
+- Echo mates
+solution: "a) \n  1.Re6-e2 {Rb6?} Bd5-b3   2.Re2-b2 Rg7-g1 #\nb) bKb1--a4  \n  1.Re6-b6\
+  \ {Re4?} Bd5-c4   2.Rb6-b4 Rg7-a7 #\nc) bKb1--c8  \n  1.Re6-e7 {Rc6?} Bd5-c6   2.Re7-c7\
+  \ Rg7-g8 #\nd) bKb1--h3  \n  1.Re6-g6 {Re3?} Bd5-f3   2.Rg6-g3 Rg7-h7 #"
+source:
+  date:
+    year: 1981
+  issue: 19-20
+  name: Eteroscacco
+  problemid: '174'
+stipulation: h#2
+twins:
+  b: move b1 a4
+  c: move b1 c8
+  d: move b1 h3
+---
+algebraic:
+  black:
+  - Kb1
+  - Ra2
+  - Pb4
+  - Pb2
+  white:
+  - Kd2
+  - Ra4
+  - Ba3
+authors:
+- Bán, Jenő
+foreignids:
+- domain: PDB
+  problemid: P0571732
+options:
+- SetPlay
+solution: '1...Ra4*b4   2.Ra2-a1 Rb4*b2 #
+
+
+  1.Kb1-a1 Kd2-c2   2.b2-b1=S + Ba3-b2 #'
+source:
+  date:
+    year: 1964
+  issue: '12'
+  name: Bilten
+  problemid: '583'
+stipulation: h#2

@@ -1,0 +1,18 @@
+%page geometry
+\geometry{top=10mm}
+\geometry{bottom=18mm}
+\geometry{left=13mm}
+\geometry{right=12mm}
+
+\fontfamily{lmtt}
+%chess style
+\xskakset{style=UF}
+\setchessboard{boardfontsize=16pt, showmover=false}
+
+%commands
+\newcommand{\italic}[1]{\textit{#1}}
+\newcommand{\bold}[1]{\textbf{#1}}
+
+\newcounter{diagramcounter}
+\stepcounter{diagramcounter}
+\newcommand{\diagramnumber}{\bold{D.\thediagramcounter{}.}}

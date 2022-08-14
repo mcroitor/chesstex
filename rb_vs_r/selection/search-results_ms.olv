@@ -1,0 +1,404 @@
+---
+algebraic:
+  black:
+  - Kg1
+  - Rh1
+  - Ph2
+  - Pb6
+  white:
+  - Kb3
+  - Rd2
+  - Bh3
+  - Pg4
+  - Pf2
+  - Pd4
+  - Pc5
+  - Pa5
+authors:
+- Herland, Sigmund
+solution: "1.Kb3-b2 ! zugzwang.\n      1...b6*a5 \n          2.Kb2-a1 zugzwang.\n\
+  \              2...a5-a4 \n                  3.Rd2-a2 zugzwang.\n              \
+  \        3...a4-a3 \n                          4.Bh3-g2 \n                     \
+  \         4...Kg1*g2 # \n      1...b6-b5 \n          2.Kb2-b1 zugzwang.\n      \
+  \        2...b5-b4 \n                  3.Rd2-b2 zugzwang.\n                    \
+  \  3...b4-b3 \n                          4.Bh3-g2 \n                           \
+  \   4...Kg1*g2 # \n      1...b6*c5 \n          2.Kb2-c1 zugzwang.\n            \
+  \  2...c5*d4 \n                  3.Kc1-d1 zugzwang.\n                      3...d4-d3\
+  \ \n                          4.Bh3-g2 \n                              4...Kg1*g2\
+  \ # \n              2...c5-c4 \n                  3.Rd2-c2 zugzwang.\n         \
+  \             3...c4-c3 \n                          4.Bh3-g2 \n                \
+  \              4...Kg1*g2 #"
+source:
+  date:
+    year: 1910
+  name: La Stratégie
+stipulation: s#4
+---
+algebraic:
+  black:
+  - Kb1
+  - Ra1
+  - Pe6
+  - Pa2
+  white:
+  - Ke2
+  - Rc2
+  - Bd1
+authors:
+- Glaß, Günter
+solution: "1.Ke2-d2 ! zugzwang.\n      1...e6-e5 \n          2.Bd1-e2 zugzwang.\n\
+  \              2...e5-e4 \n                  3.Kd2-d1 zugzwang.\n              \
+  \        3...e4-e3 \n                          4.Rc2-b2 + \n                   \
+  \           4...Kb1*b2 #"
+source:
+  date:
+    month: 12
+    year: 1999
+  issue: '126'
+  name: Problemkiste
+  problemid: '4986'
+stipulation: s#4
+---
+algebraic:
+  black:
+  - Kg1
+  - Rh1
+  - Ph2
+  - Pc6
+  white:
+  - Ke1
+  - Re2
+  - Bf1
+authors:
+- Dulbergs, Imants
+keywords:
+- Miniature
+solution: "1.Re2-f2 !{zugzwang}{\n }{1...}1...c6-c5\n       2.Bf1-d3 zugzwang.\n \
+  \          2...c5-c4\n               3.Bd3-c2 zugzwang.\n                   3...c4-c3\n\
+  \                       4.Ke1-d1\n                           4...Kg1*f2 #"
+source:
+  date:
+    month: 8
+    year: 1988
+  issue: '22'
+  name: Шах-М (Боровичи)
+  problemid: '542'
+stipulation: s#4
+---
+algebraic:
+  black:
+  - Kg1
+  - Rh1
+  - Ph2
+  - Pc7
+  white:
+  - Ke2
+  - Rc5
+  - Bb7
+authors:
+- Смирнов, Валерий Геннадьевич
+solution: "1.Bb7-e4 ! zugzwang.\n      1...c7-c6 \n          2.Rc5-f5 zugzwang.\n\
+  \              2...c6-c5 \n                  3.Rf5-f2 zugzwang.\n              \
+  \        3...c5-c4 \n                          4.Be4-c2 zugzwang.\n            \
+  \                  4...c4-c3 \n                                  5.Ke2-d1 \n   \
+  \                                   5...Kg1*f2 #"
+source:
+  date:
+    year: 1996
+  name: Фаланга
+stipulation: s#5
+---
+algebraic:
+  black:
+  - Kg2
+  - Rh1
+  - Ph2
+  - Pc6
+  white:
+  - Ke2
+  - Rf3
+  - Be6
+authors:
+- Латыш, Сергей И.
+solution: "1.Be6-h3 + ! \n      1...Kg2-g1 \n          2.Rf3-f2 zugzwang.\n      \
+  \        2...c6-c5 \n                  3.Bh3-f5 zugzwang.\n                    \
+  \  3...c5-c4 \n                          4.Bf5-c2 zugzwang.\n                  \
+  \            4...c4-c3 \n                                  5.Ke2-d1 \n         \
+  \                             5...Kg1*f2 #"
+source:
+  date:
+    year: 1997
+  name: ЮК В.Желтоножко-55, Уральские юбиляры
+stipulation: s#5
+---
+algebraic:
+  black:
+  - Kg1
+  - Rh1
+  - Ph2
+  - Pc6
+  white:
+  - Ke2
+  - Rf5
+  - Bh3
+authors:
+- Виденов, Иван
+solution: "1.Rf5-f2 ! zugzwang.\n    1...c6-c5\n        2.Bh3-f5 zugzwang.\n     \
+  \       2...c5-c4\n                3.Bf5-c2 zugzwang.\n                    3...c4-c3\n\
+  \                        4.Ke2-d1\n                            4...Kg1*f2 #"
+source:
+  date:
+    month: 2
+    year: 1990
+  name: Шахматна мисъл
+  problemid: '30'
+stipulation: s#4
+---
+algebraic:
+  black:
+  - Kg1
+  - Rh1
+  - Ph5
+  - Ph2
+  - Pd4
+  - Pc7
+  white:
+  - Ke1
+  - Rf4
+  - Bd5
+  - Ph4
+  - Pd2
+  - Pc6
+authors:
+- Limbach, Saturnin
+solution: "1.Rf4-f8 ! zugzwang.\n      1...d4-d3 \n          2.Bd5-f7 \n         \
+  \     2...Kg1-g2 #"
+source:
+  date:
+    year: 1970
+  name: feenschach
+  problemid: '9754'
+stipulation: s#2
+---
+algebraic:
+  black:
+  - Kb1
+  - Ra1
+  - Pd5
+  - Pd3
+  - Pa2
+  white:
+  - Kd1
+  - Rd2
+  - Bg7
+  - Pg4
+authors:
+- Limbach, Saturnin
+solution: "1.Bg7-h6 ! zugzwang.\n      1...d5-d4 \n          2.Bh6-e3 zugzwang.\n\
+  \              2...d4*e3 \n                  3.Rd2-b2 + \n                     \
+  \ 3...Kb1*b2 #"
+source:
+  date:
+    year: 1966
+  name: feenschach
+stipulation: s#3
+---
+algebraic:
+  black:
+  - Kg1
+  - Rh1
+  - Ph2
+  - Pg2
+  - Pc3
+  white:
+  - Kc1
+  - Rd6
+  - Be1
+  - Pc2
+authors:
+- Cumpe, Josef
+solution: "1.Kc1-d1 ! zugzwang.\n   1...Kg1-f1\n       2.Rd6-f6 +\n           2...Kf1-g1\n\
+  \               3.Be1-f2 +\n                   3...Kg1-f1\n                    \
+  \   4.Bf2-g1 +\n                           4...Kf1*g1\n                        \
+  \       5.Rf6-f2\n                                   5...Kg1*f2 #"
+source:
+  date:
+    day: 8
+    month: 9
+    year: 1927
+  name: Jas
+  problemid: '43'
+stipulation: s#5
+---
+algebraic:
+  black:
+  - Kb1
+  - Ra1
+  - Pe3
+  - Pc5
+  - Pb4
+  - Pb2
+  - Pa2
+  white:
+  - Ke1
+  - Rc2
+  - Bc3
+  - Pe2
+  - Pc4
+authors:
+- Maryško, Miloš
+solution: "1.Ke1-d1 ! zugzwang.\n    1...b4-b3\n        2.Bc3-e1\n            2...b3*c2\
+  \ #\n    1...b4*c3\n        2.Kd1-e1\n            2...Kb1*c2 #"
+source:
+  date:
+    day: 8
+    month: 10
+    year: 1961
+  name: Schach-Echo
+  problemid: '2643'
+stipulation: s#2
+---
+algebraic:
+  black:
+  - Kh4
+  - Rh5
+  - Ph6
+  - Pg5
+  - Pc6
+  - Pa6
+  white:
+  - Kh2
+  - Rd4
+  - Bc5
+  - Pg4
+  - Pg2
+  - Pc2
+authors:
+- van Dijk, Johannes
+solution: "1.Rd4-a4 ! zugzwang.\n    1...a6-a5\n        2.Bc5-g1 zugzwang.\n     \
+  \       2...c6-c5\n                3.c2-c4\n                    3...Kh4*g4 #"
+source:
+  date:
+    year: 1932
+  name: De Maasbode
+stipulation: s#3
+---
+algebraic:
+  black:
+  - Ka8
+  - Rb8
+  - Pc7
+  - Pa7
+  white:
+  - Ka5
+  - Re8
+  - Bb5
+  - Pd7
+  - Pc6
+  - Pb6
+  - Pb4
+  - Pa6
+  - Pa4
+authors:
+- Savolainen, Matti
+keywords:
+- Promotion
+solution: "a) \n   1.Re8-c8 ! zugzwang.\n      1...Rb8*c8\n          2.d7*c8=B zugzwang.\n\
+  \              2...Ka8-b8\n                  3.Bc8-b7\n                      3...a7*b6\
+  \ #\n                      3...c7*b6 #\nb) -wPb6  \n   1.Re8-c8 ! zugzwang.\n  \
+  \    1...Rb8*c8\n          2.d7*c8=S zugzwang.\n              2...Ka8-b8\n     \
+  \             3.Sc8-b6\n                      3...a7*b6 #\n                    \
+  \  3...c7*b6 #"
+source:
+  date:
+    day: 22
+    month: 4
+    year: 1967
+  name: Helsingin Sanomat
+stipulation: s#3
+twins:
+  b: Remove b6
+---
+algebraic:
+  black:
+  - Kb1
+  - Ra1
+  - Pf7
+  - Pa2
+  white:
+  - Kd2
+  - Rf5
+  - Be5
+authors:
+- Дикусаров, Андрей Николаевич
+- Овен, Алексей
+solution: "1.Be5-d4 ! zugzwang.\n    1...f7-f6\n        2.Rf5-c5 zugzwang.\n     \
+  \       2...f6-f5\n                3.Rc5-c2 zugzwang.\n                    3...f5-f4\n\
+  \                        4.Bd4-f2 zugzwang.\n                            4...f4-f3\n\
+  \                                5.Kd2-e1\n                                    5...Kb1*c2\
+  \ #"
+source:
+  date:
+    month: 10
+    year: 2004
+  issue: '85'
+  name: Кудесник
+  problemid: '2308'
+stipulation: s#5
+---
+algebraic:
+  black:
+  - Kb1
+  - Ra1
+  - Pe6
+  - Pa3
+  - Pa2
+  white:
+  - Kc3
+  - Rc2
+  - Ba6
+  - Ph2
+authors:
+- Decker, Adolph L.
+solution: "1.Kc3-d2 ! zugzwang.\n    1...e6-e5\n        2.Kd2-d1 zugzwang.\n     \
+  \       2...e5-e4\n                3.Rc2-g2 zugzwang.\n                    3...e4-e3\n\
+  \                        4.Ba6-e2\n                            4...Kb1-b2 #"
+source:
+  date:
+    month: 12
+    year: 1898
+  name: Nuova Rivista degli Scacchi
+  problemid: '4405'
+stipulation: s#4
+---
+algebraic:
+  black:
+  - Kd1
+  - Ra2
+  - Pd5
+  - Pc4
+  - Pb2
+  - Pa3
+  white:
+  - Kb1
+  - Re2
+  - Bf1
+  - Pd4
+  - Pc3
+authors:
+- Steudel, Friedrich Theodor
+options:
+- Setplay
+solution: "1...Ra2-a1 #\n\n 1.Re2-c2 ! threat:\n        2.Rc2-e2\n            2...Ra2-a1\
+  \ #\n    1...Kd1-e1\n        2.Bf1-g2 zugzwang.\n            2...Ke1-d1\n      \
+  \          3.Bg2*d5 zugzwang.\n                    3...Kd1-e1\n                \
+  \        4.Bd5*c4 zugzwang.\n                            4...Ke1-d1\n          \
+  \                      5.Rc2-e2\n                                    5...Ra2-a1\
+  \ #"
+source:
+  date:
+    year: 1954
+  issue: 9-10
+  name: feenschach
+  problemid: '2276'
+stipulation: s#5

@@ -1,0 +1,1462 @@
+---
+algebraic:
+  black:
+  - Ka8
+  - Rf1
+  - Pf7
+  white:
+  - Ka6
+  - Rh1
+  - Bf8
+authors:
+- Grand-Didier, Claude
+keywords:
+- Fleck
+- Battery creation
+- Battery play
+solution: "1.Rh1-h8 ! threat:\n       2.Bf8-a3 #\n       2.Bf8-b4 #\n       2.Bf8-c5\
+  \ #\n       2.Bf8-d6 #\n       2.Bf8-e7 #\n       2.Bf8-h6 #\n       2.Bf8-g7 #\n\
+  \   1...Rf1-a1 +\n       2.Bf8-a3 #\n   1...Rf1-b1\n       2.Bf8-b4 #\n   1...Rf1-c1\n\
+  \       2.Bf8-c5 #\n   1...Rf1-d1\n       2.Bf8-d6 #\n   1...Rf1-e1\n       2.Bf8-e7\
+  \ #\n   1...Rf1-f6 +\n       2.Bf8-d6 #\n   1...Rf1-h1\n       2.Bf8-h6 #\n   1...Rf1-g1\n\
+  \       2.Bf8-g7 #\n   1...Ka8-b8\n       2.Bf8-d6 #"
+source:
+  date:
+    month: 1
+    year: 1999
+  name: Telescacco 92
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Ph6
+  - Pb7
+  white:
+  - Ke6
+  - Rc5
+  - Bd6
+authors:
+- Кожакин, Владимир Владимирович
+- Сакс, Олег Павлович
+keywords:
+- Flight giving key
+- Switchback
+solution: "1...Ra7/Ra6/Ra5/Ra4/Ra3/Ra2/Ra1/Rc8 2.Rc8#\n\n1.Rg5?? (2.Rg8#)\n   1...O-O-O\
+  \ 2.Rc5#\nbut 1...hxg5!\n\n1.Rf5! (2.Rf8#)\n   1...O-O-O 2.Rc5#"
+source:
+  date:
+    year: 1995
+  name: Mezija
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka3
+  - Rh7
+  - Ph6
+  - Pd4
+  - Pc3
+  - Pb7
+  - Pb2
+  - Pa4
+  white:
+  - Ka5
+  - Rb5
+  - Bb1
+  - Ph5
+  - Pd3
+  - Pc2
+  - Pb6
+authors:
+- Rice, John Michael
+solution: 1.Rb4! (2.Rxa4#)
+source:
+  date:
+    year: 1972
+  name: Schach-Echo
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh8
+  - Ra8
+  - Pa6
+  white:
+  - Ka2
+  - Rg7
+  - Ba1
+  - Ph6
+authors:
+- Riczu, Lajos
+keywords:
+- Fleck
+solution: "1.h6-h7 ! threat:\n       2.Rg7-a7 #\n       2.Rg7-b7 #\n       2.Rg7-c7\
+  \ #\n       2.Rg7-d7 #\n       2.Rg7-e7 #\n       2.Rg7-f7 #\n   1...Ra8-g8\n  \
+  \     2.h7*g8=Q #\n       2.h7*g8=R #\n   1...Ra8-f8\n       2.Rg7-f7 #\n   1...Ra8-e8\n\
+  \       2.Rg7-e7 #\n   1...Ra8-d8\n       2.Rg7-d7 #\n   1...Ra8-c8\n       2.Rg7-c7\
+  \ #\n   1...Ra8-b8\n       2.Rg7-b7 #"
+source:
+  date:
+    year: 1969
+  name: Boletim da União Brasileira de Problemistas
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rf1
+  - Pf2
+  white:
+  - Ka6
+  - Rh7
+  - Bf8
+authors:
+- Silvestre, A.
+comments:
+- Also by
+- Nikos Siotis & Wlastimil Kabes, Parallèle 50, 1949-04-29
+- Rudolf Mikulka, Stráž lidu, 1950
+- Milan Velimirovic, Mat (Beograd), 1979-03 (reflected)
+keywords:
+- Fleck
+solution: "1.Bd6?? (2.Rh8#/Ra7#)\n   1...Re1/Rc1/Rb1/Rg1/Rh1 2.Ra7#\nbut 1...Ra1+!\n\
+  \n1.Rh8! (2.Bg7#/Bh6#/Be7#/Bd6#/Bc5#/Bb4#/Ba3#)\n   1...Kb8/Rd1 2.Bd6#\n   1...Re1\
+  \ 2.Be7#\n   1...Rc1 2.Bc5#\n   1...Rb1 2.Bb4#\n   1...Ra1+ 2.Ba3#\n   1...Rg1 2.Bg7#\n\
+  \   1...Rh1 2.Bh6#"
+source:
+  date:
+    year: 1898
+  name: Caissana Brasileira
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Pg5
+  white:
+  - Kf5
+  - Rd5
+  - Bf6
+  - Ph6
+  - Ph5
+authors:
+- Langstaff, William A.
+keywords:
+- Retro
+- Castling
+- En passant
+solution: "Alternatives:\n\na) Black can castle\n 1.hxg6 e.p.\n  1....R~ or Kf8 2.Rd8#\n\
+  \  1....0-0 2.h7#\n\n\n\nb) Black can't castle\n 1.Ke6 ~ 2.Rd8#"
+source:
+  date:
+    year: 1922
+  name: The Chess Amateur
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rc7
+  white:
+  - Ka2
+  - Ra4
+  - Bh1
+  - Pc6
+  - Pa7
+authors:
+- Papoušek, Jan
+keywords:
+- Model mates
+solution: "1.Bh1-d5 ! zugzwang.\n   1...Rc7*c6\n       2.Bd5*c6 #\n   1...Rc7*a7\n\
+  \       2.c6-c7 #\n   1...Rc7-b7\n       2.c6*b7 #\n   1...Rc7-c8\n       2.c6-c7\
+  \ #\n   1...Rc7-h7 {(R~7)}\n       2.c6-c7 #\n   1...Rc7-d7\n       2.c6*d7 #"
+source:
+  date:
+    day: 20
+    month: 12
+    year: 1973
+  name: Hlas ľudu
+  problemid: '352'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rb1
+  - Pb4
+  white:
+  - Kb6
+  - Rh7
+  - Bb8
+  - Pa7
+authors:
+- Roese, Willibald Erich Hermann Hugo
+keywords:
+- Fleck
+- Battery play
+reprints:
+- date:
+    month: 6
+    year: 1969
+  name: Magyar Sakkélet
+  pagenumber: 118
+  problemid: 23
+solution: "1.Rh7-h8 ! threat:\n       2.Bb8-h2 #\n       2.Bb8-g3 #\n       2.Bb8-f4\
+  \ #\n       2.Bb8-e5 #\n       2.Bb8-d6 #\n       2.Bb8-c7 #\n   1...Rb1-h1\n  \
+  \     2.Bb8-h2 #\n   1...Rb1-g1\n       2.Bb8-g3 #\n   1...Rb1-f1\n       2.Bb8-f4\
+  \ #\n   1...Rb1-e1\n       2.Bb8-e5 #\n   1...Rb1-d1\n       2.Bb8-d6 #\n   1...Rb1-c1\n\
+  \       2.Bb8-c7 #"
+source:
+  date:
+    year: 1924
+  name: Die Norag
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Ph7
+  - Pg7
+  - Pe6
+  - Pd7
+  - Pc4
+  - Pb7
+  - Pa7
+  - Pa4
+  white:
+  - Ke1
+  - Rh1
+  - Bd6
+  - Pg6
+  - Pd4
+  - Pd2
+  - Pc3
+  - Pb2
+  - Pa3
+authors:
+- Vokál, Stanislav
+keywords:
+- Retro
+solution: "a) \n 1.0-0 ! threat:\n        2.Rf1-f8 #\n\nb) wPd4--b6  wPg6--g5\n\n\
+  \ 1.Rh1-f1 ! threat:\n        2.Rf1-f8 #"
+source:
+  date:
+    day: 8
+    month: 11
+    year: 1996
+  name: Pravda (Bratislava)
+  problemid: '2967'
+stipulation: '#2'
+twins:
+  b: Move d4 b6 move g6 g5
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Ph6
+  - Pf7
+  white:
+  - Ke1
+  - Ra1
+  - Bf6
+authors:
+- Stubbs, Charles Francis
+foreignids:
+- domain: Albrecht
+  problemid: 76397
+keywords:
+- Flight taking key
+- Castling
+- Selfblock
+- Meredith
+solution: "1.Ra1-d1 ? threat:\n        2.Rd1-d8 #\n  but\n    1...0-0 !\n1.0-0-0 !\
+  \ threat:\n        2.Rd1-d8 #\n    1...0-0\n        2.Rd1-g1 #"
+source:
+  date:
+    month: 2
+    year: 1904
+  name: Checkmate
+  pagenumber: 83
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rf1
+  - Pg3
+  - Pf2
+  white:
+  - Kh3
+  - Rg2
+  - Be2
+authors:
+- Желтоножко, Владимир Иванович
+keywords:
+- Threat reversal
+solution: "1.Rxg3[A]? (2.Bf3#[B])\nbut 1...Rg1!\n\n\n\n1.Bf3[B]! (2.Rxg3#[A])\n  \
+  \ 1...Rg1 2.Rh2#"
+source:
+  date:
+    year: 1990
+  name: Probleemblad
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rb1
+  - Pb5
+  white:
+  - Kb6
+  - Rh7
+  - Bb8
+  - Pa7
+authors:
+- Roese, Willibald Erich Hermann Hugo
+foreignids:
+- domain: PDB
+  problemid: P1126711
+keywords:
+- Fleck
+reprints:
+- comments:
+  - Vom Schach, "das keins ist" (1. Vortrag von W. Roese, gesprochen durch den Hamburger
+    Sender am 21. Februar 1926)
+  date:
+    day: 14
+    month: 3
+    year: 1926
+  name: Funkschach
+  pagenumber: 161
+solution: "1.Rh7-h8 ! threat:\n       2.Bb8-h2 #\n       2.Bb8-g3 #\n       2.Bb8-f4\
+  \ #\n       2.Bb8-e5 #\n       2.Bb8-d6 #\n       2.Bb8-c7 #\n   1...Rb1-h1\n  \
+  \     2.Bb8-h2 #\n   1...Rb1-g1\n       2.Bb8-g3 #\n   1...Rb1-f1\n       2.Bb8-f4\
+  \ #\n   1...Rb1-e1\n       2.Bb8-e5 #\n   1...Rb1-d1\n       2.Bb8-d6 #\n   1...Rb1-c1\n\
+  \       2.Bb8-c7 #"
+source:
+  date:
+    year: 1924
+  name: Die Norag
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pf7
+  white:
+  - Ke1
+  - Ra1
+  - Bf6
+authors:
+- Stubbs, Arthur Goodwin
+foreignids:
+- domain: PDB
+  problemid: P1145815
+keywords:
+- Flight taking key
+- Castling
+- Retro
+- Cooked
+options:
+- SetPlay
+- Defence 1
+reprints:
+- comments:
+  - Variationen über eine kleine Problemidee. Beiderseitige Rochade in der Zweizügerminiatur
+    (Werner Speckmann. Lecture, given at the meeting of problemists, Munich 1968,
+    Oct 31 – Nov 3)
+  date:
+    month: 3
+    year: 1969
+  issue: 15-16
+  name: Die Schwalbe
+  pagenumber: 240
+  problemid: I
+  volume: XIII
+solution: "{Intended solution:}\n  1...Ke8-f8\n       2.Ra1-a8 #\n1.Ra1-a8 + ?\n but\n\
+  \   1...Ke8-d7 !\n1.Ra1-d1 ? threat:\n       2.Rd1-d8 #\n but\n   1...0-0 !\n1.0-0-0\
+  \ ! threat:\n       2.Rd1-d8 #\n   1...0-0\n       2.Rd1-g1 #\n{\n\nbut:}\n1.Ra1-d1!\
+  \ {(because the black 0-0 is illegal since \nthe black king or rook must have moved\
+  \ last)}"
+source:
+  date:
+    month: 4
+    year: 1929
+  name: The Chess Amateur
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kc8
+  - Re7
+  white:
+  - Kb6
+  - Re1
+  - Ba4
+  - Pd6
+  - Pc7
+authors:
+- Otto, P.
+keywords:
+- Black correction
+solution: "1.Ba4-c6 ! zugzwang.\n   1...Re7*e1\n       2.d6-d7 #\n   1...Re7-e2\n\
+  \       2.d6-d7 #\n   1...Re7-e3\n       2.d6-d7 #\n   1...Re7-e4\n       2.d6-d7\
+  \ #\n   1...Re7-e5\n       2.d6-d7 #\n   1...Re7-e6\n       2.d6-d7 #\n   1...Re7*c7\n\
+  \       2.Re1-e8 #\n   1...Re7-d7\n       2.Bc6-b7 #\n   1...Re7-e8\n       2.d6-d7\
+  \ #\n       2.Re1*e8 #\n   1...Re7-h7\n       2.Re1-e8 #\n   1...Re7-g7\n      \
+  \ 2.Re1-e8 #\n   1...Re7-f7\n       2.Re1-e8 #"
+source:
+  date:
+    month: 1
+    year: 1951
+  name: Der Schachspiegel
+  problemid: '363'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pa7
+  white:
+  - Ke6
+  - Rf1
+  - Be5
+authors:
+- Пустовой, Борис Дмитриевич
+keywords:
+- 2 flights giving key
+solution: "1.Rc1?? (2.Rc8#)\n   1...O-O 2.Rg1#\nbut 1...Kd8!\n\n1.Rb1! (2.Rb8#)\n\
+  \   1...O-O 2.Rg1#"
+source:
+  date:
+    year: 1971
+  name: Омская правда
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke5
+  - Re6
+  - Pd6
+  white:
+  - Kd3
+  - Rf1
+  - Bg8
+  - Pd7
+authors:
+- Giurgean, Valeriu
+solution: "1...Re8 2.dxe8Q#/dxe8R#\n\n\n\n1.d8N! zz\n   1...Kd5 2.Rf5#\n   1...d5\
+  \ 2.Nf7#\n   1...Re7/Re8/Rf6/Rg6/Rh6 2.Nc6#"
+source:
+  date:
+    year: 1981
+  name: Revista Română de Şah
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rb1
+  - Pb5
+  white:
+  - Kb6
+  - Rh7
+  - Bb8
+authors:
+- Блохин, Владимир Сергеевич
+keywords:
+- Cooked
+- Flight taking key
+solution: "1...Kxb8 2.Rh8#\n\n\n\n1.Rh8! (2.Bc7#/Bd6#/Be5#/Bf4#/Bg3#/Bh2#/Ba7#)\n\
+  \   1...Rc1 2.Bc7#\n   1...Rd1 2.Bd6#\n   1...Re1 2.Be5#\n   1...Rf1 2.Bf4#\n  \
+  \ 1...Rg1 2.Bg3#\n   1...Rh1 2.Bh2#\n\n1.Bd6! (2.Rh8#/Ra7#)\n   1...Ra1 2.Rh8#\n\
+  \   1...Rc1/Re1/Rf1/Rg1/Rh1 2.Ra7#\n\n1.Be5! (2.Rh8#/Ra7#)\n   1...Ra1 2.Rh8#\n\
+  \   1...Rc1/Rd1/Rf1/Rg1/Rh1 2.Ra7#\n\n1.Bf4! (2.Rh8#/Ra7#)\n   1...Ra1 2.Rh8#\n\
+  \   1...Rc1/Rd1/Re1/Rg1/Rh1 2.Ra7#\n\n1.Bg3! (2.Rh8#/Ra7#)\n   1...Ra1 2.Rh8#\n\
+  \   1...Rc1/Rd1/Re1/Rf1/Rh1 2.Ra7#\n\n1.Bh2! (2.Rh8#/Ra7#)\n   1...Ra1 2.Rh8#\n\
+  \   1...Rc1/Rd1/Re1/Rf1/Rg1 2.Ra7#"
+source:
+  date:
+    year: 1982
+  name: Призыв
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh1
+  - Rh2
+  white:
+  - Kf1
+  - Rf3
+  - Bb7
+  - Ph4
+  - Pg2
+authors:
+- Rice, John Michael
+keywords:
+- Urania
+solution: "1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\n\n1.Bc6? zz\n   1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\n\
+  but 1...Rxh4!\n\n1.Bd5? zz\n   1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\nbut 1...Rxh4!\n\n\
+  1.Be4? zz\n   1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\nbut 1...Rxh4!\n\n1.Ba8? zz\n   1...Rh3[a]/Rxg2[b]\
+  \ 2.Rxh3#[A]\nbut 1...Rxh4!\n\n1.Re3? zz\n   1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\nbut\
+  \ 1...Rxh4!\n\n1.Rd3? zz\n   1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\nbut 1...Rxh4!\n\n1.Rc3?\
+  \ zz\n   1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\nbut 1...Rxh4!\n\n1.Rb3? zz\n   1...Rh3[a]/Rxg2[b]\
+  \ 2.Rxh3#[A]\nbut 1...Rxh4!\n\n1.Ra3? zz\n   1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\nbut\
+  \ 1...Rxh4!\n\n1.Rg3? zz\n   1...Rh3[a]/Rxg2[b] 2.Rxh3#[A]\nbut 1...Rxh4!\n\n1.Rh3[A]?\
+  \ (2.g3#/g4#)\nbut 1...Rxh3[a]!\n\n1.Rf2?? zz\n   1...Rh3[a] 2.gxh3#/g3#\n   1...Rxh4\
+  \ 2.g4#\nbut 1...Rxg2[b]!\n\n1.g4! (2.Rh3#[A])\n   1...Rf2+ 2.Rxf2#"
+source:
+  date:
+    year: 1982
+  name: Deutsche Schachzeitung
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rd8
+  - Pd7
+  white:
+  - Kg8
+  - Ra5
+  - Bh4
+  - Pe6
+authors:
+- Антипов, Вячеслав Павлович
+keywords:
+- Model mates
+solution: "1...Ra8 2.Rxa8#\n\n1.Ra8?? (2.Rxd8#)\n   1...Rc8 2.Rxc8#\n   1...Rb8 2.Rxb8#\n\
+  but 1...Rxa8!\n\n1.Rd5?? zz\n   1...dxe6 2.Rxd8#\n   1...Rc8/Rb8/Ra8 2.exd7#\nbut\
+  \ 1...d6!\n\n1.Rf5?? (2.Rf8#)\nbut 1...dxe6!\n\n1.Ra7! zz\n   1...dxe6/d6/d5 2.Re7#\n\
+  \   1...Rc8/Rb8 2.exd7#\n   1...Ra8 2.Rxa8#/exd7#"
+source:
+  date:
+    month: 3
+    year: 1987
+  issue: '1'
+  name: Шахматные задачи (Боровичи)
+  problemid: '11'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh8
+  - Re1
+  - Pe6
+  white:
+  - Kh6
+  - Ra7
+  - Be8
+authors:
+- Иванов, Валерий Алексеевич
+keywords:
+- Fleck
+solution: "1.Ra8! (2.Bf7#/Bg6#/Bh5#/Bd7#/Bc6#/Bb5#/Ba4#)\n   1...Kg8 2.Bg6#/Bh5#\n\
+  \   1...Rd1 2.Bd7#\n   1...Rc1 2.Bc6#\n   1...Rb1 2.Bb5#\n   1...Ra1 2.Ba4#\n  \
+  \ 1...Rf1 2.Bf7#\n   1...Rg1 2.Bg6#\n   1...Rh1+ 2.Bh5#"
+source:
+  date:
+    day: 28
+    month: 5
+    year: 1988
+  name: Серп и молот
+  problemid: '20'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh7
+  - Rh8
+  - Pe7
+  white:
+  - Kg5
+  - Rg6
+  - Bc4
+  - Pf7
+authors:
+- Рыбак, Энрико
+solution: "1...Rg8 2.fxg8Q#\n\n1.f8Q?? (2.Rg7#/Rh6#/Qf7#/Qg7#/Qh6#/Qxe7#)\n   1...Rg8\
+  \ 2.Qxg8#/Qh6#\nbut 1...Rxf8!\n\n1.Rg8! (2.Bd3#/f8N#)\n   1...Rxg8+ 2.fxg8Q#\n \
+  \  1...e6 2.Bd3#\n   1...e5 2.f8N#"
+source:
+  date:
+    day: 25
+    month: 3
+    year: 1991
+  issue: '10'
+  name: Проблемист Прибужья
+  problemid: '1976'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kc8
+  - Rc7
+  white:
+  - Ka8
+  - Rc3
+  - Be8
+  - Ph7
+  - Pe7
+authors:
+- Кириллов, Станіслав Васильович
+keywords:
+- Vladimirov
+solution: "1...Rc5[a] 2.Rxc5#[A]\n1...Rc4[b] 2.Rxc4#[B]\n1...Rc6 2.Rxc6#\n\n1.h8R?\
+  \ (2.Bc6#/Bb5#/Ba4#)\n   1...Rc5[a] 2.Rxc5#[A]\n   1...Rc4[b] 2.Rxc4#[B]\n   1...Rc6\
+  \ 2.Rxc6#\nbut 1...Rxc3!\n\n1.h8B? zz\n   1...Rc5[a] 2.Rxc5#[A]\n   1...Rc4[b] 2.Rxc4#[B]\n\
+  \   1...Rc6 2.Rxc6#\nbut 1...Rxc3!\n\n1.h8N? zz\n   1...Rc5[a] 2.Rxc5#[A]\n   1...Rc4[b]\
+  \ 2.Rxc4#[B]\n   1...Rc6 2.Rxc6#\nbut 1...Rxc3!\n\n1.Rc2[C]? zz\n   1...Rc5[a] 2.Rxc5#[A]\n\
+  \   1...Rc4[b] 2.Rxc4#[B]\n   1...Rc6 2.Rxc6#\n   1...Rc3 2.Rxc3#\nbut 1...Rxc2[c]!\n\
+  \n1.Rc1? zz\n   1...Rc5[a] 2.Rxc5#[A]\n   1...Rc4[b] 2.Rxc4#[B]\n   1...Rc2[c] 2.Rxc2#[C]\n\
+  \   1...Rc6 2.Rxc6#\n   1...Rc3 2.Rxc3#\nbut 1...Rxc1!\n\n1.Rc4[B]? zz\n   1...Rc5[a]\
+  \ 2.Rxc5#[A]\n   1...Rc6 2.Rxc6#\nbut 1...Rxc4[b]!\n\n1.Rc5[A]? zz\n   1...Rc6 2.Rxc6#\n\
+  but 1...Rxc5[a]!\n\n\n\n1.h8Q! (2.Qh3#/Bc6#/Bb5#/Ba4#)\n   1...Rc5[a] 2.Rxc5#[A]\n\
+  \   1...Rc4[b] 2.Rxc4#[B]\n   1...Rc6 2.Rxc6#\n   1...Rxc3 2.Qxc3#"
+source:
+  date:
+    year: 1992
+  name: Проблемист Прибужья
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh8
+  - Rc3
+  - Pc6
+  white:
+  - Kh6
+  - Ra4
+  - Bc8
+authors:
+- Лебідинець, Микола Григорович
+keywords:
+- Fleck
+solution: "1.Ra8! (2.Bd7#/Be6#/Bf5#/Bg4#/Bh3#/Bb7#/Ba6#)\n   1...Kg8/Re3 2.Be6#\n\
+  \   1...Rb3 2.Bb7#\n   1...Ra3 2.Ba6#\n   1...Rd3 2.Bd7#\n   1...Rf3 2.Bf5#\n  \
+  \ 1...Rg3 2.Bg4#\n   1...Rh3+ 2.Bxh3#"
+source:
+  date:
+    year: 1993
+  name: Мат (Черкаси)
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rg7
+  white:
+  - Kb5
+  - Rb7
+  - Bh5
+  - Pg6
+  - Pe7
+authors:
+- Дикусаров, Андрей Николаевич
+keywords:
+- Black correction
+solution: "1.Kb5-c6 ! zugzwang.\n    1...Rg7*g6 +\n        2.Bh5*g6 #\n    1...Rg7*e7\n\
+  \        2.Rb7-b8 #\n    1...Rg7-f7\n        2.g6*f7 #\n    1...Rg7-g8\n       \
+  \ 2.g6-g7 #\n    1...Rg7-h7\n        2.g6*h7 #"
+source:
+  date:
+    year: 1995
+  name: Белёвская правда
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rb8
+  white:
+  - Ka6
+  - Rg8
+  - Bh8
+  - Ph7
+  - Pg7
+authors:
+- Шеянов, Алексей А.
+keywords:
+- Vladimirov
+- Block
+solution: "1...Rd8[a] 2.Rxd8#[A]\n1...Re8[b] 2.Rxe8#[B]\n1...Rc8 2.Rxc8#\n1...Rf8\
+  \ 2.gxf8Q#/gxf8R#/Rxf8#\n1...Rxg8 2.hxg8Q#/hxg8R#\n\n1.Re8[B]? zz\n   1...Rd8[a]\
+  \ 2.Rxd8#[A]\n   1...Rc8 2.Rxc8#\nbut 1...Rxe8[b]!\n\n1.Rd8[A]? zz\n   1...Rc8 2.Rxc8#\n\
+  but 1...Rxd8[a]!\n\n\n\n1.Rf8! zz\n   1...Rd8[a] 2.Rxd8#[A]\n   1...Re8[b] 2.Rxe8#[B]\n\
+  \   1...Rc8 2.Rxc8#\n   1...Rxf8 2.gxf8Q#/gxf8R#"
+source:
+  date:
+    day: 25
+    month: 12
+    year: 1995
+  name: Темп-64 (Николаев)
+  problemid: '1225'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  white:
+  - Ke6
+  - Rb7
+  - Be5
+  - Pb6
+authors:
+- Андреев, Александр Григорьевич
+solution: "1...O-O-O/Ra7/Ra6/Ra5/Ra4/Ra3/Ra2/Ra1/Rb8 2.Rb8#\n\n1.Rg7?? (2.Rg8#)\n\
+  \   1...O-O-O 2.b7#\nbut 1...Kf8!\n\n1.Rh7! (2.Rh8#)\n   1...O-O-O 2.b7#"
+source:
+  date:
+    year: 1997
+  name: Акцент
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh8
+  - Ra8
+  - Pg6
+  white:
+  - Kh6
+  - Rg7
+  - Bg1
+  - Pe7
+authors:
+- Андреев, Александр Григорьевич
+keywords:
+- Threat reversal
+solution: "1...Ra7/Ra6/Ra5/Ra4/Ra3/Ra2/Ra1 2.e8Q#/e8R#\n1...Rd8 2.exd8Q#/exd8R#\n\
+  1...Rf8 2.exf8Q#/exf8R#\n1...Rg8 2.Rh7#\n\n1.Rxg6[A]? (2.Bd4#[B])\n   1...Ra6/Ra5/Ra4\
+  \ 2.e8Q#/e8R#\n   1...Rd8 2.exd8Q#/exd8R#\n   1...Rf8 2.exf8Q#/exf8R#\nbut 1...Rg8!\n\
+  \n\n\n1.Bd4[B]! (2.Rxg6#[A])\n   1...Ra6/Ra5/Ra4 2.e8Q#/e8R#\n   1...Rd8 2.exd8Q#/exd8R#\n\
+  \   1...Rf8 2.exf8Q#/exf8R#\n   1...Rg8 2.Rh7#"
+source:
+  date:
+    year: 1997
+  name: Bankowskaja gaseta
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka6
+  - Ra8
+  white:
+  - Ka4
+  - Rh8
+  - Bc5
+  - Pc6
+  - Pa7
+authors:
+- Андреев, Александр Григорьевич
+keywords:
+- Black correction
+solution: "1...Rb8 2.axb8N#\n\n\n\n1.Rb8! zz\n   1...Rxa7 2.Rb6#\n   1...Rxb8 2.axb8N#"
+source:
+  date:
+    year: 1997
+  name: Bankowskaja gaseta
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kf8
+  - Ra8
+  white:
+  - Kg5
+  - Rb7
+  - Bb8
+  - Pc6
+  - Pa7
+authors:
+- Battaglia, Emilio
+keywords:
+- 3+ flights giving key
+solution: "1.c6-c7 ! threat:\n        2.c7-c8=Q #\n    1...Ra8*b8\n        2.c7*b8=Q\
+  \ #"
+source:
+  date:
+    year: 1997
+  name: Кудесник
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh8
+  - Rg1
+  - Pg2
+  white:
+  - Kg6
+  - Ra7
+  - Bg8
+  - Ph7
+authors:
+- Иванов, Валерий Алексеевич
+- Лобусов, Андрей Яковлевич
+- Новак, Н.
+- Румянцев, Сергей Юрьевич
+award:
+  distinction: Special Prize
+  tourney:
+    name: Черкаський край
+keywords:
+- Fleck
+solution: "1.Ra8! (2.Bf7#/Be6#/Bd5#/Bc4#/Bb3#/Ba2#)\n   1...Rf1 2.Bf7#\n   1...Re1\
+  \ 2.Be6#\n   1...Rd1 2.Bd5#\n   1...Rc1 2.Bc4#\n   1...Rb1 2.Bb3#\n   1...Ra1 2.Ba2#\n\
+  Тема Кужаева, разновидность темы Флека"
+source:
+  date:
+    year: 1998
+  name: Черкаський край
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka5
+  - Rb4
+  - Pb6
+  white:
+  - Kb7
+  - Rb1
+  - Be1
+  - Pb3
+authors:
+- Кукин, Геннадий Иванович
+solution: "1...b5 2.Ra1#\n\n1.Ka7?? zz\n   1...b5 2.Ra1#\nbut 1...Kb5!\n\n1.Kc6??\
+  \ (2.Ra1#)\nbut 1...Ka6!\n\n1.Rb2?? zz\n   1...b5 2.Ra2#\nbut 1...Kb5!\n\n1.Rc1??\
+  \ zz\n   1...b5 2.Ra1#\nbut 1...Kb5!\n\n1.Bd2?? zz\n   1...b5 2.Ra1#\nbut 1...Kb5!\n\
+  \n1.Bc3?? zz\n   1...b5 2.Ra1#\nbut 1...Kb5!\n\n1.Rd1! zz\n   1...Kb5 2.Rd5#\n \
+  \  1...b5 2.Ra1#"
+source:
+  date:
+    year: 2001
+  name: Кудесник
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rc7
+  white:
+  - Kb6
+  - Rc6
+  - Be8
+  - Pa7
+  - Pa6
+authors:
+- Шумарин, Владимир Павлович
+keywords:
+- Black correction
+- Block
+- Perpetuum mobile
+solution: "a)\n1...Rxc6+ 2.Bxc6#\n1...Rc8/Rxa7/Rd7/Re7/Rf7/Rg7/Rh7 2.Rxc8#\n1...Rb7+\
+  \ 2.axb7#\n\n1.Bf7?? zz\n   1...Rc8/Rxa7/Rd7/Re7/Rxf7 2.Rxc8#\n   1...Rb7+ 2.axb7#\n\
+  but 1...Rxc6+!\n\n1.Bg6?? zz\n   1...Rc8/Rxa7/Rd7/Re7/Rf7/Rg7/Rh7 2.Rxc8#\n   1...Rb7+\
+  \ 2.axb7#\nbut 1...Rxc6+!\n\n1.Bh5?? zz\n   1...Rc8/Rxa7/Rd7/Re7/Rf7/Rg7/Rh7 2.Rxc8#\n\
+  \   1...Rb7+ 2.axb7#\nbut 1...Rxc6+!\n\n1.Rc5?? zz\n   1...Rc6+ 2.Bxc6#\n   1...Rc8/Rxa7/Rd7/Re7/Rf7/Rg7/Rh7\
+  \ 2.Rxc8#\n   1...Rb7+ 2.axb7#\nbut 1...Rxc5!\n\n1. Bd7! zz\n   1...Rxc6+ 2.Bxc6#\n\
+  \   1...Rc8/Rxa7/Rxd7 2.Rxc8#\n   1...Rb7+ 2.axb7#\n\nb) wBe8 -- d7\n1."
+source:
+  date:
+    year: 2002
+  name: Керченский рабочий
+stipulation: '#2'
+twins:
+  b: after the key
+---
+algebraic:
+  black:
+  - Ka8
+  - Rb5
+  - Pd7
+  - Pa7
+  white:
+  - Kd8
+  - Rh8
+  - Bg8
+authors:
+- Lincoln, Robert A.
+keywords:
+- Checking key
+- Flight taking key
+- Active sacrifice
+solution: "1.Bd5+!\n   1...Kb8 2.Kxd7#\n   1...Rb7 2.Ke7#\n   1...Rxd5 2.Kc7#"
+source:
+  date:
+    year: 2002
+  name: Still More Fun with Chess Miniatures
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rc7
+  white:
+  - Kh5
+  - Rh7
+  - Bb5
+  - Pe7
+  - Pc6
+authors:
+- Дикусаров, Андрей Николаевич
+comments:
+- autoplagiat 154549
+keywords:
+- Black correction
+solution: "1.Kh5-g6 ! zugzwang.\n    1...Rc7*c6 +\n        2.Bb5*c6 #\n    1...Rc7-a7\n\
+  \        2.c6-c7 #\n    1...Rc7-b7\n        2.c6*b7 #\n    1...Rc7-c8\n        2.c6-c7\
+  \ #\n    1...Rc7*e7\n        2.Rh7-h8 #\n    1...Rc7-d7\n        2.c6*d7 #"
+source:
+  date:
+    year: 2005
+  name: Кудесник
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rc7
+  white:
+  - Kb1
+  - Ra1
+  - Bh1
+  - Pc6
+  - Pa7
+authors:
+- Пожарський, Анатолій Степанович
+keywords:
+- Black correction
+- Model mates
+solution: "1...Rxc6 2.Bxc6#\n1...Rc8/Rxa7 2.c7#\n1...Rb7+ 2.cxb7#\n1...Rd7 2.cxd7#\n\
+  \n1.Be4?? zz\n   1...Rxc6 2.Bxc6#\n   1...Rc8/Rxa7/Rf7/Rg7/Rh7 2.c7#\n   1...Rb7+\
+  \ 2.cxb7#\n   1...Rd7 2.cxd7#\nbut 1...Re7!\n\n1.Bd5! zz\n   1...Rxc6 2.Bxc6#\n\
+  \   1...Rc8/Rxa7/Re7/Rf7/Rg7/Rh7 2.c7#\n   1...Rb7+ 2.cxb7#\n   1...Rd7 2.cxd7#"
+source:
+  date:
+    year: 2006
+  name: Шаховий Леополіс
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kf6
+  - Re8
+  - Pf4
+  - Pd6
+  white:
+  - Kh7
+  - Re5
+  - Be1
+  - Pg7
+  - Pg6
+  - Pf3
+  - Pe4
+  - Pd5
+authors:
+- Krúteľ, Jozef
+foreignids:
+- domain: WinChloe
+  problemid: 478259
+keywords:
+- Switchback
+solution: "1.Kh7-h6 ! zugzwang.\n    1...Re8-e6 {(R~)}\n        2.Re5*e6 #\n    1...Re8*e5\n\
+  \        2.g7-g8=S #\n    1...Re8-e7\n        2.Re5-f5 #\n    1...Re8-h8 +\n   \
+  \     2.g7*h8=Q #\n    1...d6*e5\n        2.Be1-h4 #\n    1...Kf6*e5\n        2.Be1-c3\
+  \ #"
+source:
+  date:
+    day: 24
+    month: 9
+    year: 1960
+  name: Smena (Bratislava)
+  problemid: 56v
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kd6
+  - Rd8
+  white:
+  - Kd4
+  - Rf8
+  - Bd7
+  - Pe7
+  - Pc7
+  - Pb7
+authors:
+- Latzel, Gerhard Paul
+keywords:
+- Flight taking key
+solution: "1.Rxd8?? zz\n   1...Kxc7 2.b8Q#\nbut 1...Kxe7!\n\n1.cxd8R?? zz\n   1...Kc7\
+  \ 2.b8Q#\nbut 1...Kxe7!\n\n1.exd8R! zz\n   1...Ke7 2.c8N#\n   1...Kxc7 2.b8Q#"
+source:
+  date:
+    year: 1970
+  name: Deutsche Schachzeitung
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kd8
+  - Rf1
+  - Pg3
+  - Pf7
+  - Pe4
+  white:
+  - Kc6
+  - Rg5
+  - Bf8
+authors:
+- Лебідинець, Микола Григорович
+solution: "1.Bd6?? (2.Rg8#)\nbut 1...Rc1+!\n\n1.Bc5?? (2.Rg8#)\nbut 1...Rf6+!\n\n\
+  1.Rg8! (2.Bd6#/Bc5#/Bb4#/Ba3#)\n   1...Rf6+ 2.Bd6#\n   1...Rc1+ 2.Bc5#"
+source:
+  date:
+    year: 1992
+  name: Mat-Pat
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pe7
+  white:
+  - Kg1
+  - Ra3
+  - Bb8
+  - Pe6
+authors:
+- Pauly, Wolfgang
+keywords:
+- Retro
+- Cantcastler
+solution: "a)\n 1.Ra8! (2.B~)\n  1. ... Kf8 2. Be5#\n  1. ... Rg8+ 2. Bg3#\n (1...O-O?)\n\
+  \nb) Add bPg2\n  1.Be5! (2.Ra8#) \n  1. ... O-O 2. Rg3#"
+source:
+  date:
+    year: 1913
+  name: The Chess Amateur
+stipulation: '#2'
+twins:
+  b: Add Black Pawn g2
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Ph7
+  - Pg7
+  - Pe6
+  - Pd7
+  - Pc4
+  - Pb7
+  - Pa7
+  - Pa4
+  white:
+  - Ke1
+  - Rh1
+  - Bd6
+  - Pg6
+  - Pd2
+  - Pc3
+  - Pb6
+  - Pb2
+  - Pa3
+authors:
+- Vokál, Stanislav
+keywords:
+- Retro
+solution: '1.O-O?? (2.Rf8#)
+
+  but 1...O-O-O!
+
+
+  1.Rxh7?? (2.Rh8#)
+
+  but 1...O-O-O!
+
+
+  1.Rf1?? (2.Rf8#)
+
+  but 1...O-O-O!'
+source:
+  date:
+    year: 1996
+  name: Pravda (Bratislava)
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Pa7
+  white:
+  - Ke6
+  - Rb7
+  - Be5
+authors:
+- Капустін, Федір Михайлович
+keywords:
+- Cantcastler
+solution: '1... Rb8, O-O-O 2. R(:)b8#
+
+
+  1. Rg7? [2. Rg8#]
+
+  1... Kd8 2. Rg8#
+
+  But 1... Kf8! 1...0-0-0?(bK or bR moved)
+
+
+  1. Rh7! [2. Rh8#]
+
+  1... Kd8/f8 2. Rh8# 1...0-0-0?'
+source:
+  date:
+    year: 2009
+  name: Кудесник
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kh6
+  - Rf8
+  - Ph7
+  white:
+  - Kh4
+  - Rg4
+  - Be5
+  - Pg6
+authors:
+- Наговицын, Эдуард Николаевич
+award:
+  distinction: Special Prize
+  tourney:
+    name: ТТ-106
+keywords:
+- Pseudo Le Grand
+- Pseudo Le Grand (3x)
+- Miniature
+- Twin stipulation
+- White underpromotion
+solution: "a) \n   1.g6-g7 ! threat:\n          2.g7*f8=Q #\n          2.g7*f8=B #\n\
+  \      1...Rf8-f1\n          2.g7-g8=S #\n      1...Rf8-f2\n          2.g7-g8=S\
+  \ #\n      1...Rf8-f3\n          2.g7-g8=S #\n      1...Rf8-f4\n          2.g7-g8=S\
+  \ #\n          2.Be5*f4 #\n      1...Rf8-f5\n          2.g7-g8=S #\n      1...Rf8-f6\n\
+  \          2.g7-g8=S #\n      1...Rf8-f7\n          2.g7-g8=S #\n      1...Rf8-a8\n\
+  \          2.Be5-f4 #\n      1...Rf8-b8\n          2.Be5-f4 #\n      1...Rf8-c8\n\
+  \          2.Be5-f4 #\n      1...Rf8-d8\n          2.Be5-f4 #\n      1...Rf8-e8\n\
+  \          2.Be5-f4 #\n      1...Rf8-h8\n          2.Be5-f4 #\n      1...Rf8-g8\n\
+  \          2.Be5-f4 #\nb) bRf8--a8  \n   1.g6-g7 ! threat:\n          2.Be5-f4 #\n\
+  \      1...Ra8-a4\n          2.g7-g8=S #\n      1...Ra8-a5\n          2.g7-g8=S\
+  \ #\n      1...Ra8-f8\n          2.g7*f8=Q #\n          2.g7*f8=B #\nc) bRf8--f7\
+  \  \n   1.g6-g7 ! threat:\n          2.g7-g8=S #\n      1...Rf7-f8\n          2.g7*f8=Q\
+  \ #\n          2.g7*f8=B #\n      1...Rf7*g7\n          2.Be5*g7 #\nd) bRf8--a5\
+  \  \n   1.g6-g7 ! threat:\n          2.g7-g8=S #\n      1...Ra5-a8\n          2.Be5-f4\
+  \ #"
+source:
+  date:
+    year: 2014
+  name: SuperProblem
+stipulation: '#2'
+twins:
+  b: Move f8 a8
+  c: Move f8 f7
+  d: Move f8 a5
+---
+algebraic:
+  black:
+  - Kd8
+  - Rf7
+  white:
+  - Ka5
+  - Ra7
+  - Bg5
+  - Pf6
+  - Pd7
+authors:
+- Дикусаров, Андрей Николаевич
+comments:
+- autoplagiat 154549
+solution: "1.Ka5-b6 ! zugzwang.\n    1...Rf7*f6 +\n        2.Bg5*f6 #\n    1...Rf7*d7\n\
+  \        2.Ra7-a8 #\n    1...Rf7-e7\n        2.f6*e7 #\n    1...Rf7-f8\n       \
+  \ 2.f6-f7 #\n    1...Rf7-h7\n        2.f6-f7 #\n    1...Rf7-g7\n        2.f6*g7\
+  \ #"
+source:
+  date:
+    month: 4
+    year: 2005
+  issue: '87'
+  name: Šachová skladba
+  problemid: '7494'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pf7
+  - Pc6
+  white:
+  - Ke1
+  - Ra1
+  - Bf6
+authors:
+- Stubbs, Charles Francis
+solution: "1...Ke8-f8 2.Ra1-a8 #\n\n1.Ra1-d1 ? threat: 2.Rd1-d8 #\nbut\n  1...0-0\
+  \ !\n\n1.0-0-0 ! threat: 2.Rd1-d8 #\n  1...0-0 2.Rd1-g1 #"
+source:
+  date:
+    month: 6
+    year: 1908
+  issue: '6'
+  name: American Chess Bulletin
+  problemid: '355'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Ra7
+  - Pb7
+  white:
+  - Kc8
+  - Rb1
+  - Bg1
+  - Pc6
+authors:
+- Панкратьев, Александр Николаевич
+solution: "1.Rb1*b7 ! threat:\n        2.Rb7*a7 #\n        2.Rb7-b8 #\n    1...Ra7*b7\n\
+  \        2.c6*b7 #"
+source:
+  date:
+    year: 2011
+  name: Кудесник
+  problemid: '74'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Rh8
+  white:
+  - Kg1
+  - Rg2
+  - Bh2
+  - Pb6
+  - Pa6
+authors:
+- Lincoln, Robert A.
+award:
+  distinction: Comm., for miniatures, 2016-2017
+  tourney:
+    name: Алёна Кожакина - 25
+keywords:
+- Lincoln theme
+solution: "1.Rg2-g7 ! threat:\n        2.Rg7-a7 #\n    1...Rh8*h2\n        2.Rg7-g8\
+  \ #\n    1...Rh8-h7\n        2.Rg7-g8 #\n    1...Rh8-g8\n        2.Rg7*g8 #"
+source:
+  date:
+    year: 2017
+  name: Кудесник
+  problemid: '6814'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pa6
+  white:
+  - Ke1
+  - Ra1
+  - Bf6
+  - Pe6
+authors:
+- Hagemann, Wilhelm
+keywords:
+- Castling (2x)
+- Castling key
+solution: "1.0-0-0 ! threat:\n       2.Rd1-d8 #\n   1...0-0\n       2.Rd1-g1 #"
+source:
+  date:
+    year: 1951
+  name: Arbejder-Skak
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pf7
+  - Pe6
+  white:
+  - Ke1
+  - Ra1
+  - Bf6
+authors:
+- Stöckli, B.
+comments:
+- anticipated 82479
+- Black cannot castle without Pe6
+keywords:
+- Castling
+reprints:
+- date:
+    day: 17
+    month: 3
+    year: 1984
+  name: Der neue Tag
+  problemid: 661
+solution: "1.0-0-0 ! threat:\n       2.Rd1-d8 #\n   1...0-0\n       2.Rd1-g1 #"
+source:
+  date:
+    year: 1929
+  name: Werdenfelser Anzeiger
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Ra8
+  - Pd7
+  - Pb7
+  - Pa6
+  white:
+  - Ke1
+  - Rh1
+  - Bd6
+authors:
+- Heynen, Robert
+keywords:
+- Castling key
+- Castling (2x)
+solution: "1.0-0 ! threat:\n       2.Rf1-f8 #\n   1...0-0-0\n       2.Rf1-c1 #"
+source:
+  date:
+    day: 15
+    month: 10
+    year: 1931
+  name: Deutsche Schachblätter
+  problemid: '5386'
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pf7
+  - Pa5
+  white:
+  - Ke1
+  - Ra1
+  - Bf6
+authors:
+- Görbe, János
+solution: "1.0-0-0 ! threat:\n        2.Rd1-d8 #\n    1...0-0\n        2.Rd1-g1 #"
+source:
+  date:
+    day: 8
+    month: 1
+    year: 1991
+  name: Békés Megyei Hírlap
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ka8
+  - Ra4
+  white:
+  - Kf5
+  - Rd5
+  - Bb8
+  - Pc6
+  - Pb6
+authors:
+- Wells, B. F.
+keywords:
+- Battery play
+- Flight taking key
+- Miniature
+reprints:
+- date:
+    day: 8
+    month: 5
+    year: 1904
+  name: The Wilmington (Delaware) Sunday Morning Star
+  problemid: 79
+solution: "1.Rd5-d8 ! threat:\n       2.Bb8-a7 #\n       2.Bb8-h2 #\n       2.Bb8-g3\
+  \ #\n       2.Bb8-f4 #\n       2.Bb8-e5 #\n       2.Bb8-d6 #\n       2.Bb8-c7 #\n\
+  \       2.b6-b7 #\n   1...Ra4-a7\n       2.Bb8*a7 #\n       2.Bb8-h2 #\n       2.Bb8-g3\
+  \ #\n       2.Bb8-f4 #\n       2.Bb8-e5 #\n       2.Bb8-d6 #\n       2.Bb8-c7 #\n\
+  \   1...Ra4-a5 +\n       2.Bb8-e5 #\n   1...Ra4-f4 +\n       2.Bb8*f4 #\n   1...Ra4-d4\n\
+  \       2.Bb8-d6 #\n       2.b6-b7 #\n   1...Ra4-b4\n       2.Bb8-a7 #\n       2.Bb8-h2\
+  \ #\n       2.Bb8-g3 #\n       2.Bb8-f4 #\n       2.Bb8-e5 #\n       2.Bb8-d6 #\n\
+  \       2.Bb8-c7 #"
+source:
+  date:
+    year: 1904
+  name: The American Chess Monthly
+  problemid: E1
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke8
+  - Rh8
+  - Ph7
+  - Pe7
+  white:
+  - Kg1
+  - Ra3
+  - Bb8
+  - Pe6
+authors:
+- Pauly, Wolfgang
+foreignids:
+- domain: Albrecht
+  problemid: 116024
+- domain: WinChloe
+  problemid: 14379
+keywords:
+- Cantcastler
+- Retro
+- Castling dilemma
+- Mate on same square
+- Miniature
+- Battery creation
+- Battery play
+- Twin stipulation
+reprints:
+- date:
+    day: 28
+    month: 3
+    year: 1914
+  name: Neue Zürcher Zeitung
+  problemid: 215 and 216
+solution: "a) \n   1.Ra3-a8 ! threat:\n          2.Bb8-h2 # {(2.Bb8~#)}\n      1...Rh8-g8\
+  \ + {(Black can't castle no more!)}\n          2.Bb8-g3 #\nb) +bPg2  \n   1.Bb8-e5\
+  \ ! threat:\n          2.Ra3-a8 #\n      1...0-0\n          2.Ra3-g3 #"
+source:
+  date:
+    year: 1914
+  name: The Chess Amateur
+stipulation: '#2'
+twins:
+  b: Add Black Pg2

@@ -1,12 +1,5 @@
 % ==== Document Class & Packages =====
 
-\geometry{
- letterpaper %,
-% left=15mm,
-% right=15mm,
-% top=15mm
-}
-
 % ============= Macros ================
 
 % ============= Colors ================
@@ -43,26 +36,10 @@
 \definecolor{yellowgreen}{rgb}{0.6, 0.8, 0.2}
 % ======== Footers & Headers ==========
 % ========= Chapter Format ==========
-\titleformat{\chapter}[display]
-{\bfseries\Large\itshape}
-{ \chaptername \thechapter}
-{0.5ex}
-{ % before-code
-    \rule{\textwidth}{1pt}
-    \vspace{1ex}
-    \centering
-}
-[ % after-code
-\vspace{-0.5ex}%
-\rule{\textwidth}{0.3pt}
-]
-% ========= TOC =====================
-\renewcommand{\contentsname}{\centering Contents}
-% ========= Section Format ==========
-\titleformat{\section}[wrap]
-{\normalfont\bfseries}
-{\thesection.}{0.5em}{}
 
-\titlespacing{\section}{12pc}{1.5ex plus .1ex minus .2ex}{1pc}
+% ========= TOC =====================
+
+% ========= Section Format ==========
+
 % ======== chess decorations ==========
 \setchessboard{normalboard,showmover=false}

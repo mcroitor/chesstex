@@ -1,0 +1,165 @@
+\subsection*{Жертвуя ферзя}
+\markright{}
+\addcontentsline{toc}{subsection}{Жертвуя ферзя}
+\dianamestyle{fullname}
+
+Эта статья посвящена жертве ферзя как теме в задачах. Причем не любой, а именно - жертве в трёхходовке в нескольких вариантах с целью завлечения черного короля под батарею.
+
+\begin{multicols}{2}[]
+Историю следует начать с того дня, когда я, в далёком 1998 году, проникнувшись замечательной книгой Руденко ``Преследование темы'' \cite{Rudenko}, составил свою первую задачу на тему завлекающей жертвы ферзя. Была она следующего вида:
+
+\begin{center}
+\begin{diagram}%
+  \source{схема}
+  \pieces[10+10]{sLg8, wSa7, sBb7, sBc7, wDd7, wKe7, wBf6, wSb5, wBh5, wTa4, sBd4, sKe4, sBg4, sBe3, wBg3, wBf2, sSh2, sLa1, sTd1, wLf1}%
+  \stipulation{\#3}%
+\end{diagram}%
+\end{center}
+
+Решение:
+
+\bold{1. \rook{}a5!} угроза \bold{2. \queen{}f5+! \king{}xf5 3. \knight{}d6\mate{}; 2. \knight{}d6+;}\\ 
+\bold{1... \bishop{}d5 2. \queen{}xd5+! \king{}xd5 3. \knight{}c3\mate{};}
+
+Дополнительно \italic{1... \bishop{}e6 2. \queen{}xe6+; 1... exf2 2. \queen{}f5+}. 
+
+У этой задачи есть серьёзный недостаток: кроме запланированой угрозы с жертвой ферзя есть паразитный шах конём, который убирает всю тематичность. Спустя много лет задача была переделана и опубликована в Mat Plus.
+
+\begin{center}
+\begin{diagram}%
+\author{Кройтор, Михаил}%
+  \source{Mat Plus}\year{2007}%
+  \pieces[7+9]{wSb8, sLc8, sTh8, sBa7, sBd7, sBh7, sKd6, sBe6, wTh6, wBa5, sBb5, wLg5, wDc3, wKd3, wBe3, sLg3}%
+  \stipulation{\#3}%
+\end{diagram}%
+\end{center}\index{Кройтор Михаил}
+
+\bold{1. \rook{}h5!} угроза \bold{2. \queen{}c5+! \king{}xc5 3. \bishop{}e7\mate{}\\ 
+1... \bishop{}e5 2. \queen{}xe5+! \king{}xe5 3. \bishop{}e7\mate{};}
+
+Дополнительная игра \italic{1... e5 2. \rook{}h6+ \king{}d5 3. e4\mate{}}. 
+
+Как видно, позиция полегчала на довольно большое количество фигур, решение стало чище, пропала паразитная угроза. Изменения налицо в лучшую сторону. Однако, одной из целей был перенос угрозы в вариант, чего добиться мне не удалось.
+
+Как видно, в предыдущей задаче использовалась горизонтальная батарея. Поэтому естественным желанием стало эксперементирование с диагональной батареей, благодаря чему была составлена следующая позиция (диаграмма 48).
+
+\begin{center}
+    \begin{diagram}
+    \author{Кройтор, Михаил}%
+      \fen{2n5/p1KQ3N/2P3p1/4k3/3rp1P1/1R5R/1B2P3/1B1r2b1}
+      \stipulation{\#3}
+    \end{diagram}
+\end{center}\index{Кройтор Михаил}
+
+Как и в предыдущей задаче, решает построение косвенной батареи:
+
+\bold{1.\bishop{}a2 !} с созданием тематической угрозы \bold{2. \queen{}d5+ \king{}f4 3. \queen{}g5\mate{}; 2... \king{}xd5 3. \rook{}b5\mate{}}
+
+\bold{1... e3 2. \queen{}e6+! \king{}f4 3. \rook{}hf3\mate{};
+2... \king{}xe6 3. \rook{}bxe3\mate{};}
+
+И дополнительные варианты:              
+              
+\bold{1... \bishop{}h2 2. \rook{}b5+ \king{}f4 3. e3\mate{};\\
+1... \king{}f4 2. \queen{}f7+ \king{}e5 3. \rook{}b5\mate{};
+2... \king{}xg4 3. \rook{}bg3\mate{}}
+
+Однако, уже после отправки первой задачи, я просматривал книгу Владимирова ``1000 шедевров шахматной композиции'' \cite{Vladimirov1000}. Найденная там задача показала совершенно другую схему, очень меня впечатлившую.
+
+\begin{center}
+\begin{diagram}%
+  \author{Агапов, Игорь}%
+  \source{64-ШО}\year{1999}%
+  \award{1st-2nd Prize}%
+  \pieces[8+7]{wKa8, sSf8, wLa7, sBa6, wLg6, wDh6, wTd5, wBf5, wTc4, wSd4, sKe4, sBg3, sBe2, sLa1, sLd1}%
+  \stipulation{\#3}%
+\end{diagram}%
+\end{center}\index{Агапов Игорь}
+
+Вступительный ход разрушает одну из батарей:
+
+\bold{1. \bishop{}h5!} угроза \bold{2. \knight{}f3+ \king{}xd5 3.\queen{}xc6\mate{}}
+
+И жертва ферзя в трёх вариантах:
+
+\bold{1... \bishop{}a4 2. \queen{}f4+!;}\\
+\bold{1... \king{}d3 2. \queen{}d2+!;}\\
+\bold{1... \knight{}g6 2. \queen{}e3+!}
+
+В данном случае происходит завлечение под 3 различные батареи, соединённые в ``веер''. Эффектно! 
+
+Другая задача была найдена чуть позже, во время просматривания композиций, присланных на конкурс ``Рифей 2007''.
+
+\begin{center}
+\begin{diagram}%
+  \author{Сорока, Иван}%
+  \year{2006}%
+  \award{3rd Prize}%
+  \pieces[9+5]{wKe8, wSg8, wDa7, sBb7, wLd7, sBg7, wBa6, wSb6, wBb5, sKc5, sBc4, wTg3, wLh2, sSd1}%
+  \stipulation{\#3}%
+\end{diagram}%
+\end{center}\index{Сорока Иван}
+
+Вкрадчивый ход белого ферзя
+
+\bold{1.\queen{}b8!!} создаёт угрозу \bold{2.\queen{}d6+!! \king{}xd6 3.\rook{}g5\mate{}};
+
+И два тематических варианта:
+
+\bold{1... \king{}d4 2.\queen{}e5+!! \king{}xe5 3.\rook{}g4\mate{};}\\
+\bold{1... \king{}xb6 2.\queen{}c7+!! \king{}xc7 3.\rook{}g6\mate{}}.
+
+Здесь уже жертва ферзя проводится в трёх вариантах для завлечения под одну батарею! Красивый замысел реализован в лёгкой, изящной форме! 
+
+Эта позиция подвигла меня на последующие поиски: насколько давно тему успели реализовать? Каких достигли успехов?
+
+Оказалось, что завлечение при помощи жертвы ферзя в нескольких вариантах встретилось еще в совместной задаче Лошинского и Хайрабедяна в 1953 году.
+
+\begin{center}
+\begin{diagram}%
+  \author{Лошинский, Лев; Хайрабедян, Крикор}%
+  \year{1953}%
+  \award{2nd Prize}\tournament{Szachy}%
+  \pieces[10+11]{wLa8, sTf8, sLg8, sBa7, wKa6, wSc6, sBf6, wTh6, sBc5, sKf5, sBg5, wSh5, sSc4, sBd4, wLf4, wBc3, wBc2, sDd2, sBe2, wBf2, wDh1}%
+  \stipulation{\#3}%
+  \themes{%
+    Active sacrifice, Battery play, Grimshaw, Dual
+  }%
+\end{diagram}%
+\end{center}\index{Лошинский Лев}\index{Хайрабедян Крикор}
+
+Батарея была образована слоном и конём. Также под подобную батарею завлекал короля Капуста в 1994.
+
+\begin{center}
+\begin{diagram}%
+  \author{Капуста, Віктор}%
+  \source{Phénix}\year{1994}%
+  \award{1st Prize}\tournament{Phénix}%
+  \pieces[12+10]{wTb8, sSe8, sDg8, wBc7, sBd7, wLe7, wTf7, sBd6, sBg6, wBc5, sKd5, wBe5, wDa4, wBf4, wSb3, sBd3, sBe3, wKf3, wSg2, sTa1, sSd1, wLh1}%
+  \stipulation{\#3}%
+  \themes{%
+    Active sacrifice, Remote selfblock, Battery play
+  }%
+\end{diagram}%
+\end{center}\index{Капуста Віктор}
+
+На этом пока что мои поиски исчерпались. Решения этих задач приводить не буду, чтобы не лишить читателя удовольствия найти варианты с жертвами самостоятельно. Не могу сказать, что этими задачами тема исчерпана. Лично меня на данный момент интересует следующий вопрос: может ли быть осуществлена жертва в трёх вариантах при одной фронтальной батарее?! Буду очень рад, если кто-нибудь мне сможет помочь найти ответ!
+
+\begin{center}
+\begin{diagram}%
+  \author{Вюрцбург, Отто}%
+  \source{The Pittsburgh Gazette Times}\day{25}\month{2}\year{1912}%
+  \pieces[11+8]{sSg8, wLa7, sBf7, wKa6, wTb6, wBc6, wBf6, wTa5, wLb5, wDc5, sBb4, sKe4, wSf4, sTb3, sBc3, sDd2, wSe2, wBg2, sSh2}%
+  \stipulation{\#3}%
+\end{diagram}%
+\end{center}\index{Вюрцбург Отто}
+\end{multicols}
+
+На форуме Mat Plus \cite{MatPlus} Майкл МакДауэлл привел позицию в которой ферзь жертвуется 5 раз! Задача представлена на диаграмме 53, вот её решение:
+
+\bold{1. c7} с двойной угрозой \bold{2.\queen{}e3+ / \queen{}e5+}\\
+\bold{1... \queen{}xf4 2.\queen{}d5+ \king{}xd5 3.\bishop{}d3\mate{}}\\
+\bold{1... c2 2.\queen{}e5+ \king{}xe5 3.\bishop{}d3\mate{}}\\
+\bold{1... \knight{}g4 2.\queen{}f5+ \king{}xf5 3.\bishop{}d3\mate{}}\\
+\bold{1... \queen{}xe2 2.\queen{}d4+ \king{}xd4 3.\rook{}e6\mate{}}\\
+\bold{1... \rook{}a3 2.\queen{}e3+ \king{}xe3 3.\rook{}e6\mate{}}

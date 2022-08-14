@@ -1,0 +1,354 @@
+\section{Теоретические позиции.}%
+
+Анализ соотношения сил ``Ладья и Слон против Ладьи'' имеет давнюю историю. Первый анализ данного окончания 
+был опубликован Франсуа-Анре Филидором ещё в 1749 году \{1\}. Позже к анализу присоединились Жамбатиста 
+Лолли (1763 год \{2\}), Кохрейн и другие. Уже в XXI веке, с появлением эндшпильных таблиц закрылись все 
+вопросы и стали понятны все тонкости, потому что для любой конкретной позиции компьютер даст точный ответ 
+на любой ход. Однако, до сих пор публикуются теоретические анализы данного соотношения сил. И связано это 
+с фактом, что шахматисту нужно понимать стратегию выигрыша / ничьей, так как он не в состоянии запомнить 
+все варианты.
+
+По статистике, чуть менее 59\% позиций являются ничейными. Это значит, что данный материал, не смотря на 
+ничейность, очень тяжело защищать. Поэтому важно знать основные теоретические позиции, чтобы уметь достигать 
+нужного результата. Для выигрышных позиций это, разумеется, позиция Филидора (Диаграмма \thediagramcounter).
+
+% new diagram
+\def \fen {4k3/3r4/4K3/4B3/8/8/8/2R5 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm} Филидор Франсуа \\
+	1749 \\
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+Небольшой анализ данной позиции показывает, что любая попытка поставить мат отбивается перекрытием ладьёй:
+\variation[invar, invar]{1. Rc8+  Rd8}, а промедление наталкивается на шахи \variation{1. Rh1  Re7+}. Первым делом необходимо выбить чёрную ладью с удобной горизонтали, что достигается в два хода: 
+
+\resumechessgame[id=game\thediagramcounter]
+\mainline[outvar, outvar]{1. Rc8+  Rd8 2. Rc7 Rd2}
+
+Самое упорное. Игра чёрной ладьи по восьмой горизонтали быстро проигрывает: \variation[invar, invar]{2... Ra8 3. Rh7} с очевидной победой. В случае \newchessgame[setfen=\fen, id=game\thediagramcounter-1]\hidemoves{1. Rc8+  Rd8 2. Rc7} 
+\mainline{2... Rd1} (Диаграмма \thediagramcounter{}a) победу гарантирует черное поле е1, так как в этом случае, в нужный момент, слон возбмёт его под контроль.
+
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber{}a\hspace{5mm} после 2... Rd1\\
+	\chessboard
+	\end{tabular}
+\end{center}
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {6k1/5r2/6K1/6B1/8/8/8/4R3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm} Лолли Жамбатиста \\ % author
+	Osservazioni Teorico-Pratiche, 1763 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+\mainline{1. Re8+ Rf8 2. Re7 Rc8}
+%(2... Rf3 $1 {<cook HC>}) (2... Rf2 $1 {<cook HC>}) (2... Rf1 $1 {<cook MF>} 3. Ra7 Rf3 4. Bf6 Rg3+ 5. Kf5 Rg2 6. Be5 Rc2 7. Rg7+ Kf8 8. Rd7 Kg8 9. Kf6 Rc6+ 10. Bd6 Rc1 $1 11. Rg7+ Kh8 12. Rg4 Rf1+ (12... Kh7 $2 13. Kf7 Kh6 14. Bf4+) 13. Bf4 Ra1 14. Be3 Rf1+ 15. Kg6 Kg8 16. Ra4 Rf7 17. Ra8+ Rf8 18. Ra2 Rf3 19. Bh6 Rg3+ 20. Bg5 Rf3 21. Bf6 Rg3+ 22. Kf5 Rg1 23. Rc2 Rb1 24. Bd4 Re1 $1) 
+\mainline{3. Re6 Rf8 4. Bh6 Rc8 5. Bc1 Kf8 6. Ba3+ Kg8 7. Rb6 Kh8 8. Be7 Rg8+ 9. Kh6 Re8 10. Rc6 Kg8 11. Kg6 Rb8 12. Rc5 Re8 13. Bf6 Kf8 14. Rh5} 1-0
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {7B/8/8/8/8/1K1R4/8/1k3r2 b - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter, moveid=1b]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm} Chapais \\ % author
+	Essais-analytiques sur les Echecs, 1780 \\ % additional
+	\chessboard \\
+	\bold{ход черных}
+	\end{tabular}
+\end{center}
+
+%solution
+\mainline{1... Rc1 2. Bb2 Rf1 3. Bf6} 
+
+Или 3. Be5 
+
+\mainline{3... Rc1 4. Bg5 Rf1 5. Rg3 Ka1 6. Bd2 Rb1+ 7. Ka3 Rd1 8. Rf3 Kb1 9. Kb3 Rg1 10. Rf2 Rg3+ 11. Bc3 Rg1 12. Ra2 $1}
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {6k1/8/3B2K1/8/8/6R1/5r2/8 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm} Клинг Иозеф, Kuiper=J \\ % author
+	Le Palamede, 1846 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+\mainline{1. Ra3 Rg2+ 2. Bg3 Kf8 3. Kf6 Kg8 4. Ra8+ Kh7 5. Ra7+ Kh6}
+
+\variation{5... Kg8 6. Rg7+ Kh8 7. Rg4 Ra2 8. Be5 Kh7 9. Rg7+ Kh8 10. Rg1 Kh7 11. Rh1+ Kg8 12. Bd4 Ra6+ 13. Ke7 Rh6 14. Rg1+ Kh7 15. Rg7+ Kh8 16. Rf7+ Kg8 17. Rf8+ Kh7 18. Kf7}
+
+\mainline{6. Rg7 Kh5 7. Rg5+ Kh6 8. Rg4 Kh7 9. Kf7 1-0}
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm} 6k1/R7/8/5K2/8/2B5/8/2r5 w - - 0 1 \\ % author
+	Le Palamede, 1846 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+\mainline{1. Rg7+ Kf8 2. Rc7 Rb1}
+
+\variation{2... Rf1+ 3. Ke6 Kg8 4. Rg7+ Kf8 5. Rg4 Rb1 6. Bb4+}
+
+\mainline{3. Bd4 Rd1 4. Be5 Rb1 5. Rd7 Kg8 6. Kf6 Rb6+ 7. Bd6 Rb8 8. Bc5 Rb3 9. Rg7+ Kh8 10. Rg1 Rf3+ 11. Kg6 Kg8 12. Rg4 Rc3 13. Bd6 Rc6 14. Kf6+ Kh7 15. Rg7+ Kh8 16. Rd7 Rc1 17. Be5 Rc6+ 18. Kf7+ Kh7 19. Rd8 Kh6 20. Bf6 Rc7+ 21. Be7 Kh7 22. Rd4 Rc6 23. Bd6 Kh6 24. Rd5 1-0}
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {3k4/8/1r1BK3/8/2R5/8/8/8 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm} Kling=J Kuiper=J \\ % author
+	Le Palamede, 1846 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+\mainline{1. Rc1}
+
+Возможно также \italic{1. Rc5} или \italic{1. Rc3}.
+
+\mainline{1... Ra6 2. Rh1 Kc8 3. Rb1 Ra8 4. Ke7 Ra7+ 5. Ke8 Ra8 6. Rb2 1-0}
+
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+% new diagram
+\stepcounter{diagramcounter}
+\def \fen {4k3/8/8/8/8/8/8/4K3 w - - 0 1}
+\newchessgame[setfen=\fen, id=game\thediagramcounter]
+\begin{center}
+	\begin{tabular}{ c }
+	\diagramnumber\hspace{5mm}  \\ % author
+	 \\ % additional
+	\chessboard \\
+	\bold{ход белых}
+	\end{tabular}
+\end{center}
+
+%solution
+
+
+\pagebreak
