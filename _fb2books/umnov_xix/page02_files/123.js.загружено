@@ -1,0 +1,18 @@
+$(document).ready(function() {
+  function HeightEqual(CLASS)
+    {
+  		$(CLASS).height('inherit');
+  		var max_h = 0;
+  		$(CLASS).each(function(i, obj) { // look for tallest obj 
+		  var h = $(obj).height(); // get height of current obj
+    	  if(h >= max_h)
+	 	    {max_h = h;}
+    	});
+  		$(CLASS).height(max_h);
+	  }
+
+  HeightEqual('.col');
+  $(window).resize(function(){
+    HeightEqual('.col');
+    });
+});
