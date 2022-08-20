@@ -1,0 +1,245 @@
+---
+algebraic:
+  black:
+  - Pg5
+  - Kd5
+  - Pe7
+  - Pd7
+  - Pc7
+  white:
+  - Pe2
+  - Pd3
+  - Kg4
+  - Ba4
+  - Qh6
+  - Sa6
+  - Se8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Rb1
+  - Pb2
+  - Pa3
+  - Sc4
+  - Pc5
+  - Kc6
+  - Pa7
+  - Sc8
+  white:
+  - Qh2
+  - Pe4
+  - Sf5
+  - Sd5
+  - Ba6
+  - Pc7
+  - Kd8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Bc3
+  - Kd5
+  - Sb5
+  - Pc7
+  white:
+  - Kg1
+  - Bg2
+  - Pf2
+  - Re4
+  - Pb4
+  - Pa5
+  - Rc6
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Bc1
+  - Ra1
+  - Pd2
+  - Kc2
+  - Pb2
+  - Pa2
+  white:
+  - Sf1
+  - Qg2
+  - Re3
+  - Ba3
+  - Sc4
+  - Ke6
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Bh1
+  - Pd3
+  - Sb3
+  - Kd5
+  - Sg8
+  - Bb8
+  white:
+  - Qc3
+  - Rb4
+  - Sa4
+  - Bb5
+  - Rb6
+  - Ka8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Bh1
+  - Rc1
+  - Pe3
+  - Sc4
+  - Kd5
+  - Rb5
+  - Pd6
+  - Bb6
+  - Pa7
+  white:
+  - Rh4
+  - Kh6
+  - Sg6
+  - Re6
+  - Sa6
+  - Qe8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Pe3
+  - Rd3
+  - Sb3
+  - Pc4
+  - Sb4
+  - Kd5
+  - Pf6
+  - Pe7
+  - Pd7
+  white:
+  - Se2
+  - Bc2
+  - Pf3
+  - Ba3
+  - Ra4
+  - Qf5
+  - Pe5
+  - Pc6
+  - Sa6
+  - Rc7
+  - Ka8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Sc3
+  - Pd4
+  - Ke5
+  - Sb5
+  - Pd7
+  - Ra7
+  white:
+  - Rg4
+  - Bh6
+  - Kg6
+  - Rf6
+  - Bg8
+  - Sd8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Rc3
+  - Sa3
+  - Kd4
+  - Sb5
+  - Pd7
+  - Pc7
+  - Bb8
+  - Ba8
+  white:
+  - Bf1
+  - Pb2
+  - Qh3
+  - Sg3
+  - Sf4
+  - Rh5
+  - Kh6
+  - Re7
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Qg1
+  - Ra1
+  - Pe2
+  - Pc2
+  - Pa2
+  - Pg3
+  - Pg4
+  - Kd4
+  - Pb5
+  - Bh7
+  - Sb7
+  white:
+  - Qd1
+  - Bg2
+  - Sd2
+  - Ra3
+  - Pf4
+  - Pe4
+  - Sc4
+  - Ka7
+  - Rc8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'

@@ -1,0 +1,221 @@
+---
+algebraic:
+  black:
+  - Sd4
+  - Ra4
+  - Pg5
+  - Ke5
+  - Bc8
+  - Sa8
+  white:
+  - Pf2
+  - Sd2
+  - Ph4
+  - Rg4
+  - Be4
+  - Pd5
+  - Qc5
+  - Kh8
+  - Sg8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Bd1
+  - Sh2
+  - Ke4
+  - Pe6
+  white:
+  - Qh1
+  - Rg2
+  - Bd2
+  - Rh3
+  - Kc5
+  - Sf7
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Pg6
+  - Ka6
+  - Rh7
+  white:
+  - Qb2
+  - Ka2
+  - Rb5
+  - Ba7
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kd5
+  - Sc5
+  white:
+  - Pe2
+  - Pa3
+  - Rf4
+  - Pe5
+  - Pf6
+  - Rc6
+  - Qh7
+  - Ka8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Rg4
+  - Pe4
+  - Kf5
+  - Pg6
+  - Pa6
+  - Pg7
+  white:
+  - Sf3
+  - Sh5
+  - Qb6
+  - Kc8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Ke6
+  - Pc6
+  - Sa8
+  white:
+  - Kc3
+  - Sh4
+  - Qg7
+  - Sc8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Se1
+  - Pf2
+  - Pc2
+  - Rb2
+  - Qb3
+  - Kd4
+  - Pa4
+  - Pb5
+  white:
+  - Kf1
+  - Pe2
+  - Sc3
+  - Rc5
+  - Bh6
+  - Qc8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Kd3
+  - Pe6
+  - Qd6
+  - Bg7
+  - Pc7
+  white:
+  - Rh2
+  - Pd2
+  - Sa3
+  - Re4
+  - Bc6
+  - Ka6
+  - Qd7
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Pe2
+  - Pd2
+  - Pe3
+  - Kd4
+  - Qb4
+  - Pa5
+  - Sa8
+  white:
+  - Sc1
+  - Sa2
+  - Ra4
+  - Rg5
+  - Kh6
+  - Be6
+  - Pd6
+  - Qd7
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
+---
+algebraic:
+  black:
+  - Pg2
+  - Qf2
+  - Sd2
+  - Bh3
+  - Pg3
+  - Kd4
+  - Rh5
+  - Ra5
+  - Ph6
+  - Pd6
+  - Pa6
+  white:
+  - Bg1
+  - Pb2
+  - Sc4
+  - Sb4
+  - Bd5
+  - Pf6
+  - Rc6
+  - Qg7
+  - Re7
+  - Kd8
+options:
+- NoThreat
+solution: ''
+source:
+  name: ''
+stipulation: '#2'
