@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+  <head>
+    <meta name="dtb:uid" content="1981072801"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.2.1)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Как составлять шахматные задачи</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>ОТ АВТОРА</text>
+      </navLabel>
+      <content src="from_author.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>I. ВВЕДЕНИЕ</text>
+      </navLabel>
+      <content src="0001.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>II.РАБОТА НАД ЗАДАЧЕЙ И ОСНОВНЫЕ ТЕХНИЧЕСКИЕ ПРИЕМЫ</text>
+      </navLabel>
+      <content src="0002.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>III. ВЫВЕРКА ЗАДАЧИ И ВЫБОР ВСТУПИТЕЛЬНОГО ХОДА</text>
+      </navLabel>
+      <content src="0003.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>IV. ПРИМЕРЫ ПОСТРОЕНИЯ ЗАДАЧИ</text>
+      </navLabel>
+      <content src="0004.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>V. ВСЕСТОРОННЕЕ ИСПОЛЬЗОВАНИЕ ТЕМЫ</text>
+      </navLabel>
+      <content src="0005.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>VI. ГДЕ ИСКАТЬ НОВЫЕ ТЕМЫ?</text>
+      </navLabel>
+      <content src="0006.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>VII. ОПУБЛИКОВАНИЕ ЗАДАЧИ И ПОСЫЛКА НА КОНКУРСЫ</text>
+      </navLabel>
+      <content src="0007.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>УКАЗАТЕЛЬ ТЕРМИНОВ</text>
+      </navLabel>
+      <content src="terms.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

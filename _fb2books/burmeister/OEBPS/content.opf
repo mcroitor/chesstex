@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="main">Шахматная задача</dc:title>
+    <dc:creator id="author">Бурмейстер, А. М.</dc:creator>
+    <dc:language>ru-RU</dc:language>
+    <dc:date>2022-09-11T14:00:00Z</dc:date>
+    <dc:subject>хобби / шахматы / шахматная композиция</dc:subject>
+    <dc:publisher>Sweet Home</dc:publisher>
+    <dc:rights>GPL</dc:rights>
+    <dc:description/>
+    <dc:identifier id="bookid">1981072802</dc:identifier>
+    <meta property="title-type" refines="#main">main</meta>
+    <meta property="title-type" refines="#edition">edition</meta>
+    <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+    <meta property="dcterms:modified">2022-09-14T06:21:19Z</meta>
+    <meta name="cover" content="images/cover.png"/>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="p0001.xhtml" id="Chapter_1" media-type="application/xhtml+xml"/>
+    <item href="p0002.xhtml" id="Chapter_2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/style.css" id="style.css" media-type="text/css"/>
+    <item href="images/cover.png" id="cover.png" media-type="image/png" properties="cover-image"/>
+    <item href="images/image001.png" id="image001.png" media-type="image/png"/>
+    <item href="images/image002.png" id="image002.png" media-type="image/png"/>
+    <item href="images/image003.png" id="image003.png" media-type="image/png"/>
+    <item href="images/image004.png" id="image004.png" media-type="image/png"/>
+    <item href="images/image005.png" id="image005.png" media-type="image/png"/>
+    <item href="images/image006.png" id="image006.png" media-type="image/png"/>
+    <item href="images/image007.png" id="image007.png" media-type="image/png"/>
+    <item href="images/image008.png" id="image008.png" media-type="image/png"/>
+    <item href="images/image009.png" id="image009.png" media-type="image/png"/>
+    <item id="id1" href="fonts/merida.ttf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="toc"/>
+    <itemref idref="Chapter_1"/>
+    <itemref idref="Chapter_2"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" title="Cover" type="cover"/>
+    <reference type="toc" title="Оглавление" href="toc.xhtml#calibre_generated_inline_toc"/>
+  </guide>
+</package>

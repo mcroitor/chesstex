@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Chess Merida";
+  src: url(../fonts/merida.ttf) format("truetype"), url(../fonts/merida.woff2) format("woff2");
+  font-weight: normal;
+}
+body {
+  line-height: 1.2;
+}
+body * {
+  line-height: inherit;
+}
+p {
+  text-align: justify;
+  text-indent: 2em;
+}
+p.solution {
+  text-indent: -2em;
+  padding-left: 4em;
+}
+.concept {
+  font-weight: bold;
+}
+.definition {
+  padding-left: 1em;
+}
+.chess-piece {
+  font-family: "Chess Merida";
+}
+.chess-problem {
+  display: block;
+  width: fit-content;
+  text-align: center;
+  margin: 0 auto;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+.chess-diagram {
+  display: block;
+  font-family: "Chess Merida";
+  font-size: 1.5em;
+  line-height: 100%;
+  margin:0px;
+}
+.chess-problem .problem-title {
+  margin: 0;
+  font-weight: bold;
+}
