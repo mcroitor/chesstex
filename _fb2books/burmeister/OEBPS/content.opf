@@ -13,31 +13,154 @@
     <meta property="title-type" refines="#main">main</meta>
     <meta property="title-type" refines="#edition">edition</meta>
     <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-    <meta property="dcterms:modified">2022-09-14T06:21:19Z</meta>
+    <meta property="dcterms:modified">2022-09-11T15:44:52Z</meta>
     <meta name="cover" content="images/cover.png"/>
   </metadata>
   <manifest>
     <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
-    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml"/>
-    <item href="p0001.xhtml" id="Chapter_1" media-type="application/xhtml+xml"/>
-    <item href="p0002.xhtml" id="Chapter_2" media-type="application/xhtml+xml"/>
+    <item href="p001.xhtml" id="Chapter_1" media-type="application/xhtml+xml"/>
+    <item href="p002.xhtml" id="Chapter_2" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="css/style.css" id="style.css" media-type="text/css"/>
     <item href="images/cover.png" id="cover.png" media-type="image/png" properties="cover-image"/>
-    <item href="images/image001.png" id="image001.png" media-type="image/png"/>
-    <item href="images/image002.png" id="image002.png" media-type="image/png"/>
-    <item href="images/image003.png" id="image003.png" media-type="image/png"/>
-    <item href="images/image004.png" id="image004.png" media-type="image/png"/>
-    <item href="images/image005.png" id="image005.png" media-type="image/png"/>
-    <item href="images/image006.png" id="image006.png" media-type="image/png"/>
-    <item href="images/image007.png" id="image007.png" media-type="image/png"/>
-    <item href="images/image008.png" id="image008.png" media-type="image/png"/>
-    <item href="images/image009.png" id="image009.png" media-type="image/png"/>
+    <item href="images/diagram001.png" id="image001.png" media-type="image/png"/>
+    <item href="images/diagram002.png" id="image002.png" media-type="image/png"/>
+    <item href="images/diagram003.png" id="image003.png" media-type="image/png"/>
+    <item href="images/diagram004.png" id="image004.png" media-type="image/png"/>
+    <item href="images/diagram005.png" id="image005.png" media-type="image/png"/>
+    <item href="images/diagram006.png" id="image006.png" media-type="image/png"/>
+    <item href="images/diagram007.png" id="image007.png" media-type="image/png"/>
+    <item href="images/diagram008.png" id="image008.png" media-type="image/png"/>
+    <item href="images/diagram009.png" id="image009.png" media-type="image/png"/>
     <item id="id1" href="fonts/merida.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id" href="images/diagram010.png" media-type="image/png"/>
+    <item id="id2" href="images/diagram011.png" media-type="image/png"/>
+    <item id="id3" href="images/diagram012.png" media-type="image/png"/>
+    <item id="id4" href="images/diagram013.png" media-type="image/png"/>
+    <item id="id5" href="images/diagram014.png" media-type="image/png"/>
+    <item id="id6" href="images/diagram015.png" media-type="image/png"/>
+    <item id="id7" href="images/diagram016.png" media-type="image/png"/>
+    <item id="id8" href="images/diagram017.png" media-type="image/png"/>
+    <item id="id9" href="images/diagram018.png" media-type="image/png"/>
+    <item id="id10" href="images/diagram019.png" media-type="image/png"/>
+    <item id="id11" href="images/diagram020.png" media-type="image/png"/>
+    <item id="id12" href="images/diagram021.png" media-type="image/png"/>
+    <item id="id13" href="images/diagram022.png" media-type="image/png"/>
+    <item id="id14" href="images/diagram023.png" media-type="image/png"/>
+    <item id="id15" href="images/diagram024.png" media-type="image/png"/>
+    <item id="id16" href="images/diagram025.png" media-type="image/png"/>
+    <item id="id17" href="images/diagram026.png" media-type="image/png"/>
+    <item id="id18" href="images/diagram027.png" media-type="image/png"/>
+    <item id="id19" href="images/diagram028.png" media-type="image/png"/>
+    <item id="id20" href="images/diagram029.png" media-type="image/png"/>
+    <item id="id21" href="images/diagram030.png" media-type="image/png"/>
+    <item id="id22" href="images/diagram031.png" media-type="image/png"/>
+    <item id="id23" href="images/diagram032.png" media-type="image/png"/>
+    <item id="id24" href="images/diagram033.png" media-type="image/png"/>
+    <item id="id25" href="images/diagram034.png" media-type="image/png"/>
+    <item id="id26" href="images/diagram035.png" media-type="image/png"/>
+    <item id="id27" href="images/diagram036.png" media-type="image/png"/>
+    <item id="id28" href="images/diagram037.png" media-type="image/png"/>
+    <item id="id29" href="images/diagram038.png" media-type="image/png"/>
+    <item id="id30" href="images/diagram039.png" media-type="image/png"/>
+    <item id="id31" href="images/diagram040.png" media-type="image/png"/>
+    <item id="id32" href="images/diagram041.png" media-type="image/png"/>
+    <item id="id33" href="images/diagram042.png" media-type="image/png"/>
+    <item id="id34" href="images/diagram043.png" media-type="image/png"/>
+    <item id="id35" href="images/diagram044.png" media-type="image/png"/>
+    <item id="id36" href="images/diagram045.png" media-type="image/png"/>
+    <item id="id37" href="images/diagram046.png" media-type="image/png"/>
+    <item id="id38" href="images/diagram047.png" media-type="image/png"/>
+    <item id="id39" href="images/diagram048.png" media-type="image/png"/>
+    <item id="id40" href="images/diagram049.png" media-type="image/png"/>
+    <item id="id41" href="images/diagram050.png" media-type="image/png"/>
+    <item id="id42" href="images/diagram051.png" media-type="image/png"/>
+    <item id="id43" href="images/diagram052.png" media-type="image/png"/>
+    <item id="id44" href="images/diagram053.png" media-type="image/png"/>
+    <item id="id45" href="images/diagram054.png" media-type="image/png"/>
+    <item id="id46" href="images/diagram055.png" media-type="image/png"/>
+    <item id="id47" href="images/diagram056.png" media-type="image/png"/>
+    <item id="id48" href="images/diagram057.png" media-type="image/png"/>
+    <item id="id49" href="images/diagram058.png" media-type="image/png"/>
+    <item id="id50" href="images/diagram059.png" media-type="image/png"/>
+    <item id="id51" href="images/diagram060.png" media-type="image/png"/>
+    <item id="id52" href="images/diagram061.png" media-type="image/png"/>
+    <item id="id53" href="images/diagram062.png" media-type="image/png"/>
+    <item id="id54" href="images/diagram063.png" media-type="image/png"/>
+    <item id="id55" href="images/diagram064.png" media-type="image/png"/>
+    <item id="id56" href="images/diagram065.png" media-type="image/png"/>
+    <item id="id57" href="images/diagram066.png" media-type="image/png"/>
+    <item id="id58" href="images/diagram067.png" media-type="image/png"/>
+    <item id="id59" href="images/diagram068.png" media-type="image/png"/>
+    <item id="id60" href="images/diagram069.png" media-type="image/png"/>
+    <item id="id61" href="images/diagram070.png" media-type="image/png"/>
+    <item id="id62" href="images/diagram071.png" media-type="image/png"/>
+    <item id="id63" href="images/diagram072.png" media-type="image/png"/>
+    <item id="id64" href="images/diagram073.png" media-type="image/png"/>
+    <item id="id65" href="images/diagram074.png" media-type="image/png"/>
+    <item id="id66" href="images/diagram075.png" media-type="image/png"/>
+    <item id="id67" href="images/diagram076.png" media-type="image/png"/>
+    <item id="id68" href="images/diagram077.png" media-type="image/png"/>
+    <item id="id69" href="images/diagram078.png" media-type="image/png"/>
+    <item id="id70" href="images/diagram079.png" media-type="image/png"/>
+    <item id="id71" href="images/diagram080.png" media-type="image/png"/>
+    <item id="id72" href="images/diagram081.png" media-type="image/png"/>
+    <item id="id73" href="images/diagram082.png" media-type="image/png"/>
+    <item id="id74" href="images/diagram083.png" media-type="image/png"/>
+    <item id="id75" href="images/diagram084.png" media-type="image/png"/>
+    <item id="id76" href="images/diagram085.png" media-type="image/png"/>
+    <item id="id77" href="images/diagram086.png" media-type="image/png"/>
+    <item id="id78" href="images/diagram087.png" media-type="image/png"/>
+    <item id="id79" href="images/diagram088.png" media-type="image/png"/>
+    <item id="id80" href="images/diagram089.png" media-type="image/png"/>
+    <item id="id81" href="images/diagram090.png" media-type="image/png"/>
+    <item id="id82" href="images/diagram091.png" media-type="image/png"/>
+    <item id="id83" href="images/diagram092.png" media-type="image/png"/>
+    <item id="id84" href="images/diagram093.png" media-type="image/png"/>
+    <item id="id85" href="images/diagram094.png" media-type="image/png"/>
+    <item id="id86" href="images/diagram095.png" media-type="image/png"/>
+    <item id="id87" href="images/diagram096.png" media-type="image/png"/>
+    <item id="id88" href="images/diagram097.png" media-type="image/png"/>
+    <item id="id89" href="images/diagram098.png" media-type="image/png"/>
+    <item id="id90" href="images/diagram099.png" media-type="image/png"/>
+    <item id="id91" href="images/diagram100.png" media-type="image/png"/>
+    <item id="id92" href="images/diagram101.png" media-type="image/png"/>
+    <item id="id93" href="images/diagram102.png" media-type="image/png"/>
+    <item id="id94" href="images/diagram103.png" media-type="image/png"/>
+    <item id="id95" href="images/diagram104.png" media-type="image/png"/>
+    <item id="id96" href="images/diagram105.png" media-type="image/png"/>
+    <item id="id97" href="images/diagram106.png" media-type="image/png"/>
+    <item id="id98" href="images/diagram107.png" media-type="image/png"/>
+    <item id="id99" href="images/diagram108.png" media-type="image/png"/>
+    <item id="id100" href="images/diagram109.png" media-type="image/png"/>
+    <item id="id101" href="images/diagram110.png" media-type="image/png"/>
+    <item id="id102" href="images/diagram111.png" media-type="image/png"/>
+    <item id="id103" href="images/diagram112.png" media-type="image/png"/>
+    <item id="id104" href="images/diagram113.png" media-type="image/png"/>
+    <item id="id105" href="images/diagram114.png" media-type="image/png"/>
+    <item id="id106" href="images/diagram115.png" media-type="image/png"/>
+    <item id="id107" href="images/diagram116.png" media-type="image/png"/>
+    <item id="id108" href="images/diagram117.png" media-type="image/png"/>
+    <item id="id109" href="images/diagram118.png" media-type="image/png"/>
+    <item id="id110" href="images/diagram119.png" media-type="image/png"/>
+    <item id="id111" href="images/diagram120.png" media-type="image/png"/>
+    <item id="id112" href="images/diagram121.png" media-type="image/png"/>
+    <item id="id113" href="images/diagram122.png" media-type="image/png"/>
+    <item id="id114" href="images/diagram123.png" media-type="image/png"/>
+    <item id="id115" href="images/diagram124.png" media-type="image/png"/>
+    <item id="id116" href="images/diagram125.png" media-type="image/png"/>
+    <item id="id117" href="images/diagram126.png" media-type="image/png"/>
+    <item id="id118" href="images/diagram127.png" media-type="image/png"/>
+    <item id="id119" href="images/diagram128.png" media-type="image/png"/>
+    <item id="id120" href="images/diagram129.png" media-type="image/png"/>
+    <item id="id121" href="images/diagram130.png" media-type="image/png"/>
+    <item id="id122" href="images/diagram131.png" media-type="image/png"/>
+    <item id="id123" href="images/diagram132.png" media-type="image/png"/>
+    <item id="id124" href="toc.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
+    <itemref idref="id124"/>
     <itemref idref="cover"/>
-    <itemref idref="toc"/>
     <itemref idref="Chapter_1"/>
     <itemref idref="Chapter_2"/>
   </spine>

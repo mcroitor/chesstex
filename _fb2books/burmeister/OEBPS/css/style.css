@@ -17,6 +17,9 @@ p.solution {
   text-indent: -2em;
   padding-left: 4em;
 }
+p.comment {
+  font-style: italic;
+}
 .concept {
   font-weight: bold;
 }
